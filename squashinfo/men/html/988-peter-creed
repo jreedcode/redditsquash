@@ -1,0 +1,1177 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+
+	<meta charset='utf-8' />
+	<meta name='author' content='Squash Info' />
+	<meta name='keywords' content='squash information rankings psa wsa wispa results events players' />
+
+	<link rel='shortcut icon' href='/favicon.ico' type='image/x-icon' />
+	<script src='https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js'></script>
+	<script src='https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js'></script>
+	<link rel='stylesheet' href='https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/themes/smoothness/jquery-ui.css'>
+	<script src='/js/jquery.timeago.js'></script>
+	<script src='/js/jquery.unveil.min.js'></script>
+	<script src='/js/jquery.leanModal.ch.1461605769.js'></script>
+	<script src='/js/jquery.tokeninput.js'></script>
+	<link rel='stylesheet' href='/css/token-input.css'>
+	<script src='http://platform.twitter.com/widgets.js'></script>
+	<script src='https://apis.google.com/js/platform.js'></script>
+	<script src='/js/jquery.cookiebar.js'></script>
+	<link rel='stylesheet' href='/css/jquery.cookiebar.1444581949.css'>
+	<script src='https://www.gstatic.com/charts/loader.js'></script>
+	<script async src='//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js'></script>
+	<script src='/js/main.1461605758.js'></script>
+	<link rel='stylesheet' href='/css/main.1487399333.css'>
+
+	<title>Squash Info | Peter Creed | Squash</title>
+
+</head>
+<body onload="">
+
+<div id='fb-root'></div>
+<script>!function(e,n,t){var o,c=e.getElementsByTagName(n)[0];e.getElementById(t)||(o=e.createElement(n),o.id=t,o.src='//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.5',c.parentNode.insertBefore(o,c))}(document,'script','facebook-jssdk');</script>
+<script type='text/javascript'>
+	
+	$(document).ready(function() {
+		
+		$.cookieBar({});
+		
+		$('.logout').click(function(event) {
+			
+			if (!confirm('Are you sure you want to log out?')) {
+				event.preventDefault();
+			}
+			
+		});
+		
+	});
+	
+</script>
+<div id='centre_body'>
+
+<div id='header'>
+	<ul id='header_left'>
+		<li id='header_logo' class='li_left'>
+			<a href='/'><img src='/img/logos/si_logo.png' alt='Squash Info, the definitive squash resource' style='vertical-align: middle;' /></a>
+		</li>
+	</ul>
+	<ul id='header_right'>
+		<li id='header_search' class='li_right'>
+			<form id='header_search_form' method='get' action='/search'>
+				<input type='text' name='q' id='q' value='' size='20' maxlength='30' placeholder='Search...' />
+				<input type='submit' value='Go' />
+			</form>
+		</li>
+		<li id='header_signup' class='li_right'><a href='/signup'>Sign Up</a></li>
+		<li id='header_login' class='li_right'>
+			<a rel='leanModal' data-url='%2Fplayers%2F988-peter-creed' href='/login'>Log In</a>
+		</li>
+	</ul>
+</div>
+
+<div id='login_box'>
+	<iframe id='login_iframe' src='/loading.htm' scrolling='no' seamless></iframe>
+</div>
+
+<div id='main_block'>
+
+<div id='left_bar'>
+	<div id='current_date_time'>5:09 pm <br />4 Apr 2017</div>
+	<ul id='navlist'>
+		<li><a href='/' title='Home'>Home</a></li>
+		<li><a href='/news' title='Squash News'>News</a></li>
+		<li><a href='/results' title='Squash Event Results'>Results</a></li>
+		<li><a href='/rankings' title='PSA World Squash Rankings'>Rankings</a></li>
+		<li><a href='/calendar/2017' title='Squash Event Calendar'>Calendar</a></li>
+		<li><a href='/records' title='Squash Records &amp; Statistics'>Records</a></li>
+	</ul>
+</div>
+
+
+<div id='content'>
+
+	<div class='ad_bar_top'>
+		<!-- index -->
+		<ins class='adsbygoogle'
+		     style='display:inline-block;width:728px;height:90px'
+		     data-ad-client='ca-pub-0605489790642236'
+		     data-ad-slot='9600788702'></ins>
+		<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+	</div>
+
+	<h1>
+		Peter Creed <span style='color:#444444;'>(Wales)</span>
+	</h1>
+	<ul id='social_media'>
+		<li id='sm_twitter'>
+			<a href='https://twitter.com/@pvdcreed' class='twitter-follow-button' data-show-count='false'>Follow @pvdcreed</a>
+		</li>
+	</ul>
+	<div>
+	<h3>
+		Statistics:&nbsp;&nbsp;
+			<a href='/rankings/988-peter-creed'>Ranking History</a>
+			<br />
+	</h3>
+		</div>
+	<div class='content_column'>
+		<div id='world_ranking_box'>
+			<div id='world_ranking'>65</div>
+			<strong>PSA Ranking</strong>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Born:</span>
+			<span>31 Mar 1987 (age 30)</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Gender:</span>
+			<span>Male</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Birthplace:</span>
+			<span>Caerphilly</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Residence:</span>
+			<span>The Hague, Netherlands</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Height:</span>
+			<span>168cm (5 ft 6 in)</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Weight:</span>
+			<span>60kg (9 st 6 lb)</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Plays:</span>
+			<span>Right-handed</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Joined PSA:</span>
+			<span>2007</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Coach:</span>
+			<span>David Evans</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Highest WR:</span>
+			<span>65 (Mar 2013)</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Club:</span>
+			<span>Rhwbina CSC, Exeter Diamonds</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>County:</span>
+			<span>Wales</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Racket:</span>
+			<span>Head</span>
+		</div>
+	</div>
+
+	<div class='clear' style='padding-bottom:20px'></div>
+	<div class='tabletitle'>Career Highlights</div>
+	<div class='darkborder'>
+		<table style='width:100%' cellpadding='2' cellspacing='0' border='0'>
+			<tr class='darkline'>
+				<td style='width:10%' valign='top'>Jan 2017</td>
+				<td style='width:85%'>Wins 7th <a href='/events/6935-mens-welsh-nationals-2017'>Welsh Nationals</a> title</td>
+				<td style='width:5%'>&nbsp;</td>
+			</tr>
+			<tr class='lightline'>
+				<td style='width:10%' valign='top'>Jan 2015</td>
+				<td style='width:85%'>Wins 6th successive <a href='/events/5992-mens-welsh-nationals-2015'>Welsh Nationals</a> title</td>
+				<td style='width:5%'>&nbsp;</td>
+			</tr>
+			<tr class='darkline'>
+				<td style='width:10%' valign='top'>Jan 2014</td>
+				<td style='width:85%'>wins 5th successive <a href='/events/5618-mens-welsh-nationals-2014'>Welsh Nationals</a> title</td>
+				<td style='width:5%'>&nbsp;</td>
+			</tr>
+			<tr class='lightline'>
+				<td style='width:10%' valign='top'>Jan 2013</td>
+				<td style='width:85%'>Wins 4th successive <a href='/events/5205-mens-welsh-nationals-2013'>Welsh Nationals</a> title</td>
+				<td style='width:5%'>&nbsp;</td>
+			</tr>
+			<tr class='darkline'>
+				<td style='width:10%' valign='top'>Jan 2012</td>
+				<td style='width:85%'>Wins 3rd successive <a href='/events/4821-mens-welsh-nationals-2012'>Welsh Nationals</a> title</td>
+				<td style='width:5%'>&nbsp;</td>
+			</tr>
+		</table>
+	</div>
+
+	<div class='tabletitle' id='news_mentions'>News</div>
+	<div class='darkborder'>
+		<table style='width:100%' cellpadding='2' cellspacing='0' border='0'>
+			<tr class='darkline'>
+				<td style='width:10%' valign='top'>29 Jul 2016</td>
+				<td style='width:90%'><a href='/news/6808-hosts-australia-seeded-for-double-gold-in-darwin-world-doubles'>Hosts Australia Seeded For Double Gold In Darwin World Doubles</a></td>
+			</tr>
+			<tr class='lightline'>
+				<td style='width:10%' valign='top'>28 Jun 2015</td>
+				<td style='width:90%'><a href='/news/6645-creed-retains-bvi-title'>Creed Retains BVI Title</a></td>
+			</tr>
+			<tr class='darkline'>
+				<td style='width:10%' valign='top'>20 Apr 2015</td>
+				<td style='width:90%'><a href='/news/6577-creed-celebrates-salzburg-success'>Creed Celebrates Salzburg Success</a></td>
+			</tr>
+			<tr class='lightline'>
+				<td style='width:10%' valign='top'>2 Aug 2014</td>
+				<td style='width:90%'><a href='/news/6235-chinappa-pallikal-guarantee-indias-first-commonwealth-games-medal'>Chinappa &amp; Pallikal Guarantee India&#039;s First Commonwealth Games Medal</a></td>
+			</tr>
+			<tr class='darkline'>
+				<td style='width:10%' valign='top'>31 Jul 2014</td>
+				<td style='width:90%'><a href='/news/6232-england-australia-hopes-alive-in-all-three-doubles-events-in-glasgow'>England &amp; Australia Hopes Alive In All Three Doubles Events In Glasgow</a></td>
+			</tr>
+		</table>
+	</div>
+
+	<div id='upcoming_events' class='tabletitle'>Upcoming Events</div>
+	<div class='darkborder'>
+		<div class='one_entry'>None</div>
+	</div>
+
+	<div class='tabletitle'>Event Summary (29)</div>
+	<div class='darkborder'>
+		<table style='width:100%;' cellpadding='2' cellspacing='0' border='0'>
+			<thead>
+				<tr>
+					<th scope='col' style='width:10%'>Date</th>
+					<th scope='col' style='width:10%'>Seeding</th>
+					<th scope='col' style='width:35%'>Event</th>
+					<th scope='col' style='width:5%'>Ctry</th>
+					<th scope='col' style='width:20%'>Tour</th>
+					<th scope='col' style='width:20%'>Round Reached</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr class='darkline'>
+					<td>Mar 2017</td>
+					<td>-</td>
+					<td><a href='/events/6800-premier-league-2017'>Premier League 9th Round</a></td>
+					<td>ENG</td>
+					<td>-</td>
+					<td>-</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Mar 2017</td>
+					<td>-</td>
+					<td><a href='/events/6908-mens-windy-city-open-2017'>Windy City Open</a></td>
+					<td>USA</td>
+					<td>PSA World Series</td>
+					<td>1st qualifying round</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Feb 2017</td>
+					<td>[<abbr title='Qualifier'>Q</abbr>]</td>
+					<td><a href='/events/6942-mens-pittsburgh-open-2017'>Pittsburgh Open</a></td>
+					<td>USA</td>
+					<td>PSA Tour</td>
+					<td>Quarter-finals</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Jan 2017</td>
+					<td>-</td>
+					<td><a href='/events/6800-premier-league-2017'>Premier League 6th Round</a></td>
+					<td>ENG</td>
+					<td>-</td>
+					<td>-</td>
+				</tr>
+				<tr class='darkline b'>
+					<td>Jan 2017</td>
+					<td>[2]</td>
+					<td><a href='/events/6935-mens-welsh-nationals-2017'>Welsh Nationals</a></td>
+					<td>WAL</td>
+					<td>-</td>
+					<td>Winner</td>
+				</tr>
+				<tr class='lightline'>
+					<td class='topborder'>Dec 2016</td>
+					<td class='topborder'>-</td>
+					<td class='topborder'><a href='/events/6800-premier-league-2017'>Premier League 5th Round</a></td>
+					<td class='topborder'>ENG</td>
+					<td class='topborder'>-</td>
+					<td class='topborder'>-</td>
+				</tr>
+				<tr class='darkline b'>
+					<td>Dec 2016</td>
+					<td>[2]</td>
+					<td><a href='/events/6868-mens-florida-state-open-2016'>Florida State Open</a></td>
+					<td>USA</td>
+					<td>PSA Tour</td>
+					<td>Winner</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Dec 2016</td>
+					<td>[4]</td>
+					<td><a href='/events/6853-mens-london-open-2016'>London Open</a></td>
+					<td>ENG</td>
+					<td>PSA Tour</td>
+					<td>Quarter-finals</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Nov 2016</td>
+					<td>-</td>
+					<td><a href='/events/6800-premier-league-2017'>Premier League 4th Round</a></td>
+					<td>ENG</td>
+					<td>-</td>
+					<td>-</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Nov 2016</td>
+					<td>-</td>
+					<td><a href='/events/6800-premier-league-2017'>Premier League 3rd Round</a></td>
+					<td>ENG</td>
+					<td>-</td>
+					<td>-</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Nov 2016</td>
+					<td>[5]</td>
+					<td><a href='/events/6841-mens-saskatoon-boast-open-2016'>Saskatoon Boast Open</a></td>
+					<td>CAN</td>
+					<td>PSA Tour</td>
+					<td>Runner-up</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Nov 2016</td>
+					<td>[4]</td>
+					<td><a href='/events/6840-mens-goodlife-open-2016'>GoodLife Open</a></td>
+					<td>CAN</td>
+					<td>PSA Tour</td>
+					<td>Semi-finals</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Nov 2016</td>
+					<td>[<abbr title='Qualifier'>Q</abbr>]</td>
+					<td><a href='/events/6805-mens-world-championship-2016'>World Championship</a></td>
+					<td>EGY</td>
+					<td>PSA World Series</td>
+					<td>1st round</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Oct 2016</td>
+					<td>[7]</td>
+					<td><a href='/events/6799-mens-cns-international-2016'>CNS International</a></td>
+					<td>PAK</td>
+					<td>PSA Tour</td>
+					<td>Quarter-finals</td>
+				</tr>
+				<tr class='darkline b'>
+					<td>Oct 2016</td>
+					<td>[2]</td>
+					<td><a href='/events/6787-mens-charing-cross-classic-2016'>Charing Cross Classic</a></td>
+					<td>ENG</td>
+					<td>PSA Tour</td>
+					<td>Winner</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Aug 2016</td>
+					<td>[7]</td>
+					<td><a href='/events/6492-mens-world-doubles-championship-2016'>World Doubles Championship</a></td>
+					<td>AUS</td>
+					<td>-</td>
+					<td>Fifth place play-off</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Aug 2016</td>
+					<td>-</td>
+					<td><a href='/events/6494-mixed-world-doubles-championship-2016'>World Doubles Championship</a></td>
+					<td>AUS</td>
+					<td>-</td>
+					<td>5th - 8th place play-offs</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Jun 2016</td>
+					<td>[5]</td>
+					<td><a href='/events/6668-mens-nz-southern-open-2016'>NZ Southern Open</a></td>
+					<td>NZL</td>
+					<td>PSA Tour</td>
+					<td>Quarter-finals</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Jun 2016</td>
+					<td>[4]</td>
+					<td><a href='/events/6664-mens-christchurch-international-open-2016'>Christchurch International Open</a></td>
+					<td>NZL</td>
+					<td>PSA Tour</td>
+					<td>Semi-finals</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Jun 2016</td>
+					<td>[5]</td>
+					<td><a href='/events/6661-mens-new-zealand-international-classic-2016'>New Zealand International Classic</a></td>
+					<td>NZL</td>
+					<td>PSA Tour</td>
+					<td>Quarter-finals</td>
+				</tr>
+				<tr class='darkline'>
+					<td>May 2016</td>
+					<td>[4]</td>
+					<td><a href='/events/6650-mens-kent-open-2016'>Kent Open</a></td>
+					<td>ENG</td>
+					<td>PSA Tour</td>
+					<td>Semi-finals</td>
+				</tr>
+				<tr class='lightline'>
+					<td>May 2016</td>
+					<td>[4]</td>
+					<td><a href='/events/6644-mens-stortford-classic-2016'>Stortford Classic</a></td>
+					<td>ENG</td>
+					<td>PSA Tour</td>
+					<td>Semi-finals</td>
+				</tr>
+				<tr class='darkline'>
+					<td>May 2016</td>
+					<td>-</td>
+					<td><a href='/events/6587-mens-european-team-championship-division-2-2016'>European Team Championship (Division 2)</a></td>
+					<td>POL</td>
+					<td>-</td>
+					<td>-</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Apr 2016</td>
+					<td>-</td>
+					<td><a href='/events/6334-premier-league-2016'>Premier League 10th Round</a></td>
+					<td>ENG</td>
+					<td>-</td>
+					<td>-</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Apr 2016</td>
+					<td>[3]</td>
+					<td><a href='/events/6582-mens-spring-classic-2016'>Spring Classic</a></td>
+					<td>USA</td>
+					<td>PSA Tour</td>
+					<td>Quarter-finals</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Mar 2016</td>
+					<td>-</td>
+					<td><a href='/events/6334-premier-league-2016'>Premier League 9th Round</a></td>
+					<td>ENG</td>
+					<td>-</td>
+					<td>-</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Mar 2016</td>
+					<td>-</td>
+					<td><a href='/events/6557-mens-wimbledon-club-open-2016'>Wimbledon Club Open</a></td>
+					<td>ENG</td>
+					<td>PSA Tour</td>
+					<td>Qualifying finals</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Feb 2016</td>
+					<td>[8]</td>
+					<td><a href='/events/6491-mens-cactus-classic-2016'>Cactus Classic</a></td>
+					<td>USA</td>
+					<td>PSA Tour</td>
+					<td>1st round</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Feb 2016</td>
+					<td>-</td>
+					<td><a href='/events/6484-mens-swedish-open-2016'>Swedish Open</a></td>
+					<td>SWE</td>
+					<td>PSA Tour</td>
+					<td>1st qualifying round</td>
+				</tr>
+				<tr class='subscriber_line'>
+					<td class='topborder'><strong>2002-2015</strong></td>
+					<td class='topborder'><strong>195 events</strong></td>
+					<td class='topborder' colspan='4'>View full historical event history by <a href='/upgrade'>creating</a> a premium account!</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+
+	<div id='match_summary' class='tabletitle'>Match Summary (Played 61 - Won 41, Lost 20)</div>
+	<div class='darkborder'>
+		<table id='match_summary_table' style='width:100%;' cellpadding='2' cellspacing='0' border='0'>
+			<thead>
+				<tr>
+					<th scope='col' style='width:10%'>Date</th>
+					<th scope='col' style='width:17%'>Opponent</th>
+					<th scope='col' style='width:4%'>W/L</th>
+					<th scope='col' style='width:25%'>Event</th>
+					<th scope='col' style='width:5%'>Ctry</th>
+					<th scope='col' style='width:3%'>Rnd</th>
+					<th scope='col' style='width:32%'>Score</th>
+					<th scope='col' style='width:4%'>PSA</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr class='darkline'>
+					<td>Mar 2017</td>
+					<td><a href='/players/3361-evan-williams'>Evan Williams</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6800-premier-league-2017'>Premier League 9th Round</a></td>
+					<td>ENG</td>
+					<td><abbr title='-'>-</abbr></td>
+					<td>12-10, 11-7, 11-8</td>
+					<td>N</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Mar 2017</td>
+					<td><a href='/players/24-olli-tuominen'>Olli Tuominen</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6908-mens-windy-city-open-2017'>Windy City Open</a></td>
+					<td>USA</td>
+					<td><abbr title='1st qualifying round'>Q</abbr></td>
+					<td>11-8, 9-11, 7-11, 11-1, 8-11 (63m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Feb 2017</td>
+					<td><a href='/players/1608-ivan-yuen'>Ivan Yuen</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6942-mens-pittsburgh-open-2017'>Pittsburgh Open</a></td>
+					<td>USA</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>10-12, 9-11, 7-11 (39m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Feb 2017</td>
+					<td><a href='/players/703-tom-richards'>Tom Richards</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6942-mens-pittsburgh-open-2017'>Pittsburgh Open</a></td>
+					<td>USA</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>8-11, 8-11, 11-2, 12-10, 11-7 (65m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Feb 2017</td>
+					<td><a href='/players/5364-michael-mccue'>Michael McCue</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6942-mens-pittsburgh-open-2017'>Pittsburgh Open</a></td>
+					<td>USA</td>
+					<td><abbr title='Qualifying finals'>Q</abbr></td>
+					<td>11-9, 11-9, 11-2 (52m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Feb 2017</td>
+					<td><a href='/players/6069-steven-baicker-mckee'>Steven Baicker-McKee</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6942-mens-pittsburgh-open-2017'>Pittsburgh Open</a></td>
+					<td>USA</td>
+					<td><abbr title='1st qualifying round'>Q</abbr></td>
+					<td>11-3, 11-4, 11-8</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Jan 2017</td>
+					<td><a href='/players/4595-joshua-masters'>Joshua Masters</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6800-premier-league-2017'>Premier League 6th Round</a></td>
+					<td>ENG</td>
+					<td><abbr title='-'>-</abbr></td>
+					<td>6-11, 8-11, 5-11 (29m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Jan 2017</td>
+					<td><a href='/players/7475-joel-makin'>Joel Makin</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6935-mens-welsh-nationals-2017'>Welsh Nationals</a></td>
+					<td>WAL</td>
+					<td><abbr title='Winner'>F</abbr></td>
+					<td>11-8, 10-12, 11-9, 11-7</td>
+					<td>N</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Jan 2017</td>
+					<td><a href='/players/5295-emyr-evans'>Emyr Evans</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6935-mens-welsh-nationals-2017'>Welsh Nationals</a></td>
+					<td>WAL</td>
+					<td><abbr title='Semi-finals'>sf</abbr></td>
+					<td>11-9, 11-6, 14-12</td>
+					<td>N</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Jan 2017</td>
+					<td><a href='/players/8007-dan-bergin'>Dan Bergin</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6935-mens-welsh-nationals-2017'>Welsh Nationals</a></td>
+					<td>WAL</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>11-6, 11-1, 11-2</td>
+					<td>N</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Jan 2017</td>
+					<td><a href='/players/11291-chris-lovett'>Chris Lovett</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6935-mens-welsh-nationals-2017'>Welsh Nationals</a></td>
+					<td>WAL</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-2, 11-1, 11-4</td>
+					<td>N</td>
+				</tr>
+				<tr class='lightline'>
+					<td class='topborder'>Dec 2016</td>
+					<td class='topborder'><a href='/players/2767-declan-james'>Declan James</a></td>
+					<td class='topborder' title=''>L</td>
+					<td class='topborder'><a href='/events/6800-premier-league-2017'>Premier League 5th Round</a></td>
+					<td class='topborder'>ENG</td>
+					<td class='topborder'><abbr title='-'>-</abbr></td>
+					<td class='topborder'>7-11, 8-11, 5-11</td>
+					<td class='topborder'>N</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Dec 2016</td>
+					<td><a href='/players/7128-angus-gillams'>Angus Gillams</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6868-mens-florida-state-open-2016'>Florida State Open</a></td>
+					<td>USA</td>
+					<td><abbr title='Winner'>F</abbr></td>
+					<td>11-4, 9-11, 13-11, 11-4 (56m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Dec 2016</td>
+					<td><a href='/players/4598-richie-fallows'>Richie Fallows</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6868-mens-florida-state-open-2016'>Florida State Open</a></td>
+					<td>USA</td>
+					<td><abbr title='Semi-finals'>sf</abbr></td>
+					<td>11-8, 11-5, 11-4</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Dec 2016</td>
+					<td><a href='/players/7135-joe-green'>Joe Green</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6868-mens-florida-state-open-2016'>Florida State Open</a></td>
+					<td>USA</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>11-8, 11-4, 11-7</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Dec 2016</td>
+					<td><a href='/players/12296-noah-browne'>Noah Browne</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6868-mens-florida-state-open-2016'>Florida State Open</a></td>
+					<td>USA</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-4, 11-8, 11-6</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Dec 2016</td>
+					<td><a href='/players/2035-christophe-andre'>Christophe Andre</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6853-mens-london-open-2016'>London Open</a></td>
+					<td>ENG</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>13-15, 6-11, 3-11</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Dec 2016</td>
+					<td><a href='/players/8362-ben-grindrod'>Ben Grindrod</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6853-mens-london-open-2016'>London Open</a></td>
+					<td>ENG</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-5, 11-3, 11-5</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Nov 2016</td>
+					<td><a href='/players/3361-evan-williams'>Evan Williams</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6800-premier-league-2017'>Premier League 4th Round</a></td>
+					<td>ENG</td>
+					<td><abbr title='-'>-</abbr></td>
+					<td>8-11, 11-4, 10-12, 11-9, 11-4</td>
+					<td>N</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Nov 2016</td>
+					<td><a href='/players/677-nafiizwan-adnan'>Nafiizwan Adnan</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6800-premier-league-2017'>Premier League 3rd Round</a></td>
+					<td>ENG</td>
+					<td><abbr title='-'>-</abbr></td>
+					<td>11-7, 4-11, 4-11, 6-11</td>
+					<td>N</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Nov 2016</td>
+					<td><a href='/players/4595-joshua-masters'>Joshua Masters</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6841-mens-saskatoon-boast-open-2016'>Saskatoon Boast Open</a></td>
+					<td>CAN</td>
+					<td><abbr title='Runner-up'>F</abbr></td>
+					<td>6-11, 11-4, 14-16, 8-11 (72m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Nov 2016</td>
+					<td><a href='/players/5364-michael-mccue'>Michael McCue</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6841-mens-saskatoon-boast-open-2016'>Saskatoon Boast Open</a></td>
+					<td>CAN</td>
+					<td><abbr title='Semi-finals'>sf</abbr></td>
+					<td>11-7, 11-6, 11-5 (40m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Nov 2016</td>
+					<td><a href='/players/2064-henrik-mustonen'>Henrik Mustonen</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6841-mens-saskatoon-boast-open-2016'>Saskatoon Boast Open</a></td>
+					<td>CAN</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>10-12, 11-4, 7-11, 12-10, 11-8 (58m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Nov 2016</td>
+					<td><a href='/players/4678-babatunde-ajagbe'>Babatunde Ajagbe</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6841-mens-saskatoon-boast-open-2016'>Saskatoon Boast Open</a></td>
+					<td>CAN</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-5, 11-5, 6-11, 11-7 (43m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Nov 2016</td>
+					<td><a href='/players/219-christopher-gordon'>Christopher Gordon</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6840-mens-goodlife-open-2016'>GoodLife Open</a></td>
+					<td>CAN</td>
+					<td><abbr title='Semi-finals'>sf</abbr></td>
+					<td>2-11, 9-11, 6-11 (34m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Nov 2016</td>
+					<td><a href='/players/515-martin-knight'>Martin Knight</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6840-mens-goodlife-open-2016'>GoodLife Open</a></td>
+					<td>CAN</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>11-3, 11-6, 11-9 (34m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Nov 2016</td>
+					<td><a href='/players/5538-lyell-fuller'>Lyell Fuller</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6840-mens-goodlife-open-2016'>GoodLife Open</a></td>
+					<td>CAN</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-5 ret.</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Nov 2016</td>
+					<td><a href='/players/778-tarek-momen'>Tarek Momen</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6805-mens-world-championship-2016'>World Championship</a></td>
+					<td>EGY</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>8-11, 10-12, 6-11 (47m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Nov 2016</td>
+					<td><a href='/players/3361-evan-williams'>Evan Williams</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6805-mens-world-championship-2016'>World Championship</a></td>
+					<td>EGY</td>
+					<td><abbr title='Qualifying finals'>Q</abbr></td>
+					<td>11-9, 11-6, 11-5 (35m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Nov 2016</td>
+					<td><a href='/players/5702-baptiste-masotti'>Baptiste Masotti</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6805-mens-world-championship-2016'>World Championship</a></td>
+					<td>EGY</td>
+					<td><abbr title='1st qualifying round'>Q</abbr></td>
+					<td>6-11, 11-7, 11-7, 11-7 (53m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Oct 2016</td>
+					<td><a href='/players/3087-todd-harrity'>Todd Harrity</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6799-mens-cns-international-2016'>CNS International</a></td>
+					<td>PAK</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>10-12, 8-11, 4-11 (33m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Oct 2016</td>
+					<td><a href='/players/2760-shehab-essam'>Shehab Essam</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6799-mens-cns-international-2016'>CNS International</a></td>
+					<td>PAK</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>12-10, 11-8, 10-12, 11-7 (62m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Oct 2016</td>
+					<td><a href='/players/6176-patrick-rooney'>Patrick Rooney</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6787-mens-charing-cross-classic-2016'>Charing Cross Classic</a></td>
+					<td>ENG</td>
+					<td><abbr title='Winner'>F</abbr></td>
+					<td>5-11, 11-1, 11-5, 11-6</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Oct 2016</td>
+					<td><a href='/players/7135-joe-green'>Joe Green</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6787-mens-charing-cross-classic-2016'>Charing Cross Classic</a></td>
+					<td>ENG</td>
+					<td><abbr title='Semi-finals'>sf</abbr></td>
+					<td>11-3, 11-2, 7-11, 11-3</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Oct 2016</td>
+					<td><a href='/players/5538-lyell-fuller'>Lyell Fuller</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6787-mens-charing-cross-classic-2016'>Charing Cross Classic</a></td>
+					<td>ENG</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>11-5, 11-5, 11-6</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Oct 2016</td>
+					<td><a href='/players/7134-claudio-pinto'>Claudio Pinto</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6787-mens-charing-cross-classic-2016'>Charing Cross Classic</a></td>
+					<td>ENG</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>12-10, 11-4, 11-9</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Jun 2016</td>
+					<td><a href='/players/2257-rex-hedrick'>Rex Hedrick</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6668-mens-nz-southern-open-2016'>NZ Southern Open</a></td>
+					<td>NZL</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>7-11, 2-11, 8-11 (36m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Jun 2016</td>
+					<td><a href='/players/8362-ben-grindrod'>Ben Grindrod</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6668-mens-nz-southern-open-2016'>NZ Southern Open</a></td>
+					<td>NZL</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-8, 11-6, 11-4 (28m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Jun 2016</td>
+					<td><a href='/players/5974-paul-coll'>Paul Coll</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6664-mens-christchurch-international-open-2016'>Christchurch International Open</a></td>
+					<td>NZL</td>
+					<td><abbr title='Semi-finals'>sf</abbr></td>
+					<td>5-11, 2-11, 5-11 (31m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Jun 2016</td>
+					<td><a href='/players/1472-joshua-larkin'>Joshua Larkin</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6664-mens-christchurch-international-open-2016'>Christchurch International Open</a></td>
+					<td>NZL</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>11-9, 11-9, 8-11, 9-11, 11-7 (84m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Jun 2016</td>
+					<td><a href='/players/7177-scott-galloway'>Scott Galloway</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6664-mens-christchurch-international-open-2016'>Christchurch International Open</a></td>
+					<td>NZL</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-3, 11-8, 11-3 (30m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Jun 2016</td>
+					<td><a href='/players/1608-ivan-yuen'>Ivan Yuen</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6661-mens-new-zealand-international-classic-2016'>New Zealand International Classic</a></td>
+					<td>NZL</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>10-12, 3-11, 10-12</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Jun 2016</td>
+					<td><a href='/players/10458-luke-jones'>Luke Jones</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6661-mens-new-zealand-international-classic-2016'>New Zealand International Classic</a></td>
+					<td>NZL</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-4, 11-3, 11-6</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>May 2016</td>
+					<td><a href='/players/2766-tom-ford'>Tom Ford</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6650-mens-kent-open-2016'>Kent Open</a></td>
+					<td>ENG</td>
+					<td><abbr title='Semi-finals'>sf</abbr></td>
+					<td>11-13, 6-11, 11-8, 13-11, 9-11 (87m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>May 2016</td>
+					<td><a href='/players/5057-matthew-hopkin'>Matthew Hopkin</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6650-mens-kent-open-2016'>Kent Open</a></td>
+					<td>ENG</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>11-8, 11-5, 11-7 (37m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>May 2016</td>
+					<td><a href='/players/2756-nick-mulvey'>Nick Mulvey</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6650-mens-kent-open-2016'>Kent Open</a></td>
+					<td>ENG</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>12-10, 11-7, 11-7 (39m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>May 2016</td>
+					<td><a href='/players/7475-joel-makin'>Joel Makin</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6644-mens-stortford-classic-2016'>Stortford Classic</a></td>
+					<td>ENG</td>
+					<td><abbr title='Semi-finals'>sf</abbr></td>
+					<td>6-11, 11-7, 11-8, 4-11, 10-12 (101m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>May 2016</td>
+					<td><a href='/players/1208-jaymie-haycocks'>Jaymie Haycocks</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6644-mens-stortford-classic-2016'>Stortford Classic</a></td>
+					<td>ENG</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>12-10, 11-4, 11-5 (43m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>May 2016</td>
+					<td><a href='/players/1059-michael-harris'>Michael Harris</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6644-mens-stortford-classic-2016'>Stortford Classic</a></td>
+					<td>ENG</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-4, 11-6, 11-5 (34m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>May 2016</td>
+					<td><a href='/players/1892-kristian-frost'>Kristian Frost</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6587-mens-european-team-championship-division-2-2016'>European Team Championship (Division 2)</a></td>
+					<td>POL</td>
+					<td><abbr title='-'>-</abbr></td>
+					<td>11-7, 13-11, 10-12, 8-11, 6-11 (96m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='darkline'>
+					<td>May 2016</td>
+					<td><a href='/players/44-jan-koukal'>Jan Koukal</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6587-mens-european-team-championship-division-2-2016'>European Team Championship (Division 2)</a></td>
+					<td>POL</td>
+					<td><abbr title='-'>-</abbr></td>
+					<td>11-8, 11-5, 12-10 (45m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='lightline'>
+					<td>May 2016</td>
+					<td><a href='/players/891-aqeel-rehman'>Aqeel Rehman</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6587-mens-european-team-championship-division-2-2016'>European Team Championship (Division 2)</a></td>
+					<td>POL</td>
+					<td><abbr title='-'>-</abbr></td>
+					<td>11-4, 6-11, 11-4, 11-9 (47m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='darkline'>
+					<td>May 2016</td>
+					<td><a href='/players/4996-daniel-poleshchuk'>Daniel Poleshchuk</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6587-mens-european-team-championship-division-2-2016'>European Team Championship (Division 2)</a></td>
+					<td>POL</td>
+					<td><abbr title='-'>-</abbr></td>
+					<td>11-6, 11-4, 11-6 (28m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Apr 2016</td>
+					<td><a href='/players/2756-nick-mulvey'>Nick Mulvey</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6334-premier-league-2016'>Premier League 10th Round</a></td>
+					<td>ENG</td>
+					<td><abbr title='-'>-</abbr></td>
+					<td>12-10, 11-4, 13-11</td>
+					<td>N</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Apr 2016</td>
+					<td><a href='/players/4990-jan-van-den-herrewegen'>Jan van den Herrewegen</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6582-mens-spring-classic-2016'>Spring Classic</a></td>
+					<td>USA</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>11-9, 7-11, 8-11, 11-4, 4-11</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Apr 2016</td>
+					<td><a href='/players/5555-charlie-johnson'>Charlie Johnson</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6582-mens-spring-classic-2016'>Spring Classic</a></td>
+					<td>USA</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-1, 11-7, 11-4</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Mar 2016</td>
+					<td><a href='/players/1729-chris-fuller'>Chris Fuller</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6334-premier-league-2016'>Premier League 9th Round</a></td>
+					<td>ENG</td>
+					<td><abbr title='-'>-</abbr></td>
+					<td>13-11, 9-11, 11-8, 11-7</td>
+					<td>N</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Mar 2016</td>
+					<td><a href='/players/5057-matthew-hopkin'>Matthew Hopkin</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6557-mens-wimbledon-club-open-2016'>Wimbledon Club Open</a></td>
+					<td>ENG</td>
+					<td><abbr title='Qualifying finals'>Q</abbr></td>
+					<td>11-5, 11-9, 10-12, 3-11, 9-11 (40m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Mar 2016</td>
+					<td><a href='/players/3911-mark-fuller'>Mark Fuller</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6557-mens-wimbledon-club-open-2016'>Wimbledon Club Open</a></td>
+					<td>ENG</td>
+					<td><abbr title='1st qualifying round'>Q</abbr></td>
+					<td>12-10, 11-8, 11-7 (53m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Feb 2016</td>
+					<td><a href='/players/3819-chris-hanson'>Chris Hanson</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6491-mens-cactus-classic-2016'>Cactus Classic</a></td>
+					<td>USA</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-3, 11-4, 7-11, 2-11, 12-14 (81m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Feb 2016</td>
+					<td><a href='/players/2912-ben-coleman'>Ben Coleman</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6484-mens-swedish-open-2016'>Swedish Open</a></td>
+					<td>SWE</td>
+					<td><abbr title='1st qualifying round'>Q</abbr></td>
+					<td>11-5, 6-11, 13-11, 10-12, 7-11 (88m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='subscriber_line'>
+					<td class='topborder'><strong>2002-2015</strong></td>
+					<td class='topborder'><strong>407 matches</strong></td>
+					<td class='topborder' colspan='6'>View full historical match history by <a href='/upgrade'>creating</a> a premium account!</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+
+	<div class='ad_bar_footer'>
+		<!-- Footer -->
+		<ins class='adsbygoogle'
+		     style='display:inline-block;width:728px;height:90px'
+		     data-ad-client='ca-pub-0605489790642236'
+		     data-ad-slot='1142131485'></ins>
+		<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+	</div>
+
+</div>
+
+<div id='si_footer'>
+	<ul id='footer_left'>
+		<li id='copyright' class='li_left'>
+			Squash Info &copy; 2017
+		</li>
+	</ul>
+	<ul id='footer_right'>
+		<li class='li_right'>
+			<strong><a href='mailto:info@squashinfo.com'>Contact us</a></strong>
+		</li>
+		<li class='li_right'>
+			<a href='https://twitter.com/SquashInfo' class='twitter-follow-button' data-show-count='false'>Follow @SquashInfo</a>
+		</li>
+	</ul>
+</div>
+
+<div>
+	<script type='text/javascript'>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-1186220-1']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</div>
+
+</div>
+</div>
+</body>
+</html>

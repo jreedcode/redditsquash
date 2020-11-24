@@ -1,0 +1,1175 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+
+	<meta charset='utf-8' />
+	<meta name='author' content='Squash Info' />
+	<meta name='keywords' content='squash information rankings psa wsa wispa results events players' />
+
+	<link rel='shortcut icon' href='/favicon.ico' type='image/x-icon' />
+	<script src='https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js'></script>
+	<script src='https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js'></script>
+	<link rel='stylesheet' href='https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/themes/smoothness/jquery-ui.css'>
+	<script src='/js/jquery.timeago.js'></script>
+	<script src='/js/jquery.unveil.min.js'></script>
+	<script src='/js/jquery.leanModal.ch.1461605769.js'></script>
+	<script src='/js/jquery.tokeninput.js'></script>
+	<link rel='stylesheet' href='/css/token-input.css'>
+	<script src='http://platform.twitter.com/widgets.js'></script>
+	<script src='https://apis.google.com/js/platform.js'></script>
+	<script src='/js/jquery.cookiebar.js'></script>
+	<link rel='stylesheet' href='/css/jquery.cookiebar.1444581949.css'>
+	<script src='https://www.gstatic.com/charts/loader.js'></script>
+	<script async src='//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js'></script>
+	<script src='/js/main.1461605758.js'></script>
+	<link rel='stylesheet' href='/css/main.1487399333.css'>
+
+	<title>Squash Info | Camille Serme | Squash</title>
+
+</head>
+<body onload="">
+
+<div id='fb-root'></div>
+<script>!function(e,n,t){var o,c=e.getElementsByTagName(n)[0];e.getElementById(t)||(o=e.createElement(n),o.id=t,o.src='//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.5',c.parentNode.insertBefore(o,c))}(document,'script','facebook-jssdk');</script>
+<script type='text/javascript'>
+	
+	$(document).ready(function() {
+		
+		$.cookieBar({});
+		
+		$('.logout').click(function(event) {
+			
+			if (!confirm('Are you sure you want to log out?')) {
+				event.preventDefault();
+			}
+			
+		});
+		
+	});
+	
+</script>
+<div id='centre_body'>
+
+<div id='header'>
+	<ul id='header_left'>
+		<li id='header_logo' class='li_left'>
+			<a href='/'><img src='/img/logos/si_logo.png' alt='Squash Info, the definitive squash resource' style='vertical-align: middle;' /></a>
+		</li>
+	</ul>
+	<ul id='header_right'>
+		<li id='header_search' class='li_right'>
+			<form id='header_search_form' method='get' action='/search'>
+				<input type='text' name='q' id='q' value='' size='20' maxlength='30' placeholder='Search...' />
+				<input type='submit' value='Go' />
+			</form>
+		</li>
+		<li id='header_signup' class='li_right'><a href='/signup'>Sign Up</a></li>
+		<li id='header_login' class='li_right'>
+			<a rel='leanModal' data-url='%2Fplayers%2F1348-camille-serme' href='/login'>Log In</a>
+		</li>
+	</ul>
+</div>
+
+<div id='login_box'>
+	<iframe id='login_iframe' src='/loading.htm' scrolling='no' seamless></iframe>
+</div>
+
+<div id='main_block'>
+
+<div id='left_bar'>
+	<div id='current_date_time'>5:26 pm <br />4 Apr 2017</div>
+	<ul id='navlist'>
+		<li><a href='/' title='Home'>Home</a></li>
+		<li><a href='/news' title='Squash News'>News</a></li>
+		<li><a href='/results' title='Squash Event Results'>Results</a></li>
+		<li><a href='/rankings' title='PSA World Squash Rankings'>Rankings</a></li>
+		<li><a href='/calendar/2017' title='Squash Event Calendar'>Calendar</a></li>
+		<li><a href='/records' title='Squash Records &amp; Statistics'>Records</a></li>
+	</ul>
+</div>
+
+
+<div id='content'>
+
+	<div class='ad_bar_top'>
+		<!-- index -->
+		<ins class='adsbygoogle'
+		     style='display:inline-block;width:728px;height:90px'
+		     data-ad-client='ca-pub-0605489790642236'
+		     data-ad-slot='9600788702'></ins>
+		<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+	</div>
+
+	<h1>
+		Camille Serme <span style='color:#444444;'>(France)</span>
+	</h1>
+	<ul id='social_media'>
+		<li id='sm_twitter'>
+			<a href='https://twitter.com/@CamilleSerme' class='twitter-follow-button' data-show-count='false'>Follow @CamilleSerme</a>
+		</li>
+	</ul>
+	<div>
+	<h3>
+		Statistics:&nbsp;&nbsp;
+			<a href='/rankings/1348-camille-serme'>Ranking History</a>
+			<br />
+	</h3>
+		</div>
+	<div class='content_column'>
+		<div id='player_profile_pic'><img src='/img/gallery/Serme_Oct10a.jpg' alt='Camille Serme' width='200px' height='247px' /></div>
+	</div>
+
+	<div class='content_column'>
+		<div id='world_ranking_box'>
+			<div id='world_ranking'>3</div>
+			<strong>PSA Ranking</strong>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Born:</span>
+			<span>4 Apr 1989 (age 28)</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Gender:</span>
+			<span>Female</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Birthplace:</span>
+			<span>Creteil</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Residence:</span>
+			<span>Creteil</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Height:</span>
+			<span>164cm (5 ft 5 in)</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Weight:</span>
+			<span>60kg (9 st 6 lb)</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Plays:</span>
+			<span>Right-handed</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Joined PSA:</span>
+			<span>2005</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Coach:</span>
+			<span>Philippe Signoret</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Highest WR:</span>
+			<span>2 (Feb 2017)</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Racket:</span>
+			<span>Prince</span>
+		</div>
+	</div>
+
+	<div class='clear' style='padding-bottom:20px'></div>
+	<div class='tabletitle'>Career Highlights</div>
+	<div class='darkborder'>
+		<table style='width:100%' cellpadding='2' cellspacing='0' border='0'>
+			<tr class='darkline'>
+				<td style='width:10%' valign='top'>Feb 2016</td>
+				<td style='width:85%'>Wins 8th successive <a href='/events/6534-womens-french-nationals-2016'>French Nationals</a> title</td>
+				<td style='width:5%'>&nbsp;</td>
+			</tr>
+			<tr class='lightline'>
+				<td style='width:10%' valign='top'>Feb 2015</td>
+				<td style='width:85%'>Wins 7th successive <a href='/events/6023-womens-french-nationals-2015'>French Nationals</a> title</td>
+				<td style='width:5%'>&nbsp;</td>
+			</tr>
+			<tr class='darkline'>
+				<td style='width:10%' valign='top'>Feb 2014</td>
+				<td style='width:85%'>Wins 6th successive <a href='/events/5666-womens-french-nationals-2014'>French Nationals</a> title</td>
+				<td style='width:5%'>&nbsp;</td>
+			</tr>
+			<tr class='lightline'>
+				<td style='width:10%' valign='top'>Feb 2012</td>
+				<td style='width:85%'>Wins 4th successive <a href='/events/4926-womens-french-nationals-2012'>French Nationals</a> title</td>
+				<td style='width:5%'>&nbsp;</td>
+			</tr>
+			<tr class='darkline'>
+				<td style='width:10%' valign='top'>Aug 2010</td>
+				<td style='width:85%'>Reaches No9 to overtake <a href='/players/309-isabelle-stoehr'>Isabelle Stoehr</a> as France&#039;s highest-ranked woman of all-time</td>
+				<td style='width:5%'>&nbsp;</td>
+			</tr>
+			<tr class='lightline'>
+				<td style='width:10%' valign='top'>Nov 2009</td>
+				<td style='width:85%'>Wins WISPA Most Improved Player of the Year award</td>
+				<td style='width:5%'>&nbsp;</td>
+			</tr>
+			<tr class='darkline'>
+				<td style='width:10%' valign='top'>Feb 2009</td>
+				<td style='width:85%'>Wins 1st <a href='/events/3619-womens-french-nationals-2009'>French Nationals</a> title</td>
+				<td style='width:5%'>&nbsp;</td>
+			</tr>
+			<tr class='lightline'>
+				<td style='width:10%' valign='top'>Dec 2007</td>
+				<td style='width:85%'>Wins WISPA Young Player of the Year award</td>
+				<td style='width:5%'>&nbsp;</td>
+			</tr>
+		</table>
+	</div>
+
+	<div class='tabletitle' id='news_mentions'>News</div>
+	<div class='darkborder'>
+		<table style='width:100%' cellpadding='2' cellspacing='0' border='0'>
+			<tr class='darkline'>
+				<td style='width:10%' valign='top'>25 Mar 2017</td>
+				<td style='width:90%'><a href='/news/6933-david-stuns-serme-to-seal-british-open-semi'>David Stuns Serme To Seal British Open Semi</a></td>
+			</tr>
+			<tr class='lightline'>
+				<td style='width:10%' valign='top'>24 Mar 2017</td>
+				<td style='width:90%'><a href='/news/6932-abouelghar-delays-world-champion-gawads-world-no1-ranking-bid'>Abouelghar Delays World Champion Gawad&#039;s World No1 Ranking Bid</a></td>
+			</tr>
+			<tr class='darkline'>
+				<td style='width:10%' valign='top'>22 Mar 2017</td>
+				<td style='width:90%'><a href='/news/6930-castagnet-conquers-willstrop-in-british-open-shock'>Castagnet Conquers Willstrop In British Open Shock</a></td>
+			</tr>
+			<tr class='lightline'>
+				<td style='width:10%' valign='top'>1 Mar 2017</td>
+				<td style='width:90%'><a href='/news/6918-marwan-makes-maiden-world-series-final-in-windy-city'>Marwan Makes Maiden World Series Final In Windy City</a></td>
+			</tr>
+			<tr class='darkline'>
+				<td style='width:10%' valign='top'>28 Feb 2017</td>
+				<td style='width:90%'><a href='/news/6916-windy-city-wipeout-as-golan-downs-world-champion-gawad'>Windy City Wipeout As Golan Downs World Champion Gawad</a></td>
+			</tr>
+		</table>
+	</div>
+
+	<div id='upcoming_events' class='tabletitle'>Upcoming Events</div>
+	<div class='darkborder'>
+		<table style='width:100%' cellpadding='2' cellspacing='0' border='0'>
+			<tr>
+				<th scope='col' style='width:10%'>Date</th>
+				<th scope='col' style='width:10%'>Seeding</th>
+				<th scope='col' style='width:35%'>Event</th>
+				<th scope='col' style='width:5%'>Ctry</th>
+				<th scope='col' style='width:40%'>Opponent</th>
+			</tr>
+			<tr class='darkline'>
+				<td valign='top'>Apr 2017</td>
+				<td>[2]</td>
+				<td><a href='/events/6933-womens-world-championship-2017'>World Championship</a></td>
+				<td>EGY</td>
+				<td><a href='/players/5410-salma-hany-ibrahim'>Salma Hany Ibrahim</a></td>
+			</tr>
+		</table>
+	</div>
+
+	<div class='tabletitle'>Event Summary (18)</div>
+	<div class='darkborder'>
+		<table style='width:100%;' cellpadding='2' cellspacing='0' border='0'>
+			<thead>
+				<tr>
+					<th scope='col' style='width:10%'>Date</th>
+					<th scope='col' style='width:10%'>Seeding</th>
+					<th scope='col' style='width:35%'>Event</th>
+					<th scope='col' style='width:5%'>Ctry</th>
+					<th scope='col' style='width:20%'>Tour</th>
+					<th scope='col' style='width:20%'>Round Reached</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr class='darkline'>
+					<td>Mar 2017</td>
+					<td>[2]</td>
+					<td><a href='/events/6912-womens-british-open-2017'>British Open</a></td>
+					<td>ENG</td>
+					<td>PSA World Series</td>
+					<td>Quarter-finals</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Mar 2017</td>
+					<td>[4]</td>
+					<td><a href='/events/6909-womens-windy-city-open-2017'>Windy City Open</a></td>
+					<td>USA</td>
+					<td>PSA World Series</td>
+					<td>Semi-finals</td>
+				</tr>
+				<tr class='darkline b'>
+					<td>Feb 2017</td>
+					<td>[1]</td>
+					<td><a href='/events/6907-womens-cleveland-classic-2017'>Cleveland Classic</a></td>
+					<td>USA</td>
+					<td>PSA Tour</td>
+					<td>Winner</td>
+				</tr>
+				<tr class='lightline b'>
+					<td>Jan 2017</td>
+					<td>[5]</td>
+					<td><a href='/events/6881-womens-tournament-of-champions-2017'>Tournament of Champions</a></td>
+					<td>USA</td>
+					<td>PSA World Series</td>
+					<td>Winner</td>
+				</tr>
+				<tr class='darkline'>
+					<td class='topborder'>Dec 2016</td>
+					<td class='topborder'>-</td>
+					<td class='topborder'><a href='/events/6621-womens-world-team-championship-2016'>World Team Championship</a></td>
+					<td class='topborder'>FRA</td>
+					<td class='topborder'>-</td>
+					<td class='topborder'>-</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Oct 2016</td>
+					<td>[2]</td>
+					<td><a href='/events/6801-womens-carol-weymuller-open-2016'>Carol Weymuller Open</a></td>
+					<td>USA</td>
+					<td>PSA Tour</td>
+					<td>Semi-finals</td>
+				</tr>
+				<tr class='darkline b'>
+					<td>Oct 2016</td>
+					<td>[6]</td>
+					<td><a href='/events/6747-womens-us-open-2016'>US Open</a></td>
+					<td>USA</td>
+					<td>PSA World Series</td>
+					<td>Winner</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Sep 2016</td>
+					<td>[5]</td>
+					<td><a href='/events/6735-womens-al-ahram-international-2016'>Al-Ahram International</a></td>
+					<td>EGY</td>
+					<td>PSA Tour</td>
+					<td>1st round</td>
+				</tr>
+				<tr class='darkline b'>
+					<td>Sep 2016</td>
+					<td>[1]</td>
+					<td><a href='/events/6730-womens-european-individual-championship-2016'>European Individual Championship</a></td>
+					<td>CZE</td>
+					<td>-</td>
+					<td>Winner</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Aug 2016</td>
+					<td>[6]</td>
+					<td><a href='/events/6705-womens-hong-kong-open-2016'>Hong Kong Open</a></td>
+					<td>HKG</td>
+					<td>PSA World Series</td>
+					<td>Quarter-finals</td>
+				</tr>
+				<tr class='darkline'>
+					<td>May 2016</td>
+					<td>[7]</td>
+					<td><a href='/events/6512-womens-world-series-finals-2016'>World Series Finals</a></td>
+					<td>UAE</td>
+					<td>PSA World Series</td>
+					<td>3rd pool round</td>
+				</tr>
+				<tr class='lightline'>
+					<td>May 2016</td>
+					<td>-</td>
+					<td><a href='/events/6586-womens-european-team-championship-2016'>European Team Championship</a></td>
+					<td>POL</td>
+					<td>-</td>
+					<td>-</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Apr 2016</td>
+					<td>[4]</td>
+					<td><a href='/events/6191-womens-world-championship-2016'>World Championship</a></td>
+					<td>MAS</td>
+					<td>PSA World Series</td>
+					<td>Quarter-finals</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Mar 2016</td>
+					<td>[5]</td>
+					<td><a href='/events/6505-womens-british-open-2016'>British Open</a></td>
+					<td>ENG</td>
+					<td>PSA World Series</td>
+					<td>Semi-finals</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Mar 2016</td>
+					<td>[4]</td>
+					<td><a href='/events/6414-womens-windy-city-open-2016'>Windy City Open</a></td>
+					<td>USA</td>
+					<td>PSA World Series</td>
+					<td>Semi-finals</td>
+				</tr>
+				<tr class='lightline b'>
+					<td>Feb 2016</td>
+					<td>[1]</td>
+					<td><a href='/events/6534-womens-french-nationals-2016'>French Nationals</a></td>
+					<td>FRA</td>
+					<td>-</td>
+					<td>Winner</td>
+				</tr>
+				<tr class='darkline b'>
+					<td>Feb 2016</td>
+					<td>[1]</td>
+					<td><a href='/events/6459-womens-cleveland-classic-2016'>Cleveland Classic</a></td>
+					<td>USA</td>
+					<td>PSA Tour</td>
+					<td>Winner</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Jan 2016</td>
+					<td>[4]</td>
+					<td><a href='/events/6412-womens-tournament-of-champions-2016'>Tournament of Champions</a></td>
+					<td>USA</td>
+					<td>PSA World Series</td>
+					<td>Quarter-finals</td>
+				</tr>
+				<tr class='subscriber_line'>
+					<td class='topborder'><strong>2002-2015</strong></td>
+					<td class='topborder'><strong>189 events</strong></td>
+					<td class='topborder' colspan='4'>View full historical event history by <a href='/upgrade'>creating</a> a premium account!</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+
+	<div id='match_summary' class='tabletitle'>Match Summary (Played 67 - Won 54, Lost 13)</div>
+	<div class='darkborder'>
+		<table id='match_summary_table' style='width:100%;' cellpadding='2' cellspacing='0' border='0'>
+			<thead>
+				<tr>
+					<th scope='col' style='width:10%'>Date</th>
+					<th scope='col' style='width:17%'>Opponent</th>
+					<th scope='col' style='width:4%'>W/L</th>
+					<th scope='col' style='width:25%'>Event</th>
+					<th scope='col' style='width:5%'>Ctry</th>
+					<th scope='col' style='width:3%'>Rnd</th>
+					<th scope='col' style='width:32%'>Score</th>
+					<th scope='col' style='width:4%'>PSA</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr class='darkline'>
+					<td>Mar 2017</td>
+					<td><a href='/players/302-nicol-david'>Nicol David</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6912-womens-british-open-2017'>British Open</a></td>
+					<td>ENG</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>6-11, 6-11, 8-11 (39m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Mar 2017</td>
+					<td><a href='/players/459-nour-el-tayeb'>Nour El Tayeb</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6912-womens-british-open-2017'>British Open</a></td>
+					<td>ENG</td>
+					<td><abbr title='2nd round'>r2</abbr></td>
+					<td>11-8, 11-9, 5-11, 11-9 (54m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Mar 2017</td>
+					<td><a href='/players/8113-hania-el-hammamy'>Hania El Hammamy</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6912-womens-british-open-2017'>British Open</a></td>
+					<td>ENG</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-9, 12-10, 11-3 (34m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Mar 2017</td>
+					<td><a href='/players/3757-nour-el-sherbini'>Nour El Sherbini</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6909-womens-windy-city-open-2017'>Windy City Open</a></td>
+					<td>USA</td>
+					<td><abbr title='Semi-finals'>sf</abbr></td>
+					<td>11-8, 3-11, 6-11, 4-11 (46m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Mar 2017</td>
+					<td><a href='/players/321-alison-waters'>Alison Waters</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6909-womens-windy-city-open-2017'>Windy City Open</a></td>
+					<td>USA</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>10-12, 11-6, 12-10, 11-4 (51m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Mar 2017</td>
+					<td><a href='/players/1817-tesni-evans'>Tesni Evans</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6909-womens-windy-city-open-2017'>Windy City Open</a></td>
+					<td>USA</td>
+					<td><abbr title='2nd round'>r2</abbr></td>
+					<td>8-11, 11-8, 11-6, 13-11 (56m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Mar 2017</td>
+					<td><a href='/players/2206-heba-el-torky'>Heba El Torky</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6909-womens-windy-city-open-2017'>Windy City Open</a></td>
+					<td>USA</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-7, 11-6, 7-11, 11-4 (45m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Feb 2017</td>
+					<td><a href='/players/321-alison-waters'>Alison Waters</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6907-womens-cleveland-classic-2017'>Cleveland Classic</a></td>
+					<td>USA</td>
+					<td><abbr title='Winner'>F</abbr></td>
+					<td>10-12, 9-11, 11-7, 11-8, 11-7</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Feb 2017</td>
+					<td><a href='/players/1041-sarah-jane-perry'>Sarah-Jane Perry</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6907-womens-cleveland-classic-2017'>Cleveland Classic</a></td>
+					<td>USA</td>
+					<td><abbr title='Semi-finals'>sf</abbr></td>
+					<td>13-11, 11-9, 12-10</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Feb 2017</td>
+					<td><a href='/players/1817-tesni-evans'>Tesni Evans</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6907-womens-cleveland-classic-2017'>Cleveland Classic</a></td>
+					<td>USA</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>11-4, 16-14, 11-6</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Feb 2017</td>
+					<td><a href='/players/7431-nadine-shahin'>Nadine Shahin</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6907-womens-cleveland-classic-2017'>Cleveland Classic</a></td>
+					<td>USA</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-7, 11-5, 11-4 (20m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Jan 2017</td>
+					<td><a href='/players/317-laura-massaro'>Laura Massaro</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6881-womens-tournament-of-champions-2017'>Tournament of Champions</a></td>
+					<td>USA</td>
+					<td><abbr title='Winner'>F</abbr></td>
+					<td>13-11, 8-11, 4-11, 11-3, 11-7 (73m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Jan 2017</td>
+					<td><a href='/players/3757-nour-el-sherbini'>Nour El Sherbini</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6881-womens-tournament-of-champions-2017'>Tournament of Champions</a></td>
+					<td>USA</td>
+					<td><abbr title='Semi-finals'>sf</abbr></td>
+					<td>11-7, 7-11, 11-6, 11-6 (49m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Jan 2017</td>
+					<td><a href='/players/6250-nouran-gohar'>Nouran Gohar</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6881-womens-tournament-of-champions-2017'>Tournament of Champions</a></td>
+					<td>USA</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>11-5, 9-11, 14-12, 11-9 (69m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Jan 2017</td>
+					<td><a href='/players/402-joshna-chinappa'>Joshna Chinappa</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6881-womens-tournament-of-champions-2017'>Tournament of Champions</a></td>
+					<td>USA</td>
+					<td><abbr title='2nd round'>r2</abbr></td>
+					<td>11-8, 11-7, 11-3 (36m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Jan 2017</td>
+					<td><a href='/players/1817-tesni-evans'>Tesni Evans</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6881-womens-tournament-of-champions-2017'>Tournament of Champions</a></td>
+					<td>USA</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-4, 11-5, 11-7 (37m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td class='topborder'>Dec 2016</td>
+					<td class='topborder'><a href='/players/3757-nour-el-sherbini'>Nour El Sherbini</a></td>
+					<td class='topborder' title=''>L</td>
+					<td class='topborder'><a href='/events/6621-womens-world-team-championship-2016'>World Team Championship</a></td>
+					<td class='topborder'>FRA</td>
+					<td class='topborder'><abbr title='-'>-</abbr></td>
+					<td class='topborder'>8-11, 10-12, 9-11 (41m)</td>
+					<td class='topborder'>N</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Dec 2016</td>
+					<td><a href='/players/903-donna-urquhart'>Donna Urquhart</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6621-womens-world-team-championship-2016'>World Team Championship</a></td>
+					<td>FRA</td>
+					<td><abbr title='-'>-</abbr></td>
+					<td>11-6, 11-4, 11-3 (27m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Dec 2016</td>
+					<td><a href='/players/554-annie-au'>Annie Au</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6621-womens-world-team-championship-2016'>World Team Championship</a></td>
+					<td>FRA</td>
+					<td><abbr title='-'>-</abbr></td>
+					<td>11-7, 13-15, 11-9, 11-9 (51m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Dec 2016</td>
+					<td><a href='/players/1545-misaki-kobayashi'>Misaki Kobayashi</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6621-womens-world-team-championship-2016'>World Team Championship</a></td>
+					<td>FRA</td>
+					<td><abbr title='-'>-</abbr></td>
+					<td>11-4, 11-4, 11-6 (21m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Dec 2016</td>
+					<td><a href='/players/2027-sina-wall'>Sina Wall</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6621-womens-world-team-championship-2016'>World Team Championship</a></td>
+					<td>FRA</td>
+					<td><abbr title='-'>-</abbr></td>
+					<td>11-3, 11-4, 11-1 (17m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Dec 2016</td>
+					<td><a href='/players/4166-xisela-aranda'>Xisela Aranda</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6621-womens-world-team-championship-2016'>World Team Championship</a></td>
+					<td>FRA</td>
+					<td><abbr title='-'>-</abbr></td>
+					<td>11-4, 11-1, 11-4 (20m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Oct 2016</td>
+					<td><a href='/players/321-alison-waters'>Alison Waters</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6801-womens-carol-weymuller-open-2016'>Carol Weymuller Open</a></td>
+					<td>USA</td>
+					<td><abbr title='Semi-finals'>sf</abbr></td>
+					<td>9-11, 12-10, 8-11, 11-7, 8-11 (65m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Oct 2016</td>
+					<td><a href='/players/554-annie-au'>Annie Au</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6801-womens-carol-weymuller-open-2016'>Carol Weymuller Open</a></td>
+					<td>USA</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>11-3, 11-7, 11-8</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Oct 2016</td>
+					<td><a href='/players/953-dipika-pallikal-karthik'>Dipika Pallikal Karthik</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6801-womens-carol-weymuller-open-2016'>Carol Weymuller Open</a></td>
+					<td>USA</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-8, 7-11, 11-3, 13-11</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Oct 2016</td>
+					<td><a href='/players/3757-nour-el-sherbini'>Nour El Sherbini</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6747-womens-us-open-2016'>US Open</a></td>
+					<td>USA</td>
+					<td><abbr title='Winner'>F</abbr></td>
+					<td>11-8, 7-11, 12-10, 11-9 (54m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Oct 2016</td>
+					<td><a href='/players/4697-amanda-sobhy'>Amanda Sobhy</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6747-womens-us-open-2016'>US Open</a></td>
+					<td>USA</td>
+					<td><abbr title='Semi-finals'>sf</abbr></td>
+					<td>11-6, 11-9, 10-12, 11-5 (42m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Oct 2016</td>
+					<td><a href='/players/317-laura-massaro'>Laura Massaro</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6747-womens-us-open-2016'>US Open</a></td>
+					<td>USA</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>11-8, 8-11, 11-2, 6-11, 11-6 (55m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Oct 2016</td>
+					<td><a href='/players/554-annie-au'>Annie Au</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6747-womens-us-open-2016'>US Open</a></td>
+					<td>USA</td>
+					<td><abbr title='2nd round'>r2</abbr></td>
+					<td>11-5, 11-6, 11-6 (27m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Oct 2016</td>
+					<td><a href='/players/490-delia-arnold'>Delia Arnold</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6747-womens-us-open-2016'>US Open</a></td>
+					<td>USA</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-4, 11-6, 11-3 (25m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Sep 2016</td>
+					<td><a href='/players/1041-sarah-jane-perry'>Sarah-Jane Perry</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6735-womens-al-ahram-international-2016'>Al-Ahram International</a></td>
+					<td>EGY</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>4-11, 11-5, 6-11, 8-11 (42m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Sep 2016</td>
+					<td><a href='/players/4985-nele-gilis'>Nele Gilis</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6730-womens-european-individual-championship-2016'>European Individual Championship</a></td>
+					<td>CZE</td>
+					<td><abbr title='Winner'>F</abbr></td>
+					<td>8-11, 11-7, 11-4, 11-5 (43m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Sep 2016</td>
+					<td><a href='/players/2027-sina-wall'>Sina Wall</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6730-womens-european-individual-championship-2016'>European Individual Championship</a></td>
+					<td>CZE</td>
+					<td><abbr title='Semi-finals'>sf</abbr></td>
+					<td>11-8, 11-2, 11-4 (23m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Sep 2016</td>
+					<td><a href='/players/2090-anna-serme'>Anna Serme</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6730-womens-european-individual-championship-2016'>European Individual Championship</a></td>
+					<td>CZE</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>11-4, 11-6, 11-2 (26m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Sep 2016</td>
+					<td><a href='/players/4967-tereza-svobodova'>Tereza Svobodova</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6730-womens-european-individual-championship-2016'>European Individual Championship</a></td>
+					<td>CZE</td>
+					<td><abbr title='2nd round'>r2</abbr></td>
+					<td>11-6, 11-3, 11-6 (20m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Aug 2016</td>
+					<td><a href='/players/302-nicol-david'>Nicol David</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6705-womens-hong-kong-open-2016'>Hong Kong Open</a></td>
+					<td>HKG</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>8-11, 11-13, 11-7, 2-11 (49m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Aug 2016</td>
+					<td><a href='/players/5311-ho-tze-lok'>Ho Tze-Lok</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6705-womens-hong-kong-open-2016'>Hong Kong Open</a></td>
+					<td>HKG</td>
+					<td><abbr title='2nd round'>r2</abbr></td>
+					<td>11-5, 11-5, 11-4 (25m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Aug 2016</td>
+					<td><a href='/players/953-dipika-pallikal-karthik'>Dipika Pallikal Karthik</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6705-womens-hong-kong-open-2016'>Hong Kong Open</a></td>
+					<td>HKG</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-4, 11-6, 8-11, 6-11, 11-6 (52m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>May 2016</td>
+					<td><a href='/players/3757-nour-el-sherbini'>Nour El Sherbini</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6512-womens-world-series-finals-2016'>World Series Finals</a></td>
+					<td>UAE</td>
+					<td><abbr title='3rd pool round'>P</abbr></td>
+					<td>4-11, 6-11 (20m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>May 2016</td>
+					<td><a href='/players/333-raneem-el-welily'>Raneem El Welily</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6512-womens-world-series-finals-2016'>World Series Finals</a></td>
+					<td>UAE</td>
+					<td><abbr title='2nd pool round'>P</abbr></td>
+					<td>11-9, 10-12, 9-11 (41m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>May 2016</td>
+					<td><a href='/players/306-omneya-abdel-kawy'>Omneya Abdel Kawy</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6512-womens-world-series-finals-2016'>World Series Finals</a></td>
+					<td>UAE</td>
+					<td><abbr title='1st pool round'>P</abbr></td>
+					<td>11-9, 13-11 (23m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>May 2016</td>
+					<td><a href='/players/317-laura-massaro'>Laura Massaro</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6586-womens-european-team-championship-2016'>European Team Championship</a></td>
+					<td>POL</td>
+					<td><abbr title='-'>-</abbr></td>
+					<td>5-11, 1-11, 6-11 (30m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='darkline'>
+					<td>May 2016</td>
+					<td><a href='/players/1817-tesni-evans'>Tesni Evans</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6586-womens-european-team-championship-2016'>European Team Championship</a></td>
+					<td>POL</td>
+					<td><abbr title='-'>-</abbr></td>
+					<td>11-3, 4-11, 11-6, 11-8 (43m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='lightline'>
+					<td>May 2016</td>
+					<td><a href='/players/2103-milou-van-der-heijden'>Milou van der Heijden</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6586-womens-european-team-championship-2016'>European Team Championship</a></td>
+					<td>POL</td>
+					<td><abbr title='-'>-</abbr></td>
+					<td>11-7, 8-11, 11-4, 11-7 (37m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='darkline'>
+					<td>May 2016</td>
+					<td><a href='/players/334-line-hansen'>Line Hansen</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6586-womens-european-team-championship-2016'>European Team Championship</a></td>
+					<td>POL</td>
+					<td><abbr title='-'>-</abbr></td>
+					<td>7-11, 11-6, 11-7, 11-9 (45m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Apr 2016</td>
+					<td><a href='/players/6250-nouran-gohar'>Nouran Gohar</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6191-womens-world-championship-2016'>World Championship</a></td>
+					<td>MAS</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>7-11, 10-12, 11-7, 11-5, 8-11 (75m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Apr 2016</td>
+					<td><a href='/players/1041-sarah-jane-perry'>Sarah-Jane Perry</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6191-womens-world-championship-2016'>World Championship</a></td>
+					<td>MAS</td>
+					<td><abbr title='2nd round'>r2</abbr></td>
+					<td>11-5, 11-7, 11-6 (34m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Apr 2016</td>
+					<td><a href='/players/912-joey-chan'>Joey Chan</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6191-womens-world-championship-2016'>World Championship</a></td>
+					<td>MAS</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-9, 11-6, 5-11, 11-4 (41m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Mar 2016</td>
+					<td><a href='/players/6250-nouran-gohar'>Nouran Gohar</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6505-womens-british-open-2016'>British Open</a></td>
+					<td>ENG</td>
+					<td><abbr title='Semi-finals'>sf</abbr></td>
+					<td>10-12, 9-11, 11-9, 11-9, 9-11 (80m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Mar 2016</td>
+					<td><a href='/players/317-laura-massaro'>Laura Massaro</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6505-womens-british-open-2016'>British Open</a></td>
+					<td>ENG</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>11-8, 11-5, 11-7 (39m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Mar 2016</td>
+					<td><a href='/players/1651-victoria-lust'>Victoria Lust</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6505-womens-british-open-2016'>British Open</a></td>
+					<td>ENG</td>
+					<td><abbr title='2nd round'>r2</abbr></td>
+					<td>11-5, 11-8, 11-3 (31m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Mar 2016</td>
+					<td><a href='/players/1594-fiona-moverley'>Fiona Moverley</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6505-womens-british-open-2016'>British Open</a></td>
+					<td>ENG</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-7, 11-6, 11-3 (29m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Mar 2016</td>
+					<td><a href='/players/333-raneem-el-welily'>Raneem El Welily</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6414-womens-windy-city-open-2016'>Windy City Open</a></td>
+					<td>USA</td>
+					<td><abbr title='Semi-finals'>sf</abbr></td>
+					<td>9-11, 11-13, 8-11 (37m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Mar 2016</td>
+					<td><a href='/players/4697-amanda-sobhy'>Amanda Sobhy</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6414-womens-windy-city-open-2016'>Windy City Open</a></td>
+					<td>USA</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>6-11, 11-4, 5-11, 12-10, 11-9 (63m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Mar 2016</td>
+					<td><a href='/players/912-joey-chan'>Joey Chan</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6414-womens-windy-city-open-2016'>Windy City Open</a></td>
+					<td>USA</td>
+					<td><abbr title='2nd round'>r2</abbr></td>
+					<td>11-6, 11-5, 11-2 (28m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Mar 2016</td>
+					<td><a href='/players/8113-hania-el-hammamy'>Hania El Hammamy</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6414-womens-windy-city-open-2016'>Windy City Open</a></td>
+					<td>USA</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-6, 11-9, 11-3 (35m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Feb 2016</td>
+					<td><a href='/players/2073-coline-aumard'>Coline Aumard</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6534-womens-french-nationals-2016'>French Nationals</a></td>
+					<td>FRA</td>
+					<td><abbr title='Winner'>F</abbr></td>
+					<td>11-6, 8-11, 11-7, 11-6 (67m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Feb 2016</td>
+					<td><a href='/players/3266-cyrielle-peltier'>Cyrielle Peltier</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6534-womens-french-nationals-2016'>French Nationals</a></td>
+					<td>FRA</td>
+					<td><abbr title='Semi-finals'>sf</abbr></td>
+					<td>11-3, 11-6, 11-3 (21m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Feb 2016</td>
+					<td><a href='/players/1645-charlotte-delsinne'>Charlotte Delsinne</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6534-womens-french-nationals-2016'>French Nationals</a></td>
+					<td>FRA</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>11-1, 11-4, 11-3</td>
+					<td>N</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Feb 2016</td>
+					<td><a href='/players/10259-sarah-mekhalfi'>Sarah Mekhalfi</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6534-womens-french-nationals-2016'>French Nationals</a></td>
+					<td>FRA</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-0, 11-2, 11-2</td>
+					<td>N</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Feb 2016</td>
+					<td><a href='/players/321-alison-waters'>Alison Waters</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6459-womens-cleveland-classic-2016'>Cleveland Classic</a></td>
+					<td>USA</td>
+					<td><abbr title='Winner'>F</abbr></td>
+					<td>7-11, 11-6, 11-9, 11-5</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Feb 2016</td>
+					<td><a href='/players/1041-sarah-jane-perry'>Sarah-Jane Perry</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6459-womens-cleveland-classic-2016'>Cleveland Classic</a></td>
+					<td>USA</td>
+					<td><abbr title='Semi-finals'>sf</abbr></td>
+					<td>11-7, 12-10, 11-5</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Feb 2016</td>
+					<td><a href='/players/402-joshna-chinappa'>Joshna Chinappa</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6459-womens-cleveland-classic-2016'>Cleveland Classic</a></td>
+					<td>USA</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>11-4, 5-11, 11-8, 11-2</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Feb 2016</td>
+					<td><a href='/players/490-delia-arnold'>Delia Arnold</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6459-womens-cleveland-classic-2016'>Cleveland Classic</a></td>
+					<td>USA</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-8, 11-2, 11-4</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Jan 2016</td>
+					<td><a href='/players/3757-nour-el-sherbini'>Nour El Sherbini</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6412-womens-tournament-of-champions-2016'>Tournament of Champions</a></td>
+					<td>USA</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>4-11, 9-11, 11-8, 11-8, 8-11 (74m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Jan 2016</td>
+					<td><a href='/players/2500-emily-whitlock'>Emily Whitlock</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6412-womens-tournament-of-champions-2016'>Tournament of Champions</a></td>
+					<td>USA</td>
+					<td><abbr title='2nd round'>r2</abbr></td>
+					<td>11-6, 11-5, 8-11, 13-11 (52m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Jan 2016</td>
+					<td><a href='/players/903-donna-urquhart'>Donna Urquhart</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6412-womens-tournament-of-champions-2016'>Tournament of Champions</a></td>
+					<td>USA</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-7, 11-5, 11-9 (31m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='subscriber_line'>
+					<td class='topborder'><strong>2002-2015</strong></td>
+					<td class='topborder'><strong>558 matches</strong></td>
+					<td class='topborder' colspan='6'>View full historical match history by <a href='/upgrade'>creating</a> a premium account!</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+
+	<div class='ad_bar_footer'>
+		<!-- Footer -->
+		<ins class='adsbygoogle'
+		     style='display:inline-block;width:728px;height:90px'
+		     data-ad-client='ca-pub-0605489790642236'
+		     data-ad-slot='1142131485'></ins>
+		<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+	</div>
+
+</div>
+
+<div id='si_footer'>
+	<ul id='footer_left'>
+		<li id='copyright' class='li_left'>
+			Squash Info &copy; 2017
+		</li>
+	</ul>
+	<ul id='footer_right'>
+		<li class='li_right'>
+			<strong><a href='mailto:info@squashinfo.com'>Contact us</a></strong>
+		</li>
+		<li class='li_right'>
+			<a href='https://twitter.com/SquashInfo' class='twitter-follow-button' data-show-count='false'>Follow @SquashInfo</a>
+		</li>
+	</ul>
+</div>
+
+<div>
+	<script type='text/javascript'>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-1186220-1']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</div>
+
+</div>
+</div>
+</body>
+</html>

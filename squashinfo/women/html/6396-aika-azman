@@ -1,0 +1,638 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+
+	<meta charset='utf-8' />
+	<meta name='author' content='Squash Info' />
+	<meta name='keywords' content='squash information rankings psa wsa wispa results events players' />
+
+	<link rel='shortcut icon' href='/favicon.ico' type='image/x-icon' />
+	<script src='https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js'></script>
+	<script src='https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js'></script>
+	<link rel='stylesheet' href='https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/themes/smoothness/jquery-ui.css'>
+	<script src='/js/jquery.timeago.js'></script>
+	<script src='/js/jquery.unveil.min.js'></script>
+	<script src='/js/jquery.leanModal.ch.1461605769.js'></script>
+	<script src='/js/jquery.tokeninput.js'></script>
+	<link rel='stylesheet' href='/css/token-input.css'>
+	<script src='http://platform.twitter.com/widgets.js'></script>
+	<script src='https://apis.google.com/js/platform.js'></script>
+	<script src='/js/jquery.cookiebar.js'></script>
+	<link rel='stylesheet' href='/css/jquery.cookiebar.1444581949.css'>
+	<script src='https://www.gstatic.com/charts/loader.js'></script>
+	<script async src='//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js'></script>
+	<script src='/js/main.1461605758.js'></script>
+	<link rel='stylesheet' href='/css/main.1487399333.css'>
+
+	<title>Squash Info | Aika Azman | Squash</title>
+
+</head>
+<body onload="">
+
+<div id='fb-root'></div>
+<script>!function(e,n,t){var o,c=e.getElementsByTagName(n)[0];e.getElementById(t)||(o=e.createElement(n),o.id=t,o.src='//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.5',c.parentNode.insertBefore(o,c))}(document,'script','facebook-jssdk');</script>
+<script type='text/javascript'>
+	
+	$(document).ready(function() {
+		
+		$.cookieBar({});
+		
+		$('.logout').click(function(event) {
+			
+			if (!confirm('Are you sure you want to log out?')) {
+				event.preventDefault();
+			}
+			
+		});
+		
+	});
+	
+</script>
+<div id='centre_body'>
+
+<div id='header'>
+	<ul id='header_left'>
+		<li id='header_logo' class='li_left'>
+			<a href='/'><img src='/img/logos/si_logo.png' alt='Squash Info, the definitive squash resource' style='vertical-align: middle;' /></a>
+		</li>
+	</ul>
+	<ul id='header_right'>
+		<li id='header_search' class='li_right'>
+			<form id='header_search_form' method='get' action='/search'>
+				<input type='text' name='q' id='q' value='' size='20' maxlength='30' placeholder='Search...' />
+				<input type='submit' value='Go' />
+			</form>
+		</li>
+		<li id='header_signup' class='li_right'><a href='/signup'>Sign Up</a></li>
+		<li id='header_login' class='li_right'>
+			<a rel='leanModal' data-url='%2Fplayers%2F6396-aika-azman' href='/login'>Log In</a>
+		</li>
+	</ul>
+</div>
+
+<div id='login_box'>
+	<iframe id='login_iframe' src='/loading.htm' scrolling='no' seamless></iframe>
+</div>
+
+<div id='main_block'>
+
+<div id='left_bar'>
+	<div id='current_date_time'>5:27 pm <br />4 Apr 2017</div>
+	<ul id='navlist'>
+		<li><a href='/' title='Home'>Home</a></li>
+		<li><a href='/news' title='Squash News'>News</a></li>
+		<li><a href='/results' title='Squash Event Results'>Results</a></li>
+		<li><a href='/rankings' title='PSA World Squash Rankings'>Rankings</a></li>
+		<li><a href='/calendar/2017' title='Squash Event Calendar'>Calendar</a></li>
+		<li><a href='/records' title='Squash Records &amp; Statistics'>Records</a></li>
+	</ul>
+</div>
+
+
+<div id='content'>
+
+	<div class='ad_bar_top'>
+		<!-- index -->
+		<ins class='adsbygoogle'
+		     style='display:inline-block;width:728px;height:90px'
+		     data-ad-client='ca-pub-0605489790642236'
+		     data-ad-slot='9600788702'></ins>
+		<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+	</div>
+
+	<h1>
+		Aika Azman <span style='color:#444444;'>(Malaysia)</span>
+	</h1>
+	<ul id='social_media'>
+		<li id='sm_twitter'>
+			<a href='https://twitter.com/@aikaazman' class='twitter-follow-button' data-show-count='false'>Follow @aikaazman</a>
+		</li>
+	</ul>
+	<div>
+	<h3>
+		Statistics:&nbsp;&nbsp;
+			<a href='/rankings/6396-aika-azman'>Ranking History</a>
+			<br />
+	</h3>
+		</div>
+	<div class='content_column'>
+		<div id='world_ranking_box'>
+			<div id='world_ranking'>83</div>
+			<strong>PSA Ranking</strong>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Born:</span>
+			<span>2 Mar 1997 (age 20)</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Gender:</span>
+			<span>Female</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Birthplace:</span>
+			<span>Kedah</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Residence:</span>
+			<span>Kuala Lumpur</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Coach:</span>
+			<span>Andrew Cross</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Highest WR:</span>
+			<span>80 (Jan 2017)</span>
+		</div>
+	</div>
+
+	<div class='clear' style='padding-bottom:20px'></div>
+	<div class='tabletitle' id='news_mentions'>News</div>
+	<div class='darkborder'>
+		<table style='width:100%' cellpadding='2' cellspacing='0' border='0'>
+			<tr class='darkline'>
+				<td style='width:10%' valign='top'>29 Jul 2016</td>
+				<td style='width:90%'><a href='/news/6808-hosts-australia-seeded-for-double-gold-in-darwin-world-doubles'>Hosts Australia Seeded For Double Gold In Darwin World Doubles</a></td>
+			</tr>
+			<tr class='lightline'>
+				<td style='width:10%' valign='top'>26 Jan 2015</td>
+				<td style='width:90%'><a href='/news/6483-craig-captures-australia-day-crown'>Craig Captures Australia Day Crown</a></td>
+			</tr>
+			<tr class='darkline'>
+				<td style='width:10%' valign='top'>16 Mar 2014</td>
+				<td style='width:90%'><a href='/news/6051-habiba-stuns-top-local-hope-to-make-penang-qualifying-finals'>Habiba Stuns Top Local Hope To Make Penang Qualifying Finals</a></td>
+			</tr>
+			<tr class='lightline'>
+				<td style='width:10%' valign='top'>15 Mar 2014</td>
+				<td style='width:90%'><a href='/news/6048-malaysian-octet-survive-first-world-championship-qualifiers-in-penang'>Malaysian Octet Survive First World Championship Qualifiers In Penang</a></td>
+			</tr>
+			<tr class='darkline'>
+				<td style='width:10%' valign='top'>13 Mar 2014</td>
+				<td style='width:90%'><a href='/news/6043-whitlock-el-tayeb-head-womens-world-championship-qualifying-draw'>Whitlock &amp; El Tayeb Head Women&#039;s World Championship Qualifying Draw</a></td>
+			</tr>
+		</table>
+	</div>
+
+	<div id='upcoming_events' class='tabletitle'>Upcoming Events</div>
+	<div class='darkborder'>
+		<div class='one_entry'>None</div>
+	</div>
+
+	<div class='tabletitle'>Event Summary (14)</div>
+	<div class='darkborder'>
+		<table style='width:100%;' cellpadding='2' cellspacing='0' border='0'>
+			<thead>
+				<tr>
+					<th scope='col' style='width:10%'>Date</th>
+					<th scope='col' style='width:10%'>Seeding</th>
+					<th scope='col' style='width:35%'>Event</th>
+					<th scope='col' style='width:5%'>Ctry</th>
+					<th scope='col' style='width:20%'>Tour</th>
+					<th scope='col' style='width:20%'>Round Reached</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr class='darkline'>
+					<td>Jan 2017</td>
+					<td>[6]</td>
+					<td><a href='/events/6944-womens-malaysian-tour-2017'>Malaysian Tour</a></td>
+					<td>MAS</td>
+					<td>PSA Tour</td>
+					<td>1st round</td>
+				</tr>
+				<tr class='lightline'>
+					<td class='topborder'>Dec 2016</td>
+					<td class='topborder'>[4]</td>
+					<td class='topborder'><a href='/events/6877-womens-malaysian-tour-2016'>Malaysian Tour</a></td>
+					<td class='topborder'>MAS</td>
+					<td class='topborder'>PSA Tour</td>
+					<td class='topborder'>Semi-finals</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Nov 2016</td>
+					<td>[5/8]</td>
+					<td><a href='/events/6849-womens-malaysian-nationals-2016'>Malaysian Nationals</a></td>
+					<td>MAS</td>
+					<td>-</td>
+					<td>Quarter-finals</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Oct 2016</td>
+					<td>[5]</td>
+					<td><a href='/events/6809-womens-malaysian-tour-2016'>Malaysian Tour</a></td>
+					<td>MAS</td>
+					<td>PSA Tour</td>
+					<td>Quarter-finals</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Oct 2016</td>
+					<td>[6]</td>
+					<td><a href='/events/6790-womens-malaysian-tour-2016'>Malaysian Tour</a></td>
+					<td>MAS</td>
+					<td>PSA Tour</td>
+					<td>Quarter-finals</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Oct 2016</td>
+					<td>[5]</td>
+					<td><a href='/events/6786-womens-malaysian-tour-2016'>Malaysian Tour</a></td>
+					<td>MAS</td>
+					<td>PSA Tour</td>
+					<td>1st round</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Aug 2016</td>
+					<td>[8]</td>
+					<td><a href='/events/6493-womens-world-doubles-championship-2016'>World Doubles Championship</a></td>
+					<td>AUS</td>
+					<td>-</td>
+					<td>Fifth place play-off</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Jun 2016</td>
+					<td>[7]</td>
+					<td><a href='/events/6655-womens-penang-open-2016'>Penang Open</a></td>
+					<td>MAS</td>
+					<td>PSA Tour</td>
+					<td>Quarter-finals</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Apr 2016</td>
+					<td>-</td>
+					<td><a href='/events/6191-womens-world-championship-2016'>World Championship</a></td>
+					<td>MAS</td>
+					<td>PSA World Series</td>
+					<td>1st qualifying round</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Apr 2016</td>
+					<td>[6]</td>
+					<td><a href='/events/6607-womens-malaysian-tour-2016'>Malaysian Tour</a></td>
+					<td>MAS</td>
+					<td>PSA Tour</td>
+					<td>1st round</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Apr 2016</td>
+					<td>[6]</td>
+					<td><a href='/events/6596-womens-malaysian-tour-2016'>Malaysian Tour</a></td>
+					<td>MAS</td>
+					<td>PSA Tour</td>
+					<td>Quarter-finals</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Mar 2016</td>
+					<td>[5]</td>
+					<td><a href='/events/6575-womens-malaysian-tour-2016'>Malaysian Tour</a></td>
+					<td>MAS</td>
+					<td>PSA Tour</td>
+					<td>Semi-finals</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Feb 2016</td>
+					<td>[<abbr title='Qualifier'>Q</abbr>]</td>
+					<td><a href='/events/6544-womens-bahria-town-international-2016'>Bahria Town International</a></td>
+					<td>PAK</td>
+					<td>PSA Tour</td>
+					<td>1st round</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Jan 2016</td>
+					<td>[2]</td>
+					<td><a href='/events/6481-womens-sea-cup-2016'>SEA Cup</a></td>
+					<td>MYA</td>
+					<td>-</td>
+					<td>Runner-up</td>
+				</tr>
+				<tr class='subscriber_line'>
+					<td class='topborder'><strong>2010-2015</strong></td>
+					<td class='topborder'><strong>37 events</strong></td>
+					<td class='topborder' colspan='4'>View full historical event history by <a href='/upgrade'>creating</a> a premium account!</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+
+	<div id='match_summary' class='tabletitle'>Match Summary (Played 25 - Won 12, Lost 13)</div>
+	<div class='darkborder'>
+		<table id='match_summary_table' style='width:100%;' cellpadding='2' cellspacing='0' border='0'>
+			<thead>
+				<tr>
+					<th scope='col' style='width:10%'>Date</th>
+					<th scope='col' style='width:17%'>Opponent</th>
+					<th scope='col' style='width:4%'>W/L</th>
+					<th scope='col' style='width:25%'>Event</th>
+					<th scope='col' style='width:5%'>Ctry</th>
+					<th scope='col' style='width:3%'>Rnd</th>
+					<th scope='col' style='width:32%'>Score</th>
+					<th scope='col' style='width:4%'>PSA</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr class='darkline'>
+					<td>Jan 2017</td>
+					<td><a href='/players/10135-chan-yiwen'>Chan Yiwen</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6944-womens-malaysian-tour-2017'>Malaysian Tour</a></td>
+					<td>MAS</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-4, 10-12, 6-11, 7-11 (38m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td class='topborder'>Dec 2016</td>
+					<td class='topborder'><a href='/players/6102-rachel-arnold'>Rachel Arnold</a></td>
+					<td class='topborder' title=''>L</td>
+					<td class='topborder'><a href='/events/6877-womens-malaysian-tour-2016'>Malaysian Tour</a></td>
+					<td class='topborder'>MAS</td>
+					<td class='topborder'><abbr title='Semi-finals'>sf</abbr></td>
+					<td class='topborder'>6-11, 6-11, 5-11 (31m)</td>
+					<td class='topborder'>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Dec 2016</td>
+					<td><a href='/players/10135-chan-yiwen'>Chan Yiwen</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6877-womens-malaysian-tour-2016'>Malaysian Tour</a></td>
+					<td>MAS</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>9-11, 7-11, 11-6, 11-8, 13-11 (55m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Dec 2016</td>
+					<td><a href='/players/10263-lai-wen-li'>Lai Wen Li</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6877-womens-malaysian-tour-2016'>Malaysian Tour</a></td>
+					<td>MAS</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-7, 11-2, 11-4 (23m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Nov 2016</td>
+					<td><a href='/players/6102-rachel-arnold'>Rachel Arnold</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6849-womens-malaysian-nationals-2016'>Malaysian Nationals</a></td>
+					<td>MAS</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>5-11, 7-11, 6-11 (21m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Nov 2016</td>
+					<td><a href='/players/10135-chan-yiwen'>Chan Yiwen</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6849-womens-malaysian-nationals-2016'>Malaysian Nationals</a></td>
+					<td>MAS</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>9-11, 11-7, 12-10, 8-11, 11-9</td>
+					<td>N</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Oct 2016</td>
+					<td><a href='/players/7169-sivasangari-subramaniam'>Sivasangari Subramaniam</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6809-womens-malaysian-tour-2016'>Malaysian Tour</a></td>
+					<td>MAS</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>7-11 ret.</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Oct 2016</td>
+					<td><a href='/players/10263-lai-wen-li'>Lai Wen Li</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6809-womens-malaysian-tour-2016'>Malaysian Tour</a></td>
+					<td>MAS</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>7-11, 11-9, 12-10, 11-8 (46m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Oct 2016</td>
+					<td><a href='/players/5312-vanessa-chu'>Vanessa Chu</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6790-womens-malaysian-tour-2016'>Malaysian Tour</a></td>
+					<td>MAS</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>4-11, 5-11, 5-11 (17m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Oct 2016</td>
+					<td><a href='/players/2686-farah-momen'>Farah Momen</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6790-womens-malaysian-tour-2016'>Malaysian Tour</a></td>
+					<td>MAS</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-8, 7-11, 11-7, 11-9 (38m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Oct 2016</td>
+					<td><a href='/players/11798-wong-heng-wai'>Wong Heng Wai</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6786-womens-malaysian-tour-2016'>Malaysian Tour</a></td>
+					<td>MAS</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-8, 7-11, 6-11, 7-11 (29m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Jun 2016</td>
+					<td><a href='/players/6102-rachel-arnold'>Rachel Arnold</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6655-womens-penang-open-2016'>Penang Open</a></td>
+					<td>MAS</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>10-12, 11-7, 1-11, 9-11 (34m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Jun 2016</td>
+					<td><a href='/players/9956-ooi-kah-yan'>Ooi Kah Yan</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6655-womens-penang-open-2016'>Penang Open</a></td>
+					<td>MAS</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-8, 7-11, 12-10, 11-7 (48m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Apr 2016</td>
+					<td><a href='/players/334-line-hansen'>Line Hansen</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6191-womens-world-championship-2016'>World Championship</a></td>
+					<td>MAS</td>
+					<td><abbr title='1st qualifying round'>Q</abbr></td>
+					<td>6-11, 3-11, 2-11 (23m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Apr 2016</td>
+					<td><a href='/players/6270-zoe-foo-yuk-han'>Zoe Foo Yuk Han</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6607-womens-malaysian-tour-2016'>Malaysian Tour</a></td>
+					<td>MAS</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-4, 11-8, 4-11, 2-11, 6-11 (43m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Apr 2016</td>
+					<td><a href='/players/7169-sivasangari-subramaniam'>Sivasangari Subramaniam</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6596-womens-malaysian-tour-2016'>Malaysian Tour</a></td>
+					<td>MAS</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>6-11, 7-11, 6-11 (22m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Apr 2016</td>
+					<td><a href='/players/3451-noor-shadira'>Noor Shadira</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6596-womens-malaysian-tour-2016'>Malaysian Tour</a></td>
+					<td>MAS</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-7, 11-6, 11-8 (22m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Mar 2016</td>
+					<td><a href='/players/5311-ho-tze-lok'>Ho Tze-Lok</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6575-womens-malaysian-tour-2016'>Malaysian Tour</a></td>
+					<td>MAS</td>
+					<td><abbr title='Semi-finals'>sf</abbr></td>
+					<td>7-11, 6-11, 3-11 (39m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Mar 2016</td>
+					<td><a href='/players/2252-carmen-lee'>Carmen Lee</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6575-womens-malaysian-tour-2016'>Malaysian Tour</a></td>
+					<td>MAS</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>12-10, 11-7, 6-11, 11-8 (38m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Mar 2016</td>
+					<td><a href='/players/11795-nurul-izzah-abdul-razak'>Nurul Izzah Abdul Razak</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6575-womens-malaysian-tour-2016'>Malaysian Tour</a></td>
+					<td>MAS</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-5, 7-11, 12-10, 3-11, 11-6</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Feb 2016</td>
+					<td><a href='/players/1288-maria-toorpakai-wazir'>Maria Toorpakai Wazir</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6544-womens-bahria-town-international-2016'>Bahria Town International</a></td>
+					<td>PAK</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>5-11, 4-11, 2-11 (18m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Feb 2016</td>
+					<td><a href='/players/2686-farah-momen'>Farah Momen</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6544-womens-bahria-town-international-2016'>Bahria Town International</a></td>
+					<td>PAK</td>
+					<td><abbr title='Qualifying finals'>Q</abbr></td>
+					<td>11-3, 11-9, 5-11, 11-2 (27m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Jan 2016</td>
+					<td><a href='/players/7169-sivasangari-subramaniam'>Sivasangari Subramaniam</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6481-womens-sea-cup-2016'>SEA Cup</a></td>
+					<td>MYA</td>
+					<td><abbr title='Runner-up'>F</abbr></td>
+					<td>8-11, 7-11, 11-9, 9-11</td>
+					<td>N</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Jan 2016</td>
+					<td><a href='/players/489-nur-adawiyah'>Nur Adawiyah</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6481-womens-sea-cup-2016'>SEA Cup</a></td>
+					<td>MYA</td>
+					<td><abbr title='Semi-finals'>sf</abbr></td>
+					<td>9-11, 11-9, 11-7, 10-12, 14-12</td>
+					<td>N</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Jan 2016</td>
+					<td><a href='/players/11594-anantana-prasertratanakul'>Anantana Prasertratanakul</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6481-womens-sea-cup-2016'>SEA Cup</a></td>
+					<td>MYA</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>11-3, 11-6, 11-6</td>
+					<td>N</td>
+				</tr>
+				<tr class='subscriber_line'>
+					<td class='topborder'><strong>2010-2015</strong></td>
+					<td class='topborder'><strong>67 matches</strong></td>
+					<td class='topborder' colspan='6'>View full historical match history by <a href='/upgrade'>creating</a> a premium account!</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+
+	<div class='ad_bar_footer'>
+		<!-- Footer -->
+		<ins class='adsbygoogle'
+		     style='display:inline-block;width:728px;height:90px'
+		     data-ad-client='ca-pub-0605489790642236'
+		     data-ad-slot='1142131485'></ins>
+		<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+	</div>
+
+</div>
+
+<div id='si_footer'>
+	<ul id='footer_left'>
+		<li id='copyright' class='li_left'>
+			Squash Info &copy; 2017
+		</li>
+	</ul>
+	<ul id='footer_right'>
+		<li class='li_right'>
+			<strong><a href='mailto:info@squashinfo.com'>Contact us</a></strong>
+		</li>
+		<li class='li_right'>
+			<a href='https://twitter.com/SquashInfo' class='twitter-follow-button' data-show-count='false'>Follow @SquashInfo</a>
+		</li>
+	</ul>
+</div>
+
+<div>
+	<script type='text/javascript'>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-1186220-1']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</div>
+
+</div>
+</div>
+</body>
+</html>

@@ -1,0 +1,584 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+
+	<meta charset='utf-8' />
+	<meta name='author' content='Squash Info' />
+	<meta name='keywords' content='squash information rankings psa wsa wispa results events players' />
+
+	<link rel='shortcut icon' href='/favicon.ico' type='image/x-icon' />
+	<script src='https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js'></script>
+	<script src='https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js'></script>
+	<link rel='stylesheet' href='https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/themes/smoothness/jquery-ui.css'>
+	<script src='/js/jquery.timeago.js'></script>
+	<script src='/js/jquery.unveil.min.js'></script>
+	<script src='/js/jquery.leanModal.ch.1461605769.js'></script>
+	<script src='/js/jquery.tokeninput.js'></script>
+	<link rel='stylesheet' href='/css/token-input.css'>
+	<script src='http://platform.twitter.com/widgets.js'></script>
+	<script src='https://apis.google.com/js/platform.js'></script>
+	<script src='/js/jquery.cookiebar.js'></script>
+	<link rel='stylesheet' href='/css/jquery.cookiebar.1444581949.css'>
+	<script src='https://www.gstatic.com/charts/loader.js'></script>
+	<script async src='//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js'></script>
+	<script src='/js/main.1461605758.js'></script>
+	<link rel='stylesheet' href='/css/main.1487399333.css'>
+
+	<title>Squash Info | Khawaja Adil Maqbool | Squash</title>
+
+</head>
+<body onload="">
+
+<div id='fb-root'></div>
+<script>!function(e,n,t){var o,c=e.getElementsByTagName(n)[0];e.getElementById(t)||(o=e.createElement(n),o.id=t,o.src='//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.5',c.parentNode.insertBefore(o,c))}(document,'script','facebook-jssdk');</script>
+<script type='text/javascript'>
+	
+	$(document).ready(function() {
+		
+		$.cookieBar({});
+		
+		$('.logout').click(function(event) {
+			
+			if (!confirm('Are you sure you want to log out?')) {
+				event.preventDefault();
+			}
+			
+		});
+		
+	});
+	
+</script>
+<div id='centre_body'>
+
+<div id='header'>
+	<ul id='header_left'>
+		<li id='header_logo' class='li_left'>
+			<a href='/'><img src='/img/logos/si_logo.png' alt='Squash Info, the definitive squash resource' style='vertical-align: middle;' /></a>
+		</li>
+	</ul>
+	<ul id='header_right'>
+		<li id='header_search' class='li_right'>
+			<form id='header_search_form' method='get' action='/search'>
+				<input type='text' name='q' id='q' value='' size='20' maxlength='30' placeholder='Search...' />
+				<input type='submit' value='Go' />
+			</form>
+		</li>
+		<li id='header_signup' class='li_right'><a href='/signup'>Sign Up</a></li>
+		<li id='header_login' class='li_right'>
+			<a rel='leanModal' data-url='%2Fplayers%2F592-khawaja-adil-maqbool' href='/login'>Log In</a>
+		</li>
+	</ul>
+</div>
+
+<div id='login_box'>
+	<iframe id='login_iframe' src='/loading.htm' scrolling='no' seamless></iframe>
+</div>
+
+<div id='main_block'>
+
+<div id='left_bar'>
+	<div id='current_date_time'>5:10 pm <br />4 Apr 2017</div>
+	<ul id='navlist'>
+		<li><a href='/' title='Home'>Home</a></li>
+		<li><a href='/news' title='Squash News'>News</a></li>
+		<li><a href='/results' title='Squash Event Results'>Results</a></li>
+		<li><a href='/rankings' title='PSA World Squash Rankings'>Rankings</a></li>
+		<li><a href='/calendar/2017' title='Squash Event Calendar'>Calendar</a></li>
+		<li><a href='/records' title='Squash Records &amp; Statistics'>Records</a></li>
+	</ul>
+</div>
+
+
+<div id='content'>
+
+	<div class='ad_bar_top'>
+		<!-- index -->
+		<ins class='adsbygoogle'
+		     style='display:inline-block;width:728px;height:90px'
+		     data-ad-client='ca-pub-0605489790642236'
+		     data-ad-slot='9600788702'></ins>
+		<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+	</div>
+
+	<h1>
+		Khawaja Adil Maqbool <span style='color:#444444;'>(Pakistan)</span>
+	</h1>
+	<ul id='social_media'>
+		<li id='sm_twitter'>
+			<a href='https://twitter.com/@adilmaqbool88' class='twitter-follow-button' data-show-count='false'>Follow @adilmaqbool88</a>
+		</li>
+	</ul>
+	<div>
+	<h3>
+		Statistics:&nbsp;&nbsp;
+			<a href='/rankings/592-khawaja-adil-maqbool'>Ranking History</a>
+			<br />
+	</h3>
+		</div>
+	<div class='content_column'>
+		<div id='world_ranking_box'>
+			<div id='world_ranking'>127</div>
+			<strong>PSA Ranking</strong>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Born:</span>
+			<span>5 Apr 1988 (age 28)</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Gender:</span>
+			<span>Male</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Birthplace:</span>
+			<span>Abu Dhabi, UAE</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Residence:</span>
+			<span>Dubai, UAE</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Height:</span>
+			<span>175cm (5 ft 9 in)</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Weight:</span>
+			<span>82kg (12 st 13 lb)</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Joined PSA:</span>
+			<span>2003</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Coach:</span>
+			<span>Khawaja Maqbool</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Highest WR:</span>
+			<span>65 (Nov 2008)</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Club:</span>
+			<span>Marooj Rotana, Dubai</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Racket:</span>
+			<span>Harrow</span>
+		</div>
+	</div>
+
+	<div class='clear' style='padding-bottom:20px'></div>
+	<div class='tabletitle' id='news_mentions'>News</div>
+	<div class='darkborder'>
+		<table style='width:100%' cellpadding='2' cellspacing='0' border='0'>
+			<tr class='darkline'>
+				<td style='width:10%' valign='top'>5 Jun 2015</td>
+				<td style='width:90%'><a href='/news/6625-kent-heroes-make-it-double-delight-at-the-mote'>Kent Heroes Make It Double Delight At The Mote</a></td>
+			</tr>
+			<tr class='lightline'>
+				<td style='width:10%' valign='top'>21 Dec 2013</td>
+				<td style='width:90%'><a href='/news/5941-farhans-face-fourth-home-battle-in-karachi'>Farhans Face Fourth Home Battle In Karachi</a></td>
+			</tr>
+			<tr class='darkline'>
+				<td style='width:10%' valign='top'>20 Dec 2013</td>
+				<td style='width:90%'><a href='/news/5939-mehboob-downs-danish-in-karachi-upset'>Mehboob Downs Danish In Karachi Upset</a></td>
+			</tr>
+			<tr class='lightline'>
+				<td style='width:10%' valign='top'>8 Nov 2013</td>
+				<td style='width:90%'><a href='/news/5868-injury-halts-ramys-qatar-classic-campaign'>Injury Halts Ramy&#039;s Qatar Classic Campaign</a></td>
+			</tr>
+			<tr class='darkline'>
+				<td style='width:10%' valign='top'>9 Oct 2013</td>
+				<td style='width:90%'><a href='/news/5806-home-heroes-swim-into-royal-lake-club-quarters'>Home Heroes Swim Into Royal Lake Club Quarters</a></td>
+			</tr>
+		</table>
+	</div>
+
+	<div id='upcoming_events' class='tabletitle'>Upcoming Events</div>
+	<div class='darkborder'>
+		<div class='one_entry'>None</div>
+	</div>
+
+	<div class='tabletitle'>Event Summary (11)</div>
+	<div class='darkborder'>
+		<table style='width:100%;' cellpadding='2' cellspacing='0' border='0'>
+			<thead>
+				<tr>
+					<th scope='col' style='width:10%'>Date</th>
+					<th scope='col' style='width:10%'>Seeding</th>
+					<th scope='col' style='width:35%'>Event</th>
+					<th scope='col' style='width:5%'>Ctry</th>
+					<th scope='col' style='width:20%'>Tour</th>
+					<th scope='col' style='width:20%'>Round Reached</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr class='darkline'>
+					<td>Nov 2016</td>
+					<td>-</td>
+					<td><a href='/events/6842-mens-cas-international-2016'>CAS International</a></td>
+					<td>PAK</td>
+					<td>PSA Tour</td>
+					<td>1st qualifying round</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Nov 2016</td>
+					<td>-</td>
+					<td><a href='/events/6837-mens-qatar-classic-2016'>Qatar Classic</a></td>
+					<td>QAT</td>
+					<td>PSA World Series</td>
+					<td>1st qualifying round</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Nov 2016</td>
+					<td>[2]</td>
+					<td><a href='/events/6835-mens-amman-open-2016'>Amman Open</a></td>
+					<td>JOR</td>
+					<td>PSA Tour</td>
+					<td>Semi-finals</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Nov 2016</td>
+					<td>-</td>
+					<td><a href='/events/6805-mens-world-championship-2016'>World Championship</a></td>
+					<td>EGY</td>
+					<td>PSA World Series</td>
+					<td>1st qualifying round</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Oct 2016</td>
+					<td>-</td>
+					<td><a href='/events/6799-mens-cns-international-2016'>CNS International</a></td>
+					<td>PAK</td>
+					<td>PSA Tour</td>
+					<td>1st qualifying round</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Oct 2016</td>
+					<td>-</td>
+					<td><a href='/events/6777-mens-coas-international-2016'>COAS International</a></td>
+					<td>PAK</td>
+					<td>PSA Tour</td>
+					<td>Qualifying finals</td>
+				</tr>
+				<tr class='darkline'>
+					<td>May 2016</td>
+					<td>[3]</td>
+					<td><a href='/events/6616-mens-fmc-international-2016'>FMC International</a></td>
+					<td>PAK</td>
+					<td>PSA Tour</td>
+					<td>1st round</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Apr 2016</td>
+					<td>[6]</td>
+					<td><a href='/events/6606-mens-malaysian-tour-2016'>Malaysian Tour</a></td>
+					<td>MAS</td>
+					<td>PSA Tour</td>
+					<td>1st round</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Apr 2016</td>
+					<td>[4]</td>
+					<td><a href='/events/6591-mens-roshan-khan-open-2016'>Roshan Khan Open</a></td>
+					<td>PAK</td>
+					<td>PSA Tour</td>
+					<td>Semi-finals</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Mar 2016</td>
+					<td>[<abbr title='Qualifier'>Q</abbr>]</td>
+					<td><a href='/events/6567-mens-qatar-circuit-no3-2016'>Qatar Circuit No3</a></td>
+					<td>QAT</td>
+					<td>PSA Tour</td>
+					<td>1st round</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Feb 2016</td>
+					<td>[1]</td>
+					<td><a href='/events/6545-mens-persian-gulf-cup-2016'>Persian Gulf Cup</a></td>
+					<td>IRI</td>
+					<td>PSA Tour</td>
+					<td>Semi-finals</td>
+				</tr>
+				<tr class='subscriber_line'>
+					<td class='topborder'><strong>2003-2015</strong></td>
+					<td class='topborder'><strong>143 events</strong></td>
+					<td class='topborder' colspan='4'>View full historical event history by <a href='/upgrade'>creating</a> a premium account!</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+
+	<div id='match_summary' class='tabletitle'>Match Summary (Played 20 - Won 9, Lost 11)</div>
+	<div class='darkborder'>
+		<table id='match_summary_table' style='width:100%;' cellpadding='2' cellspacing='0' border='0'>
+			<thead>
+				<tr>
+					<th scope='col' style='width:10%'>Date</th>
+					<th scope='col' style='width:17%'>Opponent</th>
+					<th scope='col' style='width:4%'>W/L</th>
+					<th scope='col' style='width:25%'>Event</th>
+					<th scope='col' style='width:5%'>Ctry</th>
+					<th scope='col' style='width:3%'>Rnd</th>
+					<th scope='col' style='width:32%'>Score</th>
+					<th scope='col' style='width:4%'>PSA</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr class='darkline'>
+					<td>Nov 2016</td>
+					<td><a href='/players/6782-amaad-fareed'>Amaad Fareed</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6842-mens-cas-international-2016'>CAS International</a></td>
+					<td>PAK</td>
+					<td><abbr title='1st qualifying round'>Q</abbr></td>
+					<td>11-9, 8-11, 5-8 ret. (22m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Nov 2016</td>
+					<td><a href='/players/2767-declan-james'>Declan James</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6837-mens-qatar-classic-2016'>Qatar Classic</a></td>
+					<td>QAT</td>
+					<td><abbr title='1st qualifying round'>Q</abbr></td>
+					<td>7-11, 6-11, 3-11 (24m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Nov 2016</td>
+					<td><a href='/players/9382-tsz-kwan-lau'>Tsz Kwan Lau</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6835-mens-amman-open-2016'>Amman Open</a></td>
+					<td>JOR</td>
+					<td><abbr title='Semi-finals'>sf</abbr></td>
+					<td>9-11, 11-8, 11-13, 10-12</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Nov 2016</td>
+					<td><a href='/players/7258-samieollah-ghased-abadi'>Samieollah Ghased Abadi</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6835-mens-amman-open-2016'>Amman Open</a></td>
+					<td>JOR</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>6-11, 11-9, 11-7, 11-4 (50m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Nov 2016</td>
+					<td><a href='/players/10551-khaled-labib'>Khaled Labib</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6835-mens-amman-open-2016'>Amman Open</a></td>
+					<td>JOR</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-8, 5-11, 10-12, 11-4, 11-6 (61m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Nov 2016</td>
+					<td><a href='/players/3361-evan-williams'>Evan Williams</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6805-mens-world-championship-2016'>World Championship</a></td>
+					<td>EGY</td>
+					<td><abbr title='1st qualifying round'>Q</abbr></td>
+					<td>8-11, 10-12, 10-12 (25m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Oct 2016</td>
+					<td><a href='/players/9351-abbas-shoukat'>Abbas Shoukat</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6799-mens-cns-international-2016'>CNS International</a></td>
+					<td>PAK</td>
+					<td><abbr title='1st qualifying round'>Q</abbr></td>
+					<td>8-11, 9-11, 11-5, 6-11 (33m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Oct 2016</td>
+					<td><a href='/players/7974-faraz-muhammad'>Faraz Muhammad</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6777-mens-coas-international-2016'>COAS International</a></td>
+					<td>PAK</td>
+					<td><abbr title='Qualifying finals'>Q</abbr></td>
+					<td>14-16, 7-11, 13-15 (39m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Oct 2016</td>
+					<td><a href='/players/8697-ismail-rauf'>Ismail Rauf</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6777-mens-coas-international-2016'>COAS International</a></td>
+					<td>PAK</td>
+					<td><abbr title='1st qualifying round'>Q</abbr></td>
+					<td>11-7, 11-6, 13-11 (19m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>May 2016</td>
+					<td><a href='/players/7974-faraz-muhammad'>Faraz Muhammad</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6616-mens-fmc-international-2016'>FMC International</a></td>
+					<td>PAK</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>8-11, 11-3, 8-11, 11-5, 11-13 (45m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Apr 2016</td>
+					<td><a href='/players/5725-bernat-jaume'>Bernat Jaume</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6606-mens-malaysian-tour-2016'>Malaysian Tour</a></td>
+					<td>MAS</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>9-11, 11-7, 9-11, 9-11 (50m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Apr 2016</td>
+					<td><a href='/players/2598-farhan-zaman'>Farhan Zaman</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6591-mens-roshan-khan-open-2016'>Roshan Khan Open</a></td>
+					<td>PAK</td>
+					<td><abbr title='Semi-finals'>sf</abbr></td>
+					<td>7-11, 8-11, 6-11 (23m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Apr 2016</td>
+					<td><a href='/players/8337-asim-khan'>Asim Khan</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6591-mens-roshan-khan-open-2016'>Roshan Khan Open</a></td>
+					<td>PAK</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>11-4, 14-12, 8-11, 10-12, 11-6 (58m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Apr 2016</td>
+					<td><a href='/players/3767-mahad-javed'>Mahad Javed</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6591-mens-roshan-khan-open-2016'>Roshan Khan Open</a></td>
+					<td>PAK</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-7, 11-8, 11-6 (18m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Mar 2016</td>
+					<td><a href='/players/2774-karim-ali-fathi'>Karim Ali Fathi</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6567-mens-qatar-circuit-no3-2016'>Qatar Circuit No3</a></td>
+					<td>QAT</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>6-11, 11-13, 8-11 (28m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Mar 2016</td>
+					<td><a href='/players/8362-ben-grindrod'>Ben Grindrod</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6567-mens-qatar-circuit-no3-2016'>Qatar Circuit No3</a></td>
+					<td>QAT</td>
+					<td><abbr title='Qualifying finals'>Q</abbr></td>
+					<td>11-5, 11-9, 11-6 (26m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Mar 2016</td>
+					<td><a href='/players/4872-dani-pascual'>Dani Pascual</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6567-mens-qatar-circuit-no3-2016'>Qatar Circuit No3</a></td>
+					<td>QAT</td>
+					<td><abbr title='1st qualifying round'>Q</abbr></td>
+					<td>11-6, 11-8, 16-14 (39m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Feb 2016</td>
+					<td><a href='/players/8337-asim-khan'>Asim Khan</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6545-mens-persian-gulf-cup-2016'>Persian Gulf Cup</a></td>
+					<td>IRI</td>
+					<td><abbr title='Semi-finals'>sf</abbr></td>
+					<td>11-8, 11-9, 3-11, 4-11, 7-11</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Feb 2016</td>
+					<td><a href='/players/8050-israr-ahmed'>Israr Ahmed</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6545-mens-persian-gulf-cup-2016'>Persian Gulf Cup</a></td>
+					<td>IRI</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>11-7, 11-8, 7-11, 11-8</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Feb 2016</td>
+					<td><a href='/players/12081-amine-regaya'>Amine Regaya</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6545-mens-persian-gulf-cup-2016'>Persian Gulf Cup</a></td>
+					<td>IRI</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-5, 11-6, 11-5</td>
+					<td>Y</td>
+				</tr>
+				<tr class='subscriber_line'>
+					<td class='topborder'><strong>2003-2015</strong></td>
+					<td class='topborder'><strong>228 matches</strong></td>
+					<td class='topborder' colspan='6'>View full historical match history by <a href='/upgrade'>creating</a> a premium account!</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+
+	<div class='ad_bar_footer'>
+		<!-- Footer -->
+		<ins class='adsbygoogle'
+		     style='display:inline-block;width:728px;height:90px'
+		     data-ad-client='ca-pub-0605489790642236'
+		     data-ad-slot='1142131485'></ins>
+		<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+	</div>
+
+</div>
+
+<div id='si_footer'>
+	<ul id='footer_left'>
+		<li id='copyright' class='li_left'>
+			Squash Info &copy; 2017
+		</li>
+	</ul>
+	<ul id='footer_right'>
+		<li class='li_right'>
+			<strong><a href='mailto:info@squashinfo.com'>Contact us</a></strong>
+		</li>
+		<li class='li_right'>
+			<a href='https://twitter.com/SquashInfo' class='twitter-follow-button' data-show-count='false'>Follow @SquashInfo</a>
+		</li>
+	</ul>
+</div>
+
+<div>
+	<script type='text/javascript'>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-1186220-1']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</div>
+
+</div>
+</div>
+</body>
+</html>

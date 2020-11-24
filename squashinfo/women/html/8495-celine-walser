@@ -1,0 +1,660 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+
+	<meta charset='utf-8' />
+	<meta name='author' content='Squash Info' />
+	<meta name='keywords' content='squash information rankings psa wsa wispa results events players' />
+
+	<link rel='shortcut icon' href='/favicon.ico' type='image/x-icon' />
+	<script src='https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js'></script>
+	<script src='https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js'></script>
+	<link rel='stylesheet' href='https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/themes/smoothness/jquery-ui.css'>
+	<script src='/js/jquery.timeago.js'></script>
+	<script src='/js/jquery.unveil.min.js'></script>
+	<script src='/js/jquery.leanModal.ch.1461605769.js'></script>
+	<script src='/js/jquery.tokeninput.js'></script>
+	<link rel='stylesheet' href='/css/token-input.css'>
+	<script src='http://platform.twitter.com/widgets.js'></script>
+	<script src='https://apis.google.com/js/platform.js'></script>
+	<script src='/js/jquery.cookiebar.js'></script>
+	<link rel='stylesheet' href='/css/jquery.cookiebar.1444581949.css'>
+	<script src='https://www.gstatic.com/charts/loader.js'></script>
+	<script async src='//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js'></script>
+	<script src='/js/main.1461605758.js'></script>
+	<link rel='stylesheet' href='/css/main.1487399333.css'>
+
+	<title>Squash Info | Céline Walser | Squash</title>
+
+</head>
+<body onload="">
+
+<div id='fb-root'></div>
+<script>!function(e,n,t){var o,c=e.getElementsByTagName(n)[0];e.getElementById(t)||(o=e.createElement(n),o.id=t,o.src='//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.5',c.parentNode.insertBefore(o,c))}(document,'script','facebook-jssdk');</script>
+<script type='text/javascript'>
+	
+	$(document).ready(function() {
+		
+		$.cookieBar({});
+		
+		$('.logout').click(function(event) {
+			
+			if (!confirm('Are you sure you want to log out?')) {
+				event.preventDefault();
+			}
+			
+		});
+		
+	});
+	
+</script>
+<div id='centre_body'>
+
+<div id='header'>
+	<ul id='header_left'>
+		<li id='header_logo' class='li_left'>
+			<a href='/'><img src='/img/logos/si_logo.png' alt='Squash Info, the definitive squash resource' style='vertical-align: middle;' /></a>
+		</li>
+	</ul>
+	<ul id='header_right'>
+		<li id='header_search' class='li_right'>
+			<form id='header_search_form' method='get' action='/search'>
+				<input type='text' name='q' id='q' value='' size='20' maxlength='30' placeholder='Search...' />
+				<input type='submit' value='Go' />
+			</form>
+		</li>
+		<li id='header_signup' class='li_right'><a href='/signup'>Sign Up</a></li>
+		<li id='header_login' class='li_right'>
+			<a rel='leanModal' data-url='%2Fplayers%2F8495-celine-walser' href='/login'>Log In</a>
+		</li>
+	</ul>
+</div>
+
+<div id='login_box'>
+	<iframe id='login_iframe' src='/loading.htm' scrolling='no' seamless></iframe>
+</div>
+
+<div id='main_block'>
+
+<div id='left_bar'>
+	<div id='current_date_time'>5:29 pm <br />4 Apr 2017</div>
+	<ul id='navlist'>
+		<li><a href='/' title='Home'>Home</a></li>
+		<li><a href='/news' title='Squash News'>News</a></li>
+		<li><a href='/results' title='Squash Event Results'>Results</a></li>
+		<li><a href='/rankings' title='PSA World Squash Rankings'>Rankings</a></li>
+		<li><a href='/calendar/2017' title='Squash Event Calendar'>Calendar</a></li>
+		<li><a href='/records' title='Squash Records &amp; Statistics'>Records</a></li>
+	</ul>
+</div>
+
+
+<div id='content'>
+
+	<div class='ad_bar_top'>
+		<!-- index -->
+		<ins class='adsbygoogle'
+		     style='display:inline-block;width:728px;height:90px'
+		     data-ad-client='ca-pub-0605489790642236'
+		     data-ad-slot='9600788702'></ins>
+		<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+	</div>
+
+	<h1>
+		Céline Walser <span style='color:#444444;'>(Switzerland)</span>
+	</h1>
+	<ul id='social_media'>
+	</ul>
+	<div>
+	<h3>
+		Statistics:&nbsp;&nbsp;
+			<a href='/rankings/8495-celine-walser'>Ranking History</a>
+			<br />
+	</h3>
+		</div>
+	<div class='content_column'>
+		<div id='world_ranking_box'>
+			<div id='world_ranking'>164</div>
+			<strong>PSA Ranking</strong>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Born:</span>
+			<span>31 May 1998 (age 18)</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Gender:</span>
+			<span>Female</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Birthplace:</span>
+			<span>Liestal</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Residence:</span>
+			<span>Frenkendorf</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Height:</span>
+			<span>175cm (5 ft 9 in)</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Weight:</span>
+			<span>60kg (9 st 6 lb)</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Plays:</span>
+			<span>Right-handed</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Highest WR:</span>
+			<span>139 (Jun 2015)</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Racket:</span>
+			<span>Tecnifibre</span>
+		</div>
+	</div>
+
+	<div class='clear' style='padding-bottom:20px'></div>
+	<div class='tabletitle' id='news_mentions'>News</div>
+	<div class='darkborder'>
+		<table style='width:100%' cellpadding='2' cellspacing='0' border='0'>
+			<tr class='darkline'>
+				<td style='width:10%' valign='top'>9 Aug 2016</td>
+				<td style='width:90%'><a href='/news/6813-egyptians-dominate-last-eight-world-line-ups-in-poland'>Egyptians Dominate Last Eight World Line-Ups In Poland</a></td>
+			</tr>
+			<tr class='lightline'>
+				<td style='width:10%' valign='top'>8 Aug 2016</td>
+				<td style='width:90%'><a href='/news/6812-pakistanis-lead-world-junior-upsets-in-bielsko-biala'>Pakistanis Lead World Junior Upsets In Bielsko-Biała</a></td>
+			</tr>
+			<tr class='darkline'>
+				<td style='width:10%' valign='top'>7 Aug 2016</td>
+				<td style='width:90%'><a href='/news/6811-walsh-wins-early-worlds-upset-in-poland'>Walsh Wins Early Worlds Upset In Poland</a></td>
+			</tr>
+			<tr class='lightline'>
+				<td style='width:10%' valign='top'>5 Aug 2016</td>
+				<td style='width:90%'><a href='/news/6810-world-squash-success-beckons-in-bielsko-biala'>World Squash Success Beckons in Bielsko-Biała</a></td>
+			</tr>
+			<tr class='darkline'>
+				<td style='width:10%' valign='top'>29 Jul 2016</td>
+				<td style='width:90%'><a href='/news/6809-habiba-withdrawal-leads-to-world-junior-championship-redraw'>Habiba Withdrawal Leads To World Junior Championship Redraw</a></td>
+			</tr>
+		</table>
+	</div>
+
+	<div id='upcoming_events' class='tabletitle'>Upcoming Events</div>
+	<div class='darkborder'>
+		<table style='width:100%' cellpadding='2' cellspacing='0' border='0'>
+			<tr>
+				<th scope='col' style='width:10%'>Date</th>
+				<th scope='col' style='width:10%'>Seeding</th>
+				<th scope='col' style='width:35%'>Event</th>
+				<th scope='col' style='width:5%'>Ctry</th>
+				<th scope='col' style='width:40%'>Opponent</th>
+			</tr>
+			<tr class='darkline'>
+				<td valign='top'>Apr 2017</td>
+				<td>[3/4]</td>
+				<td><a href='/events/7045-womens-european-junior-u19-championship-2017'>European Junior U19 Championship</a></td>
+				<td>POR</td>
+				<td>Qualifier</td>
+			</tr>
+		</table>
+	</div>
+
+	<div class='tabletitle'>Event Summary (10)</div>
+	<div class='darkborder'>
+		<table style='width:100%;' cellpadding='2' cellspacing='0' border='0'>
+			<thead>
+				<tr>
+					<th scope='col' style='width:10%'>Date</th>
+					<th scope='col' style='width:10%'>Seeding</th>
+					<th scope='col' style='width:35%'>Event</th>
+					<th scope='col' style='width:5%'>Ctry</th>
+					<th scope='col' style='width:20%'>Tour</th>
+					<th scope='col' style='width:20%'>Round Reached</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr class='darkline'>
+					<td>Mar 2017</td>
+					<td>-</td>
+					<td><a href='/events/6800-premier-league-2017'>Premier League 8th Round</a></td>
+					<td>ENG</td>
+					<td>-</td>
+					<td>-</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Jan 2017</td>
+					<td>[9/16]</td>
+					<td><a href='/events/6895-womens-british-junior-u19-open-2017'>British Junior U19 Open</a></td>
+					<td>ENG</td>
+					<td>-</td>
+					<td>2nd round</td>
+				</tr>
+				<tr class='darkline'>
+					<td class='topborder'>Dec 2016</td>
+					<td class='topborder'>[2]</td>
+					<td class='topborder'><a href='/events/6874-womens-swiss-junior-u19-open-2016'>Swiss Junior U19 Open</a></td>
+					<td class='topborder'>SUI</td>
+					<td class='topborder'>-</td>
+					<td class='topborder'>Runner-up</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Dec 2016</td>
+					<td>[<abbr title='Qualifier'>Q</abbr>]</td>
+					<td><a href='/events/6854-womens-london-open-2016'>London Open</a></td>
+					<td>ENG</td>
+					<td>PSA Tour</td>
+					<td>Quarter-finals</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Aug 2016</td>
+					<td>[9/16]</td>
+					<td><a href='/events/6382-womens-world-junior-championship-2016'>World Junior Championship</a></td>
+					<td>POL</td>
+					<td>-</td>
+					<td>3rd round</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Jul 2016</td>
+					<td>[5/8]</td>
+					<td><a href='/events/6684-womens-pioneer-junior-u19-cup-2016'>Pioneer Junior U19 Cup</a></td>
+					<td>GER</td>
+					<td>-</td>
+					<td>1st round</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Mar 2016</td>
+					<td>-</td>
+					<td><a href='/events/6572-european-junior-u19-team-championship-2016'>European Junior U19 Team Championship</a></td>
+					<td>SUI</td>
+					<td>-</td>
+					<td>-</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Mar 2016</td>
+					<td>[5/8]</td>
+					<td><a href='/events/6571-womens-european-junior-u19-championship-2016'>European Junior U19 Championship</a></td>
+					<td>SUI</td>
+					<td>-</td>
+					<td>Quarter-finals</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Feb 2016</td>
+					<td>[2]</td>
+					<td><a href='/events/6548-womens-french-junior-u19-open-2016'>French Junior U19 Open</a></td>
+					<td>FRA</td>
+					<td>-</td>
+					<td>Semi-finals</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Jan 2016</td>
+					<td>[9/16]</td>
+					<td><a href='/events/6469-womens-british-junior-u19-open-2016'>British Junior U19 Open</a></td>
+					<td>ENG</td>
+					<td>-</td>
+					<td>3rd round</td>
+				</tr>
+				<tr class='subscriber_line'>
+					<td class='topborder'><strong>2013-2015</strong></td>
+					<td class='topborder'><strong>26 events</strong></td>
+					<td class='topborder' colspan='4'>View full historical event history by <a href='/upgrade'>creating</a> a premium account!</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+
+	<div id='match_summary' class='tabletitle'>Match Summary (Played 28 - Won 19, Lost 9)</div>
+	<div class='darkborder'>
+		<table id='match_summary_table' style='width:100%;' cellpadding='2' cellspacing='0' border='0'>
+			<thead>
+				<tr>
+					<th scope='col' style='width:10%'>Date</th>
+					<th scope='col' style='width:17%'>Opponent</th>
+					<th scope='col' style='width:4%'>W/L</th>
+					<th scope='col' style='width:25%'>Event</th>
+					<th scope='col' style='width:5%'>Ctry</th>
+					<th scope='col' style='width:3%'>Rnd</th>
+					<th scope='col' style='width:32%'>Score</th>
+					<th scope='col' style='width:4%'>PSA</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr class='darkline'>
+					<td>Mar 2017</td>
+					<td><a href='/players/1041-sarah-jane-perry'>Sarah-Jane Perry</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6800-premier-league-2017'>Premier League 8th Round</a></td>
+					<td>ENG</td>
+					<td><abbr title='-'>-</abbr></td>
+					<td>9-11, 5-11, 10-12</td>
+					<td>N</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Jan 2017</td>
+					<td><a href='/players/8113-hania-el-hammamy'>Hania El Hammamy</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6895-womens-british-junior-u19-open-2017'>British Junior U19 Open</a></td>
+					<td>ENG</td>
+					<td><abbr title='2nd round'>r2</abbr></td>
+					<td>5-11, 5-11, 4-11 (17m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Jan 2017</td>
+					<td><a href='/players/8255-jemma-stanton'>Jemma Stanton</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6895-womens-british-junior-u19-open-2017'>British Junior U19 Open</a></td>
+					<td>ENG</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-5, 11-4, 11-5 (13m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='lightline'>
+					<td class='topborder'>Dec 2016</td>
+					<td class='topborder'><a href='/players/10124-georgia-adderley'>Georgia Adderley</a></td>
+					<td class='topborder' title=''>L</td>
+					<td class='topborder'><a href='/events/6874-womens-swiss-junior-u19-open-2016'>Swiss Junior U19 Open</a></td>
+					<td class='topborder'>SUI</td>
+					<td class='topborder'><abbr title='Runner-up'>F</abbr></td>
+					<td class='topborder'>11-5, 7-11, 11-5, 10-12, 8-11 (43m)</td>
+					<td class='topborder'>N</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Dec 2016</td>
+					<td><a href='/players/7496-saskia-beinhard'>Saskia Beinhard</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6874-womens-swiss-junior-u19-open-2016'>Swiss Junior U19 Open</a></td>
+					<td>SUI</td>
+					<td><abbr title='Semi-finals'>sf</abbr></td>
+					<td>11-9, 8-11, 11-7, 11-6 (38m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Dec 2016</td>
+					<td><a href='/players/6268-laura-gamblin'>Laura Gamblin</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6874-womens-swiss-junior-u19-open-2016'>Swiss Junior U19 Open</a></td>
+					<td>SUI</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>11-6, 11-3, 11-6 (20m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Dec 2016</td>
+					<td><a href='/players/11893-sanna-koivumaki'>Sanna Koivumäki</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6874-womens-swiss-junior-u19-open-2016'>Swiss Junior U19 Open</a></td>
+					<td>SUI</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-4, 11-6, 11-4</td>
+					<td>N</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Dec 2016</td>
+					<td><a href='/players/5446-rachael-chadwick'>Rachael Chadwick</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6854-womens-london-open-2016'>London Open</a></td>
+					<td>ENG</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>1-11, 12-14, 7-11</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Dec 2016</td>
+					<td><a href='/players/3342-eliza-kargioti'>Eliza Kargioti</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6854-womens-london-open-2016'>London Open</a></td>
+					<td>ENG</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-6, 11-4, 11-3</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Dec 2016</td>
+					<td><a href='/players/9995-stephanie-walton'>Stephanie Walton</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6854-womens-london-open-2016'>London Open</a></td>
+					<td>ENG</td>
+					<td><abbr title='Qualifying finals'>Q</abbr></td>
+					<td>11-3, 11-4, 11-0</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Dec 2016</td>
+					<td><a href='/players/10124-georgia-adderley'>Georgia Adderley</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6854-womens-london-open-2016'>London Open</a></td>
+					<td>ENG</td>
+					<td><abbr title='1st qualifying round'>Q</abbr></td>
+					<td>13-11, 10-12, 11-8, 12-10</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Aug 2016</td>
+					<td><a href='/players/7169-sivasangari-subramaniam'>Sivasangari Subramaniam</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6382-womens-world-junior-championship-2016'>World Junior Championship</a></td>
+					<td>POL</td>
+					<td><abbr title='3rd round'>r3</abbr></td>
+					<td>15-17, 11-3, 7-11, 7-11 (38m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Aug 2016</td>
+					<td><a href='/players/6391-sadia-gul'>Sadia Gul</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6382-womens-world-junior-championship-2016'>World Junior Championship</a></td>
+					<td>POL</td>
+					<td><abbr title='2nd round'>r2</abbr></td>
+					<td>11-3, 11-8, 6-11, 13-15, 11-6 (58m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Aug 2016</td>
+					<td><a href='/players/11352-sung-hee-oh'>Sung Hee Oh</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6382-womens-world-junior-championship-2016'>World Junior Championship</a></td>
+					<td>POL</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-1, 12-10, 11-7</td>
+					<td>N</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Jul 2016</td>
+					<td><a href='/players/11656-eleonore-evans'>Eleonore Evans</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6684-womens-pioneer-junior-u19-cup-2016'>Pioneer Junior U19 Cup</a></td>
+					<td>GER</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>9-11, 9-11, 11-6, 11-9, 8-11 (57m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Mar 2016</td>
+					<td><a href='/players/5525-elin-harlow'>Elin Harlow</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6572-european-junior-u19-team-championship-2016'>European Junior U19 Team Championship</a></td>
+					<td>SUI</td>
+					<td><abbr title='-'>-</abbr></td>
+					<td>11-7, 11-7, 12-10 (21m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Mar 2016</td>
+					<td><a href='/players/8099-julie-rossignol'>Julie Rossignol</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6572-european-junior-u19-team-championship-2016'>European Junior U19 Team Championship</a></td>
+					<td>SUI</td>
+					<td><abbr title='-'>-</abbr></td>
+					<td>11-9, 11-2, 9-11, 11-4 (37m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Mar 2016</td>
+					<td><a href='/players/9692-sarah-lauridsen'>Sarah Lauridsen</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6572-european-junior-u19-team-championship-2016'>European Junior U19 Team Championship</a></td>
+					<td>SUI</td>
+					<td><abbr title='-'>-</abbr></td>
+					<td>12-10, 11-5, 11-4 (21m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Mar 2016</td>
+					<td><a href='/players/10124-georgia-adderley'>Georgia Adderley</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6572-european-junior-u19-team-championship-2016'>European Junior U19 Team Championship</a></td>
+					<td>SUI</td>
+					<td><abbr title='-'>-</abbr></td>
+					<td>13-11, 11-5, 11-4</td>
+					<td>N</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Mar 2016</td>
+					<td><a href='/players/8473-stephanie-ryan'>Stephanie Ryan</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6572-european-junior-u19-team-championship-2016'>European Junior U19 Team Championship</a></td>
+					<td>SUI</td>
+					<td><abbr title='-'>-</abbr></td>
+					<td>11-9, 11-2, 11-6</td>
+					<td>N</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Mar 2016</td>
+					<td><a href='/players/7989-lucy-turmel'>Lucy Turmel</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6571-womens-european-junior-u19-championship-2016'>European Junior U19 Championship</a></td>
+					<td>SUI</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>11-5, 10-12, 5-11, 9-11 (32m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Mar 2016</td>
+					<td><a href='/players/8480-sanne-veldkamp'>Sanne Veldkamp</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6571-womens-european-junior-u19-championship-2016'>European Junior U19 Championship</a></td>
+					<td>SUI</td>
+					<td><abbr title='2nd round'>r2</abbr></td>
+					<td>11-4, 11-4, 12-10 (18m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Mar 2016</td>
+					<td><a href='/players/11537-debora-szerencses'>Debóra Szerencsés</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6571-womens-european-junior-u19-championship-2016'>European Junior U19 Championship</a></td>
+					<td>SUI</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-5, 11-1, 11-3</td>
+					<td>N</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Feb 2016</td>
+					<td><a href='/players/6257-cristina-gomez'>Cristina Gomez</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6548-womens-french-junior-u19-open-2016'>French Junior U19 Open</a></td>
+					<td>FRA</td>
+					<td><abbr title='Semi-finals'>sf</abbr></td>
+					<td>5-11, 11-7, 2-11, 6-11 (50m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Feb 2016</td>
+					<td><a href='/players/7496-saskia-beinhard'>Saskia Beinhard</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6548-womens-french-junior-u19-open-2016'>French Junior U19 Open</a></td>
+					<td>FRA</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>11-8, 7-11, 11-4, 11-4 (42m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Feb 2016</td>
+					<td><a href='/players/8480-sanne-veldkamp'>Sanne Veldkamp</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6548-womens-french-junior-u19-open-2016'>French Junior U19 Open</a></td>
+					<td>FRA</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-6, 11-6, 11-3</td>
+					<td>N</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Jan 2016</td>
+					<td><a href='/players/6182-georgina-kennedy'>Georgina Kennedy</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6469-womens-british-junior-u19-open-2016'>British Junior U19 Open</a></td>
+					<td>ENG</td>
+					<td><abbr title='3rd round'>r3</abbr></td>
+					<td>11-8, 8-11, 8-11, 1-11 (28m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Jan 2016</td>
+					<td><a href='/players/12094-isabel-young'>Isabel Young</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6469-womens-british-junior-u19-open-2016'>British Junior U19 Open</a></td>
+					<td>ENG</td>
+					<td><abbr title='2nd round'>r2</abbr></td>
+					<td>11-3, 11-5, 11-4 (14m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='subscriber_line'>
+					<td class='topborder'><strong>2013-2015</strong></td>
+					<td class='topborder'><strong>62 matches</strong></td>
+					<td class='topborder' colspan='6'>View full historical match history by <a href='/upgrade'>creating</a> a premium account!</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+
+	<div class='ad_bar_footer'>
+		<!-- Footer -->
+		<ins class='adsbygoogle'
+		     style='display:inline-block;width:728px;height:90px'
+		     data-ad-client='ca-pub-0605489790642236'
+		     data-ad-slot='1142131485'></ins>
+		<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+	</div>
+
+</div>
+
+<div id='si_footer'>
+	<ul id='footer_left'>
+		<li id='copyright' class='li_left'>
+			Squash Info &copy; 2017
+		</li>
+	</ul>
+	<ul id='footer_right'>
+		<li class='li_right'>
+			<strong><a href='mailto:info@squashinfo.com'>Contact us</a></strong>
+		</li>
+		<li class='li_right'>
+			<a href='https://twitter.com/SquashInfo' class='twitter-follow-button' data-show-count='false'>Follow @SquashInfo</a>
+		</li>
+	</ul>
+</div>
+
+<div>
+	<script type='text/javascript'>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-1186220-1']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</div>
+
+</div>
+</div>
+</body>
+</html>

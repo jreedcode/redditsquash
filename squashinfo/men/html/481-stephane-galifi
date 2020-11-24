@@ -1,0 +1,533 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+
+	<meta charset='utf-8' />
+	<meta name='author' content='Squash Info' />
+	<meta name='keywords' content='squash information rankings psa wsa wispa results events players' />
+
+	<link rel='shortcut icon' href='/favicon.ico' type='image/x-icon' />
+	<script src='https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js'></script>
+	<script src='https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js'></script>
+	<link rel='stylesheet' href='https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/themes/smoothness/jquery-ui.css'>
+	<script src='/js/jquery.timeago.js'></script>
+	<script src='/js/jquery.unveil.min.js'></script>
+	<script src='/js/jquery.leanModal.ch.1461605769.js'></script>
+	<script src='/js/jquery.tokeninput.js'></script>
+	<link rel='stylesheet' href='/css/token-input.css'>
+	<script src='http://platform.twitter.com/widgets.js'></script>
+	<script src='https://apis.google.com/js/platform.js'></script>
+	<script src='/js/jquery.cookiebar.js'></script>
+	<link rel='stylesheet' href='/css/jquery.cookiebar.1444581949.css'>
+	<script src='https://www.gstatic.com/charts/loader.js'></script>
+	<script async src='//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js'></script>
+	<script src='/js/main.1461605758.js'></script>
+	<link rel='stylesheet' href='/css/main.1487399333.css'>
+
+	<title>Squash Info | Stephane Galifi | Squash</title>
+
+</head>
+<body onload="">
+
+<div id='fb-root'></div>
+<script>!function(e,n,t){var o,c=e.getElementsByTagName(n)[0];e.getElementById(t)||(o=e.createElement(n),o.id=t,o.src='//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.5',c.parentNode.insertBefore(o,c))}(document,'script','facebook-jssdk');</script>
+<script type='text/javascript'>
+	
+	$(document).ready(function() {
+		
+		$.cookieBar({});
+		
+		$('.logout').click(function(event) {
+			
+			if (!confirm('Are you sure you want to log out?')) {
+				event.preventDefault();
+			}
+			
+		});
+		
+	});
+	
+</script>
+<div id='centre_body'>
+
+<div id='header'>
+	<ul id='header_left'>
+		<li id='header_logo' class='li_left'>
+			<a href='/'><img src='/img/logos/si_logo.png' alt='Squash Info, the definitive squash resource' style='vertical-align: middle;' /></a>
+		</li>
+	</ul>
+	<ul id='header_right'>
+		<li id='header_search' class='li_right'>
+			<form id='header_search_form' method='get' action='/search'>
+				<input type='text' name='q' id='q' value='' size='20' maxlength='30' placeholder='Search...' />
+				<input type='submit' value='Go' />
+			</form>
+		</li>
+		<li id='header_signup' class='li_right'><a href='/signup'>Sign Up</a></li>
+		<li id='header_login' class='li_right'>
+			<a rel='leanModal' data-url='%2Fplayers%2F481-stephane-galifi' href='/login'>Log In</a>
+		</li>
+	</ul>
+</div>
+
+<div id='login_box'>
+	<iframe id='login_iframe' src='/loading.htm' scrolling='no' seamless></iframe>
+</div>
+
+<div id='main_block'>
+
+<div id='left_bar'>
+	<div id='current_date_time'>5:12 pm <br />4 Apr 2017</div>
+	<ul id='navlist'>
+		<li><a href='/' title='Home'>Home</a></li>
+		<li><a href='/news' title='Squash News'>News</a></li>
+		<li><a href='/results' title='Squash Event Results'>Results</a></li>
+		<li><a href='/rankings' title='PSA World Squash Rankings'>Rankings</a></li>
+		<li><a href='/calendar/2017' title='Squash Event Calendar'>Calendar</a></li>
+		<li><a href='/records' title='Squash Records &amp; Statistics'>Records</a></li>
+	</ul>
+</div>
+
+
+<div id='content'>
+
+	<div class='ad_bar_top'>
+		<!-- index -->
+		<ins class='adsbygoogle'
+		     style='display:inline-block;width:728px;height:90px'
+		     data-ad-client='ca-pub-0605489790642236'
+		     data-ad-slot='9600788702'></ins>
+		<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+	</div>
+
+	<h1>
+		Stephane Galifi <span style='color:#444444;'>(Italy)</span>
+	</h1>
+	<ul id='social_media'>
+	</ul>
+	<div>
+	<h3>
+		Statistics:&nbsp;&nbsp;
+			<a href='/rankings/481-stephane-galifi'>Ranking History</a>
+			<br />
+	</h3>
+		</div>
+	<div class='content_column'>
+		<div id='world_ranking_box'>
+			<div id='world_ranking'>239</div>
+			<strong>PSA Ranking</strong>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Born:</span>
+			<span>14 Jan 1978 (age 39)</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Gender:</span>
+			<span>Male</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Birthplace:</span>
+			<span>Nogent-sur-Marne, France</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Residence:</span>
+			<span>Kiev, Ukraine</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Height:</span>
+			<span>184cm (6 ft 0 in)</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Weight:</span>
+			<span>85kg (13 st 5 lb)</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Joined PSA:</span>
+			<span>1997</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Turned Pro:</span>
+			<span>1997</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Coach:</span>
+			<span>Richard Pons</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Highest WR:</span>
+			<span>40 (Jul 2005)</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Racket:</span>
+			<span>Tecnifibre</span>
+		</div>
+	</div>
+
+	<div class='clear' style='padding-bottom:20px'></div>
+	<div class='tabletitle' id='news_mentions'>News</div>
+	<div class='darkborder'>
+		<table style='width:100%' cellpadding='2' cellspacing='0' border='0'>
+			<tr class='darkline'>
+				<td style='width:10%' valign='top'>30 Oct 2011</td>
+				<td style='width:90%'><a href='/news/4733-matthew-world-open-win-sets-up-momen-re-match'>Matthew World Open Win Sets Up Momen Re-Match</a></td>
+			</tr>
+			<tr class='lightline'>
+				<td style='width:10%' valign='top'>30 Oct 2011</td>
+				<td style='width:90%'><a href='/news/4732-birthday-boy-kandra-makes-world-open-breakthrough'>Birthday Boy Kandra Makes World Open Breakthrough</a></td>
+			</tr>
+			<tr class='darkline'>
+				<td style='width:10%' valign='top'>28 Oct 2011</td>
+				<td style='width:90%'><a href='/news/4730-finitsis-fells-krajcsak-in-world-qualifying-upset'>Finitsis Fells Krajcsak In World Qualifying Upset</a></td>
+			</tr>
+			<tr class='lightline'>
+				<td style='width:10%' valign='top'>27 Oct 2011</td>
+				<td style='width:90%'><a href='/news/4729-qatar-crash-could-be-boost-for-matthew-in-rotterdam'>Qatar Crash Could Be Boost For Matthew In Rotterdam</a></td>
+			</tr>
+			<tr class='darkline'>
+				<td style='width:10%' valign='top'>19 Oct 2011</td>
+				<td style='width:90%'><a href='/news/4713-lee-leads-english-trio-through-santiago-qualifiers'>Lee Leads English Trio Through Santiago Qualifiers</a></td>
+			</tr>
+		</table>
+	</div>
+
+	<div id='upcoming_events' class='tabletitle'>Upcoming Events</div>
+	<div class='darkborder'>
+		<div class='one_entry'>None</div>
+	</div>
+
+	<div class='tabletitle'>Event Summary (5)</div>
+	<div class='darkborder'>
+		<table style='width:100%;' cellpadding='2' cellspacing='0' border='0'>
+			<thead>
+				<tr>
+					<th scope='col' style='width:10%'>Date</th>
+					<th scope='col' style='width:10%'>Seeding</th>
+					<th scope='col' style='width:35%'>Event</th>
+					<th scope='col' style='width:5%'>Ctry</th>
+					<th scope='col' style='width:20%'>Tour</th>
+					<th scope='col' style='width:20%'>Round Reached</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr class='darkline'>
+					<td>Feb 2017</td>
+					<td>[<abbr title='Qualifier'>Q</abbr>]</td>
+					<td><a href='/events/6994-mens-toronto-classic-2017'>Toronto Classic</a></td>
+					<td>CAN</td>
+					<td>PSA Tour</td>
+					<td>Semi-finals</td>
+				</tr>
+				<tr class='lightline b'>
+					<td class='topborder'>Dec 2016</td>
+					<td class='topborder'>-</td>
+					<td class='topborder'><a href='/events/6872-mens-sport-life-open-2016'>Sport Life Open</a></td>
+					<td class='topborder'>UKR</td>
+					<td class='topborder'>PSA Tour</td>
+					<td class='topborder'>Winner</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Aug 2016</td>
+					<td>[<abbr title='Qualifier'>Q</abbr>]</td>
+					<td><a href='/events/6702-mens-black-sea-open-2016'>Black Sea Open</a></td>
+					<td>UKR</td>
+					<td>PSA Tour</td>
+					<td>Semi-finals</td>
+				</tr>
+				<tr class='lightline'>
+					<td>May 2016</td>
+					<td>[<abbr title='Qualifier'>Q</abbr>]</td>
+					<td><a href='/events/6617-mens-armenian-challenger-2016'>Armenian Challenger</a></td>
+					<td>ARM</td>
+					<td>PSA Tour</td>
+					<td>Semi-finals</td>
+				</tr>
+				<tr class='darkline'>
+					<td>May 2016</td>
+					<td>[<abbr title='Wildcard'>WC</abbr>]</td>
+					<td><a href='/events/6613-mens-lion-cup-2016'>Lion Cup</a></td>
+					<td>UKR</td>
+					<td>PSA Tour</td>
+					<td>1st round</td>
+				</tr>
+				<tr class='subscriber_line'>
+					<td class='topborder'><strong>1995-2015</strong></td>
+					<td class='topborder'><strong>98 events</strong></td>
+					<td class='topborder' colspan='4'>View full historical event history by <a href='/upgrade'>creating</a> a premium account!</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+
+	<div id='match_summary' class='tabletitle'>Match Summary (Played 20 - Won 16, Lost 4)</div>
+	<div class='darkborder'>
+		<table id='match_summary_table' style='width:100%;' cellpadding='2' cellspacing='0' border='0'>
+			<thead>
+				<tr>
+					<th scope='col' style='width:10%'>Date</th>
+					<th scope='col' style='width:17%'>Opponent</th>
+					<th scope='col' style='width:4%'>W/L</th>
+					<th scope='col' style='width:25%'>Event</th>
+					<th scope='col' style='width:5%'>Ctry</th>
+					<th scope='col' style='width:3%'>Rnd</th>
+					<th scope='col' style='width:32%'>Score</th>
+					<th scope='col' style='width:4%'>PSA</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr class='darkline'>
+					<td>Feb 2017</td>
+					<td><a href='/players/2099-geoffrey-demont'>Geoffrey Demont</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6994-mens-toronto-classic-2017'>Toronto Classic</a></td>
+					<td>CAN</td>
+					<td><abbr title='Semi-finals'>sf</abbr></td>
+					<td>11-4, 8-11, 7-11, 13-11, 7-11</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Feb 2017</td>
+					<td><a href='/players/799-robertino-pezzota'>Robertino Pezzota</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6994-mens-toronto-classic-2017'>Toronto Classic</a></td>
+					<td>CAN</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>11-7, 11-6, 11-8</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Feb 2017</td>
+					<td><a href='/players/5381-albert-shoihet'>Albert Shoihet</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6994-mens-toronto-classic-2017'>Toronto Classic</a></td>
+					<td>CAN</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>w/o</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Feb 2017</td>
+					<td><a href='/players/10289-owen-butler'>Owen Butler</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6994-mens-toronto-classic-2017'>Toronto Classic</a></td>
+					<td>CAN</td>
+					<td><abbr title='Qualifying finals'>Q</abbr></td>
+					<td>11-5, 11-4, 11-3</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Feb 2017</td>
+					<td><a href='/players/11045-ravi-seth'>Ravi Seth</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6994-mens-toronto-classic-2017'>Toronto Classic</a></td>
+					<td>CAN</td>
+					<td><abbr title='1st qualifying round'>Q</abbr></td>
+					<td>11-6, 11-4, 11-3</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td class='topborder'>Dec 2016</td>
+					<td class='topborder'><a href='/players/4237-ondrej-uherka'>Ondrej Uherka</a></td>
+					<td class='topborder' title=''>W</td>
+					<td class='topborder'><a href='/events/6872-mens-sport-life-open-2016'>Sport Life Open</a></td>
+					<td class='topborder'>UKR</td>
+					<td class='topborder'><abbr title='Winner'>F</abbr></td>
+					<td class='topborder'>9-11, 14-12 ret.</td>
+					<td class='topborder'>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Dec 2016</td>
+					<td><a href='/players/7499-yannik-omlor'>Yannik Omlor</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6872-mens-sport-life-open-2016'>Sport Life Open</a></td>
+					<td>UKR</td>
+					<td><abbr title='Semi-finals'>sf</abbr></td>
+					<td>11-4, 11-6, 11-3</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Dec 2016</td>
+					<td><a href='/players/6623-jami-aijanen'>Jami Äijänen</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6872-mens-sport-life-open-2016'>Sport Life Open</a></td>
+					<td>UKR</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>12-10, 11-6, 7-11, 11-7</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Dec 2016</td>
+					<td><a href='/players/2647-elliot-selby'>Elliot Selby</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6872-mens-sport-life-open-2016'>Sport Life Open</a></td>
+					<td>UKR</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-5, 11-4, 11-5</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Aug 2016</td>
+					<td><a href='/players/4968-martin-svec'>Martin Svec</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6702-mens-black-sea-open-2016'>Black Sea Open</a></td>
+					<td>UKR</td>
+					<td><abbr title='Semi-finals'>sf</abbr></td>
+					<td>10-12, 5-11, 6-11</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Aug 2016</td>
+					<td><a href='/players/1092-matias-tuomi'>Matias Tuomi</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6702-mens-black-sea-open-2016'>Black Sea Open</a></td>
+					<td>UKR</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>5-11, 11-6, 11-9, 15-13</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Aug 2016</td>
+					<td><a href='/players/6359-ahmed-hussein'>Ahmed Hussein</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6702-mens-black-sea-open-2016'>Black Sea Open</a></td>
+					<td>UKR</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>5-11, 18-16, 11-4, 12-14, 11-4</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Aug 2016</td>
+					<td><a href='/players/4876-marc-ter-sluis'>Marc ter Sluis</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6702-mens-black-sea-open-2016'>Black Sea Open</a></td>
+					<td>UKR</td>
+					<td><abbr title='Qualifying finals'>Q</abbr></td>
+					<td>11-6, 11-9, 10-12, 11-3</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Aug 2016</td>
+					<td><a href='/players/10400-artur-sikora'>Artur Sikora</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6702-mens-black-sea-open-2016'>Black Sea Open</a></td>
+					<td>UKR</td>
+					<td><abbr title='1st qualifying round'>Q</abbr></td>
+					<td>11-3, 11-5, 11-6</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>May 2016</td>
+					<td><a href='/players/3870-nathan-lake'>Nathan Lake</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6617-mens-armenian-challenger-2016'>Armenian Challenger</a></td>
+					<td>ARM</td>
+					<td><abbr title='Semi-finals'>sf</abbr></td>
+					<td>9-11, 11-8, 11-6, 7-11, 1-11 (64m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>May 2016</td>
+					<td><a href='/players/5291-alex-noakes'>Alex Noakes</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6617-mens-armenian-challenger-2016'>Armenian Challenger</a></td>
+					<td>ARM</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>11-1, 11-5, 11-9 (28m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>May 2016</td>
+					<td><a href='/players/3911-mark-fuller'>Mark Fuller</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6617-mens-armenian-challenger-2016'>Armenian Challenger</a></td>
+					<td>ARM</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-9, 11-3, 11-9 (36m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>May 2016</td>
+					<td><a href='/players/5021-antonio-de-la-torre'>Antonio de la Torre</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6617-mens-armenian-challenger-2016'>Armenian Challenger</a></td>
+					<td>ARM</td>
+					<td><abbr title='Qualifying finals'>Q</abbr></td>
+					<td>11-7, 11-8, 11-8 (37m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>May 2016</td>
+					<td><a href='/players/11228-sergey-grigoryan'>Sergey Grigoryan</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6617-mens-armenian-challenger-2016'>Armenian Challenger</a></td>
+					<td>ARM</td>
+					<td><abbr title='1st qualifying round'>Q</abbr></td>
+					<td>11-8, 11-6, 11-8 (25m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>May 2016</td>
+					<td><a href='/players/5725-bernat-jaume'>Bernat Jaume</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6613-mens-lion-cup-2016'>Lion Cup</a></td>
+					<td>UKR</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-4, 11-13, 8-11, 8-11</td>
+					<td>Y</td>
+				</tr>
+				<tr class='subscriber_line'>
+					<td class='topborder'><strong>1995-2015</strong></td>
+					<td class='topborder'><strong>237 matches</strong></td>
+					<td class='topborder' colspan='6'>View full historical match history by <a href='/upgrade'>creating</a> a premium account!</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+
+	<div class='ad_bar_footer'>
+		<!-- Footer -->
+		<ins class='adsbygoogle'
+		     style='display:inline-block;width:728px;height:90px'
+		     data-ad-client='ca-pub-0605489790642236'
+		     data-ad-slot='1142131485'></ins>
+		<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+	</div>
+
+</div>
+
+<div id='si_footer'>
+	<ul id='footer_left'>
+		<li id='copyright' class='li_left'>
+			Squash Info &copy; 2017
+		</li>
+	</ul>
+	<ul id='footer_right'>
+		<li class='li_right'>
+			<strong><a href='mailto:info@squashinfo.com'>Contact us</a></strong>
+		</li>
+		<li class='li_right'>
+			<a href='https://twitter.com/SquashInfo' class='twitter-follow-button' data-show-count='false'>Follow @SquashInfo</a>
+		</li>
+	</ul>
+</div>
+
+<div>
+	<script type='text/javascript'>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-1186220-1']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</div>
+
+</div>
+</div>
+</body>
+</html>

@@ -1,0 +1,1204 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+
+	<meta charset='utf-8' />
+	<meta name='author' content='Squash Info' />
+	<meta name='keywords' content='squash information rankings psa wsa wispa results events players' />
+
+	<link rel='shortcut icon' href='/favicon.ico' type='image/x-icon' />
+	<script src='https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js'></script>
+	<script src='https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js'></script>
+	<link rel='stylesheet' href='https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/themes/smoothness/jquery-ui.css'>
+	<script src='/js/jquery.timeago.js'></script>
+	<script src='/js/jquery.unveil.min.js'></script>
+	<script src='/js/jquery.leanModal.ch.1461605769.js'></script>
+	<script src='/js/jquery.tokeninput.js'></script>
+	<link rel='stylesheet' href='/css/token-input.css'>
+	<script src='http://platform.twitter.com/widgets.js'></script>
+	<script src='https://apis.google.com/js/platform.js'></script>
+	<script src='/js/jquery.cookiebar.js'></script>
+	<link rel='stylesheet' href='/css/jquery.cookiebar.1444581949.css'>
+	<script src='https://www.gstatic.com/charts/loader.js'></script>
+	<script async src='//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js'></script>
+	<script src='/js/main.1461605758.js'></script>
+	<link rel='stylesheet' href='/css/main.1487399333.css'>
+
+	<title>Squash Info | Mohamed Elshorbagy | Squash</title>
+
+</head>
+<body onload="">
+
+<div id='fb-root'></div>
+<script>!function(e,n,t){var o,c=e.getElementsByTagName(n)[0];e.getElementById(t)||(o=e.createElement(n),o.id=t,o.src='//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.5',c.parentNode.insertBefore(o,c))}(document,'script','facebook-jssdk');</script>
+<script type='text/javascript'>
+	
+	$(document).ready(function() {
+		
+		$.cookieBar({});
+		
+		$('.logout').click(function(event) {
+			
+			if (!confirm('Are you sure you want to log out?')) {
+				event.preventDefault();
+			}
+			
+		});
+		
+	});
+	
+</script>
+<div id='centre_body'>
+
+<div id='header'>
+	<ul id='header_left'>
+		<li id='header_logo' class='li_left'>
+			<a href='/'><img src='/img/logos/si_logo.png' alt='Squash Info, the definitive squash resource' style='vertical-align: middle;' /></a>
+		</li>
+	</ul>
+	<ul id='header_right'>
+		<li id='header_search' class='li_right'>
+			<form id='header_search_form' method='get' action='/search'>
+				<input type='text' name='q' id='q' value='' size='20' maxlength='30' placeholder='Search...' />
+				<input type='submit' value='Go' />
+			</form>
+		</li>
+		<li id='header_signup' class='li_right'><a href='/signup'>Sign Up</a></li>
+		<li id='header_login' class='li_right'>
+			<a rel='leanModal' data-url='%2Fplayers%2F2593-mohamed-elshorbagy' href='/login'>Log In</a>
+		</li>
+	</ul>
+</div>
+
+<div id='login_box'>
+	<iframe id='login_iframe' src='/loading.htm' scrolling='no' seamless></iframe>
+</div>
+
+<div id='main_block'>
+
+<div id='left_bar'>
+	<div id='current_date_time'>5:07 pm <br />4 Apr 2017</div>
+	<ul id='navlist'>
+		<li><a href='/' title='Home'>Home</a></li>
+		<li><a href='/news' title='Squash News'>News</a></li>
+		<li><a href='/results' title='Squash Event Results'>Results</a></li>
+		<li><a href='/rankings' title='PSA World Squash Rankings'>Rankings</a></li>
+		<li><a href='/calendar/2017' title='Squash Event Calendar'>Calendar</a></li>
+		<li><a href='/records' title='Squash Records &amp; Statistics'>Records</a></li>
+	</ul>
+</div>
+
+
+<div id='content'>
+
+	<div class='ad_bar_top'>
+		<!-- index -->
+		<ins class='adsbygoogle'
+		     style='display:inline-block;width:728px;height:90px'
+		     data-ad-client='ca-pub-0605489790642236'
+		     data-ad-slot='9600788702'></ins>
+		<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+	</div>
+
+	<h1>
+		Mohamed Elshorbagy <span style='color:#444444;'>(Egypt)</span>
+	</h1>
+	<ul id='social_media'>
+		<li id='sm_facebook'>
+			<div class='fb-like' data-href='https://www.facebook.com/shorbagysquash' data-layout='button' data-action='like' data-show-faces='false' data-share='false'></div>
+		</li>
+		<li id='sm_twitter'>
+			<a href='https://twitter.com/@MoElshorbagy' class='twitter-follow-button' data-show-count='false'>Follow @MoElshorbagy</a>
+		</li>
+	</ul>
+	<div>
+	<h3>
+		Statistics:&nbsp;&nbsp;
+			<a href='/rankings/2593-mohamed-elshorbagy'>Ranking History</a>
+			<br />
+	</h3>
+		</div>
+	<div class='content_column'>
+		<div id='player_profile_pic'><img src='/img/players/MoElshorbagy_Feb16a.jpg' alt='Mohamed Elshorbagy' width='150px' height='200px' /></div>
+	</div>
+
+	<div class='content_column'>
+		<div id='world_ranking_box'>
+			<div id='world_ranking'>3</div>
+			<strong>PSA Ranking</strong>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Born:</span>
+			<span>12 Jan 1991 (age 26)</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Gender:</span>
+			<span>Male</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Birthplace:</span>
+			<span>Alexandria</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Residence:</span>
+			<span>Bristol, England</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Height:</span>
+			<span>185cm (6 ft 1 in)</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Weight:</span>
+			<span>82kg (12 st 13 lb)</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Plays:</span>
+			<span>Right-handed</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Joined PSA:</span>
+			<span>2006</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Turned Pro:</span>
+			<span>2006</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Coach:</span>
+			<span>Jonah Barrington, Hadrian Stiff</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Highest WR:</span>
+			<span>1 (Nov 2014)</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Club:</span>
+			<span>Smouha, Bristol</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Racket:</span>
+			<span>Tecnifibre</span>
+		</div>
+	</div>
+
+	<div class='clear' style='padding-bottom:20px'></div>
+	<div class='tabletitle'>Career Highlights</div>
+	<div class='darkborder'>
+		<table style='width:100%' cellpadding='2' cellspacing='0' border='0'>
+			<tr class='darkline'>
+				<td style='width:10%' valign='top'>May 2016</td>
+				<td style='width:85%'>Breaks his own record by achieving a PSA World Rankings points average of 2,240</td>
+				<td style='width:5%'>&nbsp;</td>
+			</tr>
+			<tr class='lightline'>
+				<td style='width:10%' valign='top'>May 2016</td>
+				<td style='width:85%'>Wins 2015/16 &#039;PSA Player of the Year&#039; award</td>
+				<td style='width:5%'>&nbsp;</td>
+			</tr>
+			<tr class='darkline'>
+				<td style='width:10%' valign='top'>May 2016</td>
+				<td style='width:85%'>Wins 2015/16 &#039;PSA Match of the Season&#039; award (with <a href='/players/13-james-willstrop'>James Willstrop</a> in <a href='/events/6189-mens-world-championship-2015'>World Championship</a>)</td>
+				<td style='width:5%'>&nbsp;</td>
+			</tr>
+			<tr class='lightline'>
+				<td style='width:10%' valign='top'>Apr 2016</td>
+				<td style='width:85%'>Establishes new PSA World Rankings record points average of 2,150</td>
+				<td style='width:5%'>&nbsp;</td>
+			</tr>
+			<tr class='darkline'>
+				<td style='width:10%' valign='top'>Jan 2011</td>
+				<td style='width:85%'>Wins 2010 &#039;PSA Young Player of the Year&#039; award</td>
+				<td style='width:5%'>&nbsp;</td>
+			</tr>
+			<tr class='lightline'>
+				<td style='width:10%' valign='top'>Apr 2010</td>
+				<td style='width:85%'>Becomes first player to win his first Tour title at a 5-star event, the <a href='/events/4051-mens-indian-challenger-no7-2010'>Indian Challenger No7</a></td>
+				<td style='width:5%'>&nbsp;</td>
+			</tr>
+			<tr class='darkline'>
+				<td style='width:10%' valign='top'>Nov 2009</td>
+				<td style='width:85%'>Wins &#039;PSA Young Player of the Year&#039; award</td>
+				<td style='width:5%'>&nbsp;</td>
+			</tr>
+			<tr class='lightline'>
+				<td style='width:10%' valign='top'>Aug 2009</td>
+				<td style='width:85%'>Wins <a href='/events/3758-mens-world-junior-championship-2009'>World Junior Championship</a> - becoming only the second man to win the title twice</td>
+				<td style='width:5%'>&nbsp;</td>
+			</tr>
+		</table>
+	</div>
+
+	<div class='tabletitle' id='news_mentions'>News</div>
+	<div class='darkborder'>
+		<table style='width:100%' cellpadding='2' cellspacing='0' border='0'>
+			<tr class='darkline'>
+				<td style='width:10%' valign='top'>26 Mar 2017</td>
+				<td style='width:90%'><a href='/news/6935-gaultier-denies-historic-78-year-english-british-open-double'>Gaultier Denies Historic 78-Year English British Open Double</a></td>
+			</tr>
+			<tr class='lightline'>
+				<td style='width:10%' valign='top'>26 Mar 2017</td>
+				<td style='width:90%'><a href='/news/6934-english-trio-mark-historic-64-year-british-open-milestone'>English Trio Mark Historic 64-Year British Open Milestone</a></td>
+			</tr>
+			<tr class='darkline'>
+				<td style='width:10%' valign='top'>25 Mar 2017</td>
+				<td style='width:90%'><a href='/news/6933-david-stuns-serme-to-seal-british-open-semi'>David Stuns Serme To Seal British Open Semi</a></td>
+			</tr>
+			<tr class='lightline'>
+				<td style='width:10%' valign='top'>24 Mar 2017</td>
+				<td style='width:90%'><a href='/news/6932-abouelghar-delays-world-champion-gawads-world-no1-ranking-bid'>Abouelghar Delays World Champion Gawad&#039;s World No1 Ranking Bid</a></td>
+			</tr>
+			<tr class='darkline'>
+				<td style='width:10%' valign='top'>23 Mar 2017</td>
+				<td style='width:90%'><a href='/news/6931-whitlock-wipes-out-waters-in-major-british-open-shock'>Whitlock Wipes Out Waters In Major British Open Shock</a></td>
+			</tr>
+		</table>
+	</div>
+
+	<div id='upcoming_events' class='tabletitle'>Upcoming Events</div>
+	<div class='darkborder'>
+		<table style='width:100%' cellpadding='2' cellspacing='0' border='0'>
+			<tr>
+				<th scope='col' style='width:10%'>Date</th>
+				<th scope='col' style='width:10%'>Seeding</th>
+				<th scope='col' style='width:35%'>Event</th>
+				<th scope='col' style='width:5%'>Ctry</th>
+				<th scope='col' style='width:40%'>Opponent</th>
+			</tr>
+			<tr class='darkline'>
+				<td valign='top'>Apr 2017</td>
+				<td>[1]</td>
+				<td><a href='/events/7043-mens-el-gouna-international-open-2017'>El Gouna International Open</a></td>
+				<td>EGY</td>
+				<td><a href='/players/883-mathieu-castagnet'>Mathieu Castagnet</a></td>
+			</tr>
+		</table>
+	</div>
+
+	<div class='tabletitle'>Event Summary (19)</div>
+	<div class='darkborder'>
+		<table style='width:100%;' cellpadding='2' cellspacing='0' border='0'>
+			<thead>
+				<tr>
+					<th scope='col' style='width:10%'>Date</th>
+					<th scope='col' style='width:10%'>Seeding</th>
+					<th scope='col' style='width:35%'>Event</th>
+					<th scope='col' style='width:5%'>Ctry</th>
+					<th scope='col' style='width:20%'>Tour</th>
+					<th scope='col' style='width:20%'>Round Reached</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr class='darkline'>
+					<td>Mar 2017</td>
+					<td>[1]</td>
+					<td><a href='/events/6911-mens-british-open-2017'>British Open</a></td>
+					<td>ENG</td>
+					<td>PSA World Series</td>
+					<td>Semi-finals</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Mar 2017</td>
+					<td>[1]</td>
+					<td><a href='/events/6908-mens-windy-city-open-2017'>Windy City Open</a></td>
+					<td>USA</td>
+					<td>PSA World Series</td>
+					<td>Quarter-finals</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Jan 2017</td>
+					<td>[1]</td>
+					<td><a href='/events/6905-mens-motor-city-open-2017'>Motor City Open</a></td>
+					<td>USA</td>
+					<td>PSA Tour</td>
+					<td>1st round</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Jan 2017</td>
+					<td>[1]</td>
+					<td><a href='/events/6843-mens-tournament-of-champions-2017'>Tournament of Champions</a></td>
+					<td>USA</td>
+					<td>PSA World Series</td>
+					<td>Semi-finals</td>
+				</tr>
+				<tr class='darkline'>
+					<td class='topborder'>Dec 2016</td>
+					<td class='topborder'>[1]</td>
+					<td class='topborder'><a href='/events/6856-mens-st-georges-hill-classic-2016'>St George&#039;s Hill Classic</a></td>
+					<td class='topborder'>ENG</td>
+					<td class='topborder'>PSA Tour</td>
+					<td class='topborder'>1st round</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Nov 2016</td>
+					<td>[1]</td>
+					<td><a href='/events/6837-mens-qatar-classic-2016'>Qatar Classic</a></td>
+					<td>QAT</td>
+					<td>PSA World Series</td>
+					<td>Runner-up</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Nov 2016</td>
+					<td>[1]</td>
+					<td><a href='/events/6805-mens-world-championship-2016'>World Championship</a></td>
+					<td>EGY</td>
+					<td>PSA World Series</td>
+					<td>Semi-finals</td>
+				</tr>
+				<tr class='lightline b'>
+					<td>Oct 2016</td>
+					<td>[1]</td>
+					<td><a href='/events/6746-mens-us-open-2016'>US Open</a></td>
+					<td>USA</td>
+					<td>PSA World Series</td>
+					<td>Winner</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Sep 2016</td>
+					<td>[1]</td>
+					<td><a href='/events/6734-mens-al-ahram-international-2016'>Al-Ahram International</a></td>
+					<td>EGY</td>
+					<td>PSA Tour</td>
+					<td>Semi-finals</td>
+				</tr>
+				<tr class='lightline b'>
+					<td>Sep 2016</td>
+					<td>[1]</td>
+					<td><a href='/events/6712-mens-china-open-2016'>China Open</a></td>
+					<td>CHN</td>
+					<td>PSA Tour</td>
+					<td>Winner</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Aug 2016</td>
+					<td>[1]</td>
+					<td><a href='/events/6704-mens-hong-kong-open-2016'>Hong Kong Open</a></td>
+					<td>HKG</td>
+					<td>PSA World Series</td>
+					<td>2nd round</td>
+				</tr>
+				<tr class='lightline'>
+					<td>May 2016</td>
+					<td>[1]</td>
+					<td><a href='/events/6511-mens-world-series-finals-2016'>World Series Finals</a></td>
+					<td>UAE</td>
+					<td>PSA World Series</td>
+					<td>Semi-finals</td>
+				</tr>
+				<tr class='darkline b'>
+					<td>Apr 2016</td>
+					<td>[1]</td>
+					<td><a href='/events/6510-mens-el-gouna-international-open-2016'>El Gouna International Open</a></td>
+					<td>EGY</td>
+					<td>PSA World Series</td>
+					<td>Winner</td>
+				</tr>
+				<tr class='lightline b'>
+					<td>Mar 2016</td>
+					<td>[1]</td>
+					<td><a href='/events/1029-mens-british-open-2016'>British Open</a></td>
+					<td>ENG</td>
+					<td>PSA World Series</td>
+					<td>Winner</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Mar 2016</td>
+					<td>-</td>
+					<td><a href='/events/6334-premier-league-2016'>Premier League 8th Round</a></td>
+					<td>ENG</td>
+					<td>-</td>
+					<td>-</td>
+				</tr>
+				<tr class='lightline b'>
+					<td>Mar 2016</td>
+					<td>[1]</td>
+					<td><a href='/events/6413-mens-windy-city-open-2016'>Windy City Open</a></td>
+					<td>USA</td>
+					<td>PSA World Series</td>
+					<td>Winner</td>
+				</tr>
+				<tr class='darkline b'>
+					<td>Feb 2016</td>
+					<td>[1]</td>
+					<td><a href='/events/6435-mens-squash-colombia-open-2016'>Squash Colombia Open</a></td>
+					<td>COL</td>
+					<td>PSA Tour</td>
+					<td>Winner</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Jan 2016</td>
+					<td>[1]</td>
+					<td><a href='/events/6437-mens-motor-city-open-2016'>Motor City Open</a></td>
+					<td>USA</td>
+					<td>PSA Tour</td>
+					<td>Quarter-finals</td>
+				</tr>
+				<tr class='darkline b'>
+					<td>Jan 2016</td>
+					<td>[1]</td>
+					<td><a href='/events/6411-mens-tournament-of-champions-2016'>Tournament of Champions</a></td>
+					<td>USA</td>
+					<td>PSA World Series</td>
+					<td>Winner</td>
+				</tr>
+				<tr class='subscriber_line'>
+					<td class='topborder'><strong>2003-2015</strong></td>
+					<td class='topborder'><strong>168 events</strong></td>
+					<td class='topborder' colspan='4'>View full historical event history by <a href='/upgrade'>creating</a> a premium account!</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+
+	<div id='match_summary' class='tabletitle'>Match Summary (Played 68 - Won 55, Lost 13)</div>
+	<div class='darkborder'>
+		<table id='match_summary_table' style='width:100%;' cellpadding='2' cellspacing='0' border='0'>
+			<thead>
+				<tr>
+					<th scope='col' style='width:10%'>Date</th>
+					<th scope='col' style='width:17%'>Opponent</th>
+					<th scope='col' style='width:4%'>W/L</th>
+					<th scope='col' style='width:25%'>Event</th>
+					<th scope='col' style='width:5%'>Ctry</th>
+					<th scope='col' style='width:3%'>Rnd</th>
+					<th scope='col' style='width:32%'>Score</th>
+					<th scope='col' style='width:4%'>PSA</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr class='darkline'>
+					<td>Mar 2017</td>
+					<td><a href='/players/8-nick-matthew'>Nick Matthew</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6911-mens-british-open-2017'>British Open</a></td>
+					<td>ENG</td>
+					<td><abbr title='Semi-finals'>sf</abbr></td>
+					<td>8-11, 8-11, 11-8, 5-11 (75m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Mar 2017</td>
+					<td><a href='/players/2375-ali-farag'>Ali Farag</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6911-mens-british-open-2017'>British Open</a></td>
+					<td>ENG</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>11-8, 9-11, 8-11, 12-10, 11-5 (82m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Mar 2017</td>
+					<td><a href='/players/534-daryl-selby'>Daryl Selby</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6911-mens-british-open-2017'>British Open</a></td>
+					<td>ENG</td>
+					<td><abbr title='2nd round'>r2</abbr></td>
+					<td>12-10, 11-4, 11-7 (37m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Mar 2017</td>
+					<td><a href='/players/4693-fares-dessouky'>Fares Dessouky</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6911-mens-british-open-2017'>British Open</a></td>
+					<td>ENG</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-8, 10-12, 11-7, 8-11, 11-8 (93m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Mar 2017</td>
+					<td><a href='/players/2777-marwan-elshorbagy'>Marwan Elshorbagy</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6908-mens-windy-city-open-2017'>Windy City Open</a></td>
+					<td>USA</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>11-1, 8-11, 11-13, 11-5, 8-11 (69m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Mar 2017</td>
+					<td><a href='/players/962-cesar-salazar'>Cesar Salazar</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6908-mens-windy-city-open-2017'>Windy City Open</a></td>
+					<td>USA</td>
+					<td><abbr title='2nd round'>r2</abbr></td>
+					<td>11-9, 11-6, 11-8 (42m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Mar 2017</td>
+					<td><a href='/players/5974-paul-coll'>Paul Coll</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6908-mens-windy-city-open-2017'>Windy City Open</a></td>
+					<td>USA</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>14-12, 11-6, 8-11, 9-11, 11-7 (94m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Jan 2017</td>
+					<td><a href='/players/962-cesar-salazar'>Cesar Salazar</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6905-mens-motor-city-open-2017'>Motor City Open</a></td>
+					<td>USA</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>2-11, 11-13, 11-6, 10-12 (59m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Jan 2017</td>
+					<td><a href='/players/10-gregory-gaultier'>Gregory Gaultier</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6843-mens-tournament-of-champions-2017'>Tournament of Champions</a></td>
+					<td>USA</td>
+					<td><abbr title='Semi-finals'>sf</abbr></td>
+					<td>10-12, 9-11, 11-9, 11-4, 7-11 (84m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Jan 2017</td>
+					<td><a href='/players/2777-marwan-elshorbagy'>Marwan Elshorbagy</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6843-mens-tournament-of-champions-2017'>Tournament of Champions</a></td>
+					<td>USA</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>11-7, 11-7, 11-5 (44m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Jan 2017</td>
+					<td><a href='/players/984-ryan-cuskelly'>Ryan Cuskelly</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6843-mens-tournament-of-champions-2017'>Tournament of Champions</a></td>
+					<td>USA</td>
+					<td><abbr title='2nd round'>r2</abbr></td>
+					<td>11-4, 11-6, 11-6 (44m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Jan 2017</td>
+					<td><a href='/players/2767-declan-james'>Declan James</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6843-mens-tournament-of-champions-2017'>Tournament of Champions</a></td>
+					<td>USA</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>16-14, 11-5, 11-6 (52m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td class='topborder'>Dec 2016</td>
+					<td class='topborder'><a href='/players/534-daryl-selby'>Daryl Selby</a></td>
+					<td class='topborder' title=''>L</td>
+					<td class='topborder'><a href='/events/6856-mens-st-georges-hill-classic-2016'>St George&#039;s Hill Classic</a></td>
+					<td class='topborder'>ENG</td>
+					<td class='topborder'><abbr title='1st round'>r1</abbr></td>
+					<td class='topborder'>11-13, 11-9, 11-9, 8-11, 9-11 (89m)</td>
+					<td class='topborder'>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Nov 2016</td>
+					<td><a href='/players/2623-karim-abdel-gawad'>Karim Abdel Gawad</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6837-mens-qatar-classic-2016'>Qatar Classic</a></td>
+					<td>QAT</td>
+					<td><abbr title='Runner-up'>F</abbr></td>
+					<td>10-12, 13-15, 7-11 (67m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Nov 2016</td>
+					<td><a href='/players/8-nick-matthew'>Nick Matthew</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6837-mens-qatar-classic-2016'>Qatar Classic</a></td>
+					<td>QAT</td>
+					<td><abbr title='Semi-finals'>sf</abbr></td>
+					<td>8-11, 9-11, 11-9, 11-4, 11-9 (83m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Nov 2016</td>
+					<td><a href='/players/602-simon-rosner'>Simon Rösner</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6837-mens-qatar-classic-2016'>Qatar Classic</a></td>
+					<td>QAT</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>5-11, 14-12, 9-11, 11-5, 11-9 (80m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Nov 2016</td>
+					<td><a href='/players/1007-leo-au'>Leo Au</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6837-mens-qatar-classic-2016'>Qatar Classic</a></td>
+					<td>QAT</td>
+					<td><abbr title='2nd round'>r2</abbr></td>
+					<td>12-10, 11-13, 11-8, 11-8 (56m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Nov 2016</td>
+					<td><a href='/players/5958-diego-elias'>Diego Elias</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6837-mens-qatar-classic-2016'>Qatar Classic</a></td>
+					<td>QAT</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-4, 8-11, 11-8, 6-11, 11-5 (63m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Nov 2016</td>
+					<td><a href='/players/2623-karim-abdel-gawad'>Karim Abdel Gawad</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6805-mens-world-championship-2016'>World Championship</a></td>
+					<td>EGY</td>
+					<td><abbr title='Semi-finals'>sf</abbr></td>
+					<td>11-13, 12-10, 13-11, 2-11, 5-11 (90m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Nov 2016</td>
+					<td><a href='/players/2375-ali-farag'>Ali Farag</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6805-mens-world-championship-2016'>World Championship</a></td>
+					<td>EGY</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>11-8, 11-5, 11-8 (45m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Nov 2016</td>
+					<td><a href='/players/2774-karim-ali-fathi'>Karim Ali Fathi</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6805-mens-world-championship-2016'>World Championship</a></td>
+					<td>EGY</td>
+					<td><abbr title='3rd round'>r3</abbr></td>
+					<td>11-3, 11-6, 11-9 (36m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Nov 2016</td>
+					<td><a href='/players/24-olli-tuominen'>Olli Tuominen</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6805-mens-world-championship-2016'>World Championship</a></td>
+					<td>EGY</td>
+					<td><abbr title='2nd round'>r2</abbr></td>
+					<td>11-9, 11-2, 11-8 (34m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Nov 2016</td>
+					<td><a href='/players/2257-rex-hedrick'>Rex Hedrick</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6805-mens-world-championship-2016'>World Championship</a></td>
+					<td>EGY</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-5, 12-10, 11-9 (40m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Oct 2016</td>
+					<td><a href='/players/8-nick-matthew'>Nick Matthew</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6746-mens-us-open-2016'>US Open</a></td>
+					<td>USA</td>
+					<td><abbr title='Winner'>F</abbr></td>
+					<td>10-12, 12-14, 11-1, 11-4, 3-0 ret. (68m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Oct 2016</td>
+					<td><a href='/players/13-james-willstrop'>James Willstrop</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6746-mens-us-open-2016'>US Open</a></td>
+					<td>USA</td>
+					<td><abbr title='Semi-finals'>sf</abbr></td>
+					<td>11-7, 11-5, 13-11 (56m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Oct 2016</td>
+					<td><a href='/players/2777-marwan-elshorbagy'>Marwan Elshorbagy</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6746-mens-us-open-2016'>US Open</a></td>
+					<td>USA</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>11-7, 11-5, 12-10 (50m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Oct 2016</td>
+					<td><a href='/players/707-chris-simpson'>Chris Simpson</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6746-mens-us-open-2016'>US Open</a></td>
+					<td>USA</td>
+					<td><abbr title='2nd round'>r2</abbr></td>
+					<td>10-12, 11-9, 12-10, 11-5 (64m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Oct 2016</td>
+					<td><a href='/players/962-cesar-salazar'>Cesar Salazar</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6746-mens-us-open-2016'>US Open</a></td>
+					<td>USA</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>6-11, 11-9, 8-11, 11-7, 13-11 (77m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Sep 2016</td>
+					<td><a href='/players/2375-ali-farag'>Ali Farag</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6734-mens-al-ahram-international-2016'>Al-Ahram International</a></td>
+					<td>EGY</td>
+					<td><abbr title='Semi-finals'>sf</abbr></td>
+					<td>11-7, 7-11, 9-11, 12-14 (78m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Sep 2016</td>
+					<td><a href='/players/602-simon-rosner'>Simon Rösner</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6734-mens-al-ahram-international-2016'>Al-Ahram International</a></td>
+					<td>EGY</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>5-11, 11-8, 4-11, 11-6, 11-5 (66m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Sep 2016</td>
+					<td><a href='/players/45-cameron-pilley'>Cameron Pilley</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6734-mens-al-ahram-international-2016'>Al-Ahram International</a></td>
+					<td>EGY</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>9-11, 11-7, 11-9, 11-8 (60m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Sep 2016</td>
+					<td><a href='/players/10-gregory-gaultier'>Gregory Gaultier</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6712-mens-china-open-2016'>China Open</a></td>
+					<td>CHN</td>
+					<td><abbr title='Winner'>F</abbr></td>
+					<td>11-5, 11-3, 11-3 (33m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Sep 2016</td>
+					<td><a href='/players/34-borja-golan'>Borja Golan</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6712-mens-china-open-2016'>China Open</a></td>
+					<td>CHN</td>
+					<td><abbr title='Semi-finals'>sf</abbr></td>
+					<td>11-7, 13-11, 11-9 (42m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Sep 2016</td>
+					<td><a href='/players/883-mathieu-castagnet'>Mathieu Castagnet</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6712-mens-china-open-2016'>China Open</a></td>
+					<td>CHN</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>11-9, 11-8, 11-8 (43m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Sep 2016</td>
+					<td><a href='/players/5102-junjie-wang'>Junjie Wang</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6712-mens-china-open-2016'>China Open</a></td>
+					<td>CHN</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-8, 11-5, 11-3 (22m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Aug 2016</td>
+					<td><a href='/players/45-cameron-pilley'>Cameron Pilley</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6704-mens-hong-kong-open-2016'>Hong Kong Open</a></td>
+					<td>HKG</td>
+					<td><abbr title='2nd round'>r2</abbr></td>
+					<td>9-11, 11-8, 11-9, 12-14, 9-11 (91m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Aug 2016</td>
+					<td><a href='/players/707-chris-simpson'>Chris Simpson</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6704-mens-hong-kong-open-2016'>Hong Kong Open</a></td>
+					<td>HKG</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-8, 12-10, 7-11, 11-8 (40m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>May 2016</td>
+					<td><a href='/players/45-cameron-pilley'>Cameron Pilley</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6511-mens-world-series-finals-2016'>World Series Finals</a></td>
+					<td>UAE</td>
+					<td><abbr title='Semi-finals'>sf</abbr></td>
+					<td>9-11, 5-11 (41m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>May 2016</td>
+					<td><a href='/players/8-nick-matthew'>Nick Matthew</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6511-mens-world-series-finals-2016'>World Series Finals</a></td>
+					<td>UAE</td>
+					<td><abbr title='3rd pool round'>P</abbr></td>
+					<td>10-12, 10-12 (28m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>May 2016</td>
+					<td><a href='/players/265-miguel-angel-rodriguez'>Miguel Angel Rodriguez</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6511-mens-world-series-finals-2016'>World Series Finals</a></td>
+					<td>UAE</td>
+					<td><abbr title='2nd pool round'>P</abbr></td>
+					<td>11-8, 11-9 (29m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>May 2016</td>
+					<td><a href='/players/883-mathieu-castagnet'>Mathieu Castagnet</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6511-mens-world-series-finals-2016'>World Series Finals</a></td>
+					<td>UAE</td>
+					<td><abbr title='1st pool round'>P</abbr></td>
+					<td>11-4, 11-6 (21m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Apr 2016</td>
+					<td><a href='/players/10-gregory-gaultier'>Gregory Gaultier</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6510-mens-el-gouna-international-open-2016'>El Gouna International Open</a></td>
+					<td>EGY</td>
+					<td><abbr title='Winner'>F</abbr></td>
+					<td>7-11, 9-11, 11-3, 11-9, 11-8 (90m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Apr 2016</td>
+					<td><a href='/players/265-miguel-angel-rodriguez'>Miguel Angel Rodriguez</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6510-mens-el-gouna-international-open-2016'>El Gouna International Open</a></td>
+					<td>EGY</td>
+					<td><abbr title='Semi-finals'>sf</abbr></td>
+					<td>11-7, 11-4, 11-5 (35m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Apr 2016</td>
+					<td><a href='/players/602-simon-rosner'>Simon Rösner</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6510-mens-el-gouna-international-open-2016'>El Gouna International Open</a></td>
+					<td>EGY</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>11-8, 11-6, 7-11, 11-4 (46m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Apr 2016</td>
+					<td><a href='/players/707-chris-simpson'>Chris Simpson</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6510-mens-el-gouna-international-open-2016'>El Gouna International Open</a></td>
+					<td>EGY</td>
+					<td><abbr title='2nd round'>r2</abbr></td>
+					<td>11-8, 11-8, 12-10 (43m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Apr 2016</td>
+					<td><a href='/players/3759-mazen-hesham'>Mazen Hesham</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6510-mens-el-gouna-international-open-2016'>El Gouna International Open</a></td>
+					<td>EGY</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>12-10, 11-9, 13-11 (44m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Mar 2016</td>
+					<td><a href='/players/774-ramy-ashour'>Ramy Ashour</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/1029-mens-british-open-2016'>British Open</a></td>
+					<td>ENG</td>
+					<td><abbr title='Winner'>F</abbr></td>
+					<td>11-2, 11-5, 11-9 (28m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Mar 2016</td>
+					<td><a href='/players/2623-karim-abdel-gawad'>Karim Abdel Gawad</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/1029-mens-british-open-2016'>British Open</a></td>
+					<td>ENG</td>
+					<td><abbr title='Semi-finals'>sf</abbr></td>
+					<td>11-8, 11-7, 11-7 (44m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Mar 2016</td>
+					<td><a href='/players/265-miguel-angel-rodriguez'>Miguel Angel Rodriguez</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/1029-mens-british-open-2016'>British Open</a></td>
+					<td>ENG</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>11-8, 11-8, 11-9 (47m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Mar 2016</td>
+					<td><a href='/players/13-james-willstrop'>James Willstrop</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/1029-mens-british-open-2016'>British Open</a></td>
+					<td>ENG</td>
+					<td><abbr title='2nd round'>r2</abbr></td>
+					<td>11-6, 11-6, 8-11, 11-5 (63m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Mar 2016</td>
+					<td><a href='/players/976-nicolas-muller'>Nicolas Müller</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/1029-mens-british-open-2016'>British Open</a></td>
+					<td>ENG</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-7, 12-10, 11-4 (42m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Mar 2016</td>
+					<td><a href='/players/2777-marwan-elshorbagy'>Marwan Elshorbagy</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6334-premier-league-2016'>Premier League 8th Round</a></td>
+					<td>ENG</td>
+					<td><abbr title='-'>-</abbr></td>
+					<td>5-11, 11-4, 11-8, 5-11, 7-11</td>
+					<td>N</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Mar 2016</td>
+					<td><a href='/players/8-nick-matthew'>Nick Matthew</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6413-mens-windy-city-open-2016'>Windy City Open</a></td>
+					<td>USA</td>
+					<td><abbr title='Winner'>F</abbr></td>
+					<td>11-6, 11-3, 1-0 ret. (22m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Mar 2016</td>
+					<td><a href='/players/265-miguel-angel-rodriguez'>Miguel Angel Rodriguez</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6413-mens-windy-city-open-2016'>Windy City Open</a></td>
+					<td>USA</td>
+					<td><abbr title='Semi-finals'>sf</abbr></td>
+					<td>11-5, 12-10, 11-7 (41m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Mar 2016</td>
+					<td><a href='/players/602-simon-rosner'>Simon Rösner</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6413-mens-windy-city-open-2016'>Windy City Open</a></td>
+					<td>USA</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>11-8, 11-6, 9-11, 11-7 (53m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Mar 2016</td>
+					<td><a href='/players/2603-mohamed-abouelghar'>Mohamed Abouelghar</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6413-mens-windy-city-open-2016'>Windy City Open</a></td>
+					<td>USA</td>
+					<td><abbr title='2nd round'>r2</abbr></td>
+					<td>11-9, 11-6, 18-16 (44m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Mar 2016</td>
+					<td><a href='/players/973-alan-clyne'>Alan Clyne</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6413-mens-windy-city-open-2016'>Windy City Open</a></td>
+					<td>USA</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-5, 11-9, 12-10 (34m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Feb 2016</td>
+					<td><a href='/players/1638-omar-mosaad'>Omar Mosaad</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6435-mens-squash-colombia-open-2016'>Squash Colombia Open</a></td>
+					<td>COL</td>
+					<td><abbr title='Winner'>F</abbr></td>
+					<td>11-9, 7-11, 11-3, 11-9 (66m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Feb 2016</td>
+					<td><a href='/players/2777-marwan-elshorbagy'>Marwan Elshorbagy</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6435-mens-squash-colombia-open-2016'>Squash Colombia Open</a></td>
+					<td>COL</td>
+					<td><abbr title='Semi-finals'>sf</abbr></td>
+					<td>11-4, 11-7, 9-11, 11-8 (61m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Feb 2016</td>
+					<td><a href='/players/703-tom-richards'>Tom Richards</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6435-mens-squash-colombia-open-2016'>Squash Colombia Open</a></td>
+					<td>COL</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>11-7, 11-8, 11-5 (40m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Feb 2016</td>
+					<td><a href='/players/5179-andres-herrera'>Andrés Herrera</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6435-mens-squash-colombia-open-2016'>Squash Colombia Open</a></td>
+					<td>COL</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-6, 11-8, 11-5 (31m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Jan 2016</td>
+					<td><a href='/players/2375-ali-farag'>Ali Farag</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6437-mens-motor-city-open-2016'>Motor City Open</a></td>
+					<td>USA</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>11-6, 9-11, 7-11, 11-8, 6-11 (66m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Jan 2016</td>
+					<td><a href='/players/1447-adrian-waller'>Adrian Waller</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6437-mens-motor-city-open-2016'>Motor City Open</a></td>
+					<td>USA</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-9, 11-9, 6-11, 11-8 (55m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Jan 2016</td>
+					<td><a href='/players/8-nick-matthew'>Nick Matthew</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6411-mens-tournament-of-champions-2016'>Tournament of Champions</a></td>
+					<td>USA</td>
+					<td><abbr title='Winner'>F</abbr></td>
+					<td>8-11, 11-6, 11-8, 6-11, 11-6 (93m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Jan 2016</td>
+					<td><a href='/players/883-mathieu-castagnet'>Mathieu Castagnet</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6411-mens-tournament-of-champions-2016'>Tournament of Champions</a></td>
+					<td>USA</td>
+					<td><abbr title='Semi-finals'>sf</abbr></td>
+					<td>11-9, 11-6, 3-11, 11-7 (49m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Jan 2016</td>
+					<td><a href='/players/1638-omar-mosaad'>Omar Mosaad</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6411-mens-tournament-of-champions-2016'>Tournament of Champions</a></td>
+					<td>USA</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>9-11, 11-8, 11-5, 12-10 (76m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Jan 2016</td>
+					<td><a href='/players/45-cameron-pilley'>Cameron Pilley</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6411-mens-tournament-of-champions-2016'>Tournament of Champions</a></td>
+					<td>USA</td>
+					<td><abbr title='2nd round'>r2</abbr></td>
+					<td>11-5, 11-9, 11-9 (47m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Jan 2016</td>
+					<td><a href='/players/1447-adrian-waller'>Adrian Waller</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6411-mens-tournament-of-champions-2016'>Tournament of Champions</a></td>
+					<td>USA</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-5, 11-8, 11-2 (30m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='subscriber_line'>
+					<td class='topborder'><strong>2003-2015</strong></td>
+					<td class='topborder'><strong>459 matches</strong></td>
+					<td class='topborder' colspan='6'>View full historical match history by <a href='/upgrade'>creating</a> a premium account!</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+
+	<div class='ad_bar_footer'>
+		<!-- Footer -->
+		<ins class='adsbygoogle'
+		     style='display:inline-block;width:728px;height:90px'
+		     data-ad-client='ca-pub-0605489790642236'
+		     data-ad-slot='1142131485'></ins>
+		<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+	</div>
+
+</div>
+
+<div id='si_footer'>
+	<ul id='footer_left'>
+		<li id='copyright' class='li_left'>
+			Squash Info &copy; 2017
+		</li>
+	</ul>
+	<ul id='footer_right'>
+		<li class='li_right'>
+			<strong><a href='mailto:info@squashinfo.com'>Contact us</a></strong>
+		</li>
+		<li class='li_right'>
+			<a href='https://twitter.com/SquashInfo' class='twitter-follow-button' data-show-count='false'>Follow @SquashInfo</a>
+		</li>
+	</ul>
+</div>
+
+<div>
+	<script type='text/javascript'>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-1186220-1']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</div>
+
+</div>
+</div>
+</body>
+</html>

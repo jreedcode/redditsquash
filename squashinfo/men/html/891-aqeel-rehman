@@ -1,0 +1,944 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+
+	<meta charset='utf-8' />
+	<meta name='author' content='Squash Info' />
+	<meta name='keywords' content='squash information rankings psa wsa wispa results events players' />
+
+	<link rel='shortcut icon' href='/favicon.ico' type='image/x-icon' />
+	<script src='https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js'></script>
+	<script src='https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js'></script>
+	<link rel='stylesheet' href='https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/themes/smoothness/jquery-ui.css'>
+	<script src='/js/jquery.timeago.js'></script>
+	<script src='/js/jquery.unveil.min.js'></script>
+	<script src='/js/jquery.leanModal.ch.1461605769.js'></script>
+	<script src='/js/jquery.tokeninput.js'></script>
+	<link rel='stylesheet' href='/css/token-input.css'>
+	<script src='http://platform.twitter.com/widgets.js'></script>
+	<script src='https://apis.google.com/js/platform.js'></script>
+	<script src='/js/jquery.cookiebar.js'></script>
+	<link rel='stylesheet' href='/css/jquery.cookiebar.1444581949.css'>
+	<script src='https://www.gstatic.com/charts/loader.js'></script>
+	<script async src='//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js'></script>
+	<script src='/js/main.1461605758.js'></script>
+	<link rel='stylesheet' href='/css/main.1487399333.css'>
+
+	<title>Squash Info | Aqeel Rehman | Squash</title>
+
+</head>
+<body onload="">
+
+<div id='fb-root'></div>
+<script>!function(e,n,t){var o,c=e.getElementsByTagName(n)[0];e.getElementById(t)||(o=e.createElement(n),o.id=t,o.src='//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.5',c.parentNode.insertBefore(o,c))}(document,'script','facebook-jssdk');</script>
+<script type='text/javascript'>
+	
+	$(document).ready(function() {
+		
+		$.cookieBar({});
+		
+		$('.logout').click(function(event) {
+			
+			if (!confirm('Are you sure you want to log out?')) {
+				event.preventDefault();
+			}
+			
+		});
+		
+	});
+	
+</script>
+<div id='centre_body'>
+
+<div id='header'>
+	<ul id='header_left'>
+		<li id='header_logo' class='li_left'>
+			<a href='/'><img src='/img/logos/si_logo.png' alt='Squash Info, the definitive squash resource' style='vertical-align: middle;' /></a>
+		</li>
+	</ul>
+	<ul id='header_right'>
+		<li id='header_search' class='li_right'>
+			<form id='header_search_form' method='get' action='/search'>
+				<input type='text' name='q' id='q' value='' size='20' maxlength='30' placeholder='Search...' />
+				<input type='submit' value='Go' />
+			</form>
+		</li>
+		<li id='header_signup' class='li_right'><a href='/signup'>Sign Up</a></li>
+		<li id='header_login' class='li_right'>
+			<a rel='leanModal' data-url='%2Fplayers%2F891-aqeel-rehman' href='/login'>Log In</a>
+		</li>
+	</ul>
+</div>
+
+<div id='login_box'>
+	<iframe id='login_iframe' src='/loading.htm' scrolling='no' seamless></iframe>
+</div>
+
+<div id='main_block'>
+
+<div id='left_bar'>
+	<div id='current_date_time'>5:09 pm <br />4 Apr 2017</div>
+	<ul id='navlist'>
+		<li><a href='/' title='Home'>Home</a></li>
+		<li><a href='/news' title='Squash News'>News</a></li>
+		<li><a href='/results' title='Squash Event Results'>Results</a></li>
+		<li><a href='/rankings' title='PSA World Squash Rankings'>Rankings</a></li>
+		<li><a href='/calendar/2017' title='Squash Event Calendar'>Calendar</a></li>
+		<li><a href='/records' title='Squash Records &amp; Statistics'>Records</a></li>
+	</ul>
+</div>
+
+
+<div id='content'>
+
+	<div class='ad_bar_top'>
+		<!-- index -->
+		<ins class='adsbygoogle'
+		     style='display:inline-block;width:728px;height:90px'
+		     data-ad-client='ca-pub-0605489790642236'
+		     data-ad-slot='9600788702'></ins>
+		<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+	</div>
+
+	<h1>
+		Aqeel Rehman <span style='color:#444444;'>(Austria)</span>
+	</h1>
+	<ul id='social_media'>
+	</ul>
+	<div>
+	<h3>
+		Statistics:&nbsp;&nbsp;
+			<a href='/rankings/891-aqeel-rehman'>Ranking History</a>
+			<br />
+	</h3>
+		</div>
+	<div class='content_column'>
+		<div id='world_ranking_box'>
+			<div id='world_ranking'>88</div>
+			<strong>PSA Ranking</strong>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Born:</span>
+			<span>12 Dec 1985 (age 31)</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Gender:</span>
+			<span>Male</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Birthplace:</span>
+			<span>Salzburg</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Residence:</span>
+			<span>Salzburg</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Height:</span>
+			<span>172cm (5 ft 8 in)</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Weight:</span>
+			<span>69kg (10 st 12 lb)</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Joined PSA:</span>
+			<span>2005</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Coach:</span>
+			<span>David Pearson</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Highest WR:</span>
+			<span>81 (May 2013)</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Racket:</span>
+			<span>Wilson</span>
+		</div>
+	</div>
+
+	<div class='clear' style='padding-bottom:20px'></div>
+	<div class='tabletitle'>Career Highlights</div>
+	<div class='darkborder'>
+		<table style='width:100%' cellpadding='2' cellspacing='0' border='0'>
+			<tr class='darkline'>
+				<td style='width:10%' valign='top'>Feb 2016</td>
+				<td style='width:85%'>Wins a record 10th men&#039;s <a href='/events/6550-mens-austrian-nationals-2016'>Austrian Nationals</a> title in a row</td>
+				<td style='width:5%'>&nbsp;</td>
+			</tr>
+		</table>
+	</div>
+
+	<div class='tabletitle' id='news_mentions'>News</div>
+	<div class='darkborder'>
+		<table style='width:100%' cellpadding='2' cellspacing='0' border='0'>
+			<tr class='darkline'>
+				<td style='width:10%' valign='top'>22 Nov 2015</td>
+				<td style='width:90%'><a href='/news/6735-world-team-championship-line-ups-kiwis-competing-confirmed'>World Team Championship Line-Ups - &amp; Kiwis Competing - Confirmed</a></td>
+			</tr>
+			<tr class='lightline'>
+				<td style='width:10%' valign='top'>20 Apr 2015</td>
+				<td style='width:90%'><a href='/news/6577-creed-celebrates-salzburg-success'>Creed Celebrates Salzburg Success</a></td>
+			</tr>
+			<tr class='darkline'>
+				<td style='width:10%' valign='top'>29 Sep 2014</td>
+				<td style='width:90%'><a href='/news/6325-rehman-rallies-to-caldense-success'>Rehman Rallies To Caldense Success</a></td>
+			</tr>
+			<tr class='lightline'>
+				<td style='width:10%' valign='top'>23 Jun 2014</td>
+				<td style='width:90%'><a href='/news/6198-rehman-rallies-to-christchurch-crown'>Rehman Rallies To Christchurch Crown</a></td>
+			</tr>
+			<tr class='darkline'>
+				<td style='width:10%' valign='top'>12 Apr 2014</td>
+				<td style='width:90%'><a href='/news/6093-ford-grabs-pretoria-prize'>Ford Grabs Pretoria Prize</a></td>
+			</tr>
+		</table>
+	</div>
+
+	<div id='upcoming_events' class='tabletitle'>Upcoming Events</div>
+	<div class='darkborder'>
+		<div class='one_entry'>None</div>
+	</div>
+
+	<div class='tabletitle'>Event Summary (18)</div>
+	<div class='darkborder'>
+		<table style='width:100%;' cellpadding='2' cellspacing='0' border='0'>
+			<thead>
+				<tr>
+					<th scope='col' style='width:10%'>Date</th>
+					<th scope='col' style='width:10%'>Seeding</th>
+					<th scope='col' style='width:35%'>Event</th>
+					<th scope='col' style='width:5%'>Ctry</th>
+					<th scope='col' style='width:20%'>Tour</th>
+					<th scope='col' style='width:20%'>Round Reached</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr class='darkline'>
+					<td>Mar 2017</td>
+					<td>[1]</td>
+					<td><a href='/events/7036-mens-annecy-open-2017'>Annecy Open</a></td>
+					<td>FRA</td>
+					<td>PSA Tour</td>
+					<td>Quarter-finals</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Jan 2017</td>
+					<td>[1]</td>
+					<td><a href='/events/6945-mens-finnish-open-2017'>Finnish Open</a></td>
+					<td>FIN</td>
+					<td>PSA Tour</td>
+					<td>Semi-finals</td>
+				</tr>
+				<tr class='darkline'>
+					<td class='topborder'>Dec 2016</td>
+					<td class='topborder'>[7]</td>
+					<td class='topborder'><a href='/events/6858-mens-valencia-open-2016'>Valencia Open</a></td>
+					<td class='topborder'>ESP</td>
+					<td class='topborder'>PSA Tour</td>
+					<td class='topborder'>Quarter-finals</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Nov 2016</td>
+					<td>-</td>
+					<td><a href='/events/6842-mens-cas-international-2016'>CAS International</a></td>
+					<td>PAK</td>
+					<td>PSA Tour</td>
+					<td>Qualifying finals</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Nov 2016</td>
+					<td>-</td>
+					<td><a href='/events/6805-mens-world-championship-2016'>World Championship</a></td>
+					<td>EGY</td>
+					<td>PSA World Series</td>
+					<td>Qualifying finals</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Oct 2016</td>
+					<td>[1]</td>
+					<td><a href='/events/6784-mens-amir-kabir-open-2016'>Amir Kabir Open</a></td>
+					<td>IRI</td>
+					<td>PSA Tour</td>
+					<td>Quarter-finals</td>
+				</tr>
+				<tr class='darkline b'>
+					<td>Oct 2016</td>
+					<td>[1]</td>
+					<td><a href='/events/6773-mens-shiraz-open-2016'>Shiraz Open</a></td>
+					<td>IRI</td>
+					<td>PSA Tour</td>
+					<td>Winner</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Sep 2016</td>
+					<td>[2]</td>
+					<td><a href='/events/6736-mens-bruggen-open-2016'>Brüggen Open</a></td>
+					<td>GER</td>
+					<td>PSA Tour</td>
+					<td>Semi-finals</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Sep 2016</td>
+					<td>[5/8]</td>
+					<td><a href='/events/6729-mens-european-individual-championship-2016'>European Individual Championship</a></td>
+					<td>CZE</td>
+					<td>-</td>
+					<td>Quarter-finals</td>
+				</tr>
+				<tr class='lightline b'>
+					<td>May 2016</td>
+					<td>[1]</td>
+					<td><a href='/events/6645-mens-raanana-squash-center-festival-2016'>Raanana Squash Center Festival</a></td>
+					<td>ISR</td>
+					<td>PSA Tour</td>
+					<td>Winner</td>
+				</tr>
+				<tr class='darkline'>
+					<td>May 2016</td>
+					<td>-</td>
+					<td><a href='/events/6587-mens-european-team-championship-division-2-2016'>European Team Championship (Division 2)</a></td>
+					<td>POL</td>
+					<td>-</td>
+					<td>-</td>
+				</tr>
+				<tr class='lightline b'>
+					<td>Apr 2016</td>
+					<td>[2]</td>
+					<td><a href='/events/6609-mens-uct-open-2016'>UCT Open</a></td>
+					<td>RSA</td>
+					<td>PSA Tour</td>
+					<td>Winner</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Apr 2016</td>
+					<td>[2]</td>
+					<td><a href='/events/6600-mens-central-gauteng-open-2016'>Central Gauteng Open</a></td>
+					<td>RSA</td>
+					<td>PSA Tour</td>
+					<td>Runner-up</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Apr 2016</td>
+					<td>[3]</td>
+					<td><a href='/events/6579-mens-austrian-open-2016'>Austrian Open</a></td>
+					<td>AUT</td>
+					<td>PSA Tour</td>
+					<td>Quarter-finals</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Feb 2016</td>
+					<td>-</td>
+					<td><a href='/events/6334-premier-league-2016'>Premier League 7th Round</a></td>
+					<td>ENG</td>
+					<td>-</td>
+					<td>-</td>
+				</tr>
+				<tr class='lightline b'>
+					<td>Feb 2016</td>
+					<td>[1]</td>
+					<td><a href='/events/6550-mens-austrian-nationals-2016'>Austrian Nationals</a></td>
+					<td>AUT</td>
+					<td>-</td>
+					<td>Winner</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Jan 2016</td>
+					<td>[2]</td>
+					<td><a href='/events/6457-mens-finnish-open-2016'>Finnish Open</a></td>
+					<td>FIN</td>
+					<td>PSA Tour</td>
+					<td>1st round</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Jan 2016</td>
+					<td>[2]</td>
+					<td><a href='/events/6456-mens-helsinki-winter-challenger-2016'>Helsinki Winter Challenger</a></td>
+					<td>FIN</td>
+					<td>PSA Tour</td>
+					<td>Quarter-finals</td>
+				</tr>
+				<tr class='subscriber_line'>
+					<td class='topborder'><strong>2003-2015</strong></td>
+					<td class='topborder'><strong>189 events</strong></td>
+					<td class='topborder' colspan='4'>View full historical event history by <a href='/upgrade'>creating</a> a premium account!</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+
+	<div id='match_summary' class='tabletitle'>Match Summary (Played 50 - Won 35, Lost 15)</div>
+	<div class='darkborder'>
+		<table id='match_summary_table' style='width:100%;' cellpadding='2' cellspacing='0' border='0'>
+			<thead>
+				<tr>
+					<th scope='col' style='width:10%'>Date</th>
+					<th scope='col' style='width:17%'>Opponent</th>
+					<th scope='col' style='width:4%'>W/L</th>
+					<th scope='col' style='width:25%'>Event</th>
+					<th scope='col' style='width:5%'>Ctry</th>
+					<th scope='col' style='width:3%'>Rnd</th>
+					<th scope='col' style='width:32%'>Score</th>
+					<th scope='col' style='width:4%'>PSA</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr class='darkline'>
+					<td>Mar 2017</td>
+					<td><a href='/players/5295-emyr-evans'>Emyr Evans</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/7036-mens-annecy-open-2017'>Annecy Open</a></td>
+					<td>FRA</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>9-11, 4-11, 11-1, 11-5, 8-11 (91m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Mar 2017</td>
+					<td><a href='/players/7181-sebastien-bonmalais'>Sébastien Bonmalais</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/7036-mens-annecy-open-2017'>Annecy Open</a></td>
+					<td>FRA</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>10-12, 11-7, 11-7, 11-8</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Jan 2017</td>
+					<td><a href='/players/5294-george-parker'>George Parker</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6945-mens-finnish-open-2017'>Finnish Open</a></td>
+					<td>FIN</td>
+					<td><abbr title='Semi-finals'>sf</abbr></td>
+					<td>11-13, 9-11, 11-7, 8-11 (45m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Jan 2017</td>
+					<td><a href='/players/9307-connor-sheen'>Connor Sheen</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6945-mens-finnish-open-2017'>Finnish Open</a></td>
+					<td>FIN</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>11-3, 11-6, 11-7 (25m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Jan 2017</td>
+					<td><a href='/players/7129-seigo-masuda'>Seigo Masuda</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6945-mens-finnish-open-2017'>Finnish Open</a></td>
+					<td>FIN</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-3, 11-6, 11-3 (22m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td class='topborder'>Dec 2016</td>
+					<td class='topborder'><a href='/players/7741-karim-el-hammamy'>Karim El Hammamy</a></td>
+					<td class='topborder' title=''>L</td>
+					<td class='topborder'><a href='/events/6858-mens-valencia-open-2016'>Valencia Open</a></td>
+					<td class='topborder'>ESP</td>
+					<td class='topborder'><abbr title='Quarter-finals'>qf</abbr></td>
+					<td class='topborder'>8-11, 13-11, 9-11, 10-12</td>
+					<td class='topborder'>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Dec 2016</td>
+					<td><a href='/players/5009-sean-conroy'>Sean Conroy</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6858-mens-valencia-open-2016'>Valencia Open</a></td>
+					<td>ESP</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>12-14, 11-3, 9-11, 11-7, 12-10</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Nov 2016</td>
+					<td><a href='/players/8050-israr-ahmed'>Israr Ahmed</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6842-mens-cas-international-2016'>CAS International</a></td>
+					<td>PAK</td>
+					<td><abbr title='Qualifying finals'>Q</abbr></td>
+					<td>6-11, 8-11, 11-2, 15-13, 6-11 (57m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Nov 2016</td>
+					<td><a href='/players/3771-zeeshan-khan'>Zeeshan Khan</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6842-mens-cas-international-2016'>CAS International</a></td>
+					<td>PAK</td>
+					<td><abbr title='1st qualifying round'>Q</abbr></td>
+					<td>11-9, 12-10, 11-6 (35m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Nov 2016</td>
+					<td><a href='/players/5190-mazen-gamal'>Mazen Gamal</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6805-mens-world-championship-2016'>World Championship</a></td>
+					<td>EGY</td>
+					<td><abbr title='Qualifying finals'>Q</abbr></td>
+					<td>12-10, 1-11, 8-11, 7-11 (51m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Nov 2016</td>
+					<td><a href='/players/5403-mohamed-elgawarhy'>Mohamed Elgawarhy</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6805-mens-world-championship-2016'>World Championship</a></td>
+					<td>EGY</td>
+					<td><abbr title='1st qualifying round'>Q</abbr></td>
+					<td>12-10, 11-5, 11-3 (24m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Oct 2016</td>
+					<td><a href='/players/8928-sajad-zareian'>Sajad Zareian</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6784-mens-amir-kabir-open-2016'>Amir Kabir Open</a></td>
+					<td>IRI</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>7-11, 11-6, 7-11, 11-1, 3-11</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Oct 2016</td>
+					<td><a href='/players/5565-soheil-shameli'>Soheil Shameli</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6784-mens-amir-kabir-open-2016'>Amir Kabir Open</a></td>
+					<td>IRI</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>12-10, 11-6, 8-11, 11-5</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Oct 2016</td>
+					<td><a href='/players/3357-ammar-altamimi'>Ammar Altamimi</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6773-mens-shiraz-open-2016'>Shiraz Open</a></td>
+					<td>IRI</td>
+					<td><abbr title='Winner'>F</abbr></td>
+					<td>11-9, 11-7, 11-4</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Oct 2016</td>
+					<td><a href='/players/7560-mohammed-ferman-hasan'>Mohammed Ferman Hasan</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6773-mens-shiraz-open-2016'>Shiraz Open</a></td>
+					<td>IRI</td>
+					<td><abbr title='Semi-finals'>sf</abbr></td>
+					<td>11-5, 11-7, 11-1</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Oct 2016</td>
+					<td><a href='/players/8928-sajad-zareian'>Sajad Zareian</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6773-mens-shiraz-open-2016'>Shiraz Open</a></td>
+					<td>IRI</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>11-9, 7-11, 11-4, 11-5</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Oct 2016</td>
+					<td><a href='/players/8394-hasanain-dakheel'>Hasanain Dakheel</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6773-mens-shiraz-open-2016'>Shiraz Open</a></td>
+					<td>IRI</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-7, 11-5, 11-5</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Sep 2016</td>
+					<td><a href='/players/5701-auguste-dussourd'>Auguste Dussourd</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6736-mens-bruggen-open-2016'>Brüggen Open</a></td>
+					<td>GER</td>
+					<td><abbr title='Semi-finals'>sf</abbr></td>
+					<td>11-4, 4-11, 9-11, 11-2, 7-11</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Sep 2016</td>
+					<td><a href='/players/2091-daniel-mekbib'>Daniel Mekbib</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6736-mens-bruggen-open-2016'>Brüggen Open</a></td>
+					<td>GER</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>11-9, 11-6, 11-7</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Sep 2016</td>
+					<td><a href='/players/1186-jakob-dirnberger'>Jakob Dirnberger</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6736-mens-bruggen-open-2016'>Brüggen Open</a></td>
+					<td>GER</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-3, 9-11, 11-4, 11-5</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Sep 2016</td>
+					<td><a href='/players/34-borja-golan'>Borja Golan</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6729-mens-european-individual-championship-2016'>European Individual Championship</a></td>
+					<td>CZE</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>8-11, 5-11, 9-11 (33m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Sep 2016</td>
+					<td><a href='/players/6877-jakub-solnicky'>Jakub Solnicky</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6729-mens-european-individual-championship-2016'>European Individual Championship</a></td>
+					<td>CZE</td>
+					<td><abbr title='2nd round'>r2</abbr></td>
+					<td>11-4, 7-11, 11-6, 11-2</td>
+					<td>N</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Sep 2016</td>
+					<td><a href='/players/5696-jan-ryba'>Jan Ryba</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6729-mens-european-individual-championship-2016'>European Individual Championship</a></td>
+					<td>CZE</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>12-10, 4-11, 11-6, 12-10</td>
+					<td>N</td>
+				</tr>
+				<tr class='lightline'>
+					<td>May 2016</td>
+					<td><a href='/players/7488-edmon-lopez'>Edmon Lopez</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6645-mens-raanana-squash-center-festival-2016'>Raanana Squash Center Festival</a></td>
+					<td>ISR</td>
+					<td><abbr title='Winner'>F</abbr></td>
+					<td>11-9, 11-0, 6-11, 9-11, 11-3 (93m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>May 2016</td>
+					<td><a href='/players/5725-bernat-jaume'>Bernat Jaume</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6645-mens-raanana-squash-center-festival-2016'>Raanana Squash Center Festival</a></td>
+					<td>ISR</td>
+					<td><abbr title='Semi-finals'>sf</abbr></td>
+					<td>11-13, 11-4, 11-7, 11-3 (57m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>May 2016</td>
+					<td><a href='/players/2658-nir-zisman'>Nir Zisman</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6645-mens-raanana-squash-center-festival-2016'>Raanana Squash Center Festival</a></td>
+					<td>ISR</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>11-4, 11-7, 11-2 (23m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>May 2016</td>
+					<td><a href='/players/2056-joeri-hapers'>Joeri Hapers</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6645-mens-raanana-squash-center-festival-2016'>Raanana Squash Center Festival</a></td>
+					<td>ISR</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-7, 11-3, 11-4 (40m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>May 2016</td>
+					<td><a href='/players/497-marton-szaboky'>Marton Szaboky</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6587-mens-european-team-championship-division-2-2016'>European Team Championship (Division 2)</a></td>
+					<td>POL</td>
+					<td><abbr title='-'>-</abbr></td>
+					<td>11-3, 11-3, 11-6 (23m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='darkline'>
+					<td>May 2016</td>
+					<td><a href='/players/988-peter-creed'>Peter Creed</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6587-mens-european-team-championship-division-2-2016'>European Team Championship (Division 2)</a></td>
+					<td>POL</td>
+					<td><abbr title='-'>-</abbr></td>
+					<td>4-11, 11-6, 4-11, 9-11 (47m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='lightline'>
+					<td>May 2016</td>
+					<td><a href='/players/8427-adrian-ostbye'>Adrian Ostbye</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6587-mens-european-team-championship-division-2-2016'>European Team Championship (Division 2)</a></td>
+					<td>POL</td>
+					<td><abbr title='-'>-</abbr></td>
+					<td>11-4, 11-8, 11-5 (25m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='darkline'>
+					<td>May 2016</td>
+					<td><a href='/players/976-nicolas-muller'>Nicolas Müller</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6587-mens-european-team-championship-division-2-2016'>European Team Championship (Division 2)</a></td>
+					<td>POL</td>
+					<td><abbr title='-'>-</abbr></td>
+					<td>4-11, 9-11, 9-11 (34m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Apr 2016</td>
+					<td><a href='/players/7831-hesham-mohamed-aly'>Hesham Mohamed Aly</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6609-mens-uct-open-2016'>UCT Open</a></td>
+					<td>RSA</td>
+					<td><abbr title='Winner'>F</abbr></td>
+					<td>11-4, 15-13, 9-11, 11-7 (60m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Apr 2016</td>
+					<td><a href='/players/5255-leandro-romiglio'>Leandro Romiglio</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6609-mens-uct-open-2016'>UCT Open</a></td>
+					<td>RSA</td>
+					<td><abbr title='Semi-finals'>sf</abbr></td>
+					<td>4-11, 11-6, 8-11, 11-9, 11-9 (75m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Apr 2016</td>
+					<td><a href='/players/5324-christo-potgieter'>Christo Potgieter</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6609-mens-uct-open-2016'>UCT Open</a></td>
+					<td>RSA</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>11-4, 11-6, 11-7 (28m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Apr 2016</td>
+					<td><a href='/players/9176-kyle-maree'>Kyle Maree</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6609-mens-uct-open-2016'>UCT Open</a></td>
+					<td>RSA</td>
+					<td><abbr title='2nd round'>r2</abbr></td>
+					<td>11-2, 11-3, 11-4 (28m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Apr 2016</td>
+					<td><a href='/players/7662-ruan-olivier'>Ruan Olivier</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6609-mens-uct-open-2016'>UCT Open</a></td>
+					<td>RSA</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>9-11, 11-7, 11-2, 11-8 (53m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Apr 2016</td>
+					<td><a href='/players/5255-leandro-romiglio'>Leandro Romiglio</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6600-mens-central-gauteng-open-2016'>Central Gauteng Open</a></td>
+					<td>RSA</td>
+					<td><abbr title='Runner-up'>F</abbr></td>
+					<td>11-9, 4-11, 11-7, 4-11, 18-20 (92m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Apr 2016</td>
+					<td><a href='/players/9636-dylan-groenewald'>Dylan Groenewald</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6600-mens-central-gauteng-open-2016'>Central Gauteng Open</a></td>
+					<td>RSA</td>
+					<td><abbr title='Semi-finals'>sf</abbr></td>
+					<td>11-7, 11-3, 11-6 (37m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Apr 2016</td>
+					<td><a href='/players/5285-vincent-droesbeke'>Vincent Droesbeke</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6600-mens-central-gauteng-open-2016'>Central Gauteng Open</a></td>
+					<td>RSA</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>14-16, 11-4, 5-11, 11-7, 11-6 (73m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Apr 2016</td>
+					<td><a href='/players/7831-hesham-mohamed-aly'>Hesham Mohamed Aly</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6600-mens-central-gauteng-open-2016'>Central Gauteng Open</a></td>
+					<td>RSA</td>
+					<td><abbr title='2nd round'>r2</abbr></td>
+					<td>11-6, 11-5, 9-11, 11-4 (44m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Apr 2016</td>
+					<td><a href='/players/11410-zwelle-makgalemele'>Zwelle Makgalemele</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6600-mens-central-gauteng-open-2016'>Central Gauteng Open</a></td>
+					<td>RSA</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-3, 11-6, 11-4 (21m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Apr 2016</td>
+					<td><a href='/players/5702-baptiste-masotti'>Baptiste Masotti</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6579-mens-austrian-open-2016'>Austrian Open</a></td>
+					<td>AUT</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>8-11, 11-4, 7-11, 11-13 (46m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Apr 2016</td>
+					<td><a href='/players/5696-jan-ryba'>Jan Ryba</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6579-mens-austrian-open-2016'>Austrian Open</a></td>
+					<td>AUT</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-7, 14-12, 11-5 (45m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Feb 2016</td>
+					<td><a href='/players/3911-mark-fuller'>Mark Fuller</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6334-premier-league-2016'>Premier League 7th Round</a></td>
+					<td>ENG</td>
+					<td><abbr title='-'>-</abbr></td>
+					<td>11-7, 6-11, 1-11, 11-5, 7-11</td>
+					<td>N</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Feb 2016</td>
+					<td><a href='/players/1186-jakob-dirnberger'>Jakob Dirnberger</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6550-mens-austrian-nationals-2016'>Austrian Nationals</a></td>
+					<td>AUT</td>
+					<td><abbr title='Winner'>F</abbr></td>
+					<td>11-7, 11-2, 11-3</td>
+					<td>N</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Feb 2016</td>
+					<td><a href='/players/4255-manuel-kurzweil'>Manuel Kurzweil</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6550-mens-austrian-nationals-2016'>Austrian Nationals</a></td>
+					<td>AUT</td>
+					<td><abbr title='Semi-finals'>sf</abbr></td>
+					<td>11-8, 11-4, 11-3</td>
+					<td>N</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Feb 2016</td>
+					<td><a href='/players/9216-erich-streit'>Erich Streit</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6550-mens-austrian-nationals-2016'>Austrian Nationals</a></td>
+					<td>AUT</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>3/0</td>
+					<td>N</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Jan 2016</td>
+					<td><a href='/players/5699-miko-aijanen'>Miko Äijänen</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6457-mens-finnish-open-2016'>Finnish Open</a></td>
+					<td>FIN</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>6-11, 11-6, 5-11, 11-5, 10-12</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Jan 2016</td>
+					<td><a href='/players/7453-kristian-rautiainen'>Kristian Rautiainen</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6456-mens-helsinki-winter-challenger-2016'>Helsinki Winter Challenger</a></td>
+					<td>FIN</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>8-11, 8-11, 12-10, 5-11</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Jan 2016</td>
+					<td><a href='/players/4904-tristan-eysele'>Tristan Eysele</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6456-mens-helsinki-winter-challenger-2016'>Helsinki Winter Challenger</a></td>
+					<td>FIN</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>8-11, 11-7, 11-5, 11-7</td>
+					<td>Y</td>
+				</tr>
+				<tr class='subscriber_line'>
+					<td class='topborder'><strong>2003-2015</strong></td>
+					<td class='topborder'><strong>420 matches</strong></td>
+					<td class='topborder' colspan='6'>View full historical match history by <a href='/upgrade'>creating</a> a premium account!</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+
+	<div class='ad_bar_footer'>
+		<!-- Footer -->
+		<ins class='adsbygoogle'
+		     style='display:inline-block;width:728px;height:90px'
+		     data-ad-client='ca-pub-0605489790642236'
+		     data-ad-slot='1142131485'></ins>
+		<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+	</div>
+
+</div>
+
+<div id='si_footer'>
+	<ul id='footer_left'>
+		<li id='copyright' class='li_left'>
+			Squash Info &copy; 2017
+		</li>
+	</ul>
+	<ul id='footer_right'>
+		<li class='li_right'>
+			<strong><a href='mailto:info@squashinfo.com'>Contact us</a></strong>
+		</li>
+		<li class='li_right'>
+			<a href='https://twitter.com/SquashInfo' class='twitter-follow-button' data-show-count='false'>Follow @SquashInfo</a>
+		</li>
+	</ul>
+</div>
+
+<div>
+	<script type='text/javascript'>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-1186220-1']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</div>
+
+</div>
+</div>
+</body>
+</html>

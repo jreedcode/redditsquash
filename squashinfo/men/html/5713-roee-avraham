@@ -1,0 +1,624 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+
+	<meta charset='utf-8' />
+	<meta name='author' content='Squash Info' />
+	<meta name='keywords' content='squash information rankings psa wsa wispa results events players' />
+
+	<link rel='shortcut icon' href='/favicon.ico' type='image/x-icon' />
+	<script src='https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js'></script>
+	<script src='https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js'></script>
+	<link rel='stylesheet' href='https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/themes/smoothness/jquery-ui.css'>
+	<script src='/js/jquery.timeago.js'></script>
+	<script src='/js/jquery.unveil.min.js'></script>
+	<script src='/js/jquery.leanModal.ch.1461605769.js'></script>
+	<script src='/js/jquery.tokeninput.js'></script>
+	<link rel='stylesheet' href='/css/token-input.css'>
+	<script src='http://platform.twitter.com/widgets.js'></script>
+	<script src='https://apis.google.com/js/platform.js'></script>
+	<script src='/js/jquery.cookiebar.js'></script>
+	<link rel='stylesheet' href='/css/jquery.cookiebar.1444581949.css'>
+	<script src='https://www.gstatic.com/charts/loader.js'></script>
+	<script async src='//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js'></script>
+	<script src='/js/main.1461605758.js'></script>
+	<link rel='stylesheet' href='/css/main.1487399333.css'>
+
+	<title>Squash Info | Roee Avraham | Squash</title>
+
+</head>
+<body onload="">
+
+<div id='fb-root'></div>
+<script>!function(e,n,t){var o,c=e.getElementsByTagName(n)[0];e.getElementById(t)||(o=e.createElement(n),o.id=t,o.src='//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.5',c.parentNode.insertBefore(o,c))}(document,'script','facebook-jssdk');</script>
+<script type='text/javascript'>
+	
+	$(document).ready(function() {
+		
+		$.cookieBar({});
+		
+		$('.logout').click(function(event) {
+			
+			if (!confirm('Are you sure you want to log out?')) {
+				event.preventDefault();
+			}
+			
+		});
+		
+	});
+	
+</script>
+<div id='centre_body'>
+
+<div id='header'>
+	<ul id='header_left'>
+		<li id='header_logo' class='li_left'>
+			<a href='/'><img src='/img/logos/si_logo.png' alt='Squash Info, the definitive squash resource' style='vertical-align: middle;' /></a>
+		</li>
+	</ul>
+	<ul id='header_right'>
+		<li id='header_search' class='li_right'>
+			<form id='header_search_form' method='get' action='/search'>
+				<input type='text' name='q' id='q' value='' size='20' maxlength='30' placeholder='Search...' />
+				<input type='submit' value='Go' />
+			</form>
+		</li>
+		<li id='header_signup' class='li_right'><a href='/signup'>Sign Up</a></li>
+		<li id='header_login' class='li_right'>
+			<a rel='leanModal' data-url='%2Fplayers%2F5713-roee-avraham' href='/login'>Log In</a>
+		</li>
+	</ul>
+</div>
+
+<div id='login_box'>
+	<iframe id='login_iframe' src='/loading.htm' scrolling='no' seamless></iframe>
+</div>
+
+<div id='main_block'>
+
+<div id='left_bar'>
+	<div id='current_date_time'>5:11 pm <br />4 Apr 2017</div>
+	<ul id='navlist'>
+		<li><a href='/' title='Home'>Home</a></li>
+		<li><a href='/news' title='Squash News'>News</a></li>
+		<li><a href='/results' title='Squash Event Results'>Results</a></li>
+		<li><a href='/rankings' title='PSA World Squash Rankings'>Rankings</a></li>
+		<li><a href='/calendar/2017' title='Squash Event Calendar'>Calendar</a></li>
+		<li><a href='/records' title='Squash Records &amp; Statistics'>Records</a></li>
+	</ul>
+</div>
+
+
+<div id='content'>
+
+	<div class='ad_bar_top'>
+		<!-- index -->
+		<ins class='adsbygoogle'
+		     style='display:inline-block;width:728px;height:90px'
+		     data-ad-client='ca-pub-0605489790642236'
+		     data-ad-slot='9600788702'></ins>
+		<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+	</div>
+
+	<h1>
+		Roee Avraham <span style='color:#444444;'>(Israel)</span>
+	</h1>
+	<ul id='social_media'>
+		<li id='sm_twitter'>
+			<a href='https://twitter.com/@roee_avraham' class='twitter-follow-button' data-show-count='false'>Follow @roee_avraham</a>
+		</li>
+	</ul>
+	<div>
+	<h3>
+		Statistics:&nbsp;&nbsp;
+			<a href='/rankings/5713-roee-avraham'>Ranking History</a>
+			<br />
+	</h3>
+		</div>
+	<div class='content_column'>
+		<div id='world_ranking_box'>
+			<div id='world_ranking'>168</div>
+			<strong>PSA Ranking</strong>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Born:</span>
+			<span>17 Feb 1996 (age 21)</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Gender:</span>
+			<span>Male</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Birthplace:</span>
+			<span>Ramat Gan</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Residence:</span>
+			<span>Herzliya</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Height:</span>
+			<span>171cm (5 ft 7 in)</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Weight:</span>
+			<span>74kg (11 st 9 lb)</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Coach:</span>
+			<span>Ronny Vlassaks, Nadav Wilensky</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Highest WR:</span>
+			<span>167 (Mar 2017)</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Racket:</span>
+			<span>Eye</span>
+		</div>
+	</div>
+
+	<div class='clear' style='padding-bottom:20px'></div>
+	<div class='tabletitle' id='news_mentions'>News</div>
+	<div class='darkborder'>
+		<table style='width:100%' cellpadding='2' cellspacing='0' border='0'>
+			<tr class='darkline'>
+				<td style='width:10%' valign='top'>11 Aug 2014</td>
+				<td style='width:90%'><a href='/news/6244-spencer-carries-home-hopes-in-namibia-world-championships'>Spencer Carries Home Hopes In Namibia World Championships</a></td>
+			</tr>
+			<tr class='lightline'>
+				<td style='width:10%' valign='top'>7 Aug 2014</td>
+				<td style='width:90%'><a href='/news/6242-diego-set-to-dazzle-in-namibia-world-championships'>Diego Set To Dazzle In Namibia World Championships</a></td>
+			</tr>
+			<tr class='darkline'>
+				<td style='width:10%' valign='top'>22 Jul 2014</td>
+				<td style='width:90%'><a href='/news/6222-elias-el-sherbini-set-for-historic-world-junior-success'>Elias &amp; El Sherbini Set For Historic World Junior Success</a></td>
+			</tr>
+			<tr class='lightline'>
+				<td style='width:10%' valign='top'>15 Jul 2013</td>
+				<td style='width:90%'><a href='/news/5668-in-form-al-tamimi-raises-qatari-world-junior-hopes'>In-Form Al Tamimi Raises Qatari World Junior Hopes</a></td>
+			</tr>
+			<tr class='darkline'>
+				<td style='width:10%' valign='top'>24 Jun 2013</td>
+				<td style='width:90%'><a href='/news/5653-world-junior-championships-highlight-global-reach-of-squash'>World Junior Championships Highlight Global Reach Of Squash</a></td>
+			</tr>
+		</table>
+	</div>
+
+	<div id='upcoming_events' class='tabletitle'>Upcoming Events</div>
+	<div class='darkborder'>
+		<div class='one_entry'>None</div>
+	</div>
+
+	<div class='tabletitle'>Event Summary (12)</div>
+	<div class='darkborder'>
+		<table style='width:100%;' cellpadding='2' cellspacing='0' border='0'>
+			<thead>
+				<tr>
+					<th scope='col' style='width:10%'>Date</th>
+					<th scope='col' style='width:10%'>Seeding</th>
+					<th scope='col' style='width:35%'>Event</th>
+					<th scope='col' style='width:5%'>Ctry</th>
+					<th scope='col' style='width:20%'>Tour</th>
+					<th scope='col' style='width:20%'>Round Reached</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr class='darkline'>
+					<td>Apr 2017</td>
+					<td>[8]</td>
+					<td><a href='/events/7062-mens-amsterdam-open-2017'>Amsterdam Open</a></td>
+					<td>NED</td>
+					<td>PSA Tour</td>
+					<td>Quarter-finals</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Mar 2017</td>
+					<td>-</td>
+					<td><a href='/events/7056-mens-hampshire-open-2017'>Hampshire Open</a></td>
+					<td>ENG</td>
+					<td>PSA Tour</td>
+					<td>1st round</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Mar 2017</td>
+					<td>[7]</td>
+					<td><a href='/events/7036-mens-annecy-open-2017'>Annecy Open</a></td>
+					<td>FRA</td>
+					<td>PSA Tour</td>
+					<td>1st round</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Jan 2017</td>
+					<td>[7]</td>
+					<td><a href='/events/6904-mens-open-du-gard-2017'>Open du Gard</a></td>
+					<td>FRA</td>
+					<td>PSA Tour</td>
+					<td>Quarter-finals</td>
+				</tr>
+				<tr class='darkline'>
+					<td class='topborder'>Dec 2016</td>
+					<td class='topborder'>[8]</td>
+					<td class='topborder'><a href='/events/6859-mens-airport-challenger-2016'>Airport Challenger</a></td>
+					<td class='topborder'>GER</td>
+					<td class='topborder'>PSA Tour</td>
+					<td class='topborder'>Quarter-finals</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Nov 2016</td>
+					<td>-</td>
+					<td><a href='/events/6819-mens-herzliya-autumn-tournament-2016'>Herzliya Autumn Tournament</a></td>
+					<td>ISR</td>
+					<td>PSA Tour</td>
+					<td>Semi-finals</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Jun 2016</td>
+					<td>-</td>
+					<td><a href='/events/6657-mens-open-international-dangers-2016'>Open International d&#039;Angers</a></td>
+					<td>FRA</td>
+					<td>PSA Tour</td>
+					<td>1st round</td>
+				</tr>
+				<tr class='lightline'>
+					<td>May 2016</td>
+					<td>-</td>
+					<td><a href='/events/6645-mens-raanana-squash-center-festival-2016'>Raanana Squash Center Festival</a></td>
+					<td>ISR</td>
+					<td>PSA Tour</td>
+					<td>Quarter-finals</td>
+				</tr>
+				<tr class='darkline'>
+					<td>May 2016</td>
+					<td>-</td>
+					<td><a href='/events/6634-mens-open-lorient-2016'>Open Lorient</a></td>
+					<td>FRA</td>
+					<td>PSA Tour</td>
+					<td>Quarter-finals</td>
+				</tr>
+				<tr class='lightline'>
+					<td>May 2016</td>
+					<td>-</td>
+					<td><a href='/events/6587-mens-european-team-championship-division-2-2016'>European Team Championship (Division 2)</a></td>
+					<td>POL</td>
+					<td>-</td>
+					<td>-</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Mar 2016</td>
+					<td>-</td>
+					<td><a href='/events/6573-mens-russian-open-2016'>Russian Open</a></td>
+					<td>RUS</td>
+					<td>PSA Tour</td>
+					<td>1st round</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Mar 2016</td>
+					<td>[<abbr title='Qualifier'>Q</abbr>]</td>
+					<td><a href='/events/6558-mens-sekisui-open-2016'>Sekisui Open</a></td>
+					<td>SUI</td>
+					<td>PSA Tour</td>
+					<td>1st round</td>
+				</tr>
+				<tr class='subscriber_line'>
+					<td class='topborder'><strong>2009-2015</strong></td>
+					<td class='topborder'><strong>33 events</strong></td>
+					<td class='topborder' colspan='4'>View full historical event history by <a href='/upgrade'>creating</a> a premium account!</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+
+	<div id='match_summary' class='tabletitle'>Match Summary (Played 24 - Won 11, Lost 13)</div>
+	<div class='darkborder'>
+		<table id='match_summary_table' style='width:100%;' cellpadding='2' cellspacing='0' border='0'>
+			<thead>
+				<tr>
+					<th scope='col' style='width:10%'>Date</th>
+					<th scope='col' style='width:17%'>Opponent</th>
+					<th scope='col' style='width:4%'>W/L</th>
+					<th scope='col' style='width:25%'>Event</th>
+					<th scope='col' style='width:5%'>Ctry</th>
+					<th scope='col' style='width:3%'>Rnd</th>
+					<th scope='col' style='width:32%'>Score</th>
+					<th scope='col' style='width:4%'>PSA</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr class='darkline'>
+					<td>Apr 2017</td>
+					<td><a href='/players/5295-emyr-evans'>Emyr Evans</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/7062-mens-amsterdam-open-2017'>Amsterdam Open</a></td>
+					<td>NED</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>6-11, 9-11, 10-12 (51m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Apr 2017</td>
+					<td><a href='/players/7134-claudio-pinto'>Claudio Pinto</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/7062-mens-amsterdam-open-2017'>Amsterdam Open</a></td>
+					<td>NED</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-4, 12-10, 11-5 (31m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Mar 2017</td>
+					<td><a href='/players/8050-israr-ahmed'>Israr Ahmed</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/7056-mens-hampshire-open-2017'>Hampshire Open</a></td>
+					<td>ENG</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>7-11, 9-11, 11-6, 8-11</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Mar 2017</td>
+					<td><a href='/players/5295-emyr-evans'>Emyr Evans</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/7036-mens-annecy-open-2017'>Annecy Open</a></td>
+					<td>FRA</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>6-11, 7-11, 12-14</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Jan 2017</td>
+					<td><a href='/players/7521-dimitri-steinmann'>Dimitri Steinmann</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6904-mens-open-du-gard-2017'>Open du Gard</a></td>
+					<td>FRA</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>8-11, 11-6, 3-11, 9-11 (38m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Jan 2017</td>
+					<td><a href='/players/8373-matthew-broadberry'>Matthew Broadberry</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6904-mens-open-du-gard-2017'>Open du Gard</a></td>
+					<td>FRA</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>8-11, 11-6, 11-9, 11-7 (33m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td class='topborder'>Dec 2016</td>
+					<td class='topborder'><a href='/players/7521-dimitri-steinmann'>Dimitri Steinmann</a></td>
+					<td class='topborder' title=''>L</td>
+					<td class='topborder'><a href='/events/6859-mens-airport-challenger-2016'>Airport Challenger</a></td>
+					<td class='topborder'>GER</td>
+					<td class='topborder'><abbr title='Quarter-finals'>qf</abbr></td>
+					<td class='topborder'>3-11, 8-11, 11-9, 7-11</td>
+					<td class='topborder'>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Dec 2016</td>
+					<td><a href='/players/7129-seigo-masuda'>Seigo Masuda</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6859-mens-airport-challenger-2016'>Airport Challenger</a></td>
+					<td>GER</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-9, 11-5, 11-6</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Nov 2016</td>
+					<td><a href='/players/3108-piedro-schweertman'>Piedro Schweertman</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6819-mens-herzliya-autumn-tournament-2016'>Herzliya Autumn Tournament</a></td>
+					<td>ISR</td>
+					<td><abbr title='Semi-finals'>sf</abbr></td>
+					<td>3-11, 9-11, 6-11 (46m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Nov 2016</td>
+					<td><a href='/players/2669-joe-chapman'>Joe Chapman</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6819-mens-herzliya-autumn-tournament-2016'>Herzliya Autumn Tournament</a></td>
+					<td>ISR</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>7-11, 11-8, 9-11, 11-4, 11-8 (55m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Nov 2016</td>
+					<td><a href='/players/7134-claudio-pinto'>Claudio Pinto</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6819-mens-herzliya-autumn-tournament-2016'>Herzliya Autumn Tournament</a></td>
+					<td>ISR</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-13, 11-6, 11-9, 11-2</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Jun 2016</td>
+					<td><a href='/players/4635-carlos-cornes-ribadas'>Carlos Cornes Ribadas</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6657-mens-open-international-dangers-2016'>Open International d&#039;Angers</a></td>
+					<td>FRA</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>8-11, 11-6, 6-11, 5-11</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>May 2016</td>
+					<td><a href='/players/7488-edmon-lopez'>Edmon Lopez</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6645-mens-raanana-squash-center-festival-2016'>Raanana Squash Center Festival</a></td>
+					<td>ISR</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>6-11, 6-11, 3-11 (41m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>May 2016</td>
+					<td><a href='/players/5291-alex-noakes'>Alex Noakes</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6645-mens-raanana-squash-center-festival-2016'>Raanana Squash Center Festival</a></td>
+					<td>ISR</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>12-10, 7-11, 11-5, 11-9 (53m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>May 2016</td>
+					<td><a href='/players/4635-carlos-cornes-ribadas'>Carlos Cornes Ribadas</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6634-mens-open-lorient-2016'>Open Lorient</a></td>
+					<td>FRA</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>7-11, 9-11, 9-11</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>May 2016</td>
+					<td><a href='/players/5291-alex-noakes'>Alex Noakes</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6634-mens-open-lorient-2016'>Open Lorient</a></td>
+					<td>FRA</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-8, 11-4, 11-7</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>May 2016</td>
+					<td><a href='/players/6627-tiago-goriely'>Tiago Goriely</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6587-mens-european-team-championship-division-2-2016'>European Team Championship (Division 2)</a></td>
+					<td>POL</td>
+					<td><abbr title='-'>-</abbr></td>
+					<td>9-11, 11-4, 11-6, 11-7 (42m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='lightline'>
+					<td>May 2016</td>
+					<td><a href='/players/2086-reiko-peter'>Reiko Peter</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6587-mens-european-team-championship-division-2-2016'>European Team Championship (Division 2)</a></td>
+					<td>POL</td>
+					<td><abbr title='-'>-</abbr></td>
+					<td>3-11, 6-11, 5-11 (25m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='darkline'>
+					<td>May 2016</td>
+					<td><a href='/players/5966-valerii-fedoruk'>Valerii Fedoruk</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6587-mens-european-team-championship-division-2-2016'>European Team Championship (Division 2)</a></td>
+					<td>POL</td>
+					<td><abbr title='-'>-</abbr></td>
+					<td>9-11, 11-6, 11-0, 4-11, 11-8 (49m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='lightline'>
+					<td>May 2016</td>
+					<td><a href='/players/7475-joel-makin'>Joel Makin</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6587-mens-european-team-championship-division-2-2016'>European Team Championship (Division 2)</a></td>
+					<td>POL</td>
+					<td><abbr title='-'>-</abbr></td>
+					<td>5-11, 1-11, 5-11 (25m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Mar 2016</td>
+					<td><a href='/players/3911-mark-fuller'>Mark Fuller</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6573-mens-russian-open-2016'>Russian Open</a></td>
+					<td>RUS</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>4-11, 9-11, 9-11 (45m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Mar 2016</td>
+					<td><a href='/players/6028-tang-ming-hong'>Tang Ming Hong</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6558-mens-sekisui-open-2016'>Sekisui Open</a></td>
+					<td>SUI</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>6-11, 6-11, 11-13</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Mar 2016</td>
+					<td><a href='/players/5732-remo-handl'>Remo Handl</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6558-mens-sekisui-open-2016'>Sekisui Open</a></td>
+					<td>SUI</td>
+					<td><abbr title='Qualifying finals'>Q</abbr></td>
+					<td>11-5, 12-14, 11-6, 11-3</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Mar 2016</td>
+					<td><a href='/players/11228-sergey-grigoryan'>Sergey Grigoryan</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6558-mens-sekisui-open-2016'>Sekisui Open</a></td>
+					<td>SUI</td>
+					<td><abbr title='1st qualifying round'>Q</abbr></td>
+					<td>11-1, 11-0 ret.</td>
+					<td>Y</td>
+				</tr>
+				<tr class='subscriber_line'>
+					<td class='topborder'><strong>2009-2015</strong></td>
+					<td class='topborder'><strong>77 matches</strong></td>
+					<td class='topborder' colspan='6'>View full historical match history by <a href='/upgrade'>creating</a> a premium account!</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+
+	<div class='ad_bar_footer'>
+		<!-- Footer -->
+		<ins class='adsbygoogle'
+		     style='display:inline-block;width:728px;height:90px'
+		     data-ad-client='ca-pub-0605489790642236'
+		     data-ad-slot='1142131485'></ins>
+		<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+	</div>
+
+</div>
+
+<div id='si_footer'>
+	<ul id='footer_left'>
+		<li id='copyright' class='li_left'>
+			Squash Info &copy; 2017
+		</li>
+	</ul>
+	<ul id='footer_right'>
+		<li class='li_right'>
+			<strong><a href='mailto:info@squashinfo.com'>Contact us</a></strong>
+		</li>
+		<li class='li_right'>
+			<a href='https://twitter.com/SquashInfo' class='twitter-follow-button' data-show-count='false'>Follow @SquashInfo</a>
+		</li>
+	</ul>
+</div>
+
+<div>
+	<script type='text/javascript'>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-1186220-1']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</div>
+
+</div>
+</div>
+</body>
+</html>

@@ -1,0 +1,638 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+
+	<meta charset='utf-8' />
+	<meta name='author' content='Squash Info' />
+	<meta name='keywords' content='squash information rankings psa wsa wispa results events players' />
+
+	<link rel='shortcut icon' href='/favicon.ico' type='image/x-icon' />
+	<script src='https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js'></script>
+	<script src='https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js'></script>
+	<link rel='stylesheet' href='https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/themes/smoothness/jquery-ui.css'>
+	<script src='/js/jquery.timeago.js'></script>
+	<script src='/js/jquery.unveil.min.js'></script>
+	<script src='/js/jquery.leanModal.ch.1461605769.js'></script>
+	<script src='/js/jquery.tokeninput.js'></script>
+	<link rel='stylesheet' href='/css/token-input.css'>
+	<script src='http://platform.twitter.com/widgets.js'></script>
+	<script src='https://apis.google.com/js/platform.js'></script>
+	<script src='/js/jquery.cookiebar.js'></script>
+	<link rel='stylesheet' href='/css/jquery.cookiebar.1444581949.css'>
+	<script src='https://www.gstatic.com/charts/loader.js'></script>
+	<script async src='//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js'></script>
+	<script src='/js/main.1461605758.js'></script>
+	<link rel='stylesheet' href='/css/main.1487399333.css'>
+
+	<title>Squash Info | Clinton Leeuw | Squash</title>
+
+</head>
+<body onload="">
+
+<div id='fb-root'></div>
+<script>!function(e,n,t){var o,c=e.getElementsByTagName(n)[0];e.getElementById(t)||(o=e.createElement(n),o.id=t,o.src='//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.5',c.parentNode.insertBefore(o,c))}(document,'script','facebook-jssdk');</script>
+<script type='text/javascript'>
+	
+	$(document).ready(function() {
+		
+		$.cookieBar({});
+		
+		$('.logout').click(function(event) {
+			
+			if (!confirm('Are you sure you want to log out?')) {
+				event.preventDefault();
+			}
+			
+		});
+		
+	});
+	
+</script>
+<div id='centre_body'>
+
+<div id='header'>
+	<ul id='header_left'>
+		<li id='header_logo' class='li_left'>
+			<a href='/'><img src='/img/logos/si_logo.png' alt='Squash Info, the definitive squash resource' style='vertical-align: middle;' /></a>
+		</li>
+	</ul>
+	<ul id='header_right'>
+		<li id='header_search' class='li_right'>
+			<form id='header_search_form' method='get' action='/search'>
+				<input type='text' name='q' id='q' value='' size='20' maxlength='30' placeholder='Search...' />
+				<input type='submit' value='Go' />
+			</form>
+		</li>
+		<li id='header_signup' class='li_right'><a href='/signup'>Sign Up</a></li>
+		<li id='header_login' class='li_right'>
+			<a rel='leanModal' data-url='%2Fplayers%2F2537-clinton-leeuw' href='/login'>Log In</a>
+		</li>
+	</ul>
+</div>
+
+<div id='login_box'>
+	<iframe id='login_iframe' src='/loading.htm' scrolling='no' seamless></iframe>
+</div>
+
+<div id='main_block'>
+
+<div id='left_bar'>
+	<div id='current_date_time'>5:10 pm <br />4 Apr 2017</div>
+	<ul id='navlist'>
+		<li><a href='/' title='Home'>Home</a></li>
+		<li><a href='/news' title='Squash News'>News</a></li>
+		<li><a href='/results' title='Squash Event Results'>Results</a></li>
+		<li><a href='/rankings' title='PSA World Squash Rankings'>Rankings</a></li>
+		<li><a href='/calendar/2017' title='Squash Event Calendar'>Calendar</a></li>
+		<li><a href='/records' title='Squash Records &amp; Statistics'>Records</a></li>
+	</ul>
+</div>
+
+
+<div id='content'>
+
+	<div class='ad_bar_top'>
+		<!-- index -->
+		<ins class='adsbygoogle'
+		     style='display:inline-block;width:728px;height:90px'
+		     data-ad-client='ca-pub-0605489790642236'
+		     data-ad-slot='9600788702'></ins>
+		<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+	</div>
+
+	<h1>
+		Clinton Leeuw <span style='color:#444444;'>(South Africa)</span>
+	</h1>
+	<ul id='social_media'>
+		<li id='sm_twitter'>
+			<a href='https://twitter.com/@2randtwenty' class='twitter-follow-button' data-show-count='false'>Follow @2randtwenty</a>
+		</li>
+	</ul>
+	<div>
+	<h3>
+		Statistics:&nbsp;&nbsp;
+			<a href='/rankings/2537-clinton-leeuw'>Ranking History</a>
+			<br />
+	</h3>
+		</div>
+	<div class='content_column'>
+		<div id='world_ranking_box'>
+			<div id='world_ranking'>156</div>
+			<strong>PSA Ranking</strong>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Born:</span>
+			<span>15 Apr 1982 (age 34)</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Gender:</span>
+			<span>Male</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Birthplace:</span>
+			<span>Cape Town</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Residence:</span>
+			<span>New York, USA</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Height:</span>
+			<span>182cm (6 ft 0 in)</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Weight:</span>
+			<span>80kg (12 st 8 lb)</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Joined PSA:</span>
+			<span>2006</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Turned Pro:</span>
+			<span>2006</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Highest WR:</span>
+			<span>79 (May 2013)</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Racket:</span>
+			<span>Blade</span>
+		</div>
+	</div>
+
+	<div class='clear' style='padding-bottom:20px'></div>
+	<div class='tabletitle' id='news_mentions'>News</div>
+	<div class='darkborder'>
+		<table style='width:100%' cellpadding='2' cellspacing='0' border='0'>
+			<tr class='darkline'>
+				<td style='width:10%' valign='top'>22 Nov 2015</td>
+				<td style='width:90%'><a href='/news/6735-world-team-championship-line-ups-kiwis-competing-confirmed'>World Team Championship Line-Ups - &amp; Kiwis Competing - Confirmed</a></td>
+			</tr>
+			<tr class='lightline'>
+				<td style='width:10%' valign='top'>10 Nov 2014</td>
+				<td style='width:90%'><a href='/news/6395-schoor-downs-harrity-in-minneapolis-final'>Schoor Downs Harrity In Minneapolis Final</a></td>
+			</tr>
+			<tr class='darkline'>
+				<td style='width:10%' valign='top'>8 Nov 2013</td>
+				<td style='width:90%'><a href='/news/5870-hedrick-sole-seed-survivor-in-phoenix'>Hedrick Sole Seed Survivor In Phoenix</a></td>
+			</tr>
+			<tr class='lightline'>
+				<td style='width:10%' valign='top'>26 Oct 2013</td>
+				<td style='width:90%'><a href='/news/5850-schnells-lose-chicago-shootouts'>Schnells Lose Chicago Shootouts</a></td>
+			</tr>
+			<tr class='darkline'>
+				<td style='width:10%' valign='top'>25 Oct 2013</td>
+				<td style='width:90%'><a href='/news/5849-lezaud-licks-danish-in-chicago-shake-up'>Lezaud Licks Danish In Chicago Shake-Up</a></td>
+			</tr>
+		</table>
+	</div>
+
+	<div id='upcoming_events' class='tabletitle'>Upcoming Events</div>
+	<div class='darkborder'>
+		<div class='one_entry'>None</div>
+	</div>
+
+	<div class='tabletitle'>Event Summary (12)</div>
+	<div class='darkborder'>
+		<table style='width:100%;' cellpadding='2' cellspacing='0' border='0'>
+			<thead>
+				<tr>
+					<th scope='col' style='width:10%'>Date</th>
+					<th scope='col' style='width:10%'>Seeding</th>
+					<th scope='col' style='width:35%'>Event</th>
+					<th scope='col' style='width:5%'>Ctry</th>
+					<th scope='col' style='width:20%'>Tour</th>
+					<th scope='col' style='width:20%'>Round Reached</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr class='darkline'>
+					<td>Feb 2017</td>
+					<td>-</td>
+					<td><a href='/events/6942-mens-pittsburgh-open-2017'>Pittsburgh Open</a></td>
+					<td>USA</td>
+					<td>PSA Tour</td>
+					<td>1st qualifying round</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Jan 2017</td>
+					<td>-</td>
+					<td><a href='/events/6843-mens-tournament-of-champions-2017'>Tournament of Champions</a></td>
+					<td>USA</td>
+					<td>PSA World Series</td>
+					<td>1st qualifying round</td>
+				</tr>
+				<tr class='darkline'>
+					<td class='topborder'>Dec 2016</td>
+					<td class='topborder'>-</td>
+					<td class='topborder'><a href='/events/6862-mens-salt-lake-city-open-2016'>Salt Lake City Open</a></td>
+					<td class='topborder'>USA</td>
+					<td class='topborder'>PSA Tour</td>
+					<td class='topborder'>1st round</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Nov 2016</td>
+					<td>[6]</td>
+					<td><a href='/events/6815-mens-minneapolis-open-2016'>Minneapolis Open</a></td>
+					<td>USA</td>
+					<td>PSA Tour</td>
+					<td>Quarter-finals</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Oct 2016</td>
+					<td>[<abbr title='Qualifier'>Q</abbr>]</td>
+					<td><a href='/events/6802-mens-chicago-open-2016'>Chicago Open</a></td>
+					<td>USA</td>
+					<td>PSA Tour</td>
+					<td>1st round</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Oct 2016</td>
+					<td>[8]</td>
+					<td><a href='/events/6795-mens-cleveland-skating-club-open-2016'>Cleveland Skating Club Open</a></td>
+					<td>USA</td>
+					<td>PSA Tour</td>
+					<td>Quarter-finals</td>
+				</tr>
+				<tr class='darkline'>
+					<td>May 2016</td>
+					<td>-</td>
+					<td><a href='/events/6629-mens-houston-open-2016'>Houston Open</a></td>
+					<td>USA</td>
+					<td>PSA Tour</td>
+					<td>1st qualifying round</td>
+				</tr>
+				<tr class='lightline'>
+					<td>May 2016</td>
+					<td>[3]</td>
+					<td><a href='/events/6611-mens-charlotte-open-2016'>Charlotte Open</a></td>
+					<td>USA</td>
+					<td>PSA Tour</td>
+					<td>Semi-finals</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Apr 2016</td>
+					<td>[4]</td>
+					<td><a href='/events/6598-mens-rochester-pro-am-2016'>Rochester Pro-Am</a></td>
+					<td>USA</td>
+					<td>PSA Tour</td>
+					<td>Semi-finals</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Mar 2016</td>
+					<td>[8]</td>
+					<td><a href='/events/6552-mens-atlanta-open-2016'>Atlanta Open</a></td>
+					<td>USA</td>
+					<td>PSA Tour</td>
+					<td>Semi-finals</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Feb 2016</td>
+					<td>[<abbr title='Qualifier'>Q</abbr>]</td>
+					<td><a href='/events/6491-mens-cactus-classic-2016'>Cactus Classic</a></td>
+					<td>USA</td>
+					<td>PSA Tour</td>
+					<td>1st round</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Jan 2016</td>
+					<td>-</td>
+					<td><a href='/events/6411-mens-tournament-of-champions-2016'>Tournament of Champions</a></td>
+					<td>USA</td>
+					<td>PSA World Series</td>
+					<td>Qualifying finals</td>
+				</tr>
+				<tr class='subscriber_line'>
+					<td class='topborder'><strong>2005-2015</strong></td>
+					<td class='topborder'><strong>96 events</strong></td>
+					<td class='topborder' colspan='4'>View full historical event history by <a href='/upgrade'>creating</a> a premium account!</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+
+	<div id='match_summary' class='tabletitle'>Match Summary (Played 25 - Won 13, Lost 12)</div>
+	<div class='darkborder'>
+		<table id='match_summary_table' style='width:100%;' cellpadding='2' cellspacing='0' border='0'>
+			<thead>
+				<tr>
+					<th scope='col' style='width:10%'>Date</th>
+					<th scope='col' style='width:17%'>Opponent</th>
+					<th scope='col' style='width:4%'>W/L</th>
+					<th scope='col' style='width:25%'>Event</th>
+					<th scope='col' style='width:5%'>Ctry</th>
+					<th scope='col' style='width:3%'>Rnd</th>
+					<th scope='col' style='width:32%'>Score</th>
+					<th scope='col' style='width:4%'>PSA</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr class='darkline'>
+					<td>Feb 2017</td>
+					<td><a href='/players/3373-lance-beddoes'>Lance Beddoes</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6942-mens-pittsburgh-open-2017'>Pittsburgh Open</a></td>
+					<td>USA</td>
+					<td><abbr title='1st qualifying round'>Q</abbr></td>
+					<td>5-11, 11-9, 6-11, 11-5, 10-12</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Jan 2017</td>
+					<td><a href='/players/677-nafiizwan-adnan'>Nafiizwan Adnan</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6843-mens-tournament-of-champions-2017'>Tournament of Champions</a></td>
+					<td>USA</td>
+					<td><abbr title='1st qualifying round'>Q</abbr></td>
+					<td>5-11, 9-11, 8-11 (34m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td class='topborder'>Dec 2016</td>
+					<td class='topborder'><a href='/players/1655-eddie-charlton'>Eddie Charlton</a></td>
+					<td class='topborder' title=''>L</td>
+					<td class='topborder'><a href='/events/6862-mens-salt-lake-city-open-2016'>Salt Lake City Open</a></td>
+					<td class='topborder'>USA</td>
+					<td class='topborder'><abbr title='1st round'>r1</abbr></td>
+					<td class='topborder'>9-11, 11-8, 9-11, 7-11 (60m)</td>
+					<td class='topborder'>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Nov 2016</td>
+					<td><a href='/players/1004-arturo-salazar'>Arturo Salazar</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6815-mens-minneapolis-open-2016'>Minneapolis Open</a></td>
+					<td>USA</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>13-15, 6-11, 10-12</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Nov 2016</td>
+					<td><a href='/players/8024-timothy-lasusa'>Timothy Lasusa</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6815-mens-minneapolis-open-2016'>Minneapolis Open</a></td>
+					<td>USA</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-9, 11-7, 11-4</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Oct 2016</td>
+					<td><a href='/players/890-jens-schoor'>Jens Schoor</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6802-mens-chicago-open-2016'>Chicago Open</a></td>
+					<td>USA</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>10-12, 8-11, 9-11</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Oct 2016</td>
+					<td><a href='/players/1092-matias-tuomi'>Matias Tuomi</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6802-mens-chicago-open-2016'>Chicago Open</a></td>
+					<td>USA</td>
+					<td><abbr title='Qualifying finals'>Q</abbr></td>
+					<td>11-9, 11-5, 11-6</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Oct 2016</td>
+					<td><a href='/players/11285-muhammad-ibrahim-noorani'>Muhammad Ibrahim Noorani</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6802-mens-chicago-open-2016'>Chicago Open</a></td>
+					<td>USA</td>
+					<td><abbr title='1st qualifying round'>Q</abbr></td>
+					<td>11-1, 11-2, 11-1</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Oct 2016</td>
+					<td><a href='/players/4231-andrew-schnell'>Andrew Schnell</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6795-mens-cleveland-skating-club-open-2016'>Cleveland Skating Club Open</a></td>
+					<td>USA</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>9-11, 6-11, 9-11</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Oct 2016</td>
+					<td><a href='/players/5179-andres-herrera'>Andrés Herrera</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6795-mens-cleveland-skating-club-open-2016'>Cleveland Skating Club Open</a></td>
+					<td>USA</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-6, 11-8, 11-8</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>May 2016</td>
+					<td><a href='/players/3050-christopher-binnie'>Christopher Binnie</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6629-mens-houston-open-2016'>Houston Open</a></td>
+					<td>USA</td>
+					<td><abbr title='1st qualifying round'>Q</abbr></td>
+					<td>11-9, 11-9, 6-11, 7-11, 5-11 (80m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>May 2016</td>
+					<td><a href='/players/2655-vikram-malhotra'>Vikram Malhotra</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6611-mens-charlotte-open-2016'>Charlotte Open</a></td>
+					<td>USA</td>
+					<td><abbr title='Semi-finals'>sf</abbr></td>
+					<td>6-11, 11-9, 7-11, 11-7, 5-11 (72m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>May 2016</td>
+					<td><a href='/players/8427-adrian-ostbye'>Adrian Ostbye</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6611-mens-charlotte-open-2016'>Charlotte Open</a></td>
+					<td>USA</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>11-5, 11-3, 11-7 (35m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>May 2016</td>
+					<td><a href='/players/1728-alex-ingham'>Alex Ingham</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6611-mens-charlotte-open-2016'>Charlotte Open</a></td>
+					<td>USA</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-9, 13-11, 11-8</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Apr 2016</td>
+					<td><a href='/players/515-martin-knight'>Martin Knight</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6598-mens-rochester-pro-am-2016'>Rochester Pro-Am</a></td>
+					<td>USA</td>
+					<td><abbr title='Semi-finals'>sf</abbr></td>
+					<td>7-11, 11-6, 11-8, 2-11, 5-11 (109m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Apr 2016</td>
+					<td><a href='/players/5109-thoboki-mohohlo'>Thoboki Mohohlo</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6598-mens-rochester-pro-am-2016'>Rochester Pro-Am</a></td>
+					<td>USA</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>11-13, 11-4, 11-7, 7-11, 11-9 (57m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Apr 2016</td>
+					<td><a href='/players/5585-jon-geekie'>Jon Geekie</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6598-mens-rochester-pro-am-2016'>Rochester Pro-Am</a></td>
+					<td>USA</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-9, 11-1, 11-3 (29m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Mar 2016</td>
+					<td><a href='/players/5147-abdulla-mohd-al-tamimi'>Abdulla Mohd Al Tamimi</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6552-mens-atlanta-open-2016'>Atlanta Open</a></td>
+					<td>USA</td>
+					<td><abbr title='Semi-finals'>sf</abbr></td>
+					<td>10-12, 11-6, 11-13, 6-11</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Mar 2016</td>
+					<td><a href='/players/5401-kush-kumar'>Kush Kumar</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6552-mens-atlanta-open-2016'>Atlanta Open</a></td>
+					<td>USA</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>9-11, 11-2, 11-4, 11-7</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Mar 2016</td>
+					<td><a href='/players/3874-hugo-varela'>Hugo Varela</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6552-mens-atlanta-open-2016'>Atlanta Open</a></td>
+					<td>USA</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-9, 11-9, 11-7</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Feb 2016</td>
+					<td><a href='/players/2064-henrik-mustonen'>Henrik Mustonen</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6491-mens-cactus-classic-2016'>Cactus Classic</a></td>
+					<td>USA</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>4-11, 11-13, 11-7, 6-11 (43m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Feb 2016</td>
+					<td><a href='/players/2790-mark-broekman'>Mark Broekman</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6491-mens-cactus-classic-2016'>Cactus Classic</a></td>
+					<td>USA</td>
+					<td><abbr title='Qualifying finals'>Q</abbr></td>
+					<td>11-5, 14-12, 13-11 (37m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Feb 2016</td>
+					<td><a href='/players/10265-heraclio-salaiz-estrada'>Heraclio Salaiz Estrada</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6491-mens-cactus-classic-2016'>Cactus Classic</a></td>
+					<td>USA</td>
+					<td><abbr title='1st qualifying round'>Q</abbr></td>
+					<td>11-5, 11-5, 11-4 (17m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Jan 2016</td>
+					<td><a href='/players/2347-ramit-tandon'>Ramit Tandon</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6411-mens-tournament-of-champions-2016'>Tournament of Champions</a></td>
+					<td>USA</td>
+					<td><abbr title='Qualifying finals'>Q</abbr></td>
+					<td>5-11, 7-11, 11-7, 5-11 (50m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Jan 2016</td>
+					<td><a href='/players/38-laurens-jan-anjema'>Laurens Jan Anjema</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6411-mens-tournament-of-champions-2016'>Tournament of Champions</a></td>
+					<td>USA</td>
+					<td><abbr title='1st qualifying round'>Q</abbr></td>
+					<td>12-10, 11-6, 9-11, 6-11, 12-10 (67m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='subscriber_line'>
+					<td class='topborder'><strong>2005-2015</strong></td>
+					<td class='topborder'><strong>259 matches</strong></td>
+					<td class='topborder' colspan='6'>View full historical match history by <a href='/upgrade'>creating</a> a premium account!</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+
+	<div class='ad_bar_footer'>
+		<!-- Footer -->
+		<ins class='adsbygoogle'
+		     style='display:inline-block;width:728px;height:90px'
+		     data-ad-client='ca-pub-0605489790642236'
+		     data-ad-slot='1142131485'></ins>
+		<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+	</div>
+
+</div>
+
+<div id='si_footer'>
+	<ul id='footer_left'>
+		<li id='copyright' class='li_left'>
+			Squash Info &copy; 2017
+		</li>
+	</ul>
+	<ul id='footer_right'>
+		<li class='li_right'>
+			<strong><a href='mailto:info@squashinfo.com'>Contact us</a></strong>
+		</li>
+		<li class='li_right'>
+			<a href='https://twitter.com/SquashInfo' class='twitter-follow-button' data-show-count='false'>Follow @SquashInfo</a>
+		</li>
+	</ul>
+</div>
+
+<div>
+	<script type='text/javascript'>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-1186220-1']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</div>
+
+</div>
+</div>
+</body>
+</html>

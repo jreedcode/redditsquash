@@ -1,0 +1,366 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+
+	<meta charset='utf-8' />
+	<meta name='author' content='Squash Info' />
+	<meta name='keywords' content='squash information rankings psa wsa wispa results events players' />
+
+	<link rel='shortcut icon' href='/favicon.ico' type='image/x-icon' />
+	<script src='https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js'></script>
+	<script src='https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js'></script>
+	<link rel='stylesheet' href='https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/themes/smoothness/jquery-ui.css'>
+	<script src='/js/jquery.timeago.js'></script>
+	<script src='/js/jquery.unveil.min.js'></script>
+	<script src='/js/jquery.leanModal.ch.1461605769.js'></script>
+	<script src='/js/jquery.tokeninput.js'></script>
+	<link rel='stylesheet' href='/css/token-input.css'>
+	<script src='http://platform.twitter.com/widgets.js'></script>
+	<script src='https://apis.google.com/js/platform.js'></script>
+	<script src='/js/jquery.cookiebar.js'></script>
+	<link rel='stylesheet' href='/css/jquery.cookiebar.1444581949.css'>
+	<script src='https://www.gstatic.com/charts/loader.js'></script>
+	<script async src='//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js'></script>
+	<script src='/js/main.1461605758.js'></script>
+	<link rel='stylesheet' href='/css/main.1487399333.css'>
+
+	<title>Squash Info | Fleur Maas | Squash</title>
+
+</head>
+<body onload="">
+
+<div id='fb-root'></div>
+<script>!function(e,n,t){var o,c=e.getElementsByTagName(n)[0];e.getElementById(t)||(o=e.createElement(n),o.id=t,o.src='//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.5',c.parentNode.insertBefore(o,c))}(document,'script','facebook-jssdk');</script>
+<script type='text/javascript'>
+	
+	$(document).ready(function() {
+		
+		$.cookieBar({});
+		
+		$('.logout').click(function(event) {
+			
+			if (!confirm('Are you sure you want to log out?')) {
+				event.preventDefault();
+			}
+			
+		});
+		
+	});
+	
+</script>
+<div id='centre_body'>
+
+<div id='header'>
+	<ul id='header_left'>
+		<li id='header_logo' class='li_left'>
+			<a href='/'><img src='/img/logos/si_logo.png' alt='Squash Info, the definitive squash resource' style='vertical-align: middle;' /></a>
+		</li>
+	</ul>
+	<ul id='header_right'>
+		<li id='header_search' class='li_right'>
+			<form id='header_search_form' method='get' action='/search'>
+				<input type='text' name='q' id='q' value='' size='20' maxlength='30' placeholder='Search...' />
+				<input type='submit' value='Go' />
+			</form>
+		</li>
+		<li id='header_signup' class='li_right'><a href='/signup'>Sign Up</a></li>
+		<li id='header_login' class='li_right'>
+			<a rel='leanModal' data-url='%2Fplayers%2F11078-fleur-maas' href='/login'>Log In</a>
+		</li>
+	</ul>
+</div>
+
+<div id='login_box'>
+	<iframe id='login_iframe' src='/loading.htm' scrolling='no' seamless></iframe>
+</div>
+
+<div id='main_block'>
+
+<div id='left_bar'>
+	<div id='current_date_time'>5:29 pm <br />4 Apr 2017</div>
+	<ul id='navlist'>
+		<li><a href='/' title='Home'>Home</a></li>
+		<li><a href='/news' title='Squash News'>News</a></li>
+		<li><a href='/results' title='Squash Event Results'>Results</a></li>
+		<li><a href='/rankings' title='PSA World Squash Rankings'>Rankings</a></li>
+		<li><a href='/calendar/2017' title='Squash Event Calendar'>Calendar</a></li>
+		<li><a href='/records' title='Squash Records &amp; Statistics'>Records</a></li>
+	</ul>
+</div>
+
+
+<div id='content'>
+
+	<div class='ad_bar_top'>
+		<!-- index -->
+		<ins class='adsbygoogle'
+		     style='display:inline-block;width:728px;height:90px'
+		     data-ad-client='ca-pub-0605489790642236'
+		     data-ad-slot='9600788702'></ins>
+		<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+	</div>
+
+	<h1>
+		Fleur Maas <span style='color:#444444;'>(Netherlands)</span>
+	</h1>
+	<ul id='social_media'>
+	</ul>
+	<div>
+	<h3>
+		Statistics:&nbsp;&nbsp;
+			<a href='/rankings/11078-fleur-maas'>Ranking History</a>
+			<br />
+	</h3>
+		</div>
+	<div class='content_column'>
+		<div id='world_ranking_box'>
+			<div id='world_ranking'>187</div>
+			<strong>PSA Ranking</strong>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Born:</span>
+			<span>23 Feb 2002 (age 15)</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Gender:</span>
+			<span>Female</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Highest WR:</span>
+			<span>187 (Apr 2017)</span>
+		</div>
+	</div>
+
+	<div class='clear' style='padding-bottom:20px'></div>
+	<div class='tabletitle' id='news_mentions'>News</div>
+	<div class='darkborder'>
+		<table style='width:100%' cellpadding='2' cellspacing='0' border='0'>
+			<tr class='darkline'>
+				<td style='width:10%' valign='top'>25 Jul 2015</td>
+				<td style='width:90%'><a href='/news/6658-elias-mohamed-set-for-dutch-delight'>Elias &amp; Mohamed Set For Dutch Delight</a></td>
+			</tr>
+			<tr class='lightline'>
+				<td style='width:10%' valign='top'>30 Jun 2015</td>
+				<td style='width:90%'><a href='/news/6647-diego-elias-habiba-mohamed-seeded-to-retain-world-junior-titles'>Diego Elias &amp; Habiba Mohamed Seeded To Retain World Junior Titles</a></td>
+			</tr>
+		</table>
+	</div>
+
+	<div id='upcoming_events' class='tabletitle'>Upcoming Events</div>
+	<div class='darkborder'>
+		<table style='width:100%' cellpadding='2' cellspacing='0' border='0'>
+			<tr>
+				<th scope='col' style='width:10%'>Date</th>
+				<th scope='col' style='width:10%'>Seeding</th>
+				<th scope='col' style='width:35%'>Event</th>
+				<th scope='col' style='width:5%'>Ctry</th>
+				<th scope='col' style='width:40%'>Opponent</th>
+			</tr>
+			<tr class='darkline'>
+				<td valign='top'>Apr 2017</td>
+				<td>[9/16]</td>
+				<td><a href='/events/7045-womens-european-junior-u19-championship-2017'>European Junior U19 Championship</a></td>
+				<td>POR</td>
+				<td><a href='/players/8456-hana-matouskova'>Hana Matoušková</a></td>
+			</tr>
+		</table>
+	</div>
+
+	<div class='tabletitle'>Event Summary (4)</div>
+	<div class='darkborder'>
+		<table style='width:100%;' cellpadding='2' cellspacing='0' border='0'>
+			<thead>
+				<tr>
+					<th scope='col' style='width:10%'>Date</th>
+					<th scope='col' style='width:10%'>Seeding</th>
+					<th scope='col' style='width:35%'>Event</th>
+					<th scope='col' style='width:5%'>Ctry</th>
+					<th scope='col' style='width:20%'>Tour</th>
+					<th scope='col' style='width:20%'>Round Reached</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr class='darkline'>
+					<td>Feb 2017</td>
+					<td>[5/8]</td>
+					<td><a href='/events/6981-womens-dutch-nationals-2017'>Dutch Nationals</a></td>
+					<td>NED</td>
+					<td>-</td>
+					<td>Quarter-finals</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Jan 2017</td>
+					<td>[9/16]</td>
+					<td><a href='/events/6899-womens-british-junior-u15-open-2017'>British Junior U15 Open</a></td>
+					<td>ENG</td>
+					<td>-</td>
+					<td>3rd round</td>
+				</tr>
+				<tr class='darkline'>
+					<td class='topborder'>Mar 2016</td>
+					<td class='topborder'>-</td>
+					<td class='topborder'><a href='/events/6572-european-junior-u19-team-championship-2016'>European Junior U19 Team Championship</a></td>
+					<td class='topborder'>SUI</td>
+					<td class='topborder'>-</td>
+					<td class='topborder'>-</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Jan 2016</td>
+					<td>[9/16]</td>
+					<td><a href='/events/6465-womens-british-junior-u15-open-2016'>British Junior U15 Open</a></td>
+					<td>ENG</td>
+					<td>-</td>
+					<td>2nd round</td>
+				</tr>
+				<tr class='subscriber_line'>
+					<td class='topborder'><strong>2014-2015</strong></td>
+					<td class='topborder'><strong>4 events</strong></td>
+					<td class='topborder' colspan='4'>View full historical event history by <a href='/upgrade'>creating</a> a premium account!</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+
+	<div id='match_summary' class='tabletitle'>Match Summary (Played 7 - Won 3, Lost 4)</div>
+	<div class='darkborder'>
+		<table id='match_summary_table' style='width:100%;' cellpadding='2' cellspacing='0' border='0'>
+			<thead>
+				<tr>
+					<th scope='col' style='width:10%'>Date</th>
+					<th scope='col' style='width:17%'>Opponent</th>
+					<th scope='col' style='width:4%'>W/L</th>
+					<th scope='col' style='width:25%'>Event</th>
+					<th scope='col' style='width:5%'>Ctry</th>
+					<th scope='col' style='width:3%'>Rnd</th>
+					<th scope='col' style='width:32%'>Score</th>
+					<th scope='col' style='width:4%'>PSA</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr class='darkline'>
+					<td>Feb 2017</td>
+					<td><a href='/players/376-milja-dorenbos'>Milja Dorenbos</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6981-womens-dutch-nationals-2017'>Dutch Nationals</a></td>
+					<td>NED</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>12-10, 7-11, 6-11, 7-11</td>
+					<td>N</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Feb 2017</td>
+					<td><a href='/players/8479-gabi-fritsche'>Gabi Fritsche</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6981-womens-dutch-nationals-2017'>Dutch Nationals</a></td>
+					<td>NED</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-8, 11-8, 11-5</td>
+					<td>N</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Jan 2017</td>
+					<td><a href='/players/13304-nour-ibrahim'>Nour Ibrahim</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6899-womens-british-junior-u15-open-2017'>British Junior U15 Open</a></td>
+					<td>ENG</td>
+					<td><abbr title='3rd round'>r3</abbr></td>
+					<td>6-11, 11-7, 7-11, 1-11 (29m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Jan 2017</td>
+					<td><a href='/players/13308-sarah-cao'>Sarah Cao</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6899-womens-british-junior-u15-open-2017'>British Junior U15 Open</a></td>
+					<td>ENG</td>
+					<td><abbr title='2nd round'>r2</abbr></td>
+					<td>11-6, 8-11, 11-4, 11-4 (31m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='darkline'>
+					<td class='topborder'>Mar 2016</td>
+					<td class='topborder'><a href='/players/8477-sahar-keidar'>Sahar Keidar</a></td>
+					<td class='topborder' title=''>W</td>
+					<td class='topborder'><a href='/events/6572-european-junior-u19-team-championship-2016'>European Junior U19 Team Championship</a></td>
+					<td class='topborder'>SUI</td>
+					<td class='topborder'><abbr title='-'>-</abbr></td>
+					<td class='topborder'>11-6, 11-2, 11-4 (15m)</td>
+					<td class='topborder'>N</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Mar 2016</td>
+					<td><a href='/players/9692-sarah-lauridsen'>Sarah Lauridsen</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6572-european-junior-u19-team-championship-2016'>European Junior U19 Team Championship</a></td>
+					<td>SUI</td>
+					<td><abbr title='-'>-</abbr></td>
+					<td>2-11, 4-11, 7-11</td>
+					<td>N</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Jan 2016</td>
+					<td><a href='/players/12200-binney-huffman'>Binney Huffman</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6465-womens-british-junior-u15-open-2016'>British Junior U15 Open</a></td>
+					<td>ENG</td>
+					<td><abbr title='2nd round'>r2</abbr></td>
+					<td>7-11, 11-3, 9-11, 9-11 (30m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='subscriber_line'>
+					<td class='topborder'><strong>2014-2015</strong></td>
+					<td class='topborder'><strong>7 matches</strong></td>
+					<td class='topborder' colspan='6'>View full historical match history by <a href='/upgrade'>creating</a> a premium account!</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+
+	<div class='ad_bar_footer'>
+		<!-- Footer -->
+		<ins class='adsbygoogle'
+		     style='display:inline-block;width:728px;height:90px'
+		     data-ad-client='ca-pub-0605489790642236'
+		     data-ad-slot='1142131485'></ins>
+		<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+	</div>
+
+</div>
+
+<div id='si_footer'>
+	<ul id='footer_left'>
+		<li id='copyright' class='li_left'>
+			Squash Info &copy; 2017
+		</li>
+	</ul>
+	<ul id='footer_right'>
+		<li class='li_right'>
+			<strong><a href='mailto:info@squashinfo.com'>Contact us</a></strong>
+		</li>
+		<li class='li_right'>
+			<a href='https://twitter.com/SquashInfo' class='twitter-follow-button' data-show-count='false'>Follow @SquashInfo</a>
+		</li>
+	</ul>
+</div>
+
+<div>
+	<script type='text/javascript'>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-1186220-1']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</div>
+
+</div>
+</div>
+</body>
+</html>

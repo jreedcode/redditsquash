@@ -1,0 +1,869 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+
+	<meta charset='utf-8' />
+	<meta name='author' content='Squash Info' />
+	<meta name='keywords' content='squash information rankings psa wsa wispa results events players' />
+
+	<link rel='shortcut icon' href='/favicon.ico' type='image/x-icon' />
+	<script src='https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js'></script>
+	<script src='https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js'></script>
+	<link rel='stylesheet' href='https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/themes/smoothness/jquery-ui.css'>
+	<script src='/js/jquery.timeago.js'></script>
+	<script src='/js/jquery.unveil.min.js'></script>
+	<script src='/js/jquery.leanModal.ch.1461605769.js'></script>
+	<script src='/js/jquery.tokeninput.js'></script>
+	<link rel='stylesheet' href='/css/token-input.css'>
+	<script src='http://platform.twitter.com/widgets.js'></script>
+	<script src='https://apis.google.com/js/platform.js'></script>
+	<script src='/js/jquery.cookiebar.js'></script>
+	<link rel='stylesheet' href='/css/jquery.cookiebar.1444581949.css'>
+	<script src='https://www.gstatic.com/charts/loader.js'></script>
+	<script async src='//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js'></script>
+	<script src='/js/main.1461605758.js'></script>
+	<link rel='stylesheet' href='/css/main.1487399333.css'>
+
+	<title>Squash Info | Stephen Coppinger | Squash</title>
+
+</head>
+<body onload="">
+
+<div id='fb-root'></div>
+<script>!function(e,n,t){var o,c=e.getElementsByTagName(n)[0];e.getElementById(t)||(o=e.createElement(n),o.id=t,o.src='//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.5',c.parentNode.insertBefore(o,c))}(document,'script','facebook-jssdk');</script>
+<script type='text/javascript'>
+	
+	$(document).ready(function() {
+		
+		$.cookieBar({});
+		
+		$('.logout').click(function(event) {
+			
+			if (!confirm('Are you sure you want to log out?')) {
+				event.preventDefault();
+			}
+			
+		});
+		
+	});
+	
+</script>
+<div id='centre_body'>
+
+<div id='header'>
+	<ul id='header_left'>
+		<li id='header_logo' class='li_left'>
+			<a href='/'><img src='/img/logos/si_logo.png' alt='Squash Info, the definitive squash resource' style='vertical-align: middle;' /></a>
+		</li>
+	</ul>
+	<ul id='header_right'>
+		<li id='header_search' class='li_right'>
+			<form id='header_search_form' method='get' action='/search'>
+				<input type='text' name='q' id='q' value='' size='20' maxlength='30' placeholder='Search...' />
+				<input type='submit' value='Go' />
+			</form>
+		</li>
+		<li id='header_signup' class='li_right'><a href='/signup'>Sign Up</a></li>
+		<li id='header_login' class='li_right'>
+			<a rel='leanModal' data-url='%2Fplayers%2F1481-stephen-coppinger' href='/login'>Log In</a>
+		</li>
+	</ul>
+</div>
+
+<div id='login_box'>
+	<iframe id='login_iframe' src='/loading.htm' scrolling='no' seamless></iframe>
+</div>
+
+<div id='main_block'>
+
+<div id='left_bar'>
+	<div id='current_date_time'>5:08 pm <br />4 Apr 2017</div>
+	<ul id='navlist'>
+		<li><a href='/' title='Home'>Home</a></li>
+		<li><a href='/news' title='Squash News'>News</a></li>
+		<li><a href='/results' title='Squash Event Results'>Results</a></li>
+		<li><a href='/rankings' title='PSA World Squash Rankings'>Rankings</a></li>
+		<li><a href='/calendar/2017' title='Squash Event Calendar'>Calendar</a></li>
+		<li><a href='/records' title='Squash Records &amp; Statistics'>Records</a></li>
+	</ul>
+</div>
+
+
+<div id='content'>
+
+	<div class='ad_bar_top'>
+		<!-- index -->
+		<ins class='adsbygoogle'
+		     style='display:inline-block;width:728px;height:90px'
+		     data-ad-client='ca-pub-0605489790642236'
+		     data-ad-slot='9600788702'></ins>
+		<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+	</div>
+
+	<h1>
+		Stephen Coppinger <span style='color:#444444;'>(South Africa)</span>
+	</h1>
+	<ul id='social_media'>
+		<li id='sm_twitter'>
+			<a href='https://twitter.com/@Copsquash' class='twitter-follow-button' data-show-count='false'>Follow @Copsquash</a>
+		</li>
+	</ul>
+	<div>
+	<h3>
+		Statistics:&nbsp;&nbsp;
+			<a href='/rankings/1481-stephen-coppinger'>Ranking History</a>
+			<br />
+	</h3>
+		</div>
+	<div class='content_column'>
+		<div id='world_ranking_box'>
+			<div id='world_ranking'>18</div>
+			<strong>PSA Ranking</strong>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Born:</span>
+			<span>24 Sep 1984 (age 32)</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Gender:</span>
+			<span>Male</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Birthplace:</span>
+			<span>Dublin, Ireland</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Residence:</span>
+			<span>Cape Town</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Height:</span>
+			<span>190cm (6 ft 3 in)</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Weight:</span>
+			<span>86kg (13 st 8 lb)</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Joined PSA:</span>
+			<span>2006</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Turned Pro:</span>
+			<span>2006</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Coach:</span>
+			<span>Rodney Durbach/David Palmer</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Highest WR:</span>
+			<span>14 (Apr 2015)</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Racket:</span>
+			<span>Maxed Elite 970</span>
+		</div>
+	</div>
+
+	<div class='clear' style='padding-bottom:20px'></div>
+	<div class='tabletitle'>Career Highlights</div>
+	<div class='darkborder'>
+		<table style='width:100%' cellpadding='2' cellspacing='0' border='0'>
+			<tr class='darkline'>
+				<td style='width:10%' valign='top'>Jul 2016</td>
+				<td style='width:85%'>Wins a record 8th <a href='/events/6674-mens-south-african-nationals-2016'>South African Nationals</a> title!</td>
+				<td style='width:5%'>&nbsp;</td>
+			</tr>
+			<tr class='lightline'>
+				<td style='width:10%' valign='top'>Jun 2015</td>
+				<td style='width:85%'>Wins 7th <a href='/events/6194-mens-south-african-nationals-2015'>South African Nationals</a> title</td>
+				<td style='width:5%'>&nbsp;</td>
+			</tr>
+			<tr class='darkline'>
+				<td style='width:10%' valign='top'>Aug 2013</td>
+				<td style='width:85%'>Wins 6th <a href='/events/5464-mens-south-african-nationals-2013'>South African Nationals</a> title</td>
+				<td style='width:5%'>&nbsp;</td>
+			</tr>
+			<tr class='lightline'>
+				<td style='width:10%' valign='top'>Feb 2013</td>
+				<td style='width:85%'>The first South African to make the men’s world top 20 since the late 70s</td>
+				<td style='width:5%'>&nbsp;</td>
+			</tr>
+			<tr class='darkline'>
+				<td style='width:10%' valign='top'>Aug 2012</td>
+				<td style='width:85%'>Wins 5th <a href='/events/5081-mens-south-african-nationals-2012'>South African Nationals</a> title</td>
+				<td style='width:5%'>&nbsp;</td>
+			</tr>
+		</table>
+	</div>
+
+	<div class='tabletitle' id='news_mentions'>News</div>
+	<div class='darkborder'>
+		<table style='width:100%' cellpadding='2' cellspacing='0' border='0'>
+			<tr class='darkline'>
+				<td style='width:10%' valign='top'>26 Feb 2017</td>
+				<td style='width:90%'><a href='/news/6914-rosner-routs-ramy-to-make-windy-city-quarters'>Rösner Routs Ramy To Make Windy City Quarters</a></td>
+			</tr>
+			<tr class='lightline'>
+				<td style='width:10%' valign='top'>24 Feb 2017</td>
+				<td style='width:90%'><a href='/news/6912-world-no1-elshorbagy-survives-marathon-windy-city-opener'>World No1 Elshorbagy Survives Marathon Windy City Opener</a></td>
+			</tr>
+			<tr class='darkline'>
+				<td style='width:10%' valign='top'>15 Jan 2017</td>
+				<td style='width:90%'><a href='/news/6893-mighty-momen-removes-mosaad-in-toc-upset'>Mighty Momen Removes Mosaad In ToC Upset</a></td>
+			</tr>
+			<tr class='lightline'>
+				<td style='width:10%' valign='top'>13 Jan 2017</td>
+				<td style='width:90%'><a href='/news/6891-birthday-boy-elshorbagy-leads-five-egyptians-into-toc-round-two'>Birthday Boy Elshorbagy Leads Five Egyptians Into ToC Round Two</a></td>
+			</tr>
+			<tr class='darkline'>
+				<td style='width:10%' valign='top'>11 Dec 2016</td>
+				<td style='width:90%'><a href='/news/6885-qualifier-coll-culls-colombian-at-st-georges-hill'>Qualifier Coll Culls Colombian At St George&#039;s Hill</a></td>
+			</tr>
+		</table>
+	</div>
+
+	<div id='upcoming_events' class='tabletitle'>Upcoming Events</div>
+	<div class='darkborder'>
+		<div class='one_entry'>None</div>
+	</div>
+
+	<div class='tabletitle'>Event Summary (19)</div>
+	<div class='darkborder'>
+		<table style='width:100%;' cellpadding='2' cellspacing='0' border='0'>
+			<thead>
+				<tr>
+					<th scope='col' style='width:10%'>Date</th>
+					<th scope='col' style='width:10%'>Seeding</th>
+					<th scope='col' style='width:35%'>Event</th>
+					<th scope='col' style='width:5%'>Ctry</th>
+					<th scope='col' style='width:20%'>Tour</th>
+					<th scope='col' style='width:20%'>Round Reached</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr class='darkline'>
+					<td>Mar 2017</td>
+					<td>-</td>
+					<td><a href='/events/6911-mens-british-open-2017'>British Open</a></td>
+					<td>ENG</td>
+					<td>PSA World Series</td>
+					<td>1st round</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Mar 2017</td>
+					<td>-</td>
+					<td><a href='/events/6908-mens-windy-city-open-2017'>Windy City Open</a></td>
+					<td>USA</td>
+					<td>PSA World Series</td>
+					<td>2nd round</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Jan 2017</td>
+					<td>-</td>
+					<td><a href='/events/6905-mens-motor-city-open-2017'>Motor City Open</a></td>
+					<td>USA</td>
+					<td>PSA Tour</td>
+					<td>Semi-finals</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Jan 2017</td>
+					<td>-</td>
+					<td><a href='/events/6843-mens-tournament-of-champions-2017'>Tournament of Champions</a></td>
+					<td>USA</td>
+					<td>PSA World Series</td>
+					<td>2nd round</td>
+				</tr>
+				<tr class='darkline'>
+					<td class='topborder'>Dec 2016</td>
+					<td class='topborder'>[<abbr title='Qualifier'>Q</abbr>]</td>
+					<td class='topborder'><a href='/events/6856-mens-st-georges-hill-classic-2016'>St George&#039;s Hill Classic</a></td>
+					<td class='topborder'>ENG</td>
+					<td class='topborder'>PSA Tour</td>
+					<td class='topborder'>Quarter-finals</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Nov 2016</td>
+					<td>[2]</td>
+					<td><a href='/events/6851-mens-edmonton-open-2016'>Edmonton Open</a></td>
+					<td>CAN</td>
+					<td>PSA Tour</td>
+					<td>1st round</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Nov 2016</td>
+					<td>-</td>
+					<td><a href='/events/6805-mens-world-championship-2016'>World Championship</a></td>
+					<td>EGY</td>
+					<td>PSA World Series</td>
+					<td>2nd round</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Oct 2016</td>
+					<td>-</td>
+					<td><a href='/events/6746-mens-us-open-2016'>US Open</a></td>
+					<td>USA</td>
+					<td>PSA World Series</td>
+					<td>Quarter-finals</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Oct 2016</td>
+					<td>-</td>
+					<td><a href='/events/6744-mens-netsuite-open-2016'>NetSuite Open</a></td>
+					<td>USA</td>
+					<td>PSA Tour</td>
+					<td>1st round</td>
+				</tr>
+				<tr class='lightline b'>
+					<td>Sep 2016</td>
+					<td>[2]</td>
+					<td><a href='/events/6737-mens-charlottesville-open-2016'>Charlottesville Open</a></td>
+					<td>USA</td>
+					<td>PSA Tour</td>
+					<td>Winner</td>
+				</tr>
+				<tr class='darkline b'>
+					<td>Jul 2016</td>
+					<td>[1]</td>
+					<td><a href='/events/6674-mens-south-african-nationals-2016'>South African Nationals</a></td>
+					<td>RSA</td>
+					<td>-</td>
+					<td>Winner</td>
+				</tr>
+				<tr class='lightline'>
+					<td>May 2016</td>
+					<td>[5]</td>
+					<td><a href='/events/6641-mens-internacional-sporta-open-2016'>Internacional Sporta Open</a></td>
+					<td>GUA</td>
+					<td>PSA Tour</td>
+					<td>Quarter-finals</td>
+				</tr>
+				<tr class='darkline'>
+					<td>May 2016</td>
+					<td>[5]</td>
+					<td><a href='/events/6629-mens-houston-open-2016'>Houston Open</a></td>
+					<td>USA</td>
+					<td>PSA Tour</td>
+					<td>Quarter-finals</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Apr 2016</td>
+					<td>-</td>
+					<td><a href='/events/6510-mens-el-gouna-international-open-2016'>El Gouna International Open</a></td>
+					<td>EGY</td>
+					<td>PSA World Series</td>
+					<td>2nd round</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Apr 2016</td>
+					<td>-</td>
+					<td><a href='/events/6334-premier-league-2016'>Premier League 10th Round</a></td>
+					<td>ENG</td>
+					<td>-</td>
+					<td>-</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Mar 2016</td>
+					<td>-</td>
+					<td><a href='/events/1029-mens-british-open-2016'>British Open</a></td>
+					<td>ENG</td>
+					<td>PSA World Series</td>
+					<td>2nd round</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Mar 2016</td>
+					<td>-</td>
+					<td><a href='/events/6334-premier-league-2016'>Premier League 8th Round</a></td>
+					<td>ENG</td>
+					<td>-</td>
+					<td>-</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Feb 2016</td>
+					<td>-</td>
+					<td><a href='/events/6435-mens-squash-colombia-open-2016'>Squash Colombia Open</a></td>
+					<td>COL</td>
+					<td>PSA Tour</td>
+					<td>1st round</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Jan 2016</td>
+					<td>-</td>
+					<td><a href='/events/6411-mens-tournament-of-champions-2016'>Tournament of Champions</a></td>
+					<td>USA</td>
+					<td>PSA World Series</td>
+					<td>1st round</td>
+				</tr>
+				<tr class='subscriber_line'>
+					<td class='topborder'><strong>2004-2015</strong></td>
+					<td class='topborder'><strong>186 events</strong></td>
+					<td class='topborder' colspan='4'>View full historical event history by <a href='/upgrade'>creating</a> a premium account!</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+
+	<div id='match_summary' class='tabletitle'>Match Summary (Played 39 - Won 23, Lost 16)</div>
+	<div class='darkborder'>
+		<table id='match_summary_table' style='width:100%;' cellpadding='2' cellspacing='0' border='0'>
+			<thead>
+				<tr>
+					<th scope='col' style='width:10%'>Date</th>
+					<th scope='col' style='width:17%'>Opponent</th>
+					<th scope='col' style='width:4%'>W/L</th>
+					<th scope='col' style='width:25%'>Event</th>
+					<th scope='col' style='width:5%'>Ctry</th>
+					<th scope='col' style='width:3%'>Rnd</th>
+					<th scope='col' style='width:32%'>Score</th>
+					<th scope='col' style='width:4%'>PSA</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr class='darkline'>
+					<td>Mar 2017</td>
+					<td><a href='/players/5093-yip-tsz-fung'>Yip Tsz Fung</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6911-mens-british-open-2017'>British Open</a></td>
+					<td>ENG</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>6-11, 0-6 ret. (19m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Mar 2017</td>
+					<td><a href='/players/2777-marwan-elshorbagy'>Marwan Elshorbagy</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6908-mens-windy-city-open-2017'>Windy City Open</a></td>
+					<td>USA</td>
+					<td><abbr title='2nd round'>r2</abbr></td>
+					<td>4-11, 11-9, 10-12, 11-4, 6-11 (63m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Mar 2017</td>
+					<td><a href='/players/45-cameron-pilley'>Cameron Pilley</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6908-mens-windy-city-open-2017'>Windy City Open</a></td>
+					<td>USA</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>9-11, 8-11, 11-8, 11-5, 11-7 (119m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Jan 2017</td>
+					<td><a href='/players/984-ryan-cuskelly'>Ryan Cuskelly</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6905-mens-motor-city-open-2017'>Motor City Open</a></td>
+					<td>USA</td>
+					<td><abbr title='Semi-finals'>sf</abbr></td>
+					<td>11-5, 8-11, 12-14, 4-11</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Jan 2017</td>
+					<td><a href='/players/962-cesar-salazar'>Cesar Salazar</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6905-mens-motor-city-open-2017'>Motor City Open</a></td>
+					<td>USA</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>11-4, 11-7, 19-17 (54m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Jan 2017</td>
+					<td><a href='/players/34-borja-golan'>Borja Golan</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6905-mens-motor-city-open-2017'>Motor City Open</a></td>
+					<td>USA</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>8-11, 5-11, 12-10, 11-7, 11-9 (84m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Jan 2017</td>
+					<td><a href='/players/2777-marwan-elshorbagy'>Marwan Elshorbagy</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6843-mens-tournament-of-champions-2017'>Tournament of Champions</a></td>
+					<td>USA</td>
+					<td><abbr title='2nd round'>r2</abbr></td>
+					<td>11-4, 2-11, 8-11, 7-11 (59m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Jan 2017</td>
+					<td><a href='/players/34-borja-golan'>Borja Golan</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6843-mens-tournament-of-champions-2017'>Tournament of Champions</a></td>
+					<td>USA</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>16-14, 11-5, 13-11 (69m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td class='topborder'>Dec 2016</td>
+					<td class='topborder'><a href='/players/13-james-willstrop'>James Willstrop</a></td>
+					<td class='topborder' title=''>L</td>
+					<td class='topborder'><a href='/events/6856-mens-st-georges-hill-classic-2016'>St George&#039;s Hill Classic</a></td>
+					<td class='topborder'>ENG</td>
+					<td class='topborder'><abbr title='Quarter-finals'>qf</abbr></td>
+					<td class='topborder'>11-6, 5-11, 9-11, 6-11 (59m)</td>
+					<td class='topborder'>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Dec 2016</td>
+					<td><a href='/players/1638-omar-mosaad'>Omar Mosaad</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6856-mens-st-georges-hill-classic-2016'>St George&#039;s Hill Classic</a></td>
+					<td>ENG</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-8, 11-9, 6-11, 6-11, 11-3 (77m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Dec 2016</td>
+					<td><a href='/players/3870-nathan-lake'>Nathan Lake</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6856-mens-st-georges-hill-classic-2016'>St George&#039;s Hill Classic</a></td>
+					<td>ENG</td>
+					<td><abbr title='Qualifying finals'>Q</abbr></td>
+					<td>5-11, 11-6, 11-8, 11-4 (50m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Dec 2016</td>
+					<td><a href='/players/5147-abdulla-mohd-al-tamimi'>Abdulla Mohd Al Tamimi</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6856-mens-st-georges-hill-classic-2016'>St George&#039;s Hill Classic</a></td>
+					<td>ENG</td>
+					<td><abbr title='1st qualifying round'>Q</abbr></td>
+					<td>12-10, 5-11, 11-0, 11-7 (40m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Nov 2016</td>
+					<td><a href='/players/52-alister-walker'>Alister Walker</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6851-mens-edmonton-open-2016'>Edmonton Open</a></td>
+					<td>CAN</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-5, 5-11, 11-7, 8-11, 8-11 (60m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Nov 2016</td>
+					<td><a href='/players/774-ramy-ashour'>Ramy Ashour</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6805-mens-world-championship-2016'>World Championship</a></td>
+					<td>EGY</td>
+					<td><abbr title='2nd round'>r2</abbr></td>
+					<td>3-11, 6-11, 8-11 (31m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Nov 2016</td>
+					<td><a href='/players/3361-evan-williams'>Evan Williams</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6805-mens-world-championship-2016'>World Championship</a></td>
+					<td>EGY</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>13-11, 11-3, 11-7 (34m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Oct 2016</td>
+					<td><a href='/players/13-james-willstrop'>James Willstrop</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6746-mens-us-open-2016'>US Open</a></td>
+					<td>USA</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>9-11, 11-5, 8-11, 3-11 (58m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Oct 2016</td>
+					<td><a href='/players/677-nafiizwan-adnan'>Nafiizwan Adnan</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6746-mens-us-open-2016'>US Open</a></td>
+					<td>USA</td>
+					<td><abbr title='2nd round'>r2</abbr></td>
+					<td>11-7, 5-11, 9-11, 11-4, 11-9 (82m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Oct 2016</td>
+					<td><a href='/players/973-alan-clyne'>Alan Clyne</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6746-mens-us-open-2016'>US Open</a></td>
+					<td>USA</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-7, 8-11, 11-6, 2-11, 13-11 (80m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Oct 2016</td>
+					<td><a href='/players/45-cameron-pilley'>Cameron Pilley</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6744-mens-netsuite-open-2016'>NetSuite Open</a></td>
+					<td>USA</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>10-12, 8-11, 11-2, 7-11</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Sep 2016</td>
+					<td><a href='/players/984-ryan-cuskelly'>Ryan Cuskelly</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6737-mens-charlottesville-open-2016'>Charlottesville Open</a></td>
+					<td>USA</td>
+					<td><abbr title='Winner'>F</abbr></td>
+					<td>8-11, 13-15, 14-12, 11-9, 11-4 (90m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Sep 2016</td>
+					<td><a href='/players/1447-adrian-waller'>Adrian Waller</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6737-mens-charlottesville-open-2016'>Charlottesville Open</a></td>
+					<td>USA</td>
+					<td><abbr title='Semi-finals'>sf</abbr></td>
+					<td>13-11, 12-10, 11-6 (53m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Sep 2016</td>
+					<td><a href='/players/52-alister-walker'>Alister Walker</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6737-mens-charlottesville-open-2016'>Charlottesville Open</a></td>
+					<td>USA</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>11-3, 11-9, 11-2</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Sep 2016</td>
+					<td><a href='/players/219-christopher-gordon'>Christopher Gordon</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6737-mens-charlottesville-open-2016'>Charlottesville Open</a></td>
+					<td>USA</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-9, 11-4, 11-9 (37m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Jul 2016</td>
+					<td><a href='/players/5109-thoboki-mohohlo'>Thoboki Mohohlo</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6674-mens-south-african-nationals-2016'>South African Nationals</a></td>
+					<td>RSA</td>
+					<td><abbr title='Winner'>F</abbr></td>
+					<td>11-6, 10-12, 11-4, 11-3 (50m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Jul 2016</td>
+					<td><a href='/players/27-rodney-durbach'>Rodney Durbach</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6674-mens-south-african-nationals-2016'>South African Nationals</a></td>
+					<td>RSA</td>
+					<td><abbr title='Semi-finals'>sf</abbr></td>
+					<td>11-6, 11-3, 11-4</td>
+					<td>N</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Jul 2016</td>
+					<td><a href='/players/2132-gary-wheadon'>Gary Wheadon</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6674-mens-south-african-nationals-2016'>South African Nationals</a></td>
+					<td>RSA</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>11-2, 11-6, 11-9</td>
+					<td>N</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Jul 2016</td>
+					<td><a href='/players/7662-ruan-olivier'>Ruan Olivier</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6674-mens-south-african-nationals-2016'>South African Nationals</a></td>
+					<td>RSA</td>
+					<td><abbr title='2nd round'>r2</abbr></td>
+					<td>11-1, 11-3, 11-4</td>
+					<td>N</td>
+				</tr>
+				<tr class='lightline'>
+					<td>May 2016</td>
+					<td><a href='/players/3759-mazen-hesham'>Mazen Hesham</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6641-mens-internacional-sporta-open-2016'>Internacional Sporta Open</a></td>
+					<td>GUA</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>11-4, 8-11, 11-4, 5-11, 4-11</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>May 2016</td>
+					<td><a href='/players/4278-greg-lobban'>Greg Lobban</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6641-mens-internacional-sporta-open-2016'>Internacional Sporta Open</a></td>
+					<td>GUA</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-8, 11-9, 11-4</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>May 2016</td>
+					<td><a href='/players/2777-marwan-elshorbagy'>Marwan Elshorbagy</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6629-mens-houston-open-2016'>Houston Open</a></td>
+					<td>USA</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>8-11, 6-11, 11-6, 8-11 (45m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>May 2016</td>
+					<td><a href='/players/677-nafiizwan-adnan'>Nafiizwan Adnan</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6629-mens-houston-open-2016'>Houston Open</a></td>
+					<td>USA</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-9, 13-11, 11-5 (50m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Apr 2016</td>
+					<td><a href='/players/10-gregory-gaultier'>Gregory Gaultier</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6510-mens-el-gouna-international-open-2016'>El Gouna International Open</a></td>
+					<td>EGY</td>
+					<td><abbr title='2nd round'>r2</abbr></td>
+					<td>2-11, 8-11, 6-11 (39m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Apr 2016</td>
+					<td><a href='/players/5147-abdulla-mohd-al-tamimi'>Abdulla Mohd Al Tamimi</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6510-mens-el-gouna-international-open-2016'>El Gouna International Open</a></td>
+					<td>EGY</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-9, 11-9, 9-11, 3-11, 11-3 (61m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Apr 2016</td>
+					<td><a href='/players/45-cameron-pilley'>Cameron Pilley</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6334-premier-league-2016'>Premier League 10th Round</a></td>
+					<td>ENG</td>
+					<td><abbr title='-'>-</abbr></td>
+					<td>16-14, 7-11, 5-11, 9-11</td>
+					<td>N</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Mar 2016</td>
+					<td><a href='/players/10-gregory-gaultier'>Gregory Gaultier</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/1029-mens-british-open-2016'>British Open</a></td>
+					<td>ENG</td>
+					<td><abbr title='2nd round'>r2</abbr></td>
+					<td>5-11, 1-11, 9-11 (44m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Mar 2016</td>
+					<td><a href='/players/677-nafiizwan-adnan'>Nafiizwan Adnan</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/1029-mens-british-open-2016'>British Open</a></td>
+					<td>ENG</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-3, 11-13, 11-3, 11-5 (54m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Mar 2016</td>
+					<td><a href='/players/707-chris-simpson'>Chris Simpson</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6334-premier-league-2016'>Premier League 8th Round</a></td>
+					<td>ENG</td>
+					<td><abbr title='-'>-</abbr></td>
+					<td>11-4, 0-11, 11-4, 11-4</td>
+					<td>N</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Feb 2016</td>
+					<td><a href='/players/45-cameron-pilley'>Cameron Pilley</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6435-mens-squash-colombia-open-2016'>Squash Colombia Open</a></td>
+					<td>COL</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>7-11, 7-11, 3-11 (58m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Jan 2016</td>
+					<td><a href='/players/883-mathieu-castagnet'>Mathieu Castagnet</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6411-mens-tournament-of-champions-2016'>Tournament of Champions</a></td>
+					<td>USA</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-7, 4-11, 7-11, 6-11 (59m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='subscriber_line'>
+					<td class='topborder'><strong>2004-2015</strong></td>
+					<td class='topborder'><strong>408 matches</strong></td>
+					<td class='topborder' colspan='6'>View full historical match history by <a href='/upgrade'>creating</a> a premium account!</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+
+	<div class='ad_bar_footer'>
+		<!-- Footer -->
+		<ins class='adsbygoogle'
+		     style='display:inline-block;width:728px;height:90px'
+		     data-ad-client='ca-pub-0605489790642236'
+		     data-ad-slot='1142131485'></ins>
+		<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+	</div>
+
+</div>
+
+<div id='si_footer'>
+	<ul id='footer_left'>
+		<li id='copyright' class='li_left'>
+			Squash Info &copy; 2017
+		</li>
+	</ul>
+	<ul id='footer_right'>
+		<li class='li_right'>
+			<strong><a href='mailto:info@squashinfo.com'>Contact us</a></strong>
+		</li>
+		<li class='li_right'>
+			<a href='https://twitter.com/SquashInfo' class='twitter-follow-button' data-show-count='false'>Follow @SquashInfo</a>
+		</li>
+	</ul>
+</div>
+
+<div>
+	<script type='text/javascript'>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-1186220-1']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</div>
+
+</div>
+</div>
+</body>
+</html>

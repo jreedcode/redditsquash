@@ -1,0 +1,905 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+
+	<meta charset='utf-8' />
+	<meta name='author' content='Squash Info' />
+	<meta name='keywords' content='squash information rankings psa wsa wispa results events players' />
+
+	<link rel='shortcut icon' href='/favicon.ico' type='image/x-icon' />
+	<script src='https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js'></script>
+	<script src='https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js'></script>
+	<link rel='stylesheet' href='https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/themes/smoothness/jquery-ui.css'>
+	<script src='/js/jquery.timeago.js'></script>
+	<script src='/js/jquery.unveil.min.js'></script>
+	<script src='/js/jquery.leanModal.ch.1461605769.js'></script>
+	<script src='/js/jquery.tokeninput.js'></script>
+	<link rel='stylesheet' href='/css/token-input.css'>
+	<script src='http://platform.twitter.com/widgets.js'></script>
+	<script src='https://apis.google.com/js/platform.js'></script>
+	<script src='/js/jquery.cookiebar.js'></script>
+	<link rel='stylesheet' href='/css/jquery.cookiebar.1444581949.css'>
+	<script src='https://www.gstatic.com/charts/loader.js'></script>
+	<script async src='//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js'></script>
+	<script src='/js/main.1461605758.js'></script>
+	<link rel='stylesheet' href='/css/main.1487399333.css'>
+
+	<title>Squash Info | Matias Tuomi | Squash</title>
+
+</head>
+<body onload="">
+
+<div id='fb-root'></div>
+<script>!function(e,n,t){var o,c=e.getElementsByTagName(n)[0];e.getElementById(t)||(o=e.createElement(n),o.id=t,o.src='//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.5',c.parentNode.insertBefore(o,c))}(document,'script','facebook-jssdk');</script>
+<script type='text/javascript'>
+	
+	$(document).ready(function() {
+		
+		$.cookieBar({});
+		
+		$('.logout').click(function(event) {
+			
+			if (!confirm('Are you sure you want to log out?')) {
+				event.preventDefault();
+			}
+			
+		});
+		
+	});
+	
+</script>
+<div id='centre_body'>
+
+<div id='header'>
+	<ul id='header_left'>
+		<li id='header_logo' class='li_left'>
+			<a href='/'><img src='/img/logos/si_logo.png' alt='Squash Info, the definitive squash resource' style='vertical-align: middle;' /></a>
+		</li>
+	</ul>
+	<ul id='header_right'>
+		<li id='header_search' class='li_right'>
+			<form id='header_search_form' method='get' action='/search'>
+				<input type='text' name='q' id='q' value='' size='20' maxlength='30' placeholder='Search...' />
+				<input type='submit' value='Go' />
+			</form>
+		</li>
+		<li id='header_signup' class='li_right'><a href='/signup'>Sign Up</a></li>
+		<li id='header_login' class='li_right'>
+			<a rel='leanModal' data-url='%2Fplayers%2F1092-matias-tuomi' href='/login'>Log In</a>
+		</li>
+	</ul>
+</div>
+
+<div id='login_box'>
+	<iframe id='login_iframe' src='/loading.htm' scrolling='no' seamless></iframe>
+</div>
+
+<div id='main_block'>
+
+<div id='left_bar'>
+	<div id='current_date_time'>5:10 pm <br />4 Apr 2017</div>
+	<ul id='navlist'>
+		<li><a href='/' title='Home'>Home</a></li>
+		<li><a href='/news' title='Squash News'>News</a></li>
+		<li><a href='/results' title='Squash Event Results'>Results</a></li>
+		<li><a href='/rankings' title='PSA World Squash Rankings'>Rankings</a></li>
+		<li><a href='/calendar/2017' title='Squash Event Calendar'>Calendar</a></li>
+		<li><a href='/records' title='Squash Records &amp; Statistics'>Records</a></li>
+	</ul>
+</div>
+
+
+<div id='content'>
+
+	<div class='ad_bar_top'>
+		<!-- index -->
+		<ins class='adsbygoogle'
+		     style='display:inline-block;width:728px;height:90px'
+		     data-ad-client='ca-pub-0605489790642236'
+		     data-ad-slot='9600788702'></ins>
+		<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+	</div>
+
+	<h1>
+		Matias Tuomi <span style='color:#444444;'>(Finland)</span>
+	</h1>
+	<ul id='social_media'>
+	</ul>
+	<div>
+	<h3>
+		Statistics:&nbsp;&nbsp;
+			<a href='/rankings/1092-matias-tuomi'>Ranking History</a>
+			<br />
+	</h3>
+		</div>
+	<div class='content_column'>
+		<div id='world_ranking_box'>
+			<div id='world_ranking'>136</div>
+			<strong>PSA Ranking</strong>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Born:</span>
+			<span>30 Sep 1985 (age 31)</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Gender:</span>
+			<span>Male</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Birthplace:</span>
+			<span>Espoo</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Residence:</span>
+			<span>Espoo</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Joined PSA:</span>
+			<span>2006</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Highest WR:</span>
+			<span>115 (Nov 2016)</span>
+		</div>
+	</div>
+
+	<div class='clear' style='padding-bottom:20px'></div>
+	<div class='tabletitle' id='news_mentions'>News</div>
+	<div class='darkborder'>
+		<table style='width:100%' cellpadding='2' cellspacing='0' border='0'>
+			<tr class='darkline'>
+				<td style='width:10%' valign='top'>23 Mar 2015</td>
+				<td style='width:90%'><a href='/news/6537-third-time-lucky-for-kempsell-in-geneva'>Third Time Lucky For Kempsell In Geneva</a></td>
+			</tr>
+			<tr class='lightline'>
+				<td style='width:10%' valign='top'>22 Apr 2014</td>
+				<td style='width:90%'><a href='/news/6114-koukal-closes-in-on-half-century-in-brazil'>Koukal Closes In On Half Century In Brazil</a></td>
+			</tr>
+			<tr class='darkline'>
+				<td style='width:10%' valign='top'>10 Oct 2013</td>
+				<td style='width:90%'><a href='/news/5809-danish-double-for-khan-in-amman'>Danish Double For Khan In Amman</a></td>
+			</tr>
+			<tr class='lightline'>
+				<td style='width:10%' valign='top'>6 Sep 2013</td>
+				<td style='width:90%'><a href='/news/5732-its-knights-day-in-palmerston-north'>It&#039;s Knight&#039;s Day In Palmerston North</a></td>
+			</tr>
+			<tr class='darkline'>
+				<td style='width:10%' valign='top'>5 Sep 2013</td>
+				<td style='width:90%'><a href='/news/5729-kiwi-trio-through-in-palmerston-north'>Kiwi Trio Through In Palmerston North</a></td>
+			</tr>
+		</table>
+	</div>
+
+	<div id='upcoming_events' class='tabletitle'>Upcoming Events</div>
+	<div class='darkborder'>
+		<div class='one_entry'>None</div>
+	</div>
+
+	<div class='tabletitle'>Event Summary (24)</div>
+	<div class='darkborder'>
+		<table style='width:100%;' cellpadding='2' cellspacing='0' border='0'>
+			<thead>
+				<tr>
+					<th scope='col' style='width:10%'>Date</th>
+					<th scope='col' style='width:10%'>Seeding</th>
+					<th scope='col' style='width:35%'>Event</th>
+					<th scope='col' style='width:5%'>Ctry</th>
+					<th scope='col' style='width:20%'>Tour</th>
+					<th scope='col' style='width:20%'>Round Reached</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr class='darkline'>
+					<td>Mar 2017</td>
+					<td>-</td>
+					<td><a href='/events/7002-mens-oregon-open-2017'>Oregon Open</a></td>
+					<td>USA</td>
+					<td>PSA Tour</td>
+					<td>Qualifying finals</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Feb 2017</td>
+					<td>[5]</td>
+					<td><a href='/events/7000-mens-mount-royal-university-open-2017'>Mount Royal University Open</a></td>
+					<td>CAN</td>
+					<td>PSA Tour</td>
+					<td>Quarter-finals</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Feb 2017</td>
+					<td>[4]</td>
+					<td><a href='/events/6978-mens-cronimet-open-2017'>Cronimet Open</a></td>
+					<td>SWE</td>
+					<td>PSA Tour</td>
+					<td>Semi-finals</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Feb 2017</td>
+					<td>[3]</td>
+					<td><a href='/events/6984-mens-finnish-nationals-2017'>Finnish Nationals</a></td>
+					<td>FIN</td>
+					<td>-</td>
+					<td>Runner-up</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Feb 2017</td>
+					<td>-</td>
+					<td><a href='/events/6906-mens-swedish-open-2017'>Swedish Open</a></td>
+					<td>SWE</td>
+					<td>PSA Tour</td>
+					<td>1st qualifying round</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Jan 2017</td>
+					<td>[2]</td>
+					<td><a href='/events/6945-mens-finnish-open-2017'>Finnish Open</a></td>
+					<td>FIN</td>
+					<td>PSA Tour</td>
+					<td>Quarter-finals</td>
+				</tr>
+				<tr class='darkline'>
+					<td class='topborder'>Dec 2016</td>
+					<td class='topborder'>-</td>
+					<td class='topborder'><a href='/events/6862-mens-salt-lake-city-open-2016'>Salt Lake City Open</a></td>
+					<td class='topborder'>USA</td>
+					<td class='topborder'>PSA Tour</td>
+					<td class='topborder'>1st round</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Nov 2016</td>
+					<td>-</td>
+					<td><a href='/events/6841-mens-saskatoon-boast-open-2016'>Saskatoon Boast Open</a></td>
+					<td>CAN</td>
+					<td>PSA Tour</td>
+					<td>1st round</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Nov 2016</td>
+					<td>-</td>
+					<td><a href='/events/6840-mens-goodlife-open-2016'>GoodLife Open</a></td>
+					<td>CAN</td>
+					<td>PSA Tour</td>
+					<td>1st round</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Nov 2016</td>
+					<td>-</td>
+					<td><a href='/events/6805-mens-world-championship-2016'>World Championship</a></td>
+					<td>EGY</td>
+					<td>PSA World Series</td>
+					<td>1st qualifying round</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Oct 2016</td>
+					<td>-</td>
+					<td><a href='/events/6802-mens-chicago-open-2016'>Chicago Open</a></td>
+					<td>USA</td>
+					<td>PSA Tour</td>
+					<td>Qualifying finals</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Oct 2016</td>
+					<td>-</td>
+					<td><a href='/events/6795-mens-cleveland-skating-club-open-2016'>Cleveland Skating Club Open</a></td>
+					<td>USA</td>
+					<td>PSA Tour</td>
+					<td>1st round</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Aug 2016</td>
+					<td>[4]</td>
+					<td><a href='/events/6710-mens-helsinki-summer-challenge-2016'>Helsinki Summer Challenge</a></td>
+					<td>FIN</td>
+					<td>PSA Tour</td>
+					<td>Semi-finals</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Aug 2016</td>
+					<td>[3]</td>
+					<td><a href='/events/6702-mens-black-sea-open-2016'>Black Sea Open</a></td>
+					<td>UKR</td>
+					<td>PSA Tour</td>
+					<td>Quarter-finals</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Jun 2016</td>
+					<td>-</td>
+					<td><a href='/events/6668-mens-nz-southern-open-2016'>NZ Southern Open</a></td>
+					<td>NZL</td>
+					<td>PSA Tour</td>
+					<td>1st round</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Jun 2016</td>
+					<td>-</td>
+					<td><a href='/events/6664-mens-christchurch-international-open-2016'>Christchurch International Open</a></td>
+					<td>NZL</td>
+					<td>PSA Tour</td>
+					<td>1st round</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Jun 2016</td>
+					<td>[<abbr title='Qualifier'>Q</abbr>]</td>
+					<td><a href='/events/6661-mens-new-zealand-international-classic-2016'>New Zealand International Classic</a></td>
+					<td>NZL</td>
+					<td>PSA Tour</td>
+					<td>1st round</td>
+				</tr>
+				<tr class='lightline'>
+					<td>May 2016</td>
+					<td>[4]</td>
+					<td><a href='/events/6617-mens-armenian-challenger-2016'>Armenian Challenger</a></td>
+					<td>ARM</td>
+					<td>PSA Tour</td>
+					<td>1st round</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Mar 2016</td>
+					<td>-</td>
+					<td><a href='/events/6560-mens-manitoba-open-2016'>Manitoba Open</a></td>
+					<td>CAN</td>
+					<td>PSA Tour</td>
+					<td>Qualifying finals</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Mar 2016</td>
+					<td>[7]</td>
+					<td><a href='/events/6554-mens-seattle-open-2016'>Seattle Open</a></td>
+					<td>USA</td>
+					<td>PSA Tour</td>
+					<td>Semi-finals</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Feb 2016</td>
+					<td>[3/4]</td>
+					<td><a href='/events/6537-mens-finnish-nationals-2016'>Finnish Nationals</a></td>
+					<td>FIN</td>
+					<td>-</td>
+					<td>Quarter-finals</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Feb 2016</td>
+					<td>[<abbr title='Qualifier'>Q</abbr>]</td>
+					<td><a href='/events/6485-mens-oregon-open-2016'>Oregon Open</a></td>
+					<td>USA</td>
+					<td>PSA Tour</td>
+					<td>1st round</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Jan 2016</td>
+					<td>-</td>
+					<td><a href='/events/6460-mens-bankers-hall-club-pro-am-2016'>Bankers Hall Club Pro Am</a></td>
+					<td>CAN</td>
+					<td>PSA Tour</td>
+					<td>1st round</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Jan 2016</td>
+					<td>-</td>
+					<td><a href='/events/6454-mens-holtrand-open-2016'>Holtrand Open</a></td>
+					<td>CAN</td>
+					<td>PSA Tour</td>
+					<td>1st round</td>
+				</tr>
+				<tr class='subscriber_line'>
+					<td class='topborder'><strong>2003-2015</strong></td>
+					<td class='topborder'><strong>126 events</strong></td>
+					<td class='topborder' colspan='4'>View full historical event history by <a href='/upgrade'>creating</a> a premium account!</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+
+	<div id='match_summary' class='tabletitle'>Match Summary (Played 44 - Won 20, Lost 24)</div>
+	<div class='darkborder'>
+		<table id='match_summary_table' style='width:100%;' cellpadding='2' cellspacing='0' border='0'>
+			<thead>
+				<tr>
+					<th scope='col' style='width:10%'>Date</th>
+					<th scope='col' style='width:17%'>Opponent</th>
+					<th scope='col' style='width:4%'>W/L</th>
+					<th scope='col' style='width:25%'>Event</th>
+					<th scope='col' style='width:5%'>Ctry</th>
+					<th scope='col' style='width:3%'>Rnd</th>
+					<th scope='col' style='width:32%'>Score</th>
+					<th scope='col' style='width:4%'>PSA</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr class='darkline'>
+					<td>Mar 2017</td>
+					<td><a href='/players/3763-shahjahan-khan'>Shahjahan Khan</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/7002-mens-oregon-open-2017'>Oregon Open</a></td>
+					<td>USA</td>
+					<td><abbr title='Qualifying finals'>Q</abbr></td>
+					<td>11-9, 7-11, 9-11, 11-9, 4-11 (60m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Mar 2017</td>
+					<td><a href='/players/8024-timothy-lasusa'>Timothy Lasusa</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/7002-mens-oregon-open-2017'>Oregon Open</a></td>
+					<td>USA</td>
+					<td><abbr title='1st qualifying round'>Q</abbr></td>
+					<td>11-6, 11-4, 11-9 (29m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Feb 2017</td>
+					<td><a href='/players/4231-andrew-schnell'>Andrew Schnell</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/7000-mens-mount-royal-university-open-2017'>Mount Royal University Open</a></td>
+					<td>CAN</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>8-11, 7-11, 3-11 (32m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Feb 2017</td>
+					<td><a href='/players/8697-ismail-rauf'>Ismail Rauf</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/7000-mens-mount-royal-university-open-2017'>Mount Royal University Open</a></td>
+					<td>CAN</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-6, 12-10, 11-5 (24m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Feb 2017</td>
+					<td><a href='/players/4277-douglas-kempsell'>Douglas Kempsell</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6978-mens-cronimet-open-2017'>Cronimet Open</a></td>
+					<td>SWE</td>
+					<td><abbr title='Semi-finals'>sf</abbr></td>
+					<td>3-11, 7-11, 5-11 (42m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Feb 2017</td>
+					<td><a href='/players/8427-adrian-ostbye'>Adrian Ostbye</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6978-mens-cronimet-open-2017'>Cronimet Open</a></td>
+					<td>SWE</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>5-11, 11-4, 11-8, 11-6 (46m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Feb 2017</td>
+					<td><a href='/players/8594-david-clegg'>David Clegg</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6978-mens-cronimet-open-2017'>Cronimet Open</a></td>
+					<td>SWE</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-1, 11-3, 11-6 (35m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Feb 2017</td>
+					<td><a href='/players/24-olli-tuominen'>Olli Tuominen</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6984-mens-finnish-nationals-2017'>Finnish Nationals</a></td>
+					<td>FIN</td>
+					<td><abbr title='Runner-up'>F</abbr></td>
+					<td>8-11, 3-11, 8-11</td>
+					<td>N</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Feb 2017</td>
+					<td><a href='/players/6623-jami-aijanen'>Jami Äijänen</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6984-mens-finnish-nationals-2017'>Finnish Nationals</a></td>
+					<td>FIN</td>
+					<td><abbr title='Semi-finals'>sf</abbr></td>
+					<td>2-11, 11-7, 11-8, 11-6</td>
+					<td>N</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Feb 2017</td>
+					<td><a href='/players/5006-jaakko-vahamaa'>Jaakko Vahamaa</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6984-mens-finnish-nationals-2017'>Finnish Nationals</a></td>
+					<td>FIN</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>11-8, 4-11, 11-9, 13-11</td>
+					<td>N</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Feb 2017</td>
+					<td><a href='/players/4217-heikki-kononen'>Heikki Kononen</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6984-mens-finnish-nationals-2017'>Finnish Nationals</a></td>
+					<td>FIN</td>
+					<td><abbr title='2nd round'>r2</abbr></td>
+					<td>11-6, 11-9, 11-4</td>
+					<td>N</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Feb 2017</td>
+					<td><a href='/players/1750-joe-lee'>Joe Lee</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6906-mens-swedish-open-2017'>Swedish Open</a></td>
+					<td>SWE</td>
+					<td><abbr title='1st qualifying round'>Q</abbr></td>
+					<td>13-15, 4-11, 4-11 (43m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Jan 2017</td>
+					<td><a href='/players/5006-jaakko-vahamaa'>Jaakko Vahamaa</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6945-mens-finnish-open-2017'>Finnish Open</a></td>
+					<td>FIN</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>5-11, 7-11, 10-12 (38m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Jan 2017</td>
+					<td><a href='/players/6762-sam-ellis'>Sam Ellis</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6945-mens-finnish-open-2017'>Finnish Open</a></td>
+					<td>FIN</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-5, 11-6, 11-9 (35m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td class='topborder'>Dec 2016</td>
+					<td class='topborder'><a href='/players/2064-henrik-mustonen'>Henrik Mustonen</a></td>
+					<td class='topborder' title=''>L</td>
+					<td class='topborder'><a href='/events/6862-mens-salt-lake-city-open-2016'>Salt Lake City Open</a></td>
+					<td class='topborder'>USA</td>
+					<td class='topborder'><abbr title='1st round'>r1</abbr></td>
+					<td class='topborder'>2-11, 12-14, 9-11 (25m)</td>
+					<td class='topborder'>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Nov 2016</td>
+					<td><a href='/players/2064-henrik-mustonen'>Henrik Mustonen</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6841-mens-saskatoon-boast-open-2016'>Saskatoon Boast Open</a></td>
+					<td>CAN</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>7-11, 8-11, 4-11 (29m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Nov 2016</td>
+					<td><a href='/players/3050-christopher-binnie'>Christopher Binnie</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6840-mens-goodlife-open-2016'>GoodLife Open</a></td>
+					<td>CAN</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>8-11, 4-11, 3-11 (22m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Nov 2016</td>
+					<td><a href='/players/3108-piedro-schweertman'>Piedro Schweertman</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6805-mens-world-championship-2016'>World Championship</a></td>
+					<td>EGY</td>
+					<td><abbr title='1st qualifying round'>Q</abbr></td>
+					<td>6-11, 8-11, 6-11 (28m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Oct 2016</td>
+					<td><a href='/players/2537-clinton-leeuw'>Clinton Leeuw</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6802-mens-chicago-open-2016'>Chicago Open</a></td>
+					<td>USA</td>
+					<td><abbr title='Qualifying finals'>Q</abbr></td>
+					<td>9-11, 5-11, 6-11</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Oct 2016</td>
+					<td><a href='/players/12296-noah-browne'>Noah Browne</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6802-mens-chicago-open-2016'>Chicago Open</a></td>
+					<td>USA</td>
+					<td><abbr title='1st qualifying round'>Q</abbr></td>
+					<td>12-10, 11-9, 11-5</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Oct 2016</td>
+					<td><a href='/players/2048-raphael-kandra'>Raphael Kandra</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6795-mens-cleveland-skating-club-open-2016'>Cleveland Skating Club Open</a></td>
+					<td>USA</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>7-11, 9-11, 2-11 (40m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Aug 2016</td>
+					<td><a href='/players/7452-iker-pajares-bernabeu'>Iker Pajares Bernabeu</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6710-mens-helsinki-summer-challenge-2016'>Helsinki Summer Challenge</a></td>
+					<td>FIN</td>
+					<td><abbr title='Semi-finals'>sf</abbr></td>
+					<td>7-11, 8-11, 11-8, 11-3, 4-11</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Aug 2016</td>
+					<td><a href='/players/7185-belal-nawar'>Belal Nawar</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6710-mens-helsinki-summer-challenge-2016'>Helsinki Summer Challenge</a></td>
+					<td>FIN</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>9-11, 12-10, 8-11, 11-6, 11-7</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Aug 2016</td>
+					<td><a href='/players/1015-basem-makram'>Basem Makram</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6710-mens-helsinki-summer-challenge-2016'>Helsinki Summer Challenge</a></td>
+					<td>FIN</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-4, 11-8, 9-11, 6-11, 11-3</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Aug 2016</td>
+					<td><a href='/players/481-stephane-galifi'>Stephane Galifi</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6702-mens-black-sea-open-2016'>Black Sea Open</a></td>
+					<td>UKR</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>11-5, 6-11, 9-11, 13-15</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Aug 2016</td>
+					<td><a href='/players/7197-seyed-mohammad-reza-ziyaekashani'>Seyed Mohammad Reza Ziyaekashani</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6702-mens-black-sea-open-2016'>Black Sea Open</a></td>
+					<td>UKR</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-6, 11-7, 11-6</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Jun 2016</td>
+					<td><a href='/players/1472-joshua-larkin'>Joshua Larkin</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6668-mens-nz-southern-open-2016'>NZ Southern Open</a></td>
+					<td>NZL</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>1-11, 4-11, 4-11 (35m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Jun 2016</td>
+					<td><a href='/players/1608-ivan-yuen'>Ivan Yuen</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6664-mens-christchurch-international-open-2016'>Christchurch International Open</a></td>
+					<td>NZL</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>3-11, 9-11, 11-13 (26m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Jun 2016</td>
+					<td><a href='/players/4595-joshua-masters'>Joshua Masters</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6661-mens-new-zealand-international-classic-2016'>New Zealand International Classic</a></td>
+					<td>NZL</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>7-11, 1-11, 8-11</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Jun 2016</td>
+					<td><a href='/players/8594-david-clegg'>David Clegg</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6661-mens-new-zealand-international-classic-2016'>New Zealand International Classic</a></td>
+					<td>NZL</td>
+					<td><abbr title='Qualifying finals'>Q</abbr></td>
+					<td>11-6, 14-12, 11-8</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Jun 2016</td>
+					<td><a href='/players/12610-stephen-bennett'>Stephen Bennett</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6661-mens-new-zealand-international-classic-2016'>New Zealand International Classic</a></td>
+					<td>NZL</td>
+					<td><abbr title='1st qualifying round'>Q</abbr></td>
+					<td>11-8, 11-4, 11-9</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>May 2016</td>
+					<td><a href='/players/10551-khaled-labib'>Khaled Labib</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6617-mens-armenian-challenger-2016'>Armenian Challenger</a></td>
+					<td>ARM</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>9-11, 9-11, 13-11, 9-11 (57m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Mar 2016</td>
+					<td><a href='/players/4678-babatunde-ajagbe'>Babatunde Ajagbe</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6560-mens-manitoba-open-2016'>Manitoba Open</a></td>
+					<td>CAN</td>
+					<td><abbr title='Qualifying finals'>Q</abbr></td>
+					<td>11-9, 6-11, 11-6, 9-11, 10-12</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Mar 2016</td>
+					<td><a href='/players/10549-francisco-mendez-correa'>Francisco Mendez Correa</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6560-mens-manitoba-open-2016'>Manitoba Open</a></td>
+					<td>CAN</td>
+					<td><abbr title='1st qualifying round'>Q</abbr></td>
+					<td>11-2, 11-2, 11-8</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Mar 2016</td>
+					<td><a href='/players/2655-vikram-malhotra'>Vikram Malhotra</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6554-mens-seattle-open-2016'>Seattle Open</a></td>
+					<td>USA</td>
+					<td><abbr title='Semi-finals'>sf</abbr></td>
+					<td>6-11, 7-11, 5-11 (32m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Mar 2016</td>
+					<td><a href='/players/8697-ismail-rauf'>Ismail Rauf</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6554-mens-seattle-open-2016'>Seattle Open</a></td>
+					<td>USA</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>11-5, 11-7, 7-11, 11-2</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Mar 2016</td>
+					<td><a href='/players/1606-valentino-bong'>Valentino Bong</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6554-mens-seattle-open-2016'>Seattle Open</a></td>
+					<td>USA</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-9, 11-8, 11-7</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Feb 2016</td>
+					<td><a href='/players/6623-jami-aijanen'>Jami Äijänen</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6537-mens-finnish-nationals-2016'>Finnish Nationals</a></td>
+					<td>FIN</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>12-10, 6-11, 6-11, 8-11</td>
+					<td>N</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Feb 2016</td>
+					<td><a href='/players/6540-tuomas-hakkinen'>Tuomas Häkkinen</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6537-mens-finnish-nationals-2016'>Finnish Nationals</a></td>
+					<td>FIN</td>
+					<td><abbr title='2nd round'>r2</abbr></td>
+					<td>11-4, 11-5, 11-8</td>
+					<td>N</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Feb 2016</td>
+					<td><a href='/players/78-eric-galvez'>Eric Galvez</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6485-mens-oregon-open-2016'>Oregon Open</a></td>
+					<td>USA</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>4-11, 5-11, 3-11 (40m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Feb 2016</td>
+					<td><a href='/players/5009-sean-conroy'>Sean Conroy</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6485-mens-oregon-open-2016'>Oregon Open</a></td>
+					<td>USA</td>
+					<td><abbr title='Qualifying finals'>Q</abbr></td>
+					<td>11-7, 11-7, 7-11, 11-5 (55m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Feb 2016</td>
+					<td><a href='/players/11966-salim-khan'>Salim Khan</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6485-mens-oregon-open-2016'>Oregon Open</a></td>
+					<td>USA</td>
+					<td><abbr title='1st qualifying round'>Q</abbr></td>
+					<td>11-7, 11-6, 5-11, 11-6 (56m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Jan 2016</td>
+					<td><a href='/players/2912-ben-coleman'>Ben Coleman</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6460-mens-bankers-hall-club-pro-am-2016'>Bankers Hall Club Pro Am</a></td>
+					<td>CAN</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>6-11, 3-11, 6-11 (33m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Jan 2016</td>
+					<td><a href='/players/7128-angus-gillams'>Angus Gillams</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6454-mens-holtrand-open-2016'>Holtrand Open</a></td>
+					<td>CAN</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>2-11, 11-7, 8-11, 6-11</td>
+					<td>Y</td>
+				</tr>
+				<tr class='subscriber_line'>
+					<td class='topborder'><strong>2003-2015</strong></td>
+					<td class='topborder'><strong>281 matches</strong></td>
+					<td class='topborder' colspan='6'>View full historical match history by <a href='/upgrade'>creating</a> a premium account!</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+
+	<div class='ad_bar_footer'>
+		<!-- Footer -->
+		<ins class='adsbygoogle'
+		     style='display:inline-block;width:728px;height:90px'
+		     data-ad-client='ca-pub-0605489790642236'
+		     data-ad-slot='1142131485'></ins>
+		<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+	</div>
+
+</div>
+
+<div id='si_footer'>
+	<ul id='footer_left'>
+		<li id='copyright' class='li_left'>
+			Squash Info &copy; 2017
+		</li>
+	</ul>
+	<ul id='footer_right'>
+		<li class='li_right'>
+			<strong><a href='mailto:info@squashinfo.com'>Contact us</a></strong>
+		</li>
+		<li class='li_right'>
+			<a href='https://twitter.com/SquashInfo' class='twitter-follow-button' data-show-count='false'>Follow @SquashInfo</a>
+		</li>
+	</ul>
+</div>
+
+<div>
+	<script type='text/javascript'>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-1186220-1']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</div>
+
+</div>
+</div>
+</body>
+</html>

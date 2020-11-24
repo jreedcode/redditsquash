@@ -1,0 +1,950 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+
+	<meta charset='utf-8' />
+	<meta name='author' content='Squash Info' />
+	<meta name='keywords' content='squash information rankings psa wsa wispa results events players' />
+
+	<link rel='shortcut icon' href='/favicon.ico' type='image/x-icon' />
+	<script src='https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js'></script>
+	<script src='https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js'></script>
+	<link rel='stylesheet' href='https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/themes/smoothness/jquery-ui.css'>
+	<script src='/js/jquery.timeago.js'></script>
+	<script src='/js/jquery.unveil.min.js'></script>
+	<script src='/js/jquery.leanModal.ch.1461605769.js'></script>
+	<script src='/js/jquery.tokeninput.js'></script>
+	<link rel='stylesheet' href='/css/token-input.css'>
+	<script src='http://platform.twitter.com/widgets.js'></script>
+	<script src='https://apis.google.com/js/platform.js'></script>
+	<script src='/js/jquery.cookiebar.js'></script>
+	<link rel='stylesheet' href='/css/jquery.cookiebar.1444581949.css'>
+	<script src='https://www.gstatic.com/charts/loader.js'></script>
+	<script async src='//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js'></script>
+	<script src='/js/main.1461605758.js'></script>
+	<link rel='stylesheet' href='/css/main.1487399333.css'>
+
+	<title>Squash Info | Tong Tsz-Wing | Squash</title>
+
+</head>
+<body onload="">
+
+<div id='fb-root'></div>
+<script>!function(e,n,t){var o,c=e.getElementsByTagName(n)[0];e.getElementById(t)||(o=e.createElement(n),o.id=t,o.src='//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.5',c.parentNode.insertBefore(o,c))}(document,'script','facebook-jssdk');</script>
+<script type='text/javascript'>
+	
+	$(document).ready(function() {
+		
+		$.cookieBar({});
+		
+		$('.logout').click(function(event) {
+			
+			if (!confirm('Are you sure you want to log out?')) {
+				event.preventDefault();
+			}
+			
+		});
+		
+	});
+	
+</script>
+<div id='centre_body'>
+
+<div id='header'>
+	<ul id='header_left'>
+		<li id='header_logo' class='li_left'>
+			<a href='/'><img src='/img/logos/si_logo.png' alt='Squash Info, the definitive squash resource' style='vertical-align: middle;' /></a>
+		</li>
+	</ul>
+	<ul id='header_right'>
+		<li id='header_search' class='li_right'>
+			<form id='header_search_form' method='get' action='/search'>
+				<input type='text' name='q' id='q' value='' size='20' maxlength='30' placeholder='Search...' />
+				<input type='submit' value='Go' />
+			</form>
+		</li>
+		<li id='header_signup' class='li_right'><a href='/signup'>Sign Up</a></li>
+		<li id='header_login' class='li_right'>
+			<a rel='leanModal' data-url='%2Fplayers%2F3900-tong-tsz-wing' href='/login'>Log In</a>
+		</li>
+	</ul>
+</div>
+
+<div id='login_box'>
+	<iframe id='login_iframe' src='/loading.htm' scrolling='no' seamless></iframe>
+</div>
+
+<div id='main_block'>
+
+<div id='left_bar'>
+	<div id='current_date_time'>5:27 pm <br />4 Apr 2017</div>
+	<ul id='navlist'>
+		<li><a href='/' title='Home'>Home</a></li>
+		<li><a href='/news' title='Squash News'>News</a></li>
+		<li><a href='/results' title='Squash Event Results'>Results</a></li>
+		<li><a href='/rankings' title='PSA World Squash Rankings'>Rankings</a></li>
+		<li><a href='/calendar/2017' title='Squash Event Calendar'>Calendar</a></li>
+		<li><a href='/records' title='Squash Records &amp; Statistics'>Records</a></li>
+	</ul>
+</div>
+
+
+<div id='content'>
+
+	<div class='ad_bar_top'>
+		<!-- index -->
+		<ins class='adsbygoogle'
+		     style='display:inline-block;width:728px;height:90px'
+		     data-ad-client='ca-pub-0605489790642236'
+		     data-ad-slot='9600788702'></ins>
+		<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+	</div>
+
+	<h1>
+		Tong Tsz-Wing <span style='color:#444444;'>(Hong Kong China)</span>
+	</h1>
+	<ul id='social_media'>
+		<li id='sm_twitter'>
+			<a href='https://twitter.com/@ettongttw' class='twitter-follow-button' data-show-count='false'>Follow @ettongttw</a>
+		</li>
+	</ul>
+	<div>
+	<h3>
+		Statistics:&nbsp;&nbsp;
+			<a href='/rankings/3900-tong-tsz-wing'>Ranking History</a>
+			<br />
+	</h3>
+		</div>
+	<div class='content_column'>
+		<div id='world_ranking_box'>
+			<div id='world_ranking'>44</div>
+			<strong>PSA Ranking</strong>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Born:</span>
+			<span>26 Jul 1992 (age 24)</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Gender:</span>
+			<span>Female</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Birthplace:</span>
+			<span>Hong Kong</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Residence:</span>
+			<span>Hong Kong</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Height:</span>
+			<span>166cm (5 ft 5 in)</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Weight:</span>
+			<span>57kg (9 st)</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Plays:</span>
+			<span>Right-handed</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Joined PSA:</span>
+			<span>2008</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Coach:</span>
+			<span>Tony Choi</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Highest WR:</span>
+			<span>40 (Mar 2017)</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Racket:</span>
+			<span>Head</span>
+		</div>
+	</div>
+
+	<div class='clear' style='padding-bottom:20px'></div>
+	<div class='tabletitle' id='news_mentions'>News</div>
+	<div class='darkborder'>
+		<table style='width:100%' cellpadding='2' cellspacing='0' border='0'>
+			<tr class='darkline'>
+				<td style='width:10%' valign='top'>1 Dec 2016</td>
+				<td style='width:90%'><a href='/news/6879-france-in-historic-world-team-championship-breakthrough-in-paris'>France In Historic World Team Championship Breakthrough In Paris</a></td>
+			</tr>
+			<tr class='lightline'>
+				<td style='width:10%' valign='top'>12 Sep 2016</td>
+				<td style='width:90%'><a href='/news/6832-malaysian-wee-wern-earns-double-first-at-world-university-championships'>Malaysian Wee Wern Earns Double First At World University Championships</a></td>
+			</tr>
+			<tr class='darkline'>
+				<td style='width:10%' valign='top'>8 Sep 2016</td>
+				<td style='width:90%'><a href='/news/6830-low-wee-wern-yip-tsz-fung-claim-world-university-titles'>Low Wee Wern &amp; Yip Tsz Fung Claim World University Titles</a></td>
+			</tr>
+			<tr class='lightline'>
+				<td style='width:10%' valign='top'>27 Mar 2015</td>
+				<td style='width:90%'><a href='/news/6541-liu-takes-out-tong-for-malaysian-tour-title'>Liu Takes Out Tong For Malaysian Tour Title</a></td>
+			</tr>
+			<tr class='darkline'>
+				<td style='width:10%' valign='top'>6 Dec 2014</td>
+				<td style='width:90%'><a href='/news/6444-malaysia-england-to-contest-historic-world-championship-final'>Malaysia &amp; England To Contest Historic World Championship Final</a></td>
+			</tr>
+		</table>
+	</div>
+
+	<div id='upcoming_events' class='tabletitle'>Upcoming Events</div>
+	<div class='darkborder'>
+		<div class='one_entry'>None</div>
+	</div>
+
+	<div class='tabletitle'>Event Summary (18)</div>
+	<div class='darkborder'>
+		<table style='width:100%;' cellpadding='2' cellspacing='0' border='0'>
+			<thead>
+				<tr>
+					<th scope='col' style='width:10%'>Date</th>
+					<th scope='col' style='width:10%'>Seeding</th>
+					<th scope='col' style='width:35%'>Event</th>
+					<th scope='col' style='width:5%'>Ctry</th>
+					<th scope='col' style='width:20%'>Tour</th>
+					<th scope='col' style='width:20%'>Round Reached</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr class='darkline'>
+					<td>Mar 2017</td>
+					<td>-</td>
+					<td><a href='/events/6912-womens-british-open-2017'>British Open</a></td>
+					<td>ENG</td>
+					<td>PSA World Series</td>
+					<td>1st qualifying round</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Mar 2017</td>
+					<td>[4]</td>
+					<td><a href='/events/7018-womens-calgary-squash-week-open-2017'>Calgary Squash Week Open</a></td>
+					<td>CAN</td>
+					<td>PSA Tour</td>
+					<td>Quarter-finals</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Mar 2017</td>
+					<td>-</td>
+					<td><a href='/events/6909-womens-windy-city-open-2017'>Windy City Open</a></td>
+					<td>USA</td>
+					<td>PSA World Series</td>
+					<td>Qualifying finals</td>
+				</tr>
+				<tr class='lightline b'>
+					<td>Jan 2017</td>
+					<td>[1]</td>
+					<td><a href='/events/6944-womens-malaysian-tour-2017'>Malaysian Tour</a></td>
+					<td>MAS</td>
+					<td>PSA Tour</td>
+					<td>Winner</td>
+				</tr>
+				<tr class='darkline'>
+					<td class='topborder'>Dec 2016</td>
+					<td class='topborder'>-</td>
+					<td class='topborder'><a href='/events/6621-womens-world-team-championship-2016'>World Team Championship</a></td>
+					<td class='topborder'>FRA</td>
+					<td class='topborder'>-</td>
+					<td class='topborder'>-</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Nov 2016</td>
+					<td>[2]</td>
+					<td><a href='/events/6836-womens-amman-open-2016'>Amman Open</a></td>
+					<td>JOR</td>
+					<td>PSA Tour</td>
+					<td>Runner-up</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Oct 2016</td>
+					<td>[1]</td>
+					<td><a href='/events/6809-womens-malaysian-tour-2016'>Malaysian Tour</a></td>
+					<td>MAS</td>
+					<td>PSA Tour</td>
+					<td>Runner-up</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Oct 2016</td>
+					<td>[<abbr title='Qualifier'>Q</abbr>]</td>
+					<td><a href='/events/6779-womens-otters-international-2016'>Otters International</a></td>
+					<td>IND</td>
+					<td>PSA Tour</td>
+					<td>1st round</td>
+				</tr>
+				<tr class='darkline b'>
+					<td>Sep 2016</td>
+					<td>[1]</td>
+					<td><a href='/events/6738-womens-china-challenge-cup-2016'>China Challenge Cup</a></td>
+					<td>CHN</td>
+					<td>PSA Tour</td>
+					<td>Winner</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Sep 2016</td>
+					<td>-</td>
+					<td><a href='/events/6731-world-university-team-championship-2016'>World University Team Championship</a></td>
+					<td>MAS</td>
+					<td>-</td>
+					<td>-</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Sep 2016</td>
+					<td>[2]</td>
+					<td><a href='/events/6728-womens-world-university-championship-2016'>World University Championship</a></td>
+					<td>MAS</td>
+					<td>-</td>
+					<td>Runner-up</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Aug 2016</td>
+					<td>-</td>
+					<td><a href='/events/6705-womens-hong-kong-open-2016'>Hong Kong Open</a></td>
+					<td>HKG</td>
+					<td>PSA World Series</td>
+					<td>Qualifying finals</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Jul 2016</td>
+					<td>[2]</td>
+					<td><a href='/events/6683-womens-south-australian-open-2016'>South Australian Open</a></td>
+					<td>AUS</td>
+					<td>PSA Tour</td>
+					<td>Runner-up</td>
+				</tr>
+				<tr class='lightline b'>
+					<td>Jul 2016</td>
+					<td>[2]</td>
+					<td><a href='/events/6681-womens-tasmanian-open-2016'>Tasmanian Open</a></td>
+					<td>AUS</td>
+					<td>PSA Tour</td>
+					<td>Winner</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Jun 2016</td>
+					<td>[4]</td>
+					<td><a href='/events/6667-womens-hong-kong-nationals-2016'>Hong Kong Nationals</a></td>
+					<td>HKG</td>
+					<td>-</td>
+					<td>Quarter-finals</td>
+				</tr>
+				<tr class='lightline b'>
+					<td>Jun 2016</td>
+					<td>[2]</td>
+					<td><a href='/events/6655-womens-penang-open-2016'>Penang Open</a></td>
+					<td>MAS</td>
+					<td>PSA Tour</td>
+					<td>Winner</td>
+				</tr>
+				<tr class='darkline'>
+					<td>May 2016</td>
+					<td>-</td>
+					<td><a href='/events/6647-womens-hkfc-international-2016'>HKFC International</a></td>
+					<td>HKG</td>
+					<td>PSA Tour</td>
+					<td>1st qualifying round</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Feb 2016</td>
+					<td>[5]</td>
+					<td><a href='/events/6544-womens-bahria-town-international-2016'>Bahria Town International</a></td>
+					<td>PAK</td>
+					<td>PSA Tour</td>
+					<td>Semi-finals</td>
+				</tr>
+				<tr class='subscriber_line'>
+					<td class='topborder'><strong>2007-2015</strong></td>
+					<td class='topborder'><strong>87 events</strong></td>
+					<td class='topborder' colspan='4'>View full historical event history by <a href='/upgrade'>creating</a> a premium account!</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+
+	<div id='match_summary' class='tabletitle'>Match Summary (Played 51 - Won 38, Lost 13)</div>
+	<div class='darkborder'>
+		<table id='match_summary_table' style='width:100%;' cellpadding='2' cellspacing='0' border='0'>
+			<thead>
+				<tr>
+					<th scope='col' style='width:10%'>Date</th>
+					<th scope='col' style='width:17%'>Opponent</th>
+					<th scope='col' style='width:4%'>W/L</th>
+					<th scope='col' style='width:25%'>Event</th>
+					<th scope='col' style='width:5%'>Ctry</th>
+					<th scope='col' style='width:3%'>Rnd</th>
+					<th scope='col' style='width:32%'>Score</th>
+					<th scope='col' style='width:4%'>PSA</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr class='darkline'>
+					<td>Mar 2017</td>
+					<td><a href='/players/7989-lucy-turmel'>Lucy Turmel</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6912-womens-british-open-2017'>British Open</a></td>
+					<td>ENG</td>
+					<td><abbr title='1st qualifying round'>Q</abbr></td>
+					<td>8-11, 11-9, 10-12, 11-13 (58m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Mar 2017</td>
+					<td><a href='/players/4713-danielle-letourneau'>Danielle Letourneau</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/7018-womens-calgary-squash-week-open-2017'>Calgary Squash Week Open</a></td>
+					<td>CAN</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>12-10, 10-12, 4-11, 8-11 (50m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Mar 2017</td>
+					<td><a href='/players/2388-nouran-el-torky'>Nouran El Torky</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/7018-womens-calgary-squash-week-open-2017'>Calgary Squash Week Open</a></td>
+					<td>CAN</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>9-11, 11-3, 9-11, 11-4, 11-7 (65m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Mar 2017</td>
+					<td><a href='/players/7431-nadine-shahin'>Nadine Shahin</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6909-womens-windy-city-open-2017'>Windy City Open</a></td>
+					<td>USA</td>
+					<td><abbr title='Qualifying finals'>Q</abbr></td>
+					<td>6-11, 8-11, 10-12 (34m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Mar 2017</td>
+					<td><a href='/players/4490-nikki-todd'>Nikki Todd</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6909-womens-windy-city-open-2017'>Windy City Open</a></td>
+					<td>USA</td>
+					<td><abbr title='1st qualifying round'>Q</abbr></td>
+					<td>5-11, 11-7, 12-10, 11-7 (46m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Jan 2017</td>
+					<td><a href='/players/6789-andrea-lee'>Andrea Lee</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6944-womens-malaysian-tour-2017'>Malaysian Tour</a></td>
+					<td>MAS</td>
+					<td><abbr title='Winner'>F</abbr></td>
+					<td>11-4, 3-11, 11-3, 11-8 (46m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Jan 2017</td>
+					<td><a href='/players/5312-vanessa-chu'>Vanessa Chu</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6944-womens-malaysian-tour-2017'>Malaysian Tour</a></td>
+					<td>MAS</td>
+					<td><abbr title='Semi-finals'>sf</abbr></td>
+					<td>12-10, 11-6, 11-6 (33m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Jan 2017</td>
+					<td><a href='/players/7148-nazihah-hanis'>Nazihah Hanis</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6944-womens-malaysian-tour-2017'>Malaysian Tour</a></td>
+					<td>MAS</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>11-8, 11-8, 11-8 (36m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Jan 2017</td>
+					<td><a href='/players/3451-noor-shadira'>Noor Shadira</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6944-womens-malaysian-tour-2017'>Malaysian Tour</a></td>
+					<td>MAS</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-5, 11-8, 11-4 (33m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td class='topborder'>Dec 2016</td>
+					<td class='topborder'><a href='/players/7169-sivasangari-subramaniam'>Sivasangari Subramaniam</a></td>
+					<td class='topborder' title=''>W</td>
+					<td class='topborder'><a href='/events/6621-womens-world-team-championship-2016'>World Team Championship</a></td>
+					<td class='topborder'>FRA</td>
+					<td class='topborder'><abbr title='-'>-</abbr></td>
+					<td class='topborder'>11-9, 15-17, 13-11, 11-6 (56m)</td>
+					<td class='topborder'>N</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Dec 2016</td>
+					<td><a href='/players/4972-franziska-hennes'>Franziska Hennes</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6621-womens-world-team-championship-2016'>World Team Championship</a></td>
+					<td>FRA</td>
+					<td><abbr title='-'>-</abbr></td>
+					<td>11-2, 11-3, 11-6 (27m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Dec 2016</td>
+					<td><a href='/players/5687-marina-de-juan-gallach'>Marina de Juan Gallach</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6621-womens-world-team-championship-2016'>World Team Championship</a></td>
+					<td>FRA</td>
+					<td><abbr title='-'>-</abbr></td>
+					<td>11-8, 11-9, 11-0 (30m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Nov 2016</td>
+					<td><a href='/players/2739-kanzy-emad-el-defrawy'>Kanzy Emad El Defrawy</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6836-womens-amman-open-2016'>Amman Open</a></td>
+					<td>JOR</td>
+					<td><abbr title='Runner-up'>F</abbr></td>
+					<td>5-11, 5-11, 11-7, 0-11</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Nov 2016</td>
+					<td><a href='/players/2742-menna-nasser'>Menna Nasser</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6836-womens-amman-open-2016'>Amman Open</a></td>
+					<td>JOR</td>
+					<td><abbr title='Semi-finals'>sf</abbr></td>
+					<td>11-6, 4-11, 9-11, 11-9, 17-15</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Nov 2016</td>
+					<td><a href='/players/2686-farah-momen'>Farah Momen</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6836-womens-amman-open-2016'>Amman Open</a></td>
+					<td>JOR</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>11-9, 11-8, 11-7 (39m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Oct 2016</td>
+					<td><a href='/players/7169-sivasangari-subramaniam'>Sivasangari Subramaniam</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6809-womens-malaysian-tour-2016'>Malaysian Tour</a></td>
+					<td>MAS</td>
+					<td><abbr title='Runner-up'>F</abbr></td>
+					<td>7-11, 11-13, 7-11 (37m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Oct 2016</td>
+					<td><a href='/players/6102-rachel-arnold'>Rachel Arnold</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6809-womens-malaysian-tour-2016'>Malaysian Tour</a></td>
+					<td>MAS</td>
+					<td><abbr title='Semi-finals'>sf</abbr></td>
+					<td>11-5, 9-11, 12-10, 11-8 (51m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Oct 2016</td>
+					<td><a href='/players/10135-chan-yiwen'>Chan Yiwen</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6809-womens-malaysian-tour-2016'>Malaysian Tour</a></td>
+					<td>MAS</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>11-7, 11-4, 11-3 (30m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Oct 2016</td>
+					<td><a href='/players/3451-noor-shadira'>Noor Shadira</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6809-womens-malaysian-tour-2016'>Malaysian Tour</a></td>
+					<td>MAS</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-2, 11-4, 11-5 (24m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Oct 2016</td>
+					<td><a href='/players/1817-tesni-evans'>Tesni Evans</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6779-womens-otters-international-2016'>Otters International</a></td>
+					<td>IND</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>6-11, 8-11, 3-11 (35m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Oct 2016</td>
+					<td><a href='/players/6777-urwashi-joshi'>Urwashi Joshi</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6779-womens-otters-international-2016'>Otters International</a></td>
+					<td>IND</td>
+					<td><abbr title='Qualifying finals'>Q</abbr></td>
+					<td>11-2, 11-7, 11-7 (29m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Sep 2016</td>
+					<td><a href='/players/4377-sarah-cardwell'>Sarah Cardwell</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6738-womens-china-challenge-cup-2016'>China Challenge Cup</a></td>
+					<td>CHN</td>
+					<td><abbr title='Winner'>F</abbr></td>
+					<td>11-7, 4-11, 11-5, 11-5</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Sep 2016</td>
+					<td><a href='/players/5312-vanessa-chu'>Vanessa Chu</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6738-womens-china-challenge-cup-2016'>China Challenge Cup</a></td>
+					<td>CHN</td>
+					<td><abbr title='Semi-finals'>sf</abbr></td>
+					<td>11-4, 11-3, 11-3</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Sep 2016</td>
+					<td><a href='/players/6102-rachel-arnold'>Rachel Arnold</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6738-womens-china-challenge-cup-2016'>China Challenge Cup</a></td>
+					<td>CHN</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>11-4, 11-8, 12-10</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Sep 2016</td>
+					<td><a href='/players/6063-gu-jinyue'>Gu Jinyue</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6738-womens-china-challenge-cup-2016'>China Challenge Cup</a></td>
+					<td>CHN</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-6, 11-9, 11-4</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Sep 2016</td>
+					<td><a href='/players/919-low-wee-wern'>Low Wee Wern</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6731-world-university-team-championship-2016'>World University Team Championship</a></td>
+					<td>MAS</td>
+					<td><abbr title='-'>-</abbr></td>
+					<td>5-11, 4-11, 5-11 (32m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Sep 2016</td>
+					<td><a href='/players/6728-risa-sugimoto'>Risa Sugimoto</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6731-world-university-team-championship-2016'>World University Team Championship</a></td>
+					<td>MAS</td>
+					<td><abbr title='-'>-</abbr></td>
+					<td>11-3, 11-6, 11-3 (27m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Sep 2016</td>
+					<td><a href='/players/919-low-wee-wern'>Low Wee Wern</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6728-womens-world-university-championship-2016'>World University Championship</a></td>
+					<td>MAS</td>
+					<td><abbr title='Runner-up'>F</abbr></td>
+					<td>3-11, 11-8, 3-11, 8-11 (49m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Sep 2016</td>
+					<td><a href='/players/5171-nada-elkalaawy'>Nada Elkalaawy</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6728-womens-world-university-championship-2016'>World University Championship</a></td>
+					<td>MAS</td>
+					<td><abbr title='Semi-finals'>sf</abbr></td>
+					<td>11-4, 11-4, 11-3 (24m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Sep 2016</td>
+					<td><a href='/players/6063-gu-jinyue'>Gu Jinyue</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6728-womens-world-university-championship-2016'>World University Championship</a></td>
+					<td>MAS</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>11-6, 11-4, 5-11, 11-5 (44m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Sep 2016</td>
+					<td><a href='/players/7386-nadine-frey'>Nadine Frey</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6728-womens-world-university-championship-2016'>World University Championship</a></td>
+					<td>MAS</td>
+					<td><abbr title='2nd round'>r2</abbr></td>
+					<td>11-0, 11-4, 11-3 (29m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Aug 2016</td>
+					<td><a href='/players/726-nicolette-fernandes'>Nicolette Fernandes</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6705-womens-hong-kong-open-2016'>Hong Kong Open</a></td>
+					<td>HKG</td>
+					<td><abbr title='Qualifying finals'>Q</abbr></td>
+					<td>5-11, 11-7, 7-11, 10-12 (59m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Aug 2016</td>
+					<td><a href='/players/4943-christine-nunn'>Christine Nunn</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6705-womens-hong-kong-open-2016'>Hong Kong Open</a></td>
+					<td>HKG</td>
+					<td><abbr title='1st qualifying round'>Q</abbr></td>
+					<td>11-6, 11-0, 11-5 (32m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Jul 2016</td>
+					<td><a href='/players/4538-tamika-saxby'>Tamika Saxby</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6683-womens-south-australian-open-2016'>South Australian Open</a></td>
+					<td>AUS</td>
+					<td><abbr title='Runner-up'>F</abbr></td>
+					<td>10-12, 12-10, 7-11, 10-12 (45m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Jul 2016</td>
+					<td><a href='/players/574-lisa-camilleri'>Lisa Camilleri</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6683-womens-south-australian-open-2016'>South Australian Open</a></td>
+					<td>AUS</td>
+					<td><abbr title='Semi-finals'>sf</abbr></td>
+					<td>11-8, 14-12, 13-11 (37m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Jul 2016</td>
+					<td><a href='/players/7825-lakeesha-rarere'>Lakeesha Rarere</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6683-womens-south-australian-open-2016'>South Australian Open</a></td>
+					<td>AUS</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>11-5, 11-1, 11-3 (25m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Jul 2016</td>
+					<td><a href='/players/7461-elspeth-young'>Elspeth Young</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6683-womens-south-australian-open-2016'>South Australian Open</a></td>
+					<td>AUS</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-2, 11-2, 11-2 (18m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Jul 2016</td>
+					<td><a href='/players/5312-vanessa-chu'>Vanessa Chu</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6681-womens-tasmanian-open-2016'>Tasmanian Open</a></td>
+					<td>AUS</td>
+					<td><abbr title='Winner'>F</abbr></td>
+					<td>2-11, 11-5, 15-13, 13-11 (55m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Jul 2016</td>
+					<td><a href='/players/574-lisa-camilleri'>Lisa Camilleri</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6681-womens-tasmanian-open-2016'>Tasmanian Open</a></td>
+					<td>AUS</td>
+					<td><abbr title='Semi-finals'>sf</abbr></td>
+					<td>11-3, 12-10, 11-5</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Jul 2016</td>
+					<td><a href='/players/5170-selena-shaikh'>Selena Shaikh</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6681-womens-tasmanian-open-2016'>Tasmanian Open</a></td>
+					<td>AUS</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>11-3, 11-4, 11-2</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Jul 2016</td>
+					<td><a href='/players/7827-taylor-flavell'>Taylor Flavell</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6681-womens-tasmanian-open-2016'>Tasmanian Open</a></td>
+					<td>AUS</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-7, 11-7, 10-12, 11-4</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Jun 2016</td>
+					<td><a href='/players/5311-ho-tze-lok'>Ho Tze-Lok</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6667-womens-hong-kong-nationals-2016'>Hong Kong Nationals</a></td>
+					<td>HKG</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>10-12, 6-11, 11-8, 4-11</td>
+					<td>N</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Jun 2016</td>
+					<td><a href='/players/12614-chan-sin-yuk'>Chan Sin Yuk</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6667-womens-hong-kong-nationals-2016'>Hong Kong Nationals</a></td>
+					<td>HKG</td>
+					<td><abbr title='2nd round'>r2</abbr></td>
+					<td>11-7, 11-2, 11-4</td>
+					<td>N</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Jun 2016</td>
+					<td><a href='/players/6102-rachel-arnold'>Rachel Arnold</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6655-womens-penang-open-2016'>Penang Open</a></td>
+					<td>MAS</td>
+					<td><abbr title='Winner'>F</abbr></td>
+					<td>7-11, 11-7, 12-10, 10-12, 11-3 (70m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Jun 2016</td>
+					<td><a href='/players/5830-vanessa-raj'>Vanessa Raj</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6655-womens-penang-open-2016'>Penang Open</a></td>
+					<td>MAS</td>
+					<td><abbr title='Semi-finals'>sf</abbr></td>
+					<td>11-6, 11-7, 11-8 (43m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Jun 2016</td>
+					<td><a href='/players/7148-nazihah-hanis'>Nazihah Hanis</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6655-womens-penang-open-2016'>Penang Open</a></td>
+					<td>MAS</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>11-7, 11-9, 11-2 (33m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Jun 2016</td>
+					<td><a href='/players/11201-lee-jia-wei'>Lee Jia Wei</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6655-womens-penang-open-2016'>Penang Open</a></td>
+					<td>MAS</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-2, 11-8, 11-3 (27m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>May 2016</td>
+					<td><a href='/players/919-low-wee-wern'>Low Wee Wern</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6647-womens-hkfc-international-2016'>HKFC International</a></td>
+					<td>HKG</td>
+					<td><abbr title='1st qualifying round'>Q</abbr></td>
+					<td>4-11, 10-12, 4-11 (22m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Feb 2016</td>
+					<td><a href='/players/2250-liu-tsz-ling'>Liu Tsz-Ling</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6544-womens-bahria-town-international-2016'>Bahria Town International</a></td>
+					<td>PAK</td>
+					<td><abbr title='Semi-finals'>sf</abbr></td>
+					<td>7-11, 7-11, 13-15 (30m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Feb 2016</td>
+					<td><a href='/players/5312-vanessa-chu'>Vanessa Chu</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6544-womens-bahria-town-international-2016'>Bahria Town International</a></td>
+					<td>PAK</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>11-9, 11-5, 12-10 (32m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Feb 2016</td>
+					<td><a href='/players/7580-catur-yuliana'>Catur Yuliana</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6544-womens-bahria-town-international-2016'>Bahria Town International</a></td>
+					<td>PAK</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-6, 11-4, 11-5 (24m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='subscriber_line'>
+					<td class='topborder'><strong>2007-2015</strong></td>
+					<td class='topborder'><strong>233 matches</strong></td>
+					<td class='topborder' colspan='6'>View full historical match history by <a href='/upgrade'>creating</a> a premium account!</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+
+	<div class='ad_bar_footer'>
+		<!-- Footer -->
+		<ins class='adsbygoogle'
+		     style='display:inline-block;width:728px;height:90px'
+		     data-ad-client='ca-pub-0605489790642236'
+		     data-ad-slot='1142131485'></ins>
+		<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+	</div>
+
+</div>
+
+<div id='si_footer'>
+	<ul id='footer_left'>
+		<li id='copyright' class='li_left'>
+			Squash Info &copy; 2017
+		</li>
+	</ul>
+	<ul id='footer_right'>
+		<li class='li_right'>
+			<strong><a href='mailto:info@squashinfo.com'>Contact us</a></strong>
+		</li>
+		<li class='li_right'>
+			<a href='https://twitter.com/SquashInfo' class='twitter-follow-button' data-show-count='false'>Follow @SquashInfo</a>
+		</li>
+	</ul>
+</div>
+
+<div>
+	<script type='text/javascript'>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-1186220-1']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</div>
+
+</div>
+</div>
+</body>
+</html>

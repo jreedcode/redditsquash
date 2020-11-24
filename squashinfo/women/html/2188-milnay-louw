@@ -1,0 +1,611 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+
+	<meta charset='utf-8' />
+	<meta name='author' content='Squash Info' />
+	<meta name='keywords' content='squash information rankings psa wsa wispa results events players' />
+
+	<link rel='shortcut icon' href='/favicon.ico' type='image/x-icon' />
+	<script src='https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js'></script>
+	<script src='https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js'></script>
+	<link rel='stylesheet' href='https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/themes/smoothness/jquery-ui.css'>
+	<script src='/js/jquery.timeago.js'></script>
+	<script src='/js/jquery.unveil.min.js'></script>
+	<script src='/js/jquery.leanModal.ch.1461605769.js'></script>
+	<script src='/js/jquery.tokeninput.js'></script>
+	<link rel='stylesheet' href='/css/token-input.css'>
+	<script src='http://platform.twitter.com/widgets.js'></script>
+	<script src='https://apis.google.com/js/platform.js'></script>
+	<script src='/js/jquery.cookiebar.js'></script>
+	<link rel='stylesheet' href='/css/jquery.cookiebar.1444581949.css'>
+	<script src='https://www.gstatic.com/charts/loader.js'></script>
+	<script async src='//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js'></script>
+	<script src='/js/main.1461605758.js'></script>
+	<link rel='stylesheet' href='/css/main.1487399333.css'>
+
+	<title>Squash Info | Milnay Louw | Squash</title>
+
+</head>
+<body onload="">
+
+<div id='fb-root'></div>
+<script>!function(e,n,t){var o,c=e.getElementsByTagName(n)[0];e.getElementById(t)||(o=e.createElement(n),o.id=t,o.src='//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.5',c.parentNode.insertBefore(o,c))}(document,'script','facebook-jssdk');</script>
+<script type='text/javascript'>
+	
+	$(document).ready(function() {
+		
+		$.cookieBar({});
+		
+		$('.logout').click(function(event) {
+			
+			if (!confirm('Are you sure you want to log out?')) {
+				event.preventDefault();
+			}
+			
+		});
+		
+	});
+	
+</script>
+<div id='centre_body'>
+
+<div id='header'>
+	<ul id='header_left'>
+		<li id='header_logo' class='li_left'>
+			<a href='/'><img src='/img/logos/si_logo.png' alt='Squash Info, the definitive squash resource' style='vertical-align: middle;' /></a>
+		</li>
+	</ul>
+	<ul id='header_right'>
+		<li id='header_search' class='li_right'>
+			<form id='header_search_form' method='get' action='/search'>
+				<input type='text' name='q' id='q' value='' size='20' maxlength='30' placeholder='Search...' />
+				<input type='submit' value='Go' />
+			</form>
+		</li>
+		<li id='header_signup' class='li_right'><a href='/signup'>Sign Up</a></li>
+		<li id='header_login' class='li_right'>
+			<a rel='leanModal' data-url='%2Fplayers%2F2188-milnay-louw' href='/login'>Log In</a>
+		</li>
+	</ul>
+</div>
+
+<div id='login_box'>
+	<iframe id='login_iframe' src='/loading.htm' scrolling='no' seamless></iframe>
+</div>
+
+<div id='main_block'>
+
+<div id='left_bar'>
+	<div id='current_date_time'>5:27 pm <br />4 Apr 2017</div>
+	<ul id='navlist'>
+		<li><a href='/' title='Home'>Home</a></li>
+		<li><a href='/news' title='Squash News'>News</a></li>
+		<li><a href='/results' title='Squash Event Results'>Results</a></li>
+		<li><a href='/rankings' title='PSA World Squash Rankings'>Rankings</a></li>
+		<li><a href='/calendar/2017' title='Squash Event Calendar'>Calendar</a></li>
+		<li><a href='/records' title='Squash Records &amp; Statistics'>Records</a></li>
+	</ul>
+</div>
+
+
+<div id='content'>
+
+	<div class='ad_bar_top'>
+		<!-- index -->
+		<ins class='adsbygoogle'
+		     style='display:inline-block;width:728px;height:90px'
+		     data-ad-client='ca-pub-0605489790642236'
+		     data-ad-slot='9600788702'></ins>
+		<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+	</div>
+
+	<h1>
+		Milnay Louw <span style='color:#444444;'>(South Africa)</span>
+	</h1>
+	<ul id='social_media'>
+		<li id='sm_twitter'>
+			<a href='https://twitter.com/@MilnayLouw' class='twitter-follow-button' data-show-count='false'>Follow @MilnayLouw</a>
+		</li>
+	</ul>
+	<div>
+	<h3>
+		Statistics:&nbsp;&nbsp;
+			<a href='/rankings/2188-milnay-louw'>Ranking History</a>
+			<br />
+	</h3>
+		</div>
+	<div class='content_column'>
+		<div id='player_profile_pic'><img src='/img/players/MilnayLouw_Jul16a.jpg' alt='Milnay Louw' width='150px' height='200px' /></div>
+	</div>
+
+	<div class='content_column'>
+		<div id='world_ranking_box'>
+			<div id='world_ranking'>72</div>
+			<strong>PSA Ranking</strong>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Born:</span>
+			<span>6 Oct 1988 (age 28)</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Gender:</span>
+			<span>Female</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Birthplace:</span>
+			<span>Cape Town</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Residence:</span>
+			<span>Cape Town</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Height:</span>
+			<span>176cm (5 ft 9 in)</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Weight:</span>
+			<span>68kg (10 st 10 lb)</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Joined PSA:</span>
+			<span>2007</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Coach:</span>
+			<span>Calvin Deutschmann</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Highest WR:</span>
+			<span>60 (Mar 2014)</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Racket:</span>
+			<span>Dunlop</span>
+		</div>
+	</div>
+
+	<div class='clear' style='padding-bottom:20px'></div>
+	<div class='tabletitle'>Career Highlights</div>
+	<div class='darkborder'>
+		<table style='width:100%' cellpadding='2' cellspacing='0' border='0'>
+			<tr class='darkline'>
+				<td style='width:10%' valign='top'>Jul 2016</td>
+				<td style='width:85%'>Wins 1st <a href='/events/6675-womens-south-african-nationals-2016'>South African Nationals</a> title</td>
+				<td style='width:5%'>&nbsp;</td>
+			</tr>
+		</table>
+	</div>
+
+	<div class='tabletitle' id='news_mentions'>News</div>
+	<div class='darkborder'>
+		<table style='width:100%' cellpadding='2' cellspacing='0' border='0'>
+			<tr class='darkline'>
+				<td style='width:10%' valign='top'>1 May 2014</td>
+				<td style='width:90%'><a href='/news/6133-south-african-star-siyoli-seizes-uct-title'>South African Star Siyoli Seizes UCT Title</a></td>
+			</tr>
+			<tr class='lightline'>
+				<td style='width:10%' valign='top'>20 Apr 2014</td>
+				<td style='width:90%'><a href='/news/6108-shahin-makes-it-three-in-a-row-in-johannesburg'>Shahin Makes It Three In A Row In Johannesburg</a></td>
+			</tr>
+			<tr class='darkline'>
+				<td style='width:10%' valign='top'>14 Nov 2012</td>
+				<td style='width:90%'><a href='/news/5315-lucky-hong-kong-squeeze-through-in-nimes-world-championship'>&#039;Lucky&#039; Hong Kong Squeeze Through In Nimes World Championship</a></td>
+			</tr>
+			<tr class='lightline'>
+				<td style='width:10%' valign='top'>1 Dec 2010</td>
+				<td style='width:90%'><a href='/news/4180-new-zealand-overcome-malaysians-in-world-championship-upset'>New Zealand Overcome Malaysians In World Championship Upset</a></td>
+			</tr>
+			<tr class='darkline'>
+				<td style='width:10%' valign='top'>1 Dec 2008</td>
+				<td style='width:90%'><a href='/news/2912-perry-leads-ireland-to-maximum-points-win-over-usa'>Perry Leads Ireland To Maximum Points Win Over USA</a></td>
+			</tr>
+		</table>
+	</div>
+
+	<div id='upcoming_events' class='tabletitle'>Upcoming Events</div>
+	<div class='darkborder'>
+		<div class='one_entry'>None</div>
+	</div>
+
+	<div class='tabletitle'>Event Summary (8)</div>
+	<div class='darkborder'>
+		<table style='width:100%;' cellpadding='2' cellspacing='0' border='0'>
+			<thead>
+				<tr>
+					<th scope='col' style='width:10%'>Date</th>
+					<th scope='col' style='width:10%'>Seeding</th>
+					<th scope='col' style='width:35%'>Event</th>
+					<th scope='col' style='width:5%'>Ctry</th>
+					<th scope='col' style='width:20%'>Tour</th>
+					<th scope='col' style='width:20%'>Round Reached</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr class='darkline'>
+					<td>Mar 2017</td>
+					<td>-</td>
+					<td><a href='/events/6912-womens-british-open-2017'>British Open</a></td>
+					<td>ENG</td>
+					<td>PSA World Series</td>
+					<td>1st qualifying round</td>
+				</tr>
+				<tr class='lightline'>
+					<td class='topborder'>Nov 2016</td>
+					<td class='topborder'>[5]</td>
+					<td class='topborder'><a href='/events/6818-womens-cairns-international-2016'>Cairns International</a></td>
+					<td class='topborder'>AUS</td>
+					<td class='topborder'>PSA Tour</td>
+					<td class='topborder'>Runner-up</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Oct 2016</td>
+					<td>[5]</td>
+					<td><a href='/events/6812-womens-mackay-open-2016'>Mackay Open</a></td>
+					<td>AUS</td>
+					<td>PSA Tour</td>
+					<td>Quarter-finals</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Oct 2016</td>
+					<td>[5]</td>
+					<td><a href='/events/6804-womens-queensland-open-2016'>Queensland Open</a></td>
+					<td>AUS</td>
+					<td>PSA Tour</td>
+					<td>Runner-up</td>
+				</tr>
+				<tr class='darkline b'>
+					<td>Jul 2016</td>
+					<td>[2]</td>
+					<td><a href='/events/6675-womens-south-african-nationals-2016'>South African Nationals</a></td>
+					<td>RSA</td>
+					<td>-</td>
+					<td>Winner</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Apr 2016</td>
+					<td>[3]</td>
+					<td><a href='/events/6610-womens-uct-open-2016'>UCT Open</a></td>
+					<td>RSA</td>
+					<td>PSA Tour</td>
+					<td>Runner-up</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Apr 2016</td>
+					<td>[2]</td>
+					<td><a href='/events/6601-womens-central-gauteng-open-2016'>Central Gauteng Open</a></td>
+					<td>RSA</td>
+					<td>PSA Tour</td>
+					<td>Runner-up</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Mar 2016</td>
+					<td>-</td>
+					<td><a href='/events/6559-womens-sekisui-open-2016'>Sekisui Open</a></td>
+					<td>SUI</td>
+					<td>PSA Tour</td>
+					<td>1st round</td>
+				</tr>
+				<tr class='subscriber_line'>
+					<td class='topborder'><strong>2005-2015</strong></td>
+					<td class='topborder'><strong>43 events</strong></td>
+					<td class='topborder' colspan='4'>View full historical event history by <a href='/upgrade'>creating</a> a premium account!</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+
+	<div id='match_summary' class='tabletitle'>Match Summary (Played 24 - Won 17, Lost 7)</div>
+	<div class='darkborder'>
+		<table id='match_summary_table' style='width:100%;' cellpadding='2' cellspacing='0' border='0'>
+			<thead>
+				<tr>
+					<th scope='col' style='width:10%'>Date</th>
+					<th scope='col' style='width:17%'>Opponent</th>
+					<th scope='col' style='width:4%'>W/L</th>
+					<th scope='col' style='width:25%'>Event</th>
+					<th scope='col' style='width:5%'>Ctry</th>
+					<th scope='col' style='width:3%'>Rnd</th>
+					<th scope='col' style='width:32%'>Score</th>
+					<th scope='col' style='width:4%'>PSA</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr class='darkline'>
+					<td>Mar 2017</td>
+					<td><a href='/players/7174-amina-yousry'>Amina Yousry</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6912-womens-british-open-2017'>British Open</a></td>
+					<td>ENG</td>
+					<td><abbr title='1st qualifying round'>Q</abbr></td>
+					<td>11-6, 11-5, 9-11, 6-11, 7-11 (43m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td class='topborder'>Nov 2016</td>
+					<td class='topborder'><a href='/players/5038-amanda-landers-murphy'>Amanda Landers-Murphy</a></td>
+					<td class='topborder' title=''>L</td>
+					<td class='topborder'><a href='/events/6818-womens-cairns-international-2016'>Cairns International</a></td>
+					<td class='topborder'>AUS</td>
+					<td class='topborder'><abbr title='Runner-up'>F</abbr></td>
+					<td class='topborder'>7-11, 8-11, 7-11 (34m)</td>
+					<td class='topborder'>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Nov 2016</td>
+					<td><a href='/players/6163-jessica-turnbull'>Jessica Turnbull</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6818-womens-cairns-international-2016'>Cairns International</a></td>
+					<td>AUS</td>
+					<td><abbr title='Semi-finals'>sf</abbr></td>
+					<td>11-5, 11-8, 11-9 (29m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Nov 2016</td>
+					<td><a href='/players/574-lisa-camilleri'>Lisa Camilleri</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6818-womens-cairns-international-2016'>Cairns International</a></td>
+					<td>AUS</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>9-11, 11-4, 11-1, 11-8 (31m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Nov 2016</td>
+					<td><a href='/players/7827-taylor-flavell'>Taylor Flavell</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6818-womens-cairns-international-2016'>Cairns International</a></td>
+					<td>AUS</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-6, 11-4, 11-3 (28m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Oct 2016</td>
+					<td><a href='/players/4538-tamika-saxby'>Tamika Saxby</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6812-womens-mackay-open-2016'>Mackay Open</a></td>
+					<td>AUS</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>7-11, 9-11, 11-8, 7-11 (45m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Oct 2016</td>
+					<td><a href='/players/6164-tiffany-loss'>Tiffany Loss</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6812-womens-mackay-open-2016'>Mackay Open</a></td>
+					<td>AUS</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-2, 11-4, 11-4 (18m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Oct 2016</td>
+					<td><a href='/players/5038-amanda-landers-murphy'>Amanda Landers-Murphy</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6804-womens-queensland-open-2016'>Queensland Open</a></td>
+					<td>AUS</td>
+					<td><abbr title='Runner-up'>F</abbr></td>
+					<td>11-7, 13-11, 9-11, 7-11, 9-11 (56m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Oct 2016</td>
+					<td><a href='/players/3941-jemyca-aribado'>Jemyca Aribado</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6804-womens-queensland-open-2016'>Queensland Open</a></td>
+					<td>AUS</td>
+					<td><abbr title='Semi-finals'>sf</abbr></td>
+					<td>11-5, 11-7, 11-3 (25m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Oct 2016</td>
+					<td><a href='/players/796-susan-davis'>Susan Davis</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6804-womens-queensland-open-2016'>Queensland Open</a></td>
+					<td>AUS</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>11-8, 11-4, 11-3 (17m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Oct 2016</td>
+					<td><a href='/players/4463-grazia-guida'>Grazia Guida</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6804-womens-queensland-open-2016'>Queensland Open</a></td>
+					<td>AUS</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-1, 11-1, 11-4 (20m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Jul 2016</td>
+					<td><a href='/players/960-siyoli-waters'>Siyoli Waters</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6675-womens-south-african-nationals-2016'>South African Nationals</a></td>
+					<td>RSA</td>
+					<td><abbr title='Winner'>F</abbr></td>
+					<td>11-4, 12-10, 11-6</td>
+					<td>N</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Jul 2016</td>
+					<td><a href='/players/2681-cheyna-tucker'>Cheyna Tucker</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6675-womens-south-african-nationals-2016'>South African Nationals</a></td>
+					<td>RSA</td>
+					<td><abbr title='Semi-finals'>sf</abbr></td>
+					<td>8-11, 11-13, 11-9, 12-10, 11-9</td>
+					<td>N</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Jul 2016</td>
+					<td><a href='/players/9372-alexa-pienaar'>Alexa Pienaar</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6675-womens-south-african-nationals-2016'>South African Nationals</a></td>
+					<td>RSA</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>11-2, 11-5, 11-5</td>
+					<td>N</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Jul 2016</td>
+					<td><a href='/players/5041-michelle-kohne'>Michelle Kohne</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6675-womens-south-african-nationals-2016'>South African Nationals</a></td>
+					<td>RSA</td>
+					<td><abbr title='2nd round'>r2</abbr></td>
+					<td>11-9, 11-0, 11-2</td>
+					<td>N</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Apr 2016</td>
+					<td><a href='/players/9464-rowan-reda-araby'>Rowan Reda Araby</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6610-womens-uct-open-2016'>UCT Open</a></td>
+					<td>RSA</td>
+					<td><abbr title='Runner-up'>F</abbr></td>
+					<td>4-11, 7-11, 11-6, 9-11 (43m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Apr 2016</td>
+					<td><a href='/players/2681-cheyna-tucker'>Cheyna Tucker</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6610-womens-uct-open-2016'>UCT Open</a></td>
+					<td>RSA</td>
+					<td><abbr title='Semi-finals'>sf</abbr></td>
+					<td>11-9, 11-1, 11-5 (24m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Apr 2016</td>
+					<td><a href='/players/10372-sacha-west'>Sacha West</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6610-womens-uct-open-2016'>UCT Open</a></td>
+					<td>RSA</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>11-5, 11-6, 11-9 (19m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Apr 2016</td>
+					<td><a href='/players/9675-gill-van-vlaanderen'>Gill van Vlaanderen</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6610-womens-uct-open-2016'>UCT Open</a></td>
+					<td>RSA</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-1, 11-3, 11-1 (15m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Apr 2016</td>
+					<td><a href='/players/9464-rowan-reda-araby'>Rowan Reda Araby</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6601-womens-central-gauteng-open-2016'>Central Gauteng Open</a></td>
+					<td>RSA</td>
+					<td><abbr title='Runner-up'>F</abbr></td>
+					<td>7-11, 5-11, 9-11 (30m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Apr 2016</td>
+					<td><a href='/players/5822-elani-landman'>Elani Landman</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6601-womens-central-gauteng-open-2016'>Central Gauteng Open</a></td>
+					<td>RSA</td>
+					<td><abbr title='Semi-finals'>sf</abbr></td>
+					<td>12-10, 11-4, 11-6 (32m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Apr 2016</td>
+					<td><a href='/players/9838-makgosi-peloakgosi'>Makgosi Peloakgosi</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6601-womens-central-gauteng-open-2016'>Central Gauteng Open</a></td>
+					<td>RSA</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>11-2, 11-4, 11-5 (13m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Apr 2016</td>
+					<td><a href='/players/9190-mariska-wiese'>Mariska Wiese</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6601-womens-central-gauteng-open-2016'>Central Gauteng Open</a></td>
+					<td>RSA</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-1, 11-1, 11-3 (21m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Mar 2016</td>
+					<td><a href='/players/915-birgit-coufal'>Birgit Coufal</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6559-womens-sekisui-open-2016'>Sekisui Open</a></td>
+					<td>SUI</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>6-11, 11-3, 9-11, 11-9, 8-11</td>
+					<td>Y</td>
+				</tr>
+				<tr class='subscriber_line'>
+					<td class='topborder'><strong>2005-2015</strong></td>
+					<td class='topborder'><strong>119 matches</strong></td>
+					<td class='topborder' colspan='6'>View full historical match history by <a href='/upgrade'>creating</a> a premium account!</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+
+	<div class='ad_bar_footer'>
+		<!-- Footer -->
+		<ins class='adsbygoogle'
+		     style='display:inline-block;width:728px;height:90px'
+		     data-ad-client='ca-pub-0605489790642236'
+		     data-ad-slot='1142131485'></ins>
+		<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+	</div>
+
+</div>
+
+<div id='si_footer'>
+	<ul id='footer_left'>
+		<li id='copyright' class='li_left'>
+			Squash Info &copy; 2017
+		</li>
+	</ul>
+	<ul id='footer_right'>
+		<li class='li_right'>
+			<strong><a href='mailto:info@squashinfo.com'>Contact us</a></strong>
+		</li>
+		<li class='li_right'>
+			<a href='https://twitter.com/SquashInfo' class='twitter-follow-button' data-show-count='false'>Follow @SquashInfo</a>
+		</li>
+	</ul>
+</div>
+
+<div>
+	<script type='text/javascript'>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-1186220-1']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</div>
+
+</div>
+</div>
+</body>
+</html>

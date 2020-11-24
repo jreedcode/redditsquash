@@ -1,0 +1,949 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+
+	<meta charset='utf-8' />
+	<meta name='author' content='Squash Info' />
+	<meta name='keywords' content='squash information rankings psa wsa wispa results events players' />
+
+	<link rel='shortcut icon' href='/favicon.ico' type='image/x-icon' />
+	<script src='https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js'></script>
+	<script src='https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js'></script>
+	<link rel='stylesheet' href='https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/themes/smoothness/jquery-ui.css'>
+	<script src='/js/jquery.timeago.js'></script>
+	<script src='/js/jquery.unveil.min.js'></script>
+	<script src='/js/jquery.leanModal.ch.1461605769.js'></script>
+	<script src='/js/jquery.tokeninput.js'></script>
+	<link rel='stylesheet' href='/css/token-input.css'>
+	<script src='http://platform.twitter.com/widgets.js'></script>
+	<script src='https://apis.google.com/js/platform.js'></script>
+	<script src='/js/jquery.cookiebar.js'></script>
+	<link rel='stylesheet' href='/css/jquery.cookiebar.1444581949.css'>
+	<script src='https://www.gstatic.com/charts/loader.js'></script>
+	<script async src='//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js'></script>
+	<script src='/js/main.1461605758.js'></script>
+	<link rel='stylesheet' href='/css/main.1487399333.css'>
+
+	<title>Squash Info | Charlie Lee | Squash</title>
+
+</head>
+<body onload="">
+
+<div id='fb-root'></div>
+<script>!function(e,n,t){var o,c=e.getElementsByTagName(n)[0];e.getElementById(t)||(o=e.createElement(n),o.id=t,o.src='//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.5',c.parentNode.insertBefore(o,c))}(document,'script','facebook-jssdk');</script>
+<script type='text/javascript'>
+	
+	$(document).ready(function() {
+		
+		$.cookieBar({});
+		
+		$('.logout').click(function(event) {
+			
+			if (!confirm('Are you sure you want to log out?')) {
+				event.preventDefault();
+			}
+			
+		});
+		
+	});
+	
+</script>
+<div id='centre_body'>
+
+<div id='header'>
+	<ul id='header_left'>
+		<li id='header_logo' class='li_left'>
+			<a href='/'><img src='/img/logos/si_logo.png' alt='Squash Info, the definitive squash resource' style='vertical-align: middle;' /></a>
+		</li>
+	</ul>
+	<ul id='header_right'>
+		<li id='header_search' class='li_right'>
+			<form id='header_search_form' method='get' action='/search'>
+				<input type='text' name='q' id='q' value='' size='20' maxlength='30' placeholder='Search...' />
+				<input type='submit' value='Go' />
+			</form>
+		</li>
+		<li id='header_signup' class='li_right'><a href='/signup'>Sign Up</a></li>
+		<li id='header_login' class='li_right'>
+			<a rel='leanModal' data-url='%2Fplayers%2F5790-charlie-lee' href='/login'>Log In</a>
+		</li>
+	</ul>
+</div>
+
+<div id='login_box'>
+	<iframe id='login_iframe' src='/loading.htm' scrolling='no' seamless></iframe>
+</div>
+
+<div id='main_block'>
+
+<div id='left_bar'>
+	<div id='current_date_time'>5:11 pm <br />4 Apr 2017</div>
+	<ul id='navlist'>
+		<li><a href='/' title='Home'>Home</a></li>
+		<li><a href='/news' title='Squash News'>News</a></li>
+		<li><a href='/results' title='Squash Event Results'>Results</a></li>
+		<li><a href='/rankings' title='PSA World Squash Rankings'>Rankings</a></li>
+		<li><a href='/calendar/2017' title='Squash Event Calendar'>Calendar</a></li>
+		<li><a href='/records' title='Squash Records &amp; Statistics'>Records</a></li>
+	</ul>
+</div>
+
+
+<div id='content'>
+
+	<div class='ad_bar_top'>
+		<!-- index -->
+		<ins class='adsbygoogle'
+		     style='display:inline-block;width:728px;height:90px'
+		     data-ad-client='ca-pub-0605489790642236'
+		     data-ad-slot='9600788702'></ins>
+		<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+	</div>
+
+	<h1>
+		Charlie Lee <span style='color:#444444;'>(England)</span>
+	</h1>
+	<ul id='social_media'>
+		<li id='sm_twitter'>
+			<a href='https://twitter.com/@leecharlie98' class='twitter-follow-button' data-show-count='false'>Follow @leecharlie98</a>
+		</li>
+	</ul>
+	<div>
+	<h3>
+		Statistics:&nbsp;&nbsp;
+			<a href='/rankings/5790-charlie-lee'>Ranking History</a>
+			<br />
+	</h3>
+		</div>
+	<div class='content_column'>
+		<div id='world_ranking_box'>
+			<div id='world_ranking'>166</div>
+			<strong>PSA Ranking</strong>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Born:</span>
+			<span>13 May 1998 (age 18)</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Gender:</span>
+			<span>Male</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Birthplace:</span>
+			<span>Kingston-upon-Thames</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Residence:</span>
+			<span>Walton-on-Thames</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Height:</span>
+			<span>177cm (5 ft 10 in)</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Weight:</span>
+			<span>60kg (9 st 6 lb)</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Plays:</span>
+			<span>Right-handed</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Joined PSA:</span>
+			<span>2015</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Coach:</span>
+			<span>Danny Lee</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Highest WR:</span>
+			<span>166 (Apr 2017)</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Club:</span>
+			<span>St George's Hill</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>County:</span>
+			<span>Surrey</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Racket:</span>
+			<span>Unsquashable</span>
+		</div>
+	</div>
+
+	<div class='clear' style='padding-bottom:20px'></div>
+	<div class='tabletitle' id='news_mentions'>News</div>
+	<div class='darkborder'>
+		<table style='width:100%' cellpadding='2' cellspacing='0' border='0'>
+			<tr class='darkline'>
+				<td style='width:10%' valign='top'>17 Aug 2016</td>
+				<td style='width:90%'><a href='/news/6824-egypt-pakistan-to-contest-seventh-successive-world-junior-final'>Egypt &amp; Pakistan To Contest Seventh Successive World Junior Final</a></td>
+			</tr>
+			<tr class='lightline'>
+				<td style='width:10%' valign='top'>16 Aug 2016</td>
+				<td style='width:90%'><a href='/news/6822-usa-upset-france-to-make-historic-world-semis'>USA Upset France To Make Historic World Semis</a></td>
+			</tr>
+			<tr class='darkline'>
+				<td style='width:10%' valign='top'>8 Aug 2016</td>
+				<td style='width:90%'><a href='/news/6812-pakistanis-lead-world-junior-upsets-in-bielsko-biala'>Pakistanis Lead World Junior Upsets In Bielsko-Biała</a></td>
+			</tr>
+			<tr class='lightline'>
+				<td style='width:10%' valign='top'>7 Aug 2016</td>
+				<td style='width:90%'><a href='/news/6811-walsh-wins-early-worlds-upset-in-poland'>Walsh Wins Early Worlds Upset In Poland</a></td>
+			</tr>
+			<tr class='darkline'>
+				<td style='width:10%' valign='top'>5 Aug 2016</td>
+				<td style='width:90%'><a href='/news/6810-world-squash-success-beckons-in-bielsko-biala'>World Squash Success Beckons in Bielsko-Biała</a></td>
+			</tr>
+		</table>
+	</div>
+
+	<div id='upcoming_events' class='tabletitle'>Upcoming Events</div>
+	<div class='darkborder'>
+		<table style='width:100%' cellpadding='2' cellspacing='0' border='0'>
+			<tr>
+				<th scope='col' style='width:10%'>Date</th>
+				<th scope='col' style='width:10%'>Seeding</th>
+				<th scope='col' style='width:35%'>Event</th>
+				<th scope='col' style='width:5%'>Ctry</th>
+				<th scope='col' style='width:40%'>Opponent</th>
+			</tr>
+			<tr class='darkline'>
+				<td valign='top'>Apr 2017</td>
+				<td>[3/4]</td>
+				<td><a href='/events/7044-mens-european-junior-u19-championship-2017'>European Junior U19 Championship</a></td>
+				<td>POR</td>
+				<td><a href='/players/11519-tiago-leite'>Tiago Leite</a></td>
+			</tr>
+		</table>
+	</div>
+
+	<div class='tabletitle'>Event Summary (20)</div>
+	<div class='darkborder'>
+		<table style='width:100%;' cellpadding='2' cellspacing='0' border='0'>
+			<thead>
+				<tr>
+					<th scope='col' style='width:10%'>Date</th>
+					<th scope='col' style='width:10%'>Seeding</th>
+					<th scope='col' style='width:35%'>Event</th>
+					<th scope='col' style='width:5%'>Ctry</th>
+					<th scope='col' style='width:20%'>Tour</th>
+					<th scope='col' style='width:20%'>Round Reached</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr class='darkline'>
+					<td>Mar 2017</td>
+					<td>-</td>
+					<td><a href='/events/6800-premier-league-2017'>Premier League 9th Round</a></td>
+					<td>ENG</td>
+					<td>-</td>
+					<td>-</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Mar 2017</td>
+					<td>-</td>
+					<td><a href='/events/6911-mens-british-open-2017'>British Open</a></td>
+					<td>ENG</td>
+					<td>PSA World Series</td>
+					<td>1st qualifying round</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Mar 2017</td>
+					<td>[<abbr title='Qualifier'>Q</abbr>]</td>
+					<td><a href='/events/7056-mens-hampshire-open-2017'>Hampshire Open</a></td>
+					<td>ENG</td>
+					<td>PSA Tour</td>
+					<td>Quarter-finals</td>
+				</tr>
+				<tr class='lightline b'>
+					<td>Mar 2017</td>
+					<td>[2]</td>
+					<td><a href='/events/7033-mens-english-junior-u19-championship-2017'>English Junior U19 Championship</a></td>
+					<td>ENG</td>
+					<td>-</td>
+					<td>Winner</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Mar 2017</td>
+					<td>-</td>
+					<td><a href='/events/6910-mens-canary-wharf-classic-2017'>Canary Wharf Classic</a></td>
+					<td>ENG</td>
+					<td>PSA Tour</td>
+					<td>1st qualifying round</td>
+				</tr>
+				<tr class='lightline'>
+					<td class='topborder'>Oct 2016</td>
+					<td class='topborder'>-</td>
+					<td class='topborder'><a href='/events/6787-mens-charing-cross-classic-2016'>Charing Cross Classic</a></td>
+					<td class='topborder'>ENG</td>
+					<td class='topborder'>PSA Tour</td>
+					<td class='topborder'>1st qualifying round</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Sep 2016</td>
+					<td>[8]</td>
+					<td><a href='/events/6739-mens-kiva-club-open-2016'>Kiva Club Open</a></td>
+					<td>USA</td>
+					<td>PSA Tour</td>
+					<td>Quarter-finals</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Sep 2016</td>
+					<td>[<abbr title='Qualifier'>Q</abbr>]</td>
+					<td><a href='/events/6724-mens-texas-open-2016'>Texas Open</a></td>
+					<td>USA</td>
+					<td>PSA Tour</td>
+					<td>1st round</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Aug 2016</td>
+					<td>-</td>
+					<td><a href='/events/6383-mens-world-junior-team-championship-2016'>World Junior Team Championship</a></td>
+					<td>POL</td>
+					<td>-</td>
+					<td>-</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Aug 2016</td>
+					<td>[9/16]</td>
+					<td><a href='/events/6381-mens-world-junior-championship-2016'>World Junior Championship</a></td>
+					<td>POL</td>
+					<td>-</td>
+					<td>4th round</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Jul 2016</td>
+					<td>-</td>
+					<td><a href='/events/6688-mens-katowice-open-2016'>Katowice Open</a></td>
+					<td>POL</td>
+					<td>PSA Tour</td>
+					<td>Runner-up</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Jun 2016</td>
+					<td>-</td>
+					<td><a href='/events/6669-mens-gibraltar-open-2016'>Gibraltar Open</a></td>
+					<td>GIB</td>
+					<td>PSA Tour</td>
+					<td>1st round</td>
+				</tr>
+				<tr class='darkline'>
+					<td>May 2016</td>
+					<td>-</td>
+					<td><a href='/events/6334-premier-league-2016'>Premier League Final</a></td>
+					<td>ENG</td>
+					<td>-</td>
+					<td>-</td>
+				</tr>
+				<tr class='lightline'>
+					<td>May 2016</td>
+					<td>-</td>
+					<td><a href='/events/6334-premier-league-2016'>Premier League Semi-finals</a></td>
+					<td>ENG</td>
+					<td>-</td>
+					<td>-</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Apr 2016</td>
+					<td>-</td>
+					<td><a href='/events/6334-premier-league-2016'>Premier League 10th Round</a></td>
+					<td>ENG</td>
+					<td>-</td>
+					<td>-</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Apr 2016</td>
+					<td>-</td>
+					<td><a href='/events/6580-mens-pilatus-cup-2016'>Pilatus Cup</a></td>
+					<td>SUI</td>
+					<td>PSA Tour</td>
+					<td>Qualifying finals</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Mar 2016</td>
+					<td>[9/16]</td>
+					<td><a href='/events/6570-mens-european-junior-u19-championship-2016'>European Junior U19 Championship</a></td>
+					<td>SUI</td>
+					<td>-</td>
+					<td>Quarter-finals</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Mar 2016</td>
+					<td>-</td>
+					<td><a href='/events/6334-premier-league-2016'>Premier League 8th Round</a></td>
+					<td>ENG</td>
+					<td>-</td>
+					<td>-</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Mar 2016</td>
+					<td>[3/4]</td>
+					<td><a href='/events/7047-mens-english-junior-u19-championship-2016'>English Junior U19 Championship</a></td>
+					<td>ENG</td>
+					<td>-</td>
+					<td>Third place play-off</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Jan 2016</td>
+					<td>[9/16]</td>
+					<td><a href='/events/6468-mens-british-junior-u19-open-2016'>British Junior U19 Open</a></td>
+					<td>ENG</td>
+					<td>-</td>
+					<td>3rd round</td>
+				</tr>
+				<tr class='subscriber_line'>
+					<td class='topborder'><strong>2011-2015</strong></td>
+					<td class='topborder'><strong>27 events</strong></td>
+					<td class='topborder' colspan='4'>View full historical event history by <a href='/upgrade'>creating</a> a premium account!</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+
+	<div id='match_summary' class='tabletitle'>Match Summary (Played 47 - Won 32, Lost 15)</div>
+	<div class='darkborder'>
+		<table id='match_summary_table' style='width:100%;' cellpadding='2' cellspacing='0' border='0'>
+			<thead>
+				<tr>
+					<th scope='col' style='width:10%'>Date</th>
+					<th scope='col' style='width:17%'>Opponent</th>
+					<th scope='col' style='width:4%'>W/L</th>
+					<th scope='col' style='width:25%'>Event</th>
+					<th scope='col' style='width:5%'>Ctry</th>
+					<th scope='col' style='width:3%'>Rnd</th>
+					<th scope='col' style='width:32%'>Score</th>
+					<th scope='col' style='width:4%'>PSA</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr class='darkline'>
+					<td>Mar 2017</td>
+					<td><a href='/players/6174-bradley-masters'>Bradley Masters</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6800-premier-league-2017'>Premier League 9th Round</a></td>
+					<td>ENG</td>
+					<td><abbr title='-'>-</abbr></td>
+					<td>11-8, 11-5, 9-11, 11-7</td>
+					<td>N</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Mar 2017</td>
+					<td><a href='/players/973-alan-clyne'>Alan Clyne</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6911-mens-british-open-2017'>British Open</a></td>
+					<td>ENG</td>
+					<td><abbr title='1st qualifying round'>Q</abbr></td>
+					<td>8-11, 9-11, 4-11 (43m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Mar 2017</td>
+					<td><a href='/players/1729-chris-fuller'>Chris Fuller</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/7056-mens-hampshire-open-2017'>Hampshire Open</a></td>
+					<td>ENG</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>7-11, 11-5, 11-9, 8-11, 5-11 (68m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Mar 2017</td>
+					<td><a href='/players/1637-harinder-pal-singh-sandhu'>Harinder Pal Singh Sandhu</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/7056-mens-hampshire-open-2017'>Hampshire Open</a></td>
+					<td>ENG</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>6-11, 11-8, 11-6, 11-8</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Mar 2017</td>
+					<td><a href='/players/2756-nick-mulvey'>Nick Mulvey</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/7056-mens-hampshire-open-2017'>Hampshire Open</a></td>
+					<td>ENG</td>
+					<td><abbr title='Qualifying finals'>Q</abbr></td>
+					<td>11-6, 11-8, 11-8 (35m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Mar 2017</td>
+					<td><a href='/players/2291-phillip-bull'>Phillip Bull</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/7056-mens-hampshire-open-2017'>Hampshire Open</a></td>
+					<td>ENG</td>
+					<td><abbr title='1st qualifying round'>Q</abbr></td>
+					<td>8-11, 11-7, 11-6, 11-6 (36m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Mar 2017</td>
+					<td><a href='/players/7982-kyle-finch'>Kyle Finch</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/7033-mens-english-junior-u19-championship-2017'>English Junior U19 Championship</a></td>
+					<td>ENG</td>
+					<td><abbr title='Winner'>F</abbr></td>
+					<td>11-8, 11-6, 11-7</td>
+					<td>N</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Mar 2017</td>
+					<td><a href='/players/9319-adam-corcoran'>Adam Corcoran</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/7033-mens-english-junior-u19-championship-2017'>English Junior U19 Championship</a></td>
+					<td>ENG</td>
+					<td><abbr title='Semi-finals'>sf</abbr></td>
+					<td>11-6, 11-9, 1-11, 4-11, 12-10</td>
+					<td>N</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Mar 2017</td>
+					<td><a href='/players/7301-curtis-malik'>Curtis Malik</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/7033-mens-english-junior-u19-championship-2017'>English Junior U19 Championship</a></td>
+					<td>ENG</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>11-7, 11-9, 11-3</td>
+					<td>N</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Mar 2017</td>
+					<td><a href='/players/5995-james-hyatt'>James Hyatt</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/7033-mens-english-junior-u19-championship-2017'>English Junior U19 Championship</a></td>
+					<td>ENG</td>
+					<td><abbr title='2nd round'>r2</abbr></td>
+					<td>11-3, 11-8, 11-9</td>
+					<td>N</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Mar 2017</td>
+					<td><a href='/players/8235-kieran-heaphy'>Kieran Heaphy</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/7033-mens-english-junior-u19-championship-2017'>English Junior U19 Championship</a></td>
+					<td>ENG</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>w/o</td>
+					<td>N</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Mar 2017</td>
+					<td><a href='/players/1806-charles-sharpes'>Charles Sharpes</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6910-mens-canary-wharf-classic-2017'>Canary Wharf Classic</a></td>
+					<td>ENG</td>
+					<td><abbr title='1st qualifying round'>Q</abbr></td>
+					<td>7-11, 6-11, 9-11 (36m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td class='topborder'>Oct 2016</td>
+					<td class='topborder'><a href='/players/1652-ben-ford'>Ben Ford</a></td>
+					<td class='topborder' title=''>L</td>
+					<td class='topborder'><a href='/events/6787-mens-charing-cross-classic-2016'>Charing Cross Classic</a></td>
+					<td class='topborder'>ENG</td>
+					<td class='topborder'><abbr title='1st qualifying round'>Q</abbr></td>
+					<td class='topborder'>8-11 ret.</td>
+					<td class='topborder'>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Sep 2016</td>
+					<td><a href='/players/5372-reuben-phillips'>Reuben Phillips</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6739-mens-kiva-club-open-2016'>Kiva Club Open</a></td>
+					<td>USA</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>10-12, 11-7, 11-9, 3-11, 5-11 (72m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Sep 2016</td>
+					<td><a href='/players/12296-noah-browne'>Noah Browne</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6739-mens-kiva-club-open-2016'>Kiva Club Open</a></td>
+					<td>USA</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-9, 11-7, 11-6</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Sep 2016</td>
+					<td><a href='/players/515-martin-knight'>Martin Knight</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6724-mens-texas-open-2016'>Texas Open</a></td>
+					<td>USA</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-6, 9-11, 5-11, 7-11</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Sep 2016</td>
+					<td><a href='/players/689-aamir-atlas-khan'>Aamir Atlas Khan</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6724-mens-texas-open-2016'>Texas Open</a></td>
+					<td>USA</td>
+					<td><abbr title='Qualifying finals'>Q</abbr></td>
+					<td>11-8, 11-9, 11-5</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Sep 2016</td>
+					<td><a href='/players/3864-miled-zarazua'>Miled Zarazua</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6724-mens-texas-open-2016'>Texas Open</a></td>
+					<td>USA</td>
+					<td><abbr title='1st qualifying round'>Q</abbr></td>
+					<td>11-4, 13-11, 11-5</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Aug 2016</td>
+					<td><a href='/players/6240-saadeldin-abouaish'>Saadeldin Abouaish</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6383-mens-world-junior-team-championship-2016'>World Junior Team Championship</a></td>
+					<td>POL</td>
+					<td><abbr title='-'>-</abbr></td>
+					<td>11-6, 4-11, 9-11, 13-11, 8-11 (68m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Aug 2016</td>
+					<td><a href='/players/8061-velavan-senthilkumar'>Velavan Senthilkumar</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6383-mens-world-junior-team-championship-2016'>World Junior Team Championship</a></td>
+					<td>POL</td>
+					<td><abbr title='-'>-</abbr></td>
+					<td>11-8, 11-5, 11-8 (43m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Aug 2016</td>
+					<td><a href='/players/7941-ng-ka-yiu'>Ng Ka Yiu</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6383-mens-world-junior-team-championship-2016'>World Junior Team Championship</a></td>
+					<td>POL</td>
+					<td><abbr title='-'>-</abbr></td>
+					<td>11-8, 11-2, 11-7 (27m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Aug 2016</td>
+					<td><a href='/players/7506-nadav-raziel'>Nadav Raziel</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6383-mens-world-junior-team-championship-2016'>World Junior Team Championship</a></td>
+					<td>POL</td>
+					<td><abbr title='-'>-</abbr></td>
+					<td>11-2, 11-8, 7-11, 11-4 (32m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Aug 2016</td>
+					<td><a href='/players/10081-michael-mehl'>Michael Mehl</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6383-mens-world-junior-team-championship-2016'>World Junior Team Championship</a></td>
+					<td>POL</td>
+					<td><abbr title='-'>-</abbr></td>
+					<td>11-5, 11-7, 11-2 (25m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Aug 2016</td>
+					<td><a href='/players/8553-ryunosuke-tsukue'>Ryunosuke Tsukue</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6381-mens-world-junior-championship-2016'>World Junior Championship</a></td>
+					<td>POL</td>
+					<td><abbr title='4th round'>r4</abbr></td>
+					<td>5-11, 6-11, 6-11 (30m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Aug 2016</td>
+					<td><a href='/players/10052-gabriel-morgan'>Gabriel Morgan</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6381-mens-world-junior-championship-2016'>World Junior Championship</a></td>
+					<td>POL</td>
+					<td><abbr title='3rd round'>r3</abbr></td>
+					<td>11-5, 10-1 ret. (24m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Aug 2016</td>
+					<td><a href='/players/8461-nilo-vidal'>Nilo Vidal</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6381-mens-world-junior-championship-2016'>World Junior Championship</a></td>
+					<td>POL</td>
+					<td><abbr title='2nd round'>r2</abbr></td>
+					<td>11-0, 11-2, 11-6</td>
+					<td>N</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Jul 2016</td>
+					<td><a href='/players/3108-piedro-schweertman'>Piedro Schweertman</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6688-mens-katowice-open-2016'>Katowice Open</a></td>
+					<td>POL</td>
+					<td><abbr title='Runner-up'>F</abbr></td>
+					<td>13-11, 11-9, 6-11, 4-11, 9-11 (70m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Jul 2016</td>
+					<td><a href='/players/5057-matthew-hopkin'>Matthew Hopkin</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6688-mens-katowice-open-2016'>Katowice Open</a></td>
+					<td>POL</td>
+					<td><abbr title='Semi-finals'>sf</abbr></td>
+					<td>11-8, 5-11, 11-7, 11-8</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Jul 2016</td>
+					<td><a href='/players/8373-matthew-broadberry'>Matthew Broadberry</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6688-mens-katowice-open-2016'>Katowice Open</a></td>
+					<td>POL</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>11-3, 9-11, 11-5, 11-3</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Jul 2016</td>
+					<td><a href='/players/44-jan-koukal'>Jan Koukal</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6688-mens-katowice-open-2016'>Katowice Open</a></td>
+					<td>POL</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-6, 9-11, 11-9, 11-4</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Jun 2016</td>
+					<td><a href='/players/5685-rui-soares'>Rui Soares</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6669-mens-gibraltar-open-2016'>Gibraltar Open</a></td>
+					<td>GIB</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>12-14, 14-12, 8-11, 9-11 (63m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>May 2016</td>
+					<td><a href='/players/1806-charles-sharpes'>Charles Sharpes</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6334-premier-league-2016'>Premier League Final</a></td>
+					<td>ENG</td>
+					<td><abbr title='-'>-</abbr></td>
+					<td>9-11, 8-11, 5-11 (36m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='darkline'>
+					<td>May 2016</td>
+					<td><a href='/players/7115-julian-tomlinson'>Julian Tomlinson</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6334-premier-league-2016'>Premier League Semi-finals</a></td>
+					<td>ENG</td>
+					<td><abbr title='-'>-</abbr></td>
+					<td>11-6, 11-8, 5-11, 11-8</td>
+					<td>N</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Apr 2016</td>
+					<td><a href='/players/7982-kyle-finch'>Kyle Finch</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6334-premier-league-2016'>Premier League 10th Round</a></td>
+					<td>ENG</td>
+					<td><abbr title='-'>-</abbr></td>
+					<td>11-9, 11-8, 11-6</td>
+					<td>N</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Apr 2016</td>
+					<td><a href='/players/7521-dimitri-steinmann'>Dimitri Steinmann</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6580-mens-pilatus-cup-2016'>Pilatus Cup</a></td>
+					<td>SUI</td>
+					<td><abbr title='Qualifying finals'>Q</abbr></td>
+					<td>2-11, 12-14, 8-11</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Apr 2016</td>
+					<td><a href='/players/9450-nils-roesch'>Nils Roesch</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6580-mens-pilatus-cup-2016'>Pilatus Cup</a></td>
+					<td>SUI</td>
+					<td><abbr title='1st qualifying round'>Q</abbr></td>
+					<td>11-2, 11-3, 11-5</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Mar 2016</td>
+					<td><a href='/players/8076-benjamin-aubert'>Benjamin Aubert</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6570-mens-european-junior-u19-championship-2016'>European Junior U19 Championship</a></td>
+					<td>SUI</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>9-11, 6-11, 4-11 (44m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Mar 2016</td>
+					<td><a href='/players/7982-kyle-finch'>Kyle Finch</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6570-mens-european-junior-u19-championship-2016'>European Junior U19 Championship</a></td>
+					<td>SUI</td>
+					<td><abbr title='3rd round'>r3</abbr></td>
+					<td>12-10, 11-9, 11-5 (52m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Mar 2016</td>
+					<td><a href='/players/7506-nadav-raziel'>Nadav Raziel</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6570-mens-european-junior-u19-championship-2016'>European Junior U19 Championship</a></td>
+					<td>SUI</td>
+					<td><abbr title='2nd round'>r2</abbr></td>
+					<td>11-7, 11-4, 11-9 (32m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Mar 2016</td>
+					<td><a href='/players/11582-marius-schwab'>Marius Schwab</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6570-mens-european-junior-u19-championship-2016'>European Junior U19 Championship</a></td>
+					<td>SUI</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-0, 11-5, 11-1</td>
+					<td>N</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Mar 2016</td>
+					<td><a href='/players/7058-robbie-keefe'>Robbie Keefe</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6334-premier-league-2016'>Premier League 8th Round</a></td>
+					<td>ENG</td>
+					<td><abbr title='-'>-</abbr></td>
+					<td>10-12, 11-2, 11-4, 11-8</td>
+					<td>N</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Mar 2016</td>
+					<td><a href='/players/6172-james-peach'>James Peach</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/7047-mens-english-junior-u19-championship-2016'>English Junior U19 Championship</a></td>
+					<td>ENG</td>
+					<td><abbr title='Third place play-off'>3/4</abbr></td>
+					<td>11-5, 11-8, 11-8 (39m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Mar 2016</td>
+					<td><a href='/players/6176-patrick-rooney'>Patrick Rooney</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/7047-mens-english-junior-u19-championship-2016'>English Junior U19 Championship</a></td>
+					<td>ENG</td>
+					<td><abbr title='Semi-finals'>sf</abbr></td>
+					<td>6-11, 7-11, 13-11, 5-11 (45m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Mar 2016</td>
+					<td><a href='/players/9319-adam-corcoran'>Adam Corcoran</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/7047-mens-english-junior-u19-championship-2016'>English Junior U19 Championship</a></td>
+					<td>ENG</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>11-3, 11-9, 11-3 (31m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Jan 2016</td>
+					<td><a href='/players/5699-miko-aijanen'>Miko Äijänen</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6468-mens-british-junior-u19-open-2016'>British Junior U19 Open</a></td>
+					<td>ENG</td>
+					<td><abbr title='3rd round'>r3</abbr></td>
+					<td>9-11, 11-7, 3-11, 8-11 (60m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Jan 2016</td>
+					<td><a href='/players/7058-robbie-keefe'>Robbie Keefe</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6468-mens-british-junior-u19-open-2016'>British Junior U19 Open</a></td>
+					<td>ENG</td>
+					<td><abbr title='2nd round'>r2</abbr></td>
+					<td>11-3, 8-11, 11-6, 11-2 (47m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Jan 2016</td>
+					<td><a href='/players/12059-matthew-henderson'>Matthew Henderson</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6468-mens-british-junior-u19-open-2016'>British Junior U19 Open</a></td>
+					<td>ENG</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-4, 11-4, 11-5 (24m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='subscriber_line'>
+					<td class='topborder'><strong>2011-2015</strong></td>
+					<td class='topborder'><strong>55 matches</strong></td>
+					<td class='topborder' colspan='6'>View full historical match history by <a href='/upgrade'>creating</a> a premium account!</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+
+	<div class='ad_bar_footer'>
+		<!-- Footer -->
+		<ins class='adsbygoogle'
+		     style='display:inline-block;width:728px;height:90px'
+		     data-ad-client='ca-pub-0605489790642236'
+		     data-ad-slot='1142131485'></ins>
+		<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+	</div>
+
+</div>
+
+<div id='si_footer'>
+	<ul id='footer_left'>
+		<li id='copyright' class='li_left'>
+			Squash Info &copy; 2017
+		</li>
+	</ul>
+	<ul id='footer_right'>
+		<li class='li_right'>
+			<strong><a href='mailto:info@squashinfo.com'>Contact us</a></strong>
+		</li>
+		<li class='li_right'>
+			<a href='https://twitter.com/SquashInfo' class='twitter-follow-button' data-show-count='false'>Follow @SquashInfo</a>
+		</li>
+	</ul>
+</div>
+
+<div>
+	<script type='text/javascript'>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-1186220-1']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</div>
+
+</div>
+</div>
+</body>
+</html>

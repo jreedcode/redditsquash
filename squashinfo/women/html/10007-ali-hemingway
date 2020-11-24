@@ -1,0 +1,457 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+
+	<meta charset='utf-8' />
+	<meta name='author' content='Squash Info' />
+	<meta name='keywords' content='squash information rankings psa wsa wispa results events players' />
+
+	<link rel='shortcut icon' href='/favicon.ico' type='image/x-icon' />
+	<script src='https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js'></script>
+	<script src='https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js'></script>
+	<link rel='stylesheet' href='https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/themes/smoothness/jquery-ui.css'>
+	<script src='/js/jquery.timeago.js'></script>
+	<script src='/js/jquery.unveil.min.js'></script>
+	<script src='/js/jquery.leanModal.ch.1461605769.js'></script>
+	<script src='/js/jquery.tokeninput.js'></script>
+	<link rel='stylesheet' href='/css/token-input.css'>
+	<script src='http://platform.twitter.com/widgets.js'></script>
+	<script src='https://apis.google.com/js/platform.js'></script>
+	<script src='/js/jquery.cookiebar.js'></script>
+	<link rel='stylesheet' href='/css/jquery.cookiebar.1444581949.css'>
+	<script src='https://www.gstatic.com/charts/loader.js'></script>
+	<script async src='//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js'></script>
+	<script src='/js/main.1461605758.js'></script>
+	<link rel='stylesheet' href='/css/main.1487399333.css'>
+
+	<title>Squash Info | Ali Hemingway | Squash</title>
+
+</head>
+<body onload="">
+
+<div id='fb-root'></div>
+<script>!function(e,n,t){var o,c=e.getElementsByTagName(n)[0];e.getElementById(t)||(o=e.createElement(n),o.id=t,o.src='//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.5',c.parentNode.insertBefore(o,c))}(document,'script','facebook-jssdk');</script>
+<script type='text/javascript'>
+	
+	$(document).ready(function() {
+		
+		$.cookieBar({});
+		
+		$('.logout').click(function(event) {
+			
+			if (!confirm('Are you sure you want to log out?')) {
+				event.preventDefault();
+			}
+			
+		});
+		
+	});
+	
+</script>
+<div id='centre_body'>
+
+<div id='header'>
+	<ul id='header_left'>
+		<li id='header_logo' class='li_left'>
+			<a href='/'><img src='/img/logos/si_logo.png' alt='Squash Info, the definitive squash resource' style='vertical-align: middle;' /></a>
+		</li>
+	</ul>
+	<ul id='header_right'>
+		<li id='header_search' class='li_right'>
+			<form id='header_search_form' method='get' action='/search'>
+				<input type='text' name='q' id='q' value='' size='20' maxlength='30' placeholder='Search...' />
+				<input type='submit' value='Go' />
+			</form>
+		</li>
+		<li id='header_signup' class='li_right'><a href='/signup'>Sign Up</a></li>
+		<li id='header_login' class='li_right'>
+			<a rel='leanModal' data-url='%2Fplayers%2F10007-ali-hemingway' href='/login'>Log In</a>
+		</li>
+	</ul>
+</div>
+
+<div id='login_box'>
+	<iframe id='login_iframe' src='/loading.htm' scrolling='no' seamless></iframe>
+</div>
+
+<div id='main_block'>
+
+<div id='left_bar'>
+	<div id='current_date_time'>5:29 pm <br />4 Apr 2017</div>
+	<ul id='navlist'>
+		<li><a href='/' title='Home'>Home</a></li>
+		<li><a href='/news' title='Squash News'>News</a></li>
+		<li><a href='/results' title='Squash Event Results'>Results</a></li>
+		<li><a href='/rankings' title='PSA World Squash Rankings'>Rankings</a></li>
+		<li><a href='/calendar/2017' title='Squash Event Calendar'>Calendar</a></li>
+		<li><a href='/records' title='Squash Records &amp; Statistics'>Records</a></li>
+	</ul>
+</div>
+
+
+<div id='content'>
+
+	<div class='ad_bar_top'>
+		<!-- index -->
+		<ins class='adsbygoogle'
+		     style='display:inline-block;width:728px;height:90px'
+		     data-ad-client='ca-pub-0605489790642236'
+		     data-ad-slot='9600788702'></ins>
+		<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+	</div>
+
+	<h1>
+		Ali Hemingway <span style='color:#444444;'>(Wales)</span>
+	</h1>
+	<ul id='social_media'>
+	</ul>
+	<div>
+	<h3>
+		Statistics:&nbsp;&nbsp;
+			<a href='/rankings/10007-ali-hemingway'>Ranking History</a>
+			<br />
+	</h3>
+		</div>
+	<div class='content_column'>
+		<div id='world_ranking_box'>
+			<div id='world_ranking'>159</div>
+			<strong>PSA Ranking</strong>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Born:</span>
+			<span>26 May 1993 (age 23)</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Gender:</span>
+			<span>Female</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Birthplace:</span>
+			<span>Cambridge</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Residence:</span>
+			<span>Cambridge</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Height:</span>
+			<span>170cm (5 ft 7 in)</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Weight:</span>
+			<span>65kg (10 st 3 lb)</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Coach:</span>
+			<span>Richard Loke</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Highest WR:</span>
+			<span>159 (Apr 2017)</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>County:</span>
+			<span>Herts</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Racket:</span>
+			<span>Black Knight</span>
+		</div>
+	</div>
+
+	<div class='clear' style='padding-bottom:20px'></div>
+	<div id='upcoming_events' class='tabletitle'>Upcoming Events</div>
+	<div class='darkborder'>
+		<div class='one_entry'>None</div>
+	</div>
+
+	<div class='tabletitle'>Event Summary (8)</div>
+	<div class='darkborder'>
+		<table style='width:100%;' cellpadding='2' cellspacing='0' border='0'>
+			<thead>
+				<tr>
+					<th scope='col' style='width:10%'>Date</th>
+					<th scope='col' style='width:10%'>Seeding</th>
+					<th scope='col' style='width:35%'>Event</th>
+					<th scope='col' style='width:5%'>Ctry</th>
+					<th scope='col' style='width:20%'>Tour</th>
+					<th scope='col' style='width:20%'>Round Reached</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr class='darkline'>
+					<td>Apr 2017</td>
+					<td>-</td>
+					<td><a href='/events/7058-womens-ipswich-open-2017'>Ipswich Open</a></td>
+					<td>ENG</td>
+					<td>PSA Tour</td>
+					<td>1st qualifying round</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Apr 2017</td>
+					<td>-</td>
+					<td><a href='/events/7064-womens-dulwich-open-2017'>Dulwich Open</a></td>
+					<td>ENG</td>
+					<td>-</td>
+					<td>1st round</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Jan 2017</td>
+					<td>[6]</td>
+					<td><a href='/events/6936-womens-welsh-nationals-2017'>Welsh Nationals</a></td>
+					<td>WAL</td>
+					<td>-</td>
+					<td>Third place play-off</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Jan 2017</td>
+					<td>-</td>
+					<td><a href='/events/6932-womens-roehampton-open-2017'>Roehampton Open</a></td>
+					<td>ENG</td>
+					<td>-</td>
+					<td>1st round</td>
+				</tr>
+				<tr class='darkline'>
+					<td class='topborder'>Nov 2016</td>
+					<td class='topborder'>-</td>
+					<td class='topborder'><a href='/events/6850-womens-solent-classic-2016'>Solent Classic</a></td>
+					<td class='topborder'>ENG</td>
+					<td class='topborder'>-</td>
+					<td class='topborder'>3rd pool round</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Apr 2016</td>
+					<td>-</td>
+					<td><a href='/events/6594-womens-british-u23-national-championship-2016'>British U23 National Championship</a></td>
+					<td>ENG</td>
+					<td>-</td>
+					<td>2nd round</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Jan 2016</td>
+					<td>-</td>
+					<td><a href='/events/6503-womens-welsh-nationals-2016'>Welsh Nationals</a></td>
+					<td>WAL</td>
+					<td>-</td>
+					<td>Quarter-finals</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Jan 2016</td>
+					<td>-</td>
+					<td><a href='/events/6473-womens-british-u23-open-2016'>British U23 Open</a></td>
+					<td>ENG</td>
+					<td>-</td>
+					<td>2nd round</td>
+				</tr>
+				<tr class='subscriber_line'>
+					<td class='topborder'><strong>2013-2015</strong></td>
+					<td class='topborder'><strong>4 events</strong></td>
+					<td class='topborder' colspan='4'>View full historical event history by <a href='/upgrade'>creating</a> a premium account!</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+
+	<div id='match_summary' class='tabletitle'>Match Summary (Played 13 - Won 4, Lost 9)</div>
+	<div class='darkborder'>
+		<table id='match_summary_table' style='width:100%;' cellpadding='2' cellspacing='0' border='0'>
+			<thead>
+				<tr>
+					<th scope='col' style='width:10%'>Date</th>
+					<th scope='col' style='width:17%'>Opponent</th>
+					<th scope='col' style='width:4%'>W/L</th>
+					<th scope='col' style='width:25%'>Event</th>
+					<th scope='col' style='width:5%'>Ctry</th>
+					<th scope='col' style='width:3%'>Rnd</th>
+					<th scope='col' style='width:32%'>Score</th>
+					<th scope='col' style='width:4%'>PSA</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr class='darkline'>
+					<td>Apr 2017</td>
+					<td><a href='/players/7172-grace-gear'>Grace Gear</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/7058-womens-ipswich-open-2017'>Ipswich Open</a></td>
+					<td>ENG</td>
+					<td><abbr title='1st qualifying round'>Q</abbr></td>
+					<td>3-11, 6-11, 5-11 (18m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Apr 2017</td>
+					<td><a href='/players/321-alison-waters'>Alison Waters</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/7064-womens-dulwich-open-2017'>Dulwich Open</a></td>
+					<td>ENG</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>6-11, 4-11, 4-11</td>
+					<td>N</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Jan 2017</td>
+					<td><a href='/players/5288-lowri-roberts'>Lowri Roberts</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6936-womens-welsh-nationals-2017'>Welsh Nationals</a></td>
+					<td>WAL</td>
+					<td><abbr title='Third place play-off'>3/4</abbr></td>
+					<td>6-11, 13-11, 11-9, 5-11, 8-11</td>
+					<td>N</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Jan 2017</td>
+					<td><a href='/players/922-deon-saffery'>Deon Saffery</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6936-womens-welsh-nationals-2017'>Welsh Nationals</a></td>
+					<td>WAL</td>
+					<td><abbr title='Semi-finals'>sf</abbr></td>
+					<td>5-11, 11-9, 6-11, 8-11</td>
+					<td>N</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Jan 2017</td>
+					<td><a href='/players/2502-hannah-davies'>Hannah Davies</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6936-womens-welsh-nationals-2017'>Welsh Nationals</a></td>
+					<td>WAL</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>9-11, 11-5, 11-13, 11-6, 11-5</td>
+					<td>N</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Jan 2017</td>
+					<td><a href='/players/13263-megan-thomas'>Megan Thomas</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6936-womens-welsh-nationals-2017'>Welsh Nationals</a></td>
+					<td>WAL</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-4, 11-2, 11-4</td>
+					<td>N</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Jan 2017</td>
+					<td><a href='/players/3677-victoria-temple-murray'>Victoria Temple-Murray</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6932-womens-roehampton-open-2017'>Roehampton Open</a></td>
+					<td>ENG</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>7-11, 4-11, 9-11</td>
+					<td>N</td>
+				</tr>
+				<tr class='lightline'>
+					<td class='topborder'>Nov 2016</td>
+					<td class='topborder'><a href='/players/13115-bruna-marchesi-petrillo'>Bruna Marchesi Petrillo</a></td>
+					<td class='topborder' title=''>W</td>
+					<td class='topborder'><a href='/events/6850-womens-solent-classic-2016'>Solent Classic</a></td>
+					<td class='topborder'>ENG</td>
+					<td class='topborder'><abbr title='3rd pool round'>P</abbr></td>
+					<td class='topborder'>11-4, 11-3, 11-3</td>
+					<td class='topborder'>N</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Nov 2016</td>
+					<td><a href='/players/6272-elise-lazarus'>Elise Lazarus</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6850-womens-solent-classic-2016'>Solent Classic</a></td>
+					<td>ENG</td>
+					<td><abbr title='2nd pool round'>P</abbr></td>
+					<td>8-11, 4-11, 11-5, 8-11</td>
+					<td>N</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Apr 2016</td>
+					<td><a href='/players/2500-emily-whitlock'>Emily Whitlock</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6594-womens-british-u23-national-championship-2016'>British U23 National Championship</a></td>
+					<td>ENG</td>
+					<td><abbr title='2nd round'>r2</abbr></td>
+					<td>4-11, 5-11, 2-11 (22m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Jan 2016</td>
+					<td><a href='/players/922-deon-saffery'>Deon Saffery</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6503-womens-welsh-nationals-2016'>Welsh Nationals</a></td>
+					<td>WAL</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>7-11, 8-11, 9-11</td>
+					<td>N</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Jan 2016</td>
+					<td><a href='/players/7138-nia-davies'>Nia Davies</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6503-womens-welsh-nationals-2016'>Welsh Nationals</a></td>
+					<td>WAL</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-8, 3-11, 11-8, 11-9</td>
+					<td>N</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Jan 2016</td>
+					<td><a href='/players/6182-georgina-kennedy'>Georgina Kennedy</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6473-womens-british-u23-open-2016'>British U23 Open</a></td>
+					<td>ENG</td>
+					<td><abbr title='2nd round'>r2</abbr></td>
+					<td>4-11, 4-11, 2-11</td>
+					<td>N</td>
+				</tr>
+				<tr class='subscriber_line'>
+					<td class='topborder'><strong>2013-2015</strong></td>
+					<td class='topborder'><strong>5 matches</strong></td>
+					<td class='topborder' colspan='6'>View full historical match history by <a href='/upgrade'>creating</a> a premium account!</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+
+	<div class='ad_bar_footer'>
+		<!-- Footer -->
+		<ins class='adsbygoogle'
+		     style='display:inline-block;width:728px;height:90px'
+		     data-ad-client='ca-pub-0605489790642236'
+		     data-ad-slot='1142131485'></ins>
+		<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+	</div>
+
+</div>
+
+<div id='si_footer'>
+	<ul id='footer_left'>
+		<li id='copyright' class='li_left'>
+			Squash Info &copy; 2017
+		</li>
+	</ul>
+	<ul id='footer_right'>
+		<li class='li_right'>
+			<strong><a href='mailto:info@squashinfo.com'>Contact us</a></strong>
+		</li>
+		<li class='li_right'>
+			<a href='https://twitter.com/SquashInfo' class='twitter-follow-button' data-show-count='false'>Follow @SquashInfo</a>
+		</li>
+	</ul>
+</div>
+
+<div>
+	<script type='text/javascript'>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-1186220-1']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</div>
+
+</div>
+</div>
+</body>
+</html>

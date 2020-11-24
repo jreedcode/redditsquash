@@ -1,0 +1,1355 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+
+	<meta charset='utf-8' />
+	<meta name='author' content='Squash Info' />
+	<meta name='keywords' content='squash information rankings psa wsa wispa results events players' />
+
+	<link rel='shortcut icon' href='/favicon.ico' type='image/x-icon' />
+	<script src='https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js'></script>
+	<script src='https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js'></script>
+	<link rel='stylesheet' href='https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/themes/smoothness/jquery-ui.css'>
+	<script src='/js/jquery.timeago.js'></script>
+	<script src='/js/jquery.unveil.min.js'></script>
+	<script src='/js/jquery.leanModal.ch.1461605769.js'></script>
+	<script src='/js/jquery.tokeninput.js'></script>
+	<link rel='stylesheet' href='/css/token-input.css'>
+	<script src='http://platform.twitter.com/widgets.js'></script>
+	<script src='https://apis.google.com/js/platform.js'></script>
+	<script src='/js/jquery.cookiebar.js'></script>
+	<link rel='stylesheet' href='/css/jquery.cookiebar.1444581949.css'>
+	<script src='https://www.gstatic.com/charts/loader.js'></script>
+	<script async src='//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js'></script>
+	<script src='/js/main.1461605758.js'></script>
+	<link rel='stylesheet' href='/css/main.1487399333.css'>
+
+	<title>Squash Info | Victor Crouin | Squash</title>
+
+</head>
+<body onload="">
+
+<div id='fb-root'></div>
+<script>!function(e,n,t){var o,c=e.getElementsByTagName(n)[0];e.getElementById(t)||(o=e.createElement(n),o.id=t,o.src='//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.5',c.parentNode.insertBefore(o,c))}(document,'script','facebook-jssdk');</script>
+<script type='text/javascript'>
+	
+	$(document).ready(function() {
+		
+		$.cookieBar({});
+		
+		$('.logout').click(function(event) {
+			
+			if (!confirm('Are you sure you want to log out?')) {
+				event.preventDefault();
+			}
+			
+		});
+		
+	});
+	
+</script>
+<div id='centre_body'>
+
+<div id='header'>
+	<ul id='header_left'>
+		<li id='header_logo' class='li_left'>
+			<a href='/'><img src='/img/logos/si_logo.png' alt='Squash Info, the definitive squash resource' style='vertical-align: middle;' /></a>
+		</li>
+	</ul>
+	<ul id='header_right'>
+		<li id='header_search' class='li_right'>
+			<form id='header_search_form' method='get' action='/search'>
+				<input type='text' name='q' id='q' value='' size='20' maxlength='30' placeholder='Search...' />
+				<input type='submit' value='Go' />
+			</form>
+		</li>
+		<li id='header_signup' class='li_right'><a href='/signup'>Sign Up</a></li>
+		<li id='header_login' class='li_right'>
+			<a rel='leanModal' data-url='%2Fplayers%2F7179-victor-crouin' href='/login'>Log In</a>
+		</li>
+	</ul>
+</div>
+
+<div id='login_box'>
+	<iframe id='login_iframe' src='/loading.htm' scrolling='no' seamless></iframe>
+</div>
+
+<div id='main_block'>
+
+<div id='left_bar'>
+	<div id='current_date_time'>5:11 pm <br />4 Apr 2017</div>
+	<ul id='navlist'>
+		<li><a href='/' title='Home'>Home</a></li>
+		<li><a href='/news' title='Squash News'>News</a></li>
+		<li><a href='/results' title='Squash Event Results'>Results</a></li>
+		<li><a href='/rankings' title='PSA World Squash Rankings'>Rankings</a></li>
+		<li><a href='/calendar/2017' title='Squash Event Calendar'>Calendar</a></li>
+		<li><a href='/records' title='Squash Records &amp; Statistics'>Records</a></li>
+	</ul>
+</div>
+
+
+<div id='content'>
+
+	<div class='ad_bar_top'>
+		<!-- index -->
+		<ins class='adsbygoogle'
+		     style='display:inline-block;width:728px;height:90px'
+		     data-ad-client='ca-pub-0605489790642236'
+		     data-ad-slot='9600788702'></ins>
+		<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+	</div>
+
+	<h1>
+		Victor Crouin <span style='color:#444444;'>(France)</span>
+	</h1>
+	<ul id='social_media'>
+		<li id='sm_twitter'>
+			<a href='https://twitter.com/@VCrouin' class='twitter-follow-button' data-show-count='false'>Follow @VCrouin</a>
+		</li>
+	</ul>
+	<div>
+	<h3>
+		Statistics:&nbsp;&nbsp;
+			<a href='/rankings/7179-victor-crouin'>Ranking History</a>
+			<br />
+	</h3>
+		</div>
+	<div class='content_column'>
+		<div id='world_ranking_box'>
+			<div id='world_ranking'>163</div>
+			<strong>PSA Ranking</strong>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Born:</span>
+			<span>16 Jun 1999 (age 17)</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Gender:</span>
+			<span>Male</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Birthplace:</span>
+			<span>Marseille</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Residence:</span>
+			<span>Toulon</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Height:</span>
+			<span>163cm (5 ft 4 in)</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Weight:</span>
+			<span>54kg (8 st 7 lb)</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Plays:</span>
+			<span>Right-handed</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Coach:</span>
+			<span>Fred Lecomte, Emmanuel Crouin</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Highest WR:</span>
+			<span>163 (Apr 2017)</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Club:</span>
+			<span>Squash Avnew</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Racket:</span>
+			<span>Dunlop</span>
+		</div>
+	</div>
+
+	<div class='clear' style='padding-bottom:20px'></div>
+	<div class='tabletitle' id='news_mentions'>News</div>
+	<div class='darkborder'>
+		<table style='width:100%' cellpadding='2' cellspacing='0' border='0'>
+			<tr class='darkline'>
+				<td style='width:10%' valign='top'>16 Aug 2016</td>
+				<td style='width:90%'><a href='/news/6822-usa-upset-france-to-make-historic-world-semis'>USA Upset France To Make Historic World Semis</a></td>
+			</tr>
+			<tr class='lightline'>
+				<td style='width:10%' valign='top'>8 Aug 2016</td>
+				<td style='width:90%'><a href='/news/6812-pakistanis-lead-world-junior-upsets-in-bielsko-biala'>Pakistanis Lead World Junior Upsets In Bielsko-Biała</a></td>
+			</tr>
+			<tr class='darkline'>
+				<td style='width:10%' valign='top'>7 Aug 2016</td>
+				<td style='width:90%'><a href='/news/6811-walsh-wins-early-worlds-upset-in-poland'>Walsh Wins Early Worlds Upset In Poland</a></td>
+			</tr>
+			<tr class='lightline'>
+				<td style='width:10%' valign='top'>5 Aug 2016</td>
+				<td style='width:90%'><a href='/news/6810-world-squash-success-beckons-in-bielsko-biala'>World Squash Success Beckons in Bielsko-Biała</a></td>
+			</tr>
+			<tr class='darkline'>
+				<td style='width:10%' valign='top'>9 Jul 2016</td>
+				<td style='width:90%'><a href='/news/6806-egypt-set-to-strike-double-world-junior-championships-gold-in-poland'>Egypt Set To Strike Double World Junior Championships Gold In Poland</a></td>
+			</tr>
+		</table>
+	</div>
+
+	<div id='upcoming_events' class='tabletitle'>Upcoming Events</div>
+	<div class='darkborder'>
+		<table style='width:100%' cellpadding='2' cellspacing='0' border='0'>
+			<tr>
+				<th scope='col' style='width:10%'>Date</th>
+				<th scope='col' style='width:10%'>Seeding</th>
+				<th scope='col' style='width:35%'>Event</th>
+				<th scope='col' style='width:5%'>Ctry</th>
+				<th scope='col' style='width:40%'>Opponent</th>
+			</tr>
+			<tr class='darkline'>
+				<td valign='top'>Apr 2017</td>
+				<td>[1]</td>
+				<td><a href='/events/7044-mens-european-junior-u19-championship-2017'>European Junior U19 Championship</a></td>
+				<td>POR</td>
+				<td>Qualifier</td>
+			</tr>
+		</table>
+	</div>
+
+	<div class='tabletitle'>Event Summary (28)</div>
+	<div class='darkborder'>
+		<table style='width:100%;' cellpadding='2' cellspacing='0' border='0'>
+			<thead>
+				<tr>
+					<th scope='col' style='width:10%'>Date</th>
+					<th scope='col' style='width:10%'>Seeding</th>
+					<th scope='col' style='width:35%'>Event</th>
+					<th scope='col' style='width:5%'>Ctry</th>
+					<th scope='col' style='width:20%'>Tour</th>
+					<th scope='col' style='width:20%'>Round Reached</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr class='darkline'>
+					<td>Apr 2017</td>
+					<td>[1]</td>
+					<td><a href='/events/7044-mens-european-junior-u19-championship-2017'>European Junior U19 Championship</a></td>
+					<td>POR</td>
+					<td>-</td>
+					<td>1st round</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Apr 2017</td>
+					<td>-</td>
+					<td><a href='/events/7061-mens-north-of-scotland-open-2017'>North of Scotland Open</a></td>
+					<td>SCO</td>
+					<td>PSA Tour</td>
+					<td>1st qualifying round</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Mar 2017</td>
+					<td>-</td>
+					<td><a href='/events/7036-mens-annecy-open-2017'>Annecy Open</a></td>
+					<td>FRA</td>
+					<td>PSA Tour</td>
+					<td>Quarter-finals</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Feb 2017</td>
+					<td>[8]</td>
+					<td><a href='/events/6979-mens-open-ditalia-2017'>Open D&#039;Italia</a></td>
+					<td>ITA</td>
+					<td>PSA Tour</td>
+					<td>1st round</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Feb 2017</td>
+					<td>[5/8]</td>
+					<td><a href='/events/6972-mens-french-nationals-2017'>French Nationals</a></td>
+					<td>FRA</td>
+					<td>-</td>
+					<td>Quarter-finals</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Jan 2017</td>
+					<td>[<abbr title='Wildcard'>WC</abbr>]</td>
+					<td><a href='/events/6939-mens-toulouse-open-2017'>Toulouse Open</a></td>
+					<td>FRA</td>
+					<td>PSA Tour</td>
+					<td>1st round</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Jan 2017</td>
+					<td>[3/4]</td>
+					<td><a href='/events/6894-mens-british-junior-u19-open-2017'>British Junior U19 Open</a></td>
+					<td>ENG</td>
+					<td>-</td>
+					<td>Quarter-finals</td>
+				</tr>
+				<tr class='lightline b'>
+					<td class='topborder'>Dec 2016</td>
+					<td class='topborder'>[1]</td>
+					<td class='topborder'><a href='/events/6873-mens-swiss-junior-u19-open-2016'>Swiss Junior U19 Open</a></td>
+					<td class='topborder'>SUI</td>
+					<td class='topborder'>-</td>
+					<td class='topborder'>Winner</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Dec 2016</td>
+					<td>[<abbr title='Qualifier'>Q</abbr>]</td>
+					<td><a href='/events/6858-mens-valencia-open-2016'>Valencia Open</a></td>
+					<td>ESP</td>
+					<td>PSA Tour</td>
+					<td>1st round</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Nov 2016</td>
+					<td>[7]</td>
+					<td><a href='/events/6820-mens-chateau-arnoux-open-2016'>Château-Arnoux Open</a></td>
+					<td>FRA</td>
+					<td>PSA Tour</td>
+					<td>Quarter-finals</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Sep 2016</td>
+					<td>[<abbr title='Qualifier'>Q</abbr>]</td>
+					<td><a href='/events/6736-mens-bruggen-open-2016'>Brüggen Open</a></td>
+					<td>GER</td>
+					<td>PSA Tour</td>
+					<td>Quarter-finals</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Sep 2016</td>
+					<td>-</td>
+					<td><a href='/events/6716-mens-nantes-international-open-2016'>Nantes International Open</a></td>
+					<td>FRA</td>
+					<td>PSA Tour</td>
+					<td>1st qualifying round</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Aug 2016</td>
+					<td>-</td>
+					<td><a href='/events/6383-mens-world-junior-team-championship-2016'>World Junior Team Championship</a></td>
+					<td>POL</td>
+					<td>-</td>
+					<td>-</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Aug 2016</td>
+					<td>[9/16]</td>
+					<td><a href='/events/6381-mens-world-junior-championship-2016'>World Junior Championship</a></td>
+					<td>POL</td>
+					<td>-</td>
+					<td>4th round</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Jul 2016</td>
+					<td>[8]</td>
+					<td><a href='/events/6688-mens-katowice-open-2016'>Katowice Open</a></td>
+					<td>POL</td>
+					<td>PSA Tour</td>
+					<td>Quarter-finals</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Jul 2016</td>
+					<td>[1]</td>
+					<td><a href='/events/6689-mens-dutch-junior-u19-open-2016'>Dutch Junior U19 Open</a></td>
+					<td>NED</td>
+					<td>-</td>
+					<td>Runner-up</td>
+				</tr>
+				<tr class='darkline b'>
+					<td>Jul 2016</td>
+					<td>[1]</td>
+					<td><a href='/events/6685-mens-pioneer-junior-u19-cup-2016'>Pioneer Junior U19 Cup</a></td>
+					<td>GER</td>
+					<td>-</td>
+					<td>Winner</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Jun 2016</td>
+					<td>[<abbr title='Qualifier'>Q</abbr>]</td>
+					<td><a href='/events/6657-mens-open-international-dangers-2016'>Open International d&#039;Angers</a></td>
+					<td>FRA</td>
+					<td>PSA Tour</td>
+					<td>1st round</td>
+				</tr>
+				<tr class='darkline'>
+					<td>May 2016</td>
+					<td>-</td>
+					<td><a href='/events/6627-mens-open-de-paris-2016'>Open de Paris</a></td>
+					<td>FRA</td>
+					<td>PSA Tour</td>
+					<td>Qualifying finals</td>
+				</tr>
+				<tr class='lightline'>
+					<td>May 2016</td>
+					<td>-</td>
+					<td><a href='/events/6622-european-junior-u17-team-championship-2016'>European Junior U17 Team Championship</a></td>
+					<td>BEL</td>
+					<td>-</td>
+					<td>-</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Apr 2016</td>
+					<td>[<abbr title='Qualifier'>Q</abbr>]</td>
+					<td><a href='/events/6580-mens-pilatus-cup-2016'>Pilatus Cup</a></td>
+					<td>SUI</td>
+					<td>PSA Tour</td>
+					<td>Semi-finals</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Mar 2016</td>
+					<td>-</td>
+					<td><a href='/events/6572-european-junior-u19-team-championship-2016'>European Junior U19 Team Championship</a></td>
+					<td>SUI</td>
+					<td>-</td>
+					<td>-</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Mar 2016</td>
+					<td>[5/8]</td>
+					<td><a href='/events/6570-mens-european-junior-u19-championship-2016'>European Junior U19 Championship</a></td>
+					<td>SUI</td>
+					<td>-</td>
+					<td>Quarter-finals</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Mar 2016</td>
+					<td>-</td>
+					<td><a href='/events/6558-mens-sekisui-open-2016'>Sekisui Open</a></td>
+					<td>SUI</td>
+					<td>PSA Tour</td>
+					<td>Qualifying finals</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Feb 2016</td>
+					<td>[3/4]</td>
+					<td><a href='/events/6547-mens-french-junior-u19-open-2016'>French Junior U19 Open</a></td>
+					<td>FRA</td>
+					<td>-</td>
+					<td>Semi-finals</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Feb 2016</td>
+					<td>-</td>
+					<td><a href='/events/6533-mens-french-nationals-2016'>French Nationals</a></td>
+					<td>FRA</td>
+					<td>-</td>
+					<td>1st round</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Jan 2016</td>
+					<td>[<abbr title='Qualifier'>Q</abbr>]</td>
+					<td><a href='/events/6450-mens-open-du-gard-2016'>Open du Gard</a></td>
+					<td>FRA</td>
+					<td>PSA Tour</td>
+					<td>Quarter-finals</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Jan 2016</td>
+					<td>[3/4]</td>
+					<td><a href='/events/6466-mens-british-junior-u17-open-2016'>British Junior U17 Open</a></td>
+					<td>ENG</td>
+					<td>-</td>
+					<td>Quarter-finals</td>
+				</tr>
+				<tr class='subscriber_line'>
+					<td class='topborder'><strong>2011-2015</strong></td>
+					<td class='topborder'><strong>19 events</strong></td>
+					<td class='topborder' colspan='4'>View full historical event history by <a href='/upgrade'>creating</a> a premium account!</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+
+	<div id='match_summary' class='tabletitle'>Match Summary (Played 82 - Won 60, Lost 22)</div>
+	<div class='darkborder'>
+		<table id='match_summary_table' style='width:100%;' cellpadding='2' cellspacing='0' border='0'>
+			<thead>
+				<tr>
+					<th scope='col' style='width:10%'>Date</th>
+					<th scope='col' style='width:17%'>Opponent</th>
+					<th scope='col' style='width:4%'>W/L</th>
+					<th scope='col' style='width:25%'>Event</th>
+					<th scope='col' style='width:5%'>Ctry</th>
+					<th scope='col' style='width:3%'>Rnd</th>
+					<th scope='col' style='width:32%'>Score</th>
+					<th scope='col' style='width:4%'>PSA</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr class='darkline'>
+					<td>Apr 2017</td>
+					<td><a href='/players/2093-kevin-moran'>Kevin Moran</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/7061-mens-north-of-scotland-open-2017'>North of Scotland Open</a></td>
+					<td>SCO</td>
+					<td><abbr title='1st qualifying round'>Q</abbr></td>
+					<td>10-12, 9-11, 11-9, 7-11 (50m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Mar 2017</td>
+					<td><a href='/players/2491-adam-auckland'>Adam Auckland</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/7036-mens-annecy-open-2017'>Annecy Open</a></td>
+					<td>FRA</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>10-12, 7-11, 7-11 (45m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Mar 2017</td>
+					<td><a href='/players/5685-rui-soares'>Rui Soares</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/7036-mens-annecy-open-2017'>Annecy Open</a></td>
+					<td>FRA</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-7, 18-16, 12-10</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Feb 2017</td>
+					<td><a href='/players/7186-youssef-ibrahim'>Youssef Ibrahim</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6979-mens-open-ditalia-2017'>Open D&#039;Italia</a></td>
+					<td>ITA</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>4-11, 10-12, 10-12</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Feb 2017</td>
+					<td><a href='/players/2710-lucas-serme'>Lucas Serme</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6972-mens-french-nationals-2017'>French Nationals</a></td>
+					<td>FRA</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>7-11, 8-11, 5-11 (42m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Feb 2017</td>
+					<td><a href='/players/13449-fabrice-mattei'>Fabrice Mattei</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6972-mens-french-nationals-2017'>French Nationals</a></td>
+					<td>FRA</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-9, 11-1, 11-3</td>
+					<td>N</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Jan 2017</td>
+					<td><a href='/players/4990-jan-van-den-herrewegen'>Jan van den Herrewegen</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6939-mens-toulouse-open-2017'>Toulouse Open</a></td>
+					<td>FRA</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-7, 11-6, 8-11, 3-11, 5-11 (57m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Jan 2017</td>
+					<td><a href='/players/8061-velavan-senthilkumar'>Velavan Senthilkumar</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6894-mens-british-junior-u19-open-2017'>British Junior U19 Open</a></td>
+					<td>ENG</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>11-6, 8-11, 9-11, 8-11 (52m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Jan 2017</td>
+					<td><a href='/players/8270-stuart-macgregor'>Stuart MacGregor</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6894-mens-british-junior-u19-open-2017'>British Junior U19 Open</a></td>
+					<td>ENG</td>
+					<td><abbr title='3rd round'>r3</abbr></td>
+					<td>11-9, 11-6, 13-11 (39m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Jan 2017</td>
+					<td><a href='/players/10018-aaron-allpress'>Aaron Allpress</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6894-mens-british-junior-u19-open-2017'>British Junior U19 Open</a></td>
+					<td>ENG</td>
+					<td><abbr title='2nd round'>r2</abbr></td>
+					<td>11-2, 11-4, 11-6 (22m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Jan 2017</td>
+					<td><a href='/players/12090-paul-broadberry'>Paul Broadberry</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6894-mens-british-junior-u19-open-2017'>British Junior U19 Open</a></td>
+					<td>ENG</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-0, 11-5, 11-3 (26m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='lightline'>
+					<td class='topborder'>Dec 2016</td>
+					<td class='topborder'><a href='/players/10393-sanjay-jeeva'>Sanjay Jeeva</a></td>
+					<td class='topborder' title=''>W</td>
+					<td class='topborder'><a href='/events/6873-mens-swiss-junior-u19-open-2016'>Swiss Junior U19 Open</a></td>
+					<td class='topborder'>SUI</td>
+					<td class='topborder'><abbr title='Winner'>F</abbr></td>
+					<td class='topborder'>11-5, 11-9, 11-3 (28m)</td>
+					<td class='topborder'>N</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Dec 2016</td>
+					<td><a href='/players/8462-sergio-garcia-pollan'>Sergio Garcia Pollan</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6873-mens-swiss-junior-u19-open-2016'>Swiss Junior U19 Open</a></td>
+					<td>SUI</td>
+					<td><abbr title='Semi-finals'>sf</abbr></td>
+					<td>11-1, 11-6, 11-2 (24m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Dec 2016</td>
+					<td><a href='/players/11136-ludovico-cipolletta'>Ludovico Cipolletta</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6873-mens-swiss-junior-u19-open-2016'>Swiss Junior U19 Open</a></td>
+					<td>SUI</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>11-3, 4-11, 9-11, 12-10, 12-10 (52m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Dec 2016</td>
+					<td><a href='/players/11534-cedric-de-vos'>Cedric de Vos</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6873-mens-swiss-junior-u19-open-2016'>Swiss Junior U19 Open</a></td>
+					<td>SUI</td>
+					<td><abbr title='2nd round'>r2</abbr></td>
+					<td>11-8, 11-3, 11-5</td>
+					<td>N</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Dec 2016</td>
+					<td><a href='/players/3108-piedro-schweertman'>Piedro Schweertman</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6858-mens-valencia-open-2016'>Valencia Open</a></td>
+					<td>ESP</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>6-11, 8-11, 3-11</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Dec 2016</td>
+					<td><a href='/players/8461-nilo-vidal'>Nilo Vidal</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6858-mens-valencia-open-2016'>Valencia Open</a></td>
+					<td>ESP</td>
+					<td><abbr title='Qualifying finals'>Q</abbr></td>
+					<td>11-2, 11-2, 11-4 (28m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Dec 2016</td>
+					<td><a href='/players/13156-jota-roig'>Jota Roig</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6858-mens-valencia-open-2016'>Valencia Open</a></td>
+					<td>ESP</td>
+					<td><abbr title='1st qualifying round'>Q</abbr></td>
+					<td>11-4, 11-3, 11-3</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Nov 2016</td>
+					<td><a href='/players/2099-geoffrey-demont'>Geoffrey Demont</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6820-mens-chateau-arnoux-open-2016'>Château-Arnoux Open</a></td>
+					<td>FRA</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>2-11, 11-8, 7-11, 4-11</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Nov 2016</td>
+					<td><a href='/players/1585-richard-williams'>Richard Williams</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6820-mens-chateau-arnoux-open-2016'>Château-Arnoux Open</a></td>
+					<td>FRA</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-9, 11-9, 11-4</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Sep 2016</td>
+					<td><a href='/players/5701-auguste-dussourd'>Auguste Dussourd</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6736-mens-bruggen-open-2016'>Brüggen Open</a></td>
+					<td>GER</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>2-11, 2-11, 9-11</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Sep 2016</td>
+					<td><a href='/players/5538-lyell-fuller'>Lyell Fuller</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6736-mens-bruggen-open-2016'>Brüggen Open</a></td>
+					<td>GER</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-7, 11-8, 11-5</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Sep 2016</td>
+					<td><a href='/players/7831-hesham-mohamed-aly'>Hesham Mohamed Aly</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6736-mens-bruggen-open-2016'>Brüggen Open</a></td>
+					<td>GER</td>
+					<td><abbr title='Qualifying finals'>Q</abbr></td>
+					<td>14-12, 11-3, 11-2</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Sep 2016</td>
+					<td><a href='/players/7185-belal-nawar'>Belal Nawar</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6736-mens-bruggen-open-2016'>Brüggen Open</a></td>
+					<td>GER</td>
+					<td><abbr title='1st qualifying round'>Q</abbr></td>
+					<td>12-10, 11-3, 11-5</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Sep 2016</td>
+					<td><a href='/players/7475-joel-makin'>Joel Makin</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6716-mens-nantes-international-open-2016'>Nantes International Open</a></td>
+					<td>FRA</td>
+					<td><abbr title='1st qualifying round'>Q</abbr></td>
+					<td>3-11, 11-13, 3-11 (39m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Aug 2016</td>
+					<td><a href='/players/8061-velavan-senthilkumar'>Velavan Senthilkumar</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6383-mens-world-junior-team-championship-2016'>World Junior Team Championship</a></td>
+					<td>POL</td>
+					<td><abbr title='-'>-</abbr></td>
+					<td>9-11, 11-6, 13-11, 6-11, 11-5</td>
+					<td>N</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Aug 2016</td>
+					<td><a href='/players/11511-alex-oswald'>Alex Oswald</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6383-mens-world-junior-team-championship-2016'>World Junior Team Championship</a></td>
+					<td>POL</td>
+					<td><abbr title='-'>-</abbr></td>
+					<td>11-6, 11-2, 11-2</td>
+					<td>N</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Aug 2016</td>
+					<td><a href='/players/11018-spencer-lovejoy'>Spencer Lovejoy</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6383-mens-world-junior-team-championship-2016'>World Junior Team Championship</a></td>
+					<td>POL</td>
+					<td><abbr title='-'>-</abbr></td>
+					<td>11-8, 9-11, 11-6, 11-13, 11-3 (69m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Aug 2016</td>
+					<td><a href='/players/11511-alex-oswald'>Alex Oswald</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6383-mens-world-junior-team-championship-2016'>World Junior Team Championship</a></td>
+					<td>POL</td>
+					<td><abbr title='-'>-</abbr></td>
+					<td>11-4, 11-5, 11-1 (25m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Aug 2016</td>
+					<td><a href='/players/8550-junior-enriquez-franco'>Junior Enríquez Franco</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6383-mens-world-junior-team-championship-2016'>World Junior Team Championship</a></td>
+					<td>POL</td>
+					<td><abbr title='-'>-</abbr></td>
+					<td>11-2, 11-4, 11-6 (30m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Aug 2016</td>
+					<td><a href='/players/7186-youssef-ibrahim'>Youssef Ibrahim</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6381-mens-world-junior-championship-2016'>World Junior Championship</a></td>
+					<td>POL</td>
+					<td><abbr title='4th round'>r4</abbr></td>
+					<td>4-11, 10-12, 11-7, 7-11 (48m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Aug 2016</td>
+					<td><a href='/players/8103-ong-sai-hung'>Ong Sai Hung</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6381-mens-world-junior-championship-2016'>World Junior Championship</a></td>
+					<td>POL</td>
+					<td><abbr title='3rd round'>r3</abbr></td>
+					<td>11-8, 11-5, 11-7 (34m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Aug 2016</td>
+					<td><a href='/players/9915-ranjit-singh'>Ranjit Singh</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6381-mens-world-junior-championship-2016'>World Junior Championship</a></td>
+					<td>POL</td>
+					<td><abbr title='2nd round'>r2</abbr></td>
+					<td>11-5, 11-9, 11-3</td>
+					<td>N</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Jul 2016</td>
+					<td><a href='/players/3108-piedro-schweertman'>Piedro Schweertman</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6688-mens-katowice-open-2016'>Katowice Open</a></td>
+					<td>POL</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>11-8, 6-11, 10-12, 2-11</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Jul 2016</td>
+					<td><a href='/players/5696-jan-ryba'>Jan Ryba</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6688-mens-katowice-open-2016'>Katowice Open</a></td>
+					<td>POL</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-5, 11-3, 12-10</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Jul 2016</td>
+					<td><a href='/players/6248-mohammad-al-sarraj'>Mohammad Al Sarraj</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6689-mens-dutch-junior-u19-open-2016'>Dutch Junior U19 Open</a></td>
+					<td>NED</td>
+					<td><abbr title='Runner-up'>F</abbr></td>
+					<td>9-11, 12-14, 9-11 (55m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Jul 2016</td>
+					<td><a href='/players/8052-enzo-corigliano'>Enzo Corigliano</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6689-mens-dutch-junior-u19-open-2016'>Dutch Junior U19 Open</a></td>
+					<td>NED</td>
+					<td><abbr title='Semi-finals'>sf</abbr></td>
+					<td>11-6, 11-2, 11-8 (48m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Jul 2016</td>
+					<td><a href='/players/11136-ludovico-cipolletta'>Ludovico Cipolletta</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6689-mens-dutch-junior-u19-open-2016'>Dutch Junior U19 Open</a></td>
+					<td>NED</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>11-5, 11-5, 2-11, 11-7 (54m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Jul 2016</td>
+					<td><a href='/players/9709-frank-goossens'>Frank Goossens</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6689-mens-dutch-junior-u19-open-2016'>Dutch Junior U19 Open</a></td>
+					<td>NED</td>
+					<td><abbr title='3rd round'>r3</abbr></td>
+					<td>11-6, 11-1, 11-3</td>
+					<td>N</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Jul 2016</td>
+					<td><a href='/players/9411-daniel-christopher'>Daniel Christopher</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6689-mens-dutch-junior-u19-open-2016'>Dutch Junior U19 Open</a></td>
+					<td>NED</td>
+					<td><abbr title='2nd round'>r2</abbr></td>
+					<td>11-5, 11-5, 11-4</td>
+					<td>N</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Jul 2016</td>
+					<td><a href='/players/12481-chase-holding'>Chase Holding</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6689-mens-dutch-junior-u19-open-2016'>Dutch Junior U19 Open</a></td>
+					<td>NED</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-4, 11-5, 11-1</td>
+					<td>N</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Jul 2016</td>
+					<td><a href='/players/8076-benjamin-aubert'>Benjamin Aubert</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6685-mens-pioneer-junior-u19-cup-2016'>Pioneer Junior U19 Cup</a></td>
+					<td>GER</td>
+					<td><abbr title='Winner'>F</abbr></td>
+					<td>11-8, 9-11, 11-9, 11-3</td>
+					<td>N</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Jul 2016</td>
+					<td><a href='/players/8052-enzo-corigliano'>Enzo Corigliano</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6685-mens-pioneer-junior-u19-cup-2016'>Pioneer Junior U19 Cup</a></td>
+					<td>GER</td>
+					<td><abbr title='Semi-finals'>sf</abbr></td>
+					<td>11-9, 4-11, 11-4, 12-10 (68m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Jul 2016</td>
+					<td><a href='/players/11517-thijs-roukens'>Thijs Roukens</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6685-mens-pioneer-junior-u19-cup-2016'>Pioneer Junior U19 Cup</a></td>
+					<td>GER</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>11-4, 11-5, 11-5 (36m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Jul 2016</td>
+					<td><a href='/players/9252-hamza-alzubaidi'>Hamza Alzubaidi</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6685-mens-pioneer-junior-u19-cup-2016'>Pioneer Junior U19 Cup</a></td>
+					<td>GER</td>
+					<td><abbr title='3rd round'>r3</abbr></td>
+					<td>11-3, 10-12, 11-7, 11-7</td>
+					<td>N</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Jul 2016</td>
+					<td><a href='/players/12316-sven-stettler'>Sven Stettler</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6685-mens-pioneer-junior-u19-cup-2016'>Pioneer Junior U19 Cup</a></td>
+					<td>GER</td>
+					<td><abbr title='2nd round'>r2</abbr></td>
+					<td>11-2, 11-0, 11-2</td>
+					<td>N</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Jul 2016</td>
+					<td><a href='/players/11699-max-wohlleben'>Max Wohlleben</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6685-mens-pioneer-junior-u19-cup-2016'>Pioneer Junior U19 Cup</a></td>
+					<td>GER</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-2, 11-2, 11-1</td>
+					<td>N</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Jun 2016</td>
+					<td><a href='/players/1808-robert-downer'>Robert Downer</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6657-mens-open-international-dangers-2016'>Open International d&#039;Angers</a></td>
+					<td>FRA</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>9-11, 9-11, 11-3, 8-11</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Jun 2016</td>
+					<td><a href='/players/6172-james-peach'>James Peach</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6657-mens-open-international-dangers-2016'>Open International d&#039;Angers</a></td>
+					<td>FRA</td>
+					<td><abbr title='Qualifying finals'>Q</abbr></td>
+					<td>4-11, 16-14, 11-6, 14-12</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>May 2016</td>
+					<td><a href='/players/2766-tom-ford'>Tom Ford</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6627-mens-open-de-paris-2016'>Open de Paris</a></td>
+					<td>FRA</td>
+					<td><abbr title='Qualifying finals'>Q</abbr></td>
+					<td>2-11, 4-11, 11-9, 5-11 (45m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>May 2016</td>
+					<td><a href='/players/7741-karim-el-hammamy'>Karim El Hammamy</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6627-mens-open-de-paris-2016'>Open de Paris</a></td>
+					<td>FRA</td>
+					<td><abbr title='1st qualifying round'>Q</abbr></td>
+					<td>11-9, 11-7, 7-11, 11-9 (57m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>May 2016</td>
+					<td><a href='/players/9416-luke-logan'>Luke Logan</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6622-european-junior-u17-team-championship-2016'>European Junior U17 Team Championship</a></td>
+					<td>BEL</td>
+					<td><abbr title='-'>-</abbr></td>
+					<td>11-7, 11-6, 11-1</td>
+					<td>N</td>
+				</tr>
+				<tr class='darkline'>
+					<td>May 2016</td>
+					<td><a href='/players/9452-viktor-byrtus'>Viktor Byrtus</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6622-european-junior-u17-team-championship-2016'>European Junior U17 Team Championship</a></td>
+					<td>BEL</td>
+					<td><abbr title='-'>-</abbr></td>
+					<td>11-9, 11-3, 9-11, 11-4</td>
+					<td>N</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Apr 2016</td>
+					<td><a href='/players/1472-joshua-larkin'>Joshua Larkin</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6580-mens-pilatus-cup-2016'>Pilatus Cup</a></td>
+					<td>SUI</td>
+					<td><abbr title='Semi-finals'>sf</abbr></td>
+					<td>11-9, 7-11, 8-11, 6-11</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Apr 2016</td>
+					<td><a href='/players/4968-martin-svec'>Martin Svec</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6580-mens-pilatus-cup-2016'>Pilatus Cup</a></td>
+					<td>SUI</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>11-5, 3-11, 13-11, 11-7</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Apr 2016</td>
+					<td><a href='/players/3050-christopher-binnie'>Christopher Binnie</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6580-mens-pilatus-cup-2016'>Pilatus Cup</a></td>
+					<td>SUI</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>7-11, 11-6, 11-7, 4-11, 11-6</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Apr 2016</td>
+					<td><a href='/players/3875-robert-dadds'>Robert Dadds</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6580-mens-pilatus-cup-2016'>Pilatus Cup</a></td>
+					<td>SUI</td>
+					<td><abbr title='Qualifying finals'>Q</abbr></td>
+					<td>11-4, 11-4, 11-1</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Apr 2016</td>
+					<td><a href='/players/11529-fabio-fuchs'>Fabio Fuchs</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6580-mens-pilatus-cup-2016'>Pilatus Cup</a></td>
+					<td>SUI</td>
+					<td><abbr title='1st qualifying round'>Q</abbr></td>
+					<td>11-2, 11-3, 11-1</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Mar 2016</td>
+					<td><a href='/players/9387-luca-wilhelmi'>Luca Wilhelmi</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6572-european-junior-u19-team-championship-2016'>European Junior U19 Team Championship</a></td>
+					<td>SUI</td>
+					<td><abbr title='-'>-</abbr></td>
+					<td>11-5, 11-6, 11-5 (36m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Mar 2016</td>
+					<td><a href='/players/8462-sergio-garcia-pollan'>Sergio Garcia Pollan</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6572-european-junior-u19-team-championship-2016'>European Junior U19 Team Championship</a></td>
+					<td>SUI</td>
+					<td><abbr title='-'>-</abbr></td>
+					<td>11-8, 14-12, 11-3 (36m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Mar 2016</td>
+					<td><a href='/players/11534-cedric-de-vos'>Cedric de Vos</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6572-european-junior-u19-team-championship-2016'>European Junior U19 Team Championship</a></td>
+					<td>SUI</td>
+					<td><abbr title='-'>-</abbr></td>
+					<td>11-2, 11-1, 11-2</td>
+					<td>N</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Mar 2016</td>
+					<td><a href='/players/8454-vojtech-ryba'>Vojtech Ryba</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6572-european-junior-u19-team-championship-2016'>European Junior U19 Team Championship</a></td>
+					<td>SUI</td>
+					<td><abbr title='-'>-</abbr></td>
+					<td>11-2, 11-7, 11-6</td>
+					<td>N</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Mar 2016</td>
+					<td><a href='/players/12325-carlos-pereira-da-silva'>Carlos Pereira da Silva</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6572-european-junior-u19-team-championship-2016'>European Junior U19 Team Championship</a></td>
+					<td>SUI</td>
+					<td><abbr title='-'>-</abbr></td>
+					<td>11-0, 11-2, 11-3</td>
+					<td>N</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Mar 2016</td>
+					<td><a href='/players/6176-patrick-rooney'>Patrick Rooney</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6570-mens-european-junior-u19-championship-2016'>European Junior U19 Championship</a></td>
+					<td>SUI</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>11-13, 9-11, 7-11 (38m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Mar 2016</td>
+					<td><a href='/players/7181-sebastien-bonmalais'>Sébastien Bonmalais</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6570-mens-european-junior-u19-championship-2016'>European Junior U19 Championship</a></td>
+					<td>SUI</td>
+					<td><abbr title='3rd round'>r3</abbr></td>
+					<td>11-8, 11-2, 11-4 (32m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Mar 2016</td>
+					<td><a href='/players/8059-liam-eason'>Liam Eason</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6570-mens-european-junior-u19-championship-2016'>European Junior U19 Championship</a></td>
+					<td>SUI</td>
+					<td><abbr title='2nd round'>r2</abbr></td>
+					<td>11-5, 11-9, 11-1 (27m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Mar 2016</td>
+					<td><a href='/players/10083-stephen-hearst'>Stephen Hearst</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6570-mens-european-junior-u19-championship-2016'>European Junior U19 Championship</a></td>
+					<td>SUI</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>12-10, 11-2, 11-6</td>
+					<td>N</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Mar 2016</td>
+					<td><a href='/players/4968-martin-svec'>Martin Svec</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6558-mens-sekisui-open-2016'>Sekisui Open</a></td>
+					<td>SUI</td>
+					<td><abbr title='Qualifying finals'>Q</abbr></td>
+					<td>7-11, 11-9, 10-12, 11-5, 9-11</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Mar 2016</td>
+					<td><a href='/players/7288-miles-jenkins'>Miles Jenkins</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6558-mens-sekisui-open-2016'>Sekisui Open</a></td>
+					<td>SUI</td>
+					<td><abbr title='1st qualifying round'>Q</abbr></td>
+					<td>11-4, 11-5, 10-12, 11-8 (42m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Feb 2016</td>
+					<td><a href='/players/8076-benjamin-aubert'>Benjamin Aubert</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6547-mens-french-junior-u19-open-2016'>French Junior U19 Open</a></td>
+					<td>FRA</td>
+					<td><abbr title='Semi-finals'>sf</abbr></td>
+					<td>11-2, 6-11, 5-11, 10-12 (62m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Feb 2016</td>
+					<td><a href='/players/8476-oisin-dunne'>Oisin Dunne</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6547-mens-french-junior-u19-open-2016'>French Junior U19 Open</a></td>
+					<td>FRA</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>11-3, 11-5, 11-4 (40m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Feb 2016</td>
+					<td><a href='/players/9705-rohan-mandil'>Rohan Mandil</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6547-mens-french-junior-u19-open-2016'>French Junior U19 Open</a></td>
+					<td>FRA</td>
+					<td><abbr title='3rd round'>r3</abbr></td>
+					<td>11-3, 11-7, 11-6 (59m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Feb 2016</td>
+					<td><a href='/players/7522-andreas-dietzsch'>Andreas Dietzsch</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6547-mens-french-junior-u19-open-2016'>French Junior U19 Open</a></td>
+					<td>FRA</td>
+					<td><abbr title='2nd round'>r2</abbr></td>
+					<td>11-4, 11-0, 11-5</td>
+					<td>N</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Feb 2016</td>
+					<td><a href='/players/2035-christophe-andre'>Christophe Andre</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6533-mens-french-nationals-2016'>French Nationals</a></td>
+					<td>FRA</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>2-11, 6-11, 12-14</td>
+					<td>N</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Jan 2016</td>
+					<td><a href='/players/5685-rui-soares'>Rui Soares</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6450-mens-open-du-gard-2016'>Open du Gard</a></td>
+					<td>FRA</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>13-11, 5-11, 5-11, 6-11 (45m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Jan 2016</td>
+					<td><a href='/players/5009-sean-conroy'>Sean Conroy</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6450-mens-open-du-gard-2016'>Open du Gard</a></td>
+					<td>FRA</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-5, 11-8, 11-6 (36m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Jan 2016</td>
+					<td><a href='/players/6762-sam-ellis'>Sam Ellis</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6450-mens-open-du-gard-2016'>Open du Gard</a></td>
+					<td>FRA</td>
+					<td><abbr title='Qualifying finals'>Q</abbr></td>
+					<td>7-11, 11-7, 11-5, 11-3 (38m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Jan 2016</td>
+					<td><a href='/players/8373-matthew-broadberry'>Matthew Broadberry</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6450-mens-open-du-gard-2016'>Open du Gard</a></td>
+					<td>FRA</td>
+					<td><abbr title='1st qualifying round'>Q</abbr></td>
+					<td>11-6, 1-11, 11-6, 8-11, 11-6 (48m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Jan 2016</td>
+					<td><a href='/players/10087-moustafa-montaser'>Moustafa Montaser</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6466-mens-british-junior-u17-open-2016'>British Junior U17 Open</a></td>
+					<td>ENG</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>4-11, 5-11, 11-7, 5-11 (46m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Jan 2016</td>
+					<td><a href='/players/8104-abdalah-el-masry'>Abdalah El Masry</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6466-mens-british-junior-u17-open-2016'>British Junior U17 Open</a></td>
+					<td>ENG</td>
+					<td><abbr title='3rd round'>r3</abbr></td>
+					<td>12-10, 11-6, 5-11, 6-11, 11-6 (70m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Jan 2016</td>
+					<td><a href='/players/12104-jacob-rhee'>Jacob Rhee</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6466-mens-british-junior-u17-open-2016'>British Junior U17 Open</a></td>
+					<td>ENG</td>
+					<td><abbr title='2nd round'>r2</abbr></td>
+					<td>11-5, 11-7, 11-3 (25m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Jan 2016</td>
+					<td><a href='/players/12101-odan-rintaro'>Odan Rintaro</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6466-mens-british-junior-u17-open-2016'>British Junior U17 Open</a></td>
+					<td>ENG</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-2, 11-2, 11-1 (18m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='subscriber_line'>
+					<td class='topborder'><strong>2011-2015</strong></td>
+					<td class='topborder'><strong>49 matches</strong></td>
+					<td class='topborder' colspan='6'>View full historical match history by <a href='/upgrade'>creating</a> a premium account!</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+
+	<div class='ad_bar_footer'>
+		<!-- Footer -->
+		<ins class='adsbygoogle'
+		     style='display:inline-block;width:728px;height:90px'
+		     data-ad-client='ca-pub-0605489790642236'
+		     data-ad-slot='1142131485'></ins>
+		<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+	</div>
+
+</div>
+
+<div id='si_footer'>
+	<ul id='footer_left'>
+		<li id='copyright' class='li_left'>
+			Squash Info &copy; 2017
+		</li>
+	</ul>
+	<ul id='footer_right'>
+		<li class='li_right'>
+			<strong><a href='mailto:info@squashinfo.com'>Contact us</a></strong>
+		</li>
+		<li class='li_right'>
+			<a href='https://twitter.com/SquashInfo' class='twitter-follow-button' data-show-count='false'>Follow @SquashInfo</a>
+		</li>
+	</ul>
+</div>
+
+<div>
+	<script type='text/javascript'>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-1186220-1']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</div>
+
+</div>
+</div>
+</body>
+</html>

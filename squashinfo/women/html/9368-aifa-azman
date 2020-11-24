@@ -1,0 +1,737 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+
+	<meta charset='utf-8' />
+	<meta name='author' content='Squash Info' />
+	<meta name='keywords' content='squash information rankings psa wsa wispa results events players' />
+
+	<link rel='shortcut icon' href='/favicon.ico' type='image/x-icon' />
+	<script src='https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js'></script>
+	<script src='https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js'></script>
+	<link rel='stylesheet' href='https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/themes/smoothness/jquery-ui.css'>
+	<script src='/js/jquery.timeago.js'></script>
+	<script src='/js/jquery.unveil.min.js'></script>
+	<script src='/js/jquery.leanModal.ch.1461605769.js'></script>
+	<script src='/js/jquery.tokeninput.js'></script>
+	<link rel='stylesheet' href='/css/token-input.css'>
+	<script src='http://platform.twitter.com/widgets.js'></script>
+	<script src='https://apis.google.com/js/platform.js'></script>
+	<script src='/js/jquery.cookiebar.js'></script>
+	<link rel='stylesheet' href='/css/jquery.cookiebar.1444581949.css'>
+	<script src='https://www.gstatic.com/charts/loader.js'></script>
+	<script async src='//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js'></script>
+	<script src='/js/main.1461605758.js'></script>
+	<link rel='stylesheet' href='/css/main.1487399333.css'>
+
+	<title>Squash Info | Aifa Azman | Squash</title>
+
+</head>
+<body onload="">
+
+<div id='fb-root'></div>
+<script>!function(e,n,t){var o,c=e.getElementsByTagName(n)[0];e.getElementById(t)||(o=e.createElement(n),o.id=t,o.src='//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.5',c.parentNode.insertBefore(o,c))}(document,'script','facebook-jssdk');</script>
+<script type='text/javascript'>
+	
+	$(document).ready(function() {
+		
+		$.cookieBar({});
+		
+		$('.logout').click(function(event) {
+			
+			if (!confirm('Are you sure you want to log out?')) {
+				event.preventDefault();
+			}
+			
+		});
+		
+	});
+	
+</script>
+<div id='centre_body'>
+
+<div id='header'>
+	<ul id='header_left'>
+		<li id='header_logo' class='li_left'>
+			<a href='/'><img src='/img/logos/si_logo.png' alt='Squash Info, the definitive squash resource' style='vertical-align: middle;' /></a>
+		</li>
+	</ul>
+	<ul id='header_right'>
+		<li id='header_search' class='li_right'>
+			<form id='header_search_form' method='get' action='/search'>
+				<input type='text' name='q' id='q' value='' size='20' maxlength='30' placeholder='Search...' />
+				<input type='submit' value='Go' />
+			</form>
+		</li>
+		<li id='header_signup' class='li_right'><a href='/signup'>Sign Up</a></li>
+		<li id='header_login' class='li_right'>
+			<a rel='leanModal' data-url='%2Fplayers%2F9368-aifa-azman' href='/login'>Log In</a>
+		</li>
+	</ul>
+</div>
+
+<div id='login_box'>
+	<iframe id='login_iframe' src='/loading.htm' scrolling='no' seamless></iframe>
+</div>
+
+<div id='main_block'>
+
+<div id='left_bar'>
+	<div id='current_date_time'>5:29 pm <br />4 Apr 2017</div>
+	<ul id='navlist'>
+		<li><a href='/' title='Home'>Home</a></li>
+		<li><a href='/news' title='Squash News'>News</a></li>
+		<li><a href='/results' title='Squash Event Results'>Results</a></li>
+		<li><a href='/rankings' title='PSA World Squash Rankings'>Rankings</a></li>
+		<li><a href='/calendar/2017' title='Squash Event Calendar'>Calendar</a></li>
+		<li><a href='/records' title='Squash Records &amp; Statistics'>Records</a></li>
+	</ul>
+</div>
+
+
+<div id='content'>
+
+	<div class='ad_bar_top'>
+		<!-- index -->
+		<ins class='adsbygoogle'
+		     style='display:inline-block;width:728px;height:90px'
+		     data-ad-client='ca-pub-0605489790642236'
+		     data-ad-slot='9600788702'></ins>
+		<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+	</div>
+
+	<h1>
+		Aifa Azman <span style='color:#444444;'>(Malaysia)</span>
+	</h1>
+	<ul id='social_media'>
+	</ul>
+	<div>
+	<h3>
+		Statistics:&nbsp;&nbsp;
+			<a href='/rankings/9368-aifa-azman'>Ranking History</a>
+			<br />
+	</h3>
+		</div>
+	<div class='content_column'>
+		<div id='world_ranking_box'>
+			<div id='world_ranking'>202</div>
+			<strong>PSA Ranking</strong>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Born:</span>
+			<span>18 Dec 2001 (age 15)</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Gender:</span>
+			<span>Female</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Birthplace:</span>
+			<span>Kedah</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Residence:</span>
+			<span>Alor Setar, Kedah</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Height:</span>
+			<span>160cm (5 ft 3 in)</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Weight:</span>
+			<span>52kg (8 st 3 lb)</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Highest WR:</span>
+			<span>197 (Feb 2017)</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Racket:</span>
+			<span>Dunlop</span>
+		</div>
+	</div>
+
+	<div class='clear' style='padding-bottom:20px'></div>
+	<div class='tabletitle' id='news_mentions'>News</div>
+	<div class='darkborder'>
+		<table style='width:100%' cellpadding='2' cellspacing='0' border='0'>
+			<tr class='darkline'>
+				<td style='width:10%' valign='top'>7 Aug 2016</td>
+				<td style='width:90%'><a href='/news/6811-walsh-wins-early-worlds-upset-in-poland'>Walsh Wins Early Worlds Upset In Poland</a></td>
+			</tr>
+			<tr class='lightline'>
+				<td style='width:10%' valign='top'>5 Aug 2016</td>
+				<td style='width:90%'><a href='/news/6810-world-squash-success-beckons-in-bielsko-biala'>World Squash Success Beckons in Bielsko-Biała</a></td>
+			</tr>
+			<tr class='darkline'>
+				<td style='width:10%' valign='top'>29 Jul 2016</td>
+				<td style='width:90%'><a href='/news/6809-habiba-withdrawal-leads-to-world-junior-championship-redraw'>Habiba Withdrawal Leads To World Junior Championship Redraw</a></td>
+			</tr>
+			<tr class='lightline'>
+				<td style='width:10%' valign='top'>9 Jul 2016</td>
+				<td style='width:90%'><a href='/news/6806-egypt-set-to-strike-double-world-junior-championships-gold-in-poland'>Egypt Set To Strike Double World Junior Championships Gold In Poland</a></td>
+			</tr>
+			<tr class='darkline'>
+				<td style='width:10%' valign='top'>13 Mar 2014</td>
+				<td style='width:90%'><a href='/news/6043-whitlock-el-tayeb-head-womens-world-championship-qualifying-draw'>Whitlock &amp; El Tayeb Head Women&#039;s World Championship Qualifying Draw</a></td>
+			</tr>
+		</table>
+	</div>
+
+	<div id='upcoming_events' class='tabletitle'>Upcoming Events</div>
+	<div class='darkborder'>
+		<div class='one_entry'>None</div>
+	</div>
+
+	<div class='tabletitle'>Event Summary (12)</div>
+	<div class='darkborder'>
+		<table style='width:100%;' cellpadding='2' cellspacing='0' border='0'>
+			<thead>
+				<tr>
+					<th scope='col' style='width:10%'>Date</th>
+					<th scope='col' style='width:10%'>Seeding</th>
+					<th scope='col' style='width:35%'>Event</th>
+					<th scope='col' style='width:5%'>Ctry</th>
+					<th scope='col' style='width:20%'>Tour</th>
+					<th scope='col' style='width:20%'>Round Reached</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr class='darkline'>
+					<td>Feb 2017</td>
+					<td>-</td>
+					<td><a href='/events/6953-womens-asian-junior-team-championship-2017'>Asian Junior Team Championship</a></td>
+					<td>HKG</td>
+					<td>-</td>
+					<td>-</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Jan 2017</td>
+					<td>[<abbr title='Wildcard'>WC</abbr>]</td>
+					<td><a href='/events/6944-womens-malaysian-tour-2017'>Malaysian Tour</a></td>
+					<td>MAS</td>
+					<td>PSA Tour</td>
+					<td>1st round</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Jan 2017</td>
+					<td>[3/4]</td>
+					<td><a href='/events/6897-womens-british-junior-u17-open-2017'>British Junior U17 Open</a></td>
+					<td>ENG</td>
+					<td>-</td>
+					<td>Quarter-finals</td>
+				</tr>
+				<tr class='lightline'>
+					<td class='topborder'>Nov 2016</td>
+					<td class='topborder'>[5/8]</td>
+					<td class='topborder'><a href='/events/6849-womens-malaysian-nationals-2016'>Malaysian Nationals</a></td>
+					<td class='topborder'>MAS</td>
+					<td class='topborder'>-</td>
+					<td class='topborder'>Quarter-finals</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Oct 2016</td>
+					<td>[<abbr title='Qualifier'>Q</abbr>]</td>
+					<td><a href='/events/6809-womens-malaysian-tour-2016'>Malaysian Tour</a></td>
+					<td>MAS</td>
+					<td>PSA Tour</td>
+					<td>1st round</td>
+				</tr>
+				<tr class='lightline b'>
+					<td>Sep 2016</td>
+					<td>[1]</td>
+					<td><a href='/events/7004-womens-asian-junior-u15-championship-2016'>Asian Junior U15 Championship</a></td>
+					<td>MAS</td>
+					<td>-</td>
+					<td>Winner</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Aug 2016</td>
+					<td>-</td>
+					<td><a href='/events/6382-womens-world-junior-championship-2016'>World Junior Championship</a></td>
+					<td>POL</td>
+					<td>-</td>
+					<td>2nd round</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Jun 2016</td>
+					<td>-</td>
+					<td><a href='/events/6655-womens-penang-open-2016'>Penang Open</a></td>
+					<td>MAS</td>
+					<td>PSA Tour</td>
+					<td>1st qualifying round</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Apr 2016</td>
+					<td>[<abbr title='Qualifier'>Q</abbr>]</td>
+					<td><a href='/events/6607-womens-malaysian-tour-2016'>Malaysian Tour</a></td>
+					<td>MAS</td>
+					<td>PSA Tour</td>
+					<td>1st round</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Apr 2016</td>
+					<td>[<abbr title='Qualifier'>Q</abbr>]</td>
+					<td><a href='/events/6596-womens-malaysian-tour-2016'>Malaysian Tour</a></td>
+					<td>MAS</td>
+					<td>PSA Tour</td>
+					<td>Semi-finals</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Mar 2016</td>
+					<td>[<abbr title='Qualifier'>Q</abbr>]</td>
+					<td><a href='/events/6575-womens-malaysian-tour-2016'>Malaysian Tour</a></td>
+					<td>MAS</td>
+					<td>PSA Tour</td>
+					<td>Quarter-finals</td>
+				</tr>
+				<tr class='lightline b'>
+					<td>Jan 2016</td>
+					<td>[2]</td>
+					<td><a href='/events/6465-womens-british-junior-u15-open-2016'>British Junior U15 Open</a></td>
+					<td>ENG</td>
+					<td>-</td>
+					<td>Winner</td>
+				</tr>
+				<tr class='subscriber_line'>
+					<td class='topborder'><strong>2013-2015</strong></td>
+					<td class='topborder'><strong>16 events</strong></td>
+					<td class='topborder' colspan='4'>View full historical event history by <a href='/upgrade'>creating</a> a premium account!</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+
+	<div id='match_summary' class='tabletitle'>Match Summary (Played 36 - Won 27, Lost 9)</div>
+	<div class='darkborder'>
+		<table id='match_summary_table' style='width:100%;' cellpadding='2' cellspacing='0' border='0'>
+			<thead>
+				<tr>
+					<th scope='col' style='width:10%'>Date</th>
+					<th scope='col' style='width:17%'>Opponent</th>
+					<th scope='col' style='width:4%'>W/L</th>
+					<th scope='col' style='width:25%'>Event</th>
+					<th scope='col' style='width:5%'>Ctry</th>
+					<th scope='col' style='width:3%'>Rnd</th>
+					<th scope='col' style='width:32%'>Score</th>
+					<th scope='col' style='width:4%'>PSA</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr class='darkline'>
+					<td>Feb 2017</td>
+					<td><a href='/players/12564-mami-sakai'>Mami Sakai</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6953-womens-asian-junior-team-championship-2017'>Asian Junior Team Championship</a></td>
+					<td>HKG</td>
+					<td><abbr title='-'>-</abbr></td>
+					<td>11-7, 11-7, 11-5</td>
+					<td>N</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Feb 2017</td>
+					<td><a href='/players/12711-dong-ju-song'>Dong Ju Song</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6953-womens-asian-junior-team-championship-2017'>Asian Junior Team Championship</a></td>
+					<td>HKG</td>
+					<td><abbr title='-'>-</abbr></td>
+					<td>11-3, 11-1, 11-6</td>
+					<td>N</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Feb 2017</td>
+					<td><a href='/players/13414-hsiao-nai-wen'>Hsiao Nai-Wen</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6953-womens-asian-junior-team-championship-2017'>Asian Junior Team Championship</a></td>
+					<td>HKG</td>
+					<td><abbr title='-'>-</abbr></td>
+					<td>11-2, 11-0, 11-4</td>
+					<td>N</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Feb 2017</td>
+					<td><a href='/players/13417-leng-lam-leong'>Leng Lam Leong</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6953-womens-asian-junior-team-championship-2017'>Asian Junior Team Championship</a></td>
+					<td>HKG</td>
+					<td><abbr title='-'>-</abbr></td>
+					<td>11-2, 11-1, 11-2</td>
+					<td>N</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Feb 2017</td>
+					<td><a href='/players/11273-steffi-chan'>Steffi Chan</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6953-womens-asian-junior-team-championship-2017'>Asian Junior Team Championship</a></td>
+					<td>HKG</td>
+					<td><abbr title='-'>-</abbr></td>
+					<td>11-6, 11-4, 11-7</td>
+					<td>N</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Jan 2017</td>
+					<td><a href='/players/6789-andrea-lee'>Andrea Lee</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6944-womens-malaysian-tour-2017'>Malaysian Tour</a></td>
+					<td>MAS</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-5, 7-11, 1-11, 11-4, 8-11 (48m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Jan 2017</td>
+					<td><a href='/players/6272-elise-lazarus'>Elise Lazarus</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6897-womens-british-junior-u17-open-2017'>British Junior U17 Open</a></td>
+					<td>ENG</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>6-11, 10-12, 9-11 (48m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Jan 2017</td>
+					<td><a href='/players/13255-emma-jinks'>Emma Jinks</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6897-womens-british-junior-u17-open-2017'>British Junior U17 Open</a></td>
+					<td>ENG</td>
+					<td><abbr title='3rd round'>r3</abbr></td>
+					<td>11-6, 11-3, 11-3 (18m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Jan 2017</td>
+					<td><a href='/players/10402-sophie-orourke'>Sophie O&#039;Rourke</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6897-womens-british-junior-u17-open-2017'>British Junior U17 Open</a></td>
+					<td>ENG</td>
+					<td><abbr title='2nd round'>r2</abbr></td>
+					<td>11-4, 11-3, 11-4 (19m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='lightline'>
+					<td class='topborder'>Nov 2016</td>
+					<td class='topborder'><a href='/players/7169-sivasangari-subramaniam'>Sivasangari Subramaniam</a></td>
+					<td class='topborder' title=''>L</td>
+					<td class='topborder'><a href='/events/6849-womens-malaysian-nationals-2016'>Malaysian Nationals</a></td>
+					<td class='topborder'>MAS</td>
+					<td class='topborder'><abbr title='Quarter-finals'>qf</abbr></td>
+					<td class='topborder'>7-11, 8-11, 11-4, 11-4, 4-11 (42m)</td>
+					<td class='topborder'>N</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Nov 2016</td>
+					<td><a href='/players/9367-nur-aliah-anis'>Nur Aliah Anis</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6849-womens-malaysian-nationals-2016'>Malaysian Nationals</a></td>
+					<td>MAS</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-5, 11-4, 11-7</td>
+					<td>N</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Oct 2016</td>
+					<td><a href='/players/6102-rachel-arnold'>Rachel Arnold</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6809-womens-malaysian-tour-2016'>Malaysian Tour</a></td>
+					<td>MAS</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>7-11, 11-3, 3-11, 11-3, 7-11 (36m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Oct 2016</td>
+					<td><a href='/players/12744-fatemeh-khebri'>Fatemeh Khebri</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6809-womens-malaysian-tour-2016'>Malaysian Tour</a></td>
+					<td>MAS</td>
+					<td><abbr title='Qualifying finals'>Q</abbr></td>
+					<td>11-1, 11-0, 11-0</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Oct 2016</td>
+					<td><a href='/players/8206-teh-min-ern'>Teh Min Ern</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6809-womens-malaysian-tour-2016'>Malaysian Tour</a></td>
+					<td>MAS</td>
+					<td><abbr title='1st qualifying round'>Q</abbr></td>
+					<td>14-12, 11-2, 11-4</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Sep 2016</td>
+					<td><a href='/players/12614-chan-sin-yuk'>Chan Sin Yuk</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/7004-womens-asian-junior-u15-championship-2016'>Asian Junior U15 Championship</a></td>
+					<td>MAS</td>
+					<td><abbr title='Winner'>F</abbr></td>
+					<td>14-12, 7-11, 11-6, 11-5 (46m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Sep 2016</td>
+					<td><a href='/players/11798-wong-heng-wai'>Wong Heng Wai</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/7004-womens-asian-junior-u15-championship-2016'>Asian Junior U15 Championship</a></td>
+					<td>MAS</td>
+					<td><abbr title='Semi-finals'>sf</abbr></td>
+					<td>11-7, 11-9, 11-2 (27m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Sep 2016</td>
+					<td><a href='/players/12962-noor-aina-ampandi'>Noor Aina Ampandi</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/7004-womens-asian-junior-u15-championship-2016'>Asian Junior U15 Championship</a></td>
+					<td>MAS</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>11-7, 11-2, 11-5</td>
+					<td>N</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Aug 2016</td>
+					<td><a href='/players/10095-lui-hiu-lam'>Lui Hiu Lam</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6382-womens-world-junior-championship-2016'>World Junior Championship</a></td>
+					<td>POL</td>
+					<td><abbr title='2nd round'>r2</abbr></td>
+					<td>11-9, 11-13, 9-11, 6-11 (35m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Aug 2016</td>
+					<td><a href='/players/11270-wai-yhann-au-yeong'>Wai Yhann Au Yeong</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6382-womens-world-junior-championship-2016'>World Junior Championship</a></td>
+					<td>POL</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-3, 11-4, 11-5</td>
+					<td>N</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Jun 2016</td>
+					<td><a href='/players/6789-andrea-lee'>Andrea Lee</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6655-womens-penang-open-2016'>Penang Open</a></td>
+					<td>MAS</td>
+					<td><abbr title='1st qualifying round'>Q</abbr></td>
+					<td>12-10, 3-11, 9-11, 11-3, 8-11</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Apr 2016</td>
+					<td><a href='/players/7169-sivasangari-subramaniam'>Sivasangari Subramaniam</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6607-womens-malaysian-tour-2016'>Malaysian Tour</a></td>
+					<td>MAS</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>7-11, 4-11, 4-11 (20m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Apr 2016</td>
+					<td><a href='/players/7580-catur-yuliana'>Catur Yuliana</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6607-womens-malaysian-tour-2016'>Malaysian Tour</a></td>
+					<td>MAS</td>
+					<td><abbr title='Qualifying finals'>Q</abbr></td>
+					<td>11-9, 11-7, 10-12, 11-6</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Apr 2016</td>
+					<td><a href='/players/6789-andrea-lee'>Andrea Lee</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6607-womens-malaysian-tour-2016'>Malaysian Tour</a></td>
+					<td>MAS</td>
+					<td><abbr title='1st qualifying round'>Q</abbr></td>
+					<td>9-11, 8-11, 11-6, 12-10, 11-6</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Apr 2016</td>
+					<td><a href='/players/574-lisa-camilleri'>Lisa Camilleri</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6596-womens-malaysian-tour-2016'>Malaysian Tour</a></td>
+					<td>MAS</td>
+					<td><abbr title='Semi-finals'>sf</abbr></td>
+					<td>11-9, 10-12, 11-4, 7-11, 7-11 (45m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Apr 2016</td>
+					<td><a href='/players/231-lotte-eriksen'>Lotte Eriksen</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6596-womens-malaysian-tour-2016'>Malaysian Tour</a></td>
+					<td>MAS</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>11-9, 2-11, 11-4, 12-10 (45m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Apr 2016</td>
+					<td><a href='/players/6391-sadia-gul'>Sadia Gul</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6596-womens-malaysian-tour-2016'>Malaysian Tour</a></td>
+					<td>MAS</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-3, 11-4, 5-2 ret. (15m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Apr 2016</td>
+					<td><a href='/players/7580-catur-yuliana'>Catur Yuliana</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6596-womens-malaysian-tour-2016'>Malaysian Tour</a></td>
+					<td>MAS</td>
+					<td><abbr title='Qualifying finals'>Q</abbr></td>
+					<td>11-9, 11-6, 11-2</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Apr 2016</td>
+					<td><a href='/players/10123-amirah-rusydina-rosli'>Amirah Rusydina Rosli</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6596-womens-malaysian-tour-2016'>Malaysian Tour</a></td>
+					<td>MAS</td>
+					<td><abbr title='1st qualifying round'>Q</abbr></td>
+					<td>11-1, 11-4, 11-7</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Mar 2016</td>
+					<td><a href='/players/5312-vanessa-chu'>Vanessa Chu</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6575-womens-malaysian-tour-2016'>Malaysian Tour</a></td>
+					<td>MAS</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>7-11, 6-11, 7-11 (18m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Mar 2016</td>
+					<td><a href='/players/3451-noor-shadira'>Noor Shadira</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6575-womens-malaysian-tour-2016'>Malaysian Tour</a></td>
+					<td>MAS</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-4, 11-4, 11-8</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Mar 2016</td>
+					<td><a href='/players/7580-catur-yuliana'>Catur Yuliana</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6575-womens-malaysian-tour-2016'>Malaysian Tour</a></td>
+					<td>MAS</td>
+					<td><abbr title='Qualifying finals'>Q</abbr></td>
+					<td>11-3, 12-10, 10-12, 11-7</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Jan 2016</td>
+					<td><a href='/players/12062-marina-stefanoni'>Marina Stefanoni</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6465-womens-british-junior-u15-open-2016'>British Junior U15 Open</a></td>
+					<td>ENG</td>
+					<td><abbr title='Winner'>F</abbr></td>
+					<td>11-9, 8-11, 11-6, 11-4 (30m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Jan 2016</td>
+					<td><a href='/players/10127-nouran-youssef'>Nouran Youssef</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6465-womens-british-junior-u15-open-2016'>British Junior U15 Open</a></td>
+					<td>ENG</td>
+					<td><abbr title='Semi-finals'>sf</abbr></td>
+					<td>11-3, 11-8, 11-9 (20m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Jan 2016</td>
+					<td><a href='/players/12206-malak-mostafa'>Malak Mostafa</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6465-womens-british-junior-u15-open-2016'>British Junior U15 Open</a></td>
+					<td>ENG</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>11-7, 11-4, 11-8 (17m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Jan 2016</td>
+					<td><a href='/players/13230-farah-haytham'>Farah Haytham</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6465-womens-british-junior-u15-open-2016'>British Junior U15 Open</a></td>
+					<td>ENG</td>
+					<td><abbr title='3rd round'>r3</abbr></td>
+					<td>11-0, 11-5, 11-3 (15m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Jan 2016</td>
+					<td><a href='/players/13229-grace-clark'>Grace Clark</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6465-womens-british-junior-u15-open-2016'>British Junior U15 Open</a></td>
+					<td>ENG</td>
+					<td><abbr title='2nd round'>r2</abbr></td>
+					<td>11-3, 11-2, 11-4 (13m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='subscriber_line'>
+					<td class='topborder'><strong>2013-2015</strong></td>
+					<td class='topborder'><strong>38 matches</strong></td>
+					<td class='topborder' colspan='6'>View full historical match history by <a href='/upgrade'>creating</a> a premium account!</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+
+	<div class='ad_bar_footer'>
+		<!-- Footer -->
+		<ins class='adsbygoogle'
+		     style='display:inline-block;width:728px;height:90px'
+		     data-ad-client='ca-pub-0605489790642236'
+		     data-ad-slot='1142131485'></ins>
+		<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+	</div>
+
+</div>
+
+<div id='si_footer'>
+	<ul id='footer_left'>
+		<li id='copyright' class='li_left'>
+			Squash Info &copy; 2017
+		</li>
+	</ul>
+	<ul id='footer_right'>
+		<li class='li_right'>
+			<strong><a href='mailto:info@squashinfo.com'>Contact us</a></strong>
+		</li>
+		<li class='li_right'>
+			<a href='https://twitter.com/SquashInfo' class='twitter-follow-button' data-show-count='false'>Follow @SquashInfo</a>
+		</li>
+	</ul>
+</div>
+
+<div>
+	<script type='text/javascript'>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-1186220-1']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</div>
+
+</div>
+</div>
+</body>
+</html>

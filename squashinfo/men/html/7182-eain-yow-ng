@@ -1,0 +1,1052 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+
+	<meta charset='utf-8' />
+	<meta name='author' content='Squash Info' />
+	<meta name='keywords' content='squash information rankings psa wsa wispa results events players' />
+
+	<link rel='shortcut icon' href='/favicon.ico' type='image/x-icon' />
+	<script src='https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js'></script>
+	<script src='https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js'></script>
+	<link rel='stylesheet' href='https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/themes/smoothness/jquery-ui.css'>
+	<script src='/js/jquery.timeago.js'></script>
+	<script src='/js/jquery.unveil.min.js'></script>
+	<script src='/js/jquery.leanModal.ch.1461605769.js'></script>
+	<script src='/js/jquery.tokeninput.js'></script>
+	<link rel='stylesheet' href='/css/token-input.css'>
+	<script src='http://platform.twitter.com/widgets.js'></script>
+	<script src='https://apis.google.com/js/platform.js'></script>
+	<script src='/js/jquery.cookiebar.js'></script>
+	<link rel='stylesheet' href='/css/jquery.cookiebar.1444581949.css'>
+	<script src='https://www.gstatic.com/charts/loader.js'></script>
+	<script async src='//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js'></script>
+	<script src='/js/main.1461605758.js'></script>
+	<link rel='stylesheet' href='/css/main.1487399333.css'>
+
+	<title>Squash Info | Eain Yow Ng | Squash</title>
+
+</head>
+<body onload="">
+
+<div id='fb-root'></div>
+<script>!function(e,n,t){var o,c=e.getElementsByTagName(n)[0];e.getElementById(t)||(o=e.createElement(n),o.id=t,o.src='//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.5',c.parentNode.insertBefore(o,c))}(document,'script','facebook-jssdk');</script>
+<script type='text/javascript'>
+	
+	$(document).ready(function() {
+		
+		$.cookieBar({});
+		
+		$('.logout').click(function(event) {
+			
+			if (!confirm('Are you sure you want to log out?')) {
+				event.preventDefault();
+			}
+			
+		});
+		
+	});
+	
+</script>
+<div id='centre_body'>
+
+<div id='header'>
+	<ul id='header_left'>
+		<li id='header_logo' class='li_left'>
+			<a href='/'><img src='/img/logos/si_logo.png' alt='Squash Info, the definitive squash resource' style='vertical-align: middle;' /></a>
+		</li>
+	</ul>
+	<ul id='header_right'>
+		<li id='header_search' class='li_right'>
+			<form id='header_search_form' method='get' action='/search'>
+				<input type='text' name='q' id='q' value='' size='20' maxlength='30' placeholder='Search...' />
+				<input type='submit' value='Go' />
+			</form>
+		</li>
+		<li id='header_signup' class='li_right'><a href='/signup'>Sign Up</a></li>
+		<li id='header_login' class='li_right'>
+			<a rel='leanModal' data-url='%2Fplayers%2F7182-eain-yow-ng' href='/login'>Log In</a>
+		</li>
+	</ul>
+</div>
+
+<div id='login_box'>
+	<iframe id='login_iframe' src='/loading.htm' scrolling='no' seamless></iframe>
+</div>
+
+<div id='main_block'>
+
+<div id='left_bar'>
+	<div id='current_date_time'>5:09 pm <br />4 Apr 2017</div>
+	<ul id='navlist'>
+		<li><a href='/' title='Home'>Home</a></li>
+		<li><a href='/news' title='Squash News'>News</a></li>
+		<li><a href='/results' title='Squash Event Results'>Results</a></li>
+		<li><a href='/rankings' title='PSA World Squash Rankings'>Rankings</a></li>
+		<li><a href='/calendar/2017' title='Squash Event Calendar'>Calendar</a></li>
+		<li><a href='/records' title='Squash Records &amp; Statistics'>Records</a></li>
+	</ul>
+</div>
+
+
+<div id='content'>
+
+	<div class='ad_bar_top'>
+		<!-- index -->
+		<ins class='adsbygoogle'
+		     style='display:inline-block;width:728px;height:90px'
+		     data-ad-client='ca-pub-0605489790642236'
+		     data-ad-slot='9600788702'></ins>
+		<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+	</div>
+
+	<h1>
+		Eain Yow Ng <span style='color:#444444;'>(Malaysia)</span>
+	</h1>
+	<ul id='social_media'>
+		<li id='sm_twitter'>
+			<a href='https://twitter.com/@EaiNYow' class='twitter-follow-button' data-show-count='false'>Follow @EaiNYow</a>
+		</li>
+	</ul>
+	<div>
+	<h3>
+		Statistics:&nbsp;&nbsp;
+			<a href='/rankings/7182-eain-yow-ng'>Ranking History</a>
+			<br />
+	</h3>
+		</div>
+	<div class='content_column'>
+		<div id='world_ranking_box'>
+			<div id='world_ranking'>101</div>
+			<strong>PSA Ranking</strong>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Born:</span>
+			<span>26 Jan 1998 (age 19)</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Gender:</span>
+			<span>Male</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Birthplace:</span>
+			<span>Kuala Lumpur</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Residence:</span>
+			<span>Kuala Lumpur</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Height:</span>
+			<span>166cm (5 ft 5 in)</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Weight:</span>
+			<span>54kg (8 st 7 lb)</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Joined PSA:</span>
+			<span>2014</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Coach:</span>
+			<span>Andrew Cross</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Highest WR:</span>
+			<span>96 (Feb 2017)</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Racket:</span>
+			<span>Dunlop</span>
+		</div>
+	</div>
+
+	<div class='clear' style='padding-bottom:20px'></div>
+	<div class='tabletitle' id='news_mentions'>News</div>
+	<div class='darkborder'>
+		<table style='width:100%' cellpadding='2' cellspacing='0' border='0'>
+			<tr class='darkline'>
+				<td style='width:10%' valign='top'>29 Sep 2016</td>
+				<td style='width:90%'><a href='/news/6838-senthilkumar-subramaniam-score-asian-junior-successes'>Senthilkumar &amp; Subramaniam Score Asian Junior Successes</a></td>
+			</tr>
+			<tr class='lightline'>
+				<td style='width:10%' valign='top'>18 Aug 2016</td>
+				<td style='width:90%'><a href='/news/6826-pakistan-stun-egypt-to-reclaim-world-junior-title'>Pakistan Stun Egypt To Reclaim World Junior Title</a></td>
+			</tr>
+			<tr class='darkline'>
+				<td style='width:10%' valign='top'>12 Aug 2016</td>
+				<td style='width:90%'><a href='/news/6817-nouran-gohar-eain-yow-ng-claim-world-titles-in-poland'>Nouran Gohar &amp; Eain Yow Ng Claim World Titles In Poland</a></td>
+			</tr>
+			<tr class='lightline'>
+				<td style='width:10%' valign='top'>11 Aug 2016</td>
+				<td style='width:90%'><a href='/news/6816-world-finalist-ng-in-seventh-heaven-in-poland'>World Finalist Ng In Seventh Heaven In Poland</a></td>
+			</tr>
+			<tr class='darkline'>
+				<td style='width:10%' valign='top'>10 Aug 2016</td>
+				<td style='width:90%'><a href='/news/6815-favourite-abouaish-survives-world-marathon-in-poland'>Favourite Abouaish Survives World Marathon In Poland</a></td>
+			</tr>
+		</table>
+	</div>
+
+	<div id='upcoming_events' class='tabletitle'>Upcoming Events</div>
+	<div class='darkborder'>
+		<div class='one_entry'>None</div>
+	</div>
+
+	<div class='tabletitle'>Event Summary (20)</div>
+	<div class='darkborder'>
+		<table style='width:100%;' cellpadding='2' cellspacing='0' border='0'>
+			<thead>
+				<tr>
+					<th scope='col' style='width:10%'>Date</th>
+					<th scope='col' style='width:10%'>Seeding</th>
+					<th scope='col' style='width:35%'>Event</th>
+					<th scope='col' style='width:5%'>Ctry</th>
+					<th scope='col' style='width:20%'>Tour</th>
+					<th scope='col' style='width:20%'>Round Reached</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr class='darkline'>
+					<td>Apr 2017</td>
+					<td>[7]</td>
+					<td><a href='/events/7061-mens-north-of-scotland-open-2017'>North of Scotland Open</a></td>
+					<td>SCO</td>
+					<td>PSA Tour</td>
+					<td>Semi-finals</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Mar 2017</td>
+					<td>-</td>
+					<td><a href='/events/7035-mens-wimbledon-club-open-2017'>Wimbledon Club Open</a></td>
+					<td>ENG</td>
+					<td>PSA Tour</td>
+					<td>1st qualifying round</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Jan 2017</td>
+					<td>[7]</td>
+					<td><a href='/events/6939-mens-toulouse-open-2017'>Toulouse Open</a></td>
+					<td>FRA</td>
+					<td>PSA Tour</td>
+					<td>1st round</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Jan 2017</td>
+					<td>[1]</td>
+					<td><a href='/events/6894-mens-british-junior-u19-open-2017'>British Junior U19 Open</a></td>
+					<td>ENG</td>
+					<td>-</td>
+					<td>3rd round</td>
+				</tr>
+				<tr class='darkline'>
+					<td class='topborder'>Nov 2016</td>
+					<td class='topborder'>[5/8]</td>
+					<td class='topborder'><a href='/events/6848-mens-malaysian-nationals-2016'>Malaysian Nationals</a></td>
+					<td class='topborder'>MAS</td>
+					<td class='topborder'>-</td>
+					<td class='topborder'>Semi-finals</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Nov 2016</td>
+					<td>[<abbr title='Qualifier'>Q</abbr>]</td>
+					<td><a href='/events/6805-mens-world-championship-2016'>World Championship</a></td>
+					<td>EGY</td>
+					<td>PSA World Series</td>
+					<td>1st round</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Oct 2016</td>
+					<td>[5]</td>
+					<td><a href='/events/6789-mens-malaysian-tour-2016'>Malaysian Tour</a></td>
+					<td>MAS</td>
+					<td>PSA Tour</td>
+					<td>Runner-up</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Oct 2016</td>
+					<td>[4]</td>
+					<td><a href='/events/6785-mens-malaysian-tour-2016'>Malaysian Tour</a></td>
+					<td>MAS</td>
+					<td>PSA Tour</td>
+					<td>Quarter-finals</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Sep 2016</td>
+					<td>[1]</td>
+					<td><a href='/events/6748-mens-asian-junior-u19-championship-2016'>Asian Junior U19 Championship</a></td>
+					<td>MAS</td>
+					<td>-</td>
+					<td>Semi-finals</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Aug 2016</td>
+					<td>-</td>
+					<td><a href='/events/6383-mens-world-junior-team-championship-2016'>World Junior Team Championship</a></td>
+					<td>POL</td>
+					<td>-</td>
+					<td>-</td>
+				</tr>
+				<tr class='darkline b'>
+					<td>Aug 2016</td>
+					<td>[2]</td>
+					<td><a href='/events/6381-mens-world-junior-championship-2016'>World Junior Championship</a></td>
+					<td>POL</td>
+					<td>-</td>
+					<td>Winner</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Jul 2016</td>
+					<td>[2]</td>
+					<td><a href='/events/6677-mens-hk-challenge-cup-2016'>HK Challenge Cup</a></td>
+					<td>HKG</td>
+					<td>PSA Tour</td>
+					<td>1st round</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Jun 2016</td>
+					<td>[<abbr title='Qualifier'>Q</abbr>]</td>
+					<td><a href='/events/6664-mens-christchurch-international-open-2016'>Christchurch International Open</a></td>
+					<td>NZL</td>
+					<td>PSA Tour</td>
+					<td>1st round</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Jun 2016</td>
+					<td>[<abbr title='Qualifier'>Q</abbr>]</td>
+					<td><a href='/events/6661-mens-new-zealand-international-classic-2016'>New Zealand International Classic</a></td>
+					<td>NZL</td>
+					<td>PSA Tour</td>
+					<td>Quarter-finals</td>
+				</tr>
+				<tr class='darkline'>
+					<td>May 2016</td>
+					<td>-</td>
+					<td><a href='/events/6630-mens-asian-team-championship-2016'>Asian Team Championship</a></td>
+					<td>TPE</td>
+					<td>-</td>
+					<td>-</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Apr 2016</td>
+					<td>[<abbr title='Wildcard'>WC</abbr>]</td>
+					<td><a href='/events/6606-mens-malaysian-tour-2016'>Malaysian Tour</a></td>
+					<td>MAS</td>
+					<td>PSA Tour</td>
+					<td>Quarter-finals</td>
+				</tr>
+				<tr class='darkline b'>
+					<td>Apr 2016</td>
+					<td>-</td>
+					<td><a href='/events/6595-mens-malaysian-tour-2016'>Malaysian Tour</a></td>
+					<td>MAS</td>
+					<td>PSA Tour</td>
+					<td>Winner</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Mar 2016</td>
+					<td>[7]</td>
+					<td><a href='/events/6574-mens-malaysian-tour-2016'>Malaysian Tour</a></td>
+					<td>MAS</td>
+					<td>PSA Tour</td>
+					<td>Runner-up</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Jan 2016</td>
+					<td>-</td>
+					<td><a href='/events/6334-premier-league-2016'>Premier League 6th Round</a></td>
+					<td>ENG</td>
+					<td>-</td>
+					<td>-</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Jan 2016</td>
+					<td>[2]</td>
+					<td><a href='/events/6468-mens-british-junior-u19-open-2016'>British Junior U19 Open</a></td>
+					<td>ENG</td>
+					<td>-</td>
+					<td>Third place play-off</td>
+				</tr>
+				<tr class='subscriber_line'>
+					<td class='topborder'><strong>2011-2015</strong></td>
+					<td class='topborder'><strong>33 events</strong></td>
+					<td class='topborder' colspan='4'>View full historical event history by <a href='/upgrade'>creating</a> a premium account!</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+
+	<div id='match_summary' class='tabletitle'>Match Summary (Played 60 - Won 44, Lost 16)</div>
+	<div class='darkborder'>
+		<table id='match_summary_table' style='width:100%;' cellpadding='2' cellspacing='0' border='0'>
+			<thead>
+				<tr>
+					<th scope='col' style='width:10%'>Date</th>
+					<th scope='col' style='width:17%'>Opponent</th>
+					<th scope='col' style='width:4%'>W/L</th>
+					<th scope='col' style='width:25%'>Event</th>
+					<th scope='col' style='width:5%'>Ctry</th>
+					<th scope='col' style='width:3%'>Rnd</th>
+					<th scope='col' style='width:32%'>Score</th>
+					<th scope='col' style='width:4%'>PSA</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr class='darkline'>
+					<td>Apr 2017</td>
+					<td><a href='/players/2655-vikram-malhotra'>Vikram Malhotra</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/7061-mens-north-of-scotland-open-2017'>North of Scotland Open</a></td>
+					<td>SCO</td>
+					<td><abbr title='Semi-finals'>sf</abbr></td>
+					<td>4-11, 7-11, 11-6, 2-11 (58m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Apr 2017</td>
+					<td><a href='/players/4277-douglas-kempsell'>Douglas Kempsell</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/7061-mens-north-of-scotland-open-2017'>North of Scotland Open</a></td>
+					<td>SCO</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>5-11, 12-10, 8-11, 11-6, 11-5 (92m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Apr 2017</td>
+					<td><a href='/players/8199-mohd-syafiq-kamal'>Mohd Syafiq Kamal</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/7061-mens-north-of-scotland-open-2017'>North of Scotland Open</a></td>
+					<td>SCO</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-6, 12-10, 11-5 (35m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Mar 2017</td>
+					<td><a href='/players/1208-jaymie-haycocks'>Jaymie Haycocks</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/7035-mens-wimbledon-club-open-2017'>Wimbledon Club Open</a></td>
+					<td>ENG</td>
+					<td><abbr title='1st qualifying round'>Q</abbr></td>
+					<td>8-11, 7-11, 8-11</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Jan 2017</td>
+					<td><a href='/players/5702-baptiste-masotti'>Baptiste Masotti</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6939-mens-toulouse-open-2017'>Toulouse Open</a></td>
+					<td>FRA</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-9, 9-11, 12-10, 13-15, 7-11 (54m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Jan 2017</td>
+					<td><a href='/players/12068-andrew-douglas'>Andrew Douglas</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6894-mens-british-junior-u19-open-2017'>British Junior U19 Open</a></td>
+					<td>ENG</td>
+					<td><abbr title='3rd round'>r3</abbr></td>
+					<td>8-11, 9-11, 11-9, 11-8, 4-11 (67m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Jan 2017</td>
+					<td><a href='/players/10080-cole-becker'>Cole Becker</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6894-mens-british-junior-u19-open-2017'>British Junior U19 Open</a></td>
+					<td>ENG</td>
+					<td><abbr title='2nd round'>r2</abbr></td>
+					<td>11-3, 11-4, 11-3 (21m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Jan 2017</td>
+					<td><a href='/players/12102-aran-edwards'>Aran Edwards</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6894-mens-british-junior-u19-open-2017'>British Junior U19 Open</a></td>
+					<td>ENG</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-4, 11-5, 11-3 (20m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='darkline'>
+					<td class='topborder'>Nov 2016</td>
+					<td class='topborder'><a href='/players/677-nafiizwan-adnan'>Nafiizwan Adnan</a></td>
+					<td class='topborder' title=''>L</td>
+					<td class='topborder'><a href='/events/6848-mens-malaysian-nationals-2016'>Malaysian Nationals</a></td>
+					<td class='topborder'>MAS</td>
+					<td class='topborder'><abbr title='Semi-finals'>sf</abbr></td>
+					<td class='topborder'>8-11, 6-11, 9-11 (34m)</td>
+					<td class='topborder'>N</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Nov 2016</td>
+					<td><a href='/players/8198-mohd-farez-izwan'>Mohd Farez Izwan</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6848-mens-malaysian-nationals-2016'>Malaysian Nationals</a></td>
+					<td>MAS</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>11-9, 11-4, 11-3 (20m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Nov 2016</td>
+					<td><a href='/players/9589-ryan-pasqual'>Ryan Pasqual</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6848-mens-malaysian-nationals-2016'>Malaysian Nationals</a></td>
+					<td>MAS</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-6, 11-4, 11-2</td>
+					<td>N</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Nov 2016</td>
+					<td><a href='/players/1057-mohamed-reda'>Mohamed Reda</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6805-mens-world-championship-2016'>World Championship</a></td>
+					<td>EGY</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>9-11, 9-11, 7-11 (30m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Nov 2016</td>
+					<td><a href='/players/3050-christopher-binnie'>Christopher Binnie</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6805-mens-world-championship-2016'>World Championship</a></td>
+					<td>EGY</td>
+					<td><abbr title='Qualifying finals'>Q</abbr></td>
+					<td>11-8, 11-9, 11-9 (43m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Nov 2016</td>
+					<td><a href='/players/1806-charles-sharpes'>Charles Sharpes</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6805-mens-world-championship-2016'>World Championship</a></td>
+					<td>EGY</td>
+					<td><abbr title='1st qualifying round'>Q</abbr></td>
+					<td>5-11, 11-4, 5-11, 12-10, 11-5 (53m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Oct 2016</td>
+					<td><a href='/players/8199-mohd-syafiq-kamal'>Mohd Syafiq Kamal</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6789-mens-malaysian-tour-2016'>Malaysian Tour</a></td>
+					<td>MAS</td>
+					<td><abbr title='Runner-up'>F</abbr></td>
+					<td>12-14, 11-4, 11-8, 4-11, 6-11 (65m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Oct 2016</td>
+					<td><a href='/players/8337-asim-khan'>Asim Khan</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6789-mens-malaysian-tour-2016'>Malaysian Tour</a></td>
+					<td>MAS</td>
+					<td><abbr title='Semi-finals'>sf</abbr></td>
+					<td>14-12, 11-3, 11-8 (45m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Oct 2016</td>
+					<td><a href='/players/9837-abhay-singh'>Abhay Singh</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6789-mens-malaysian-tour-2016'>Malaysian Tour</a></td>
+					<td>MAS</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>12-10, 5-11, 11-9, 11-5 (47m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Oct 2016</td>
+					<td><a href='/players/7924-gurshan-singh'>Gurshan Singh</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6789-mens-malaysian-tour-2016'>Malaysian Tour</a></td>
+					<td>MAS</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-9, 9-11, 11-5, 11-7 (40m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Oct 2016</td>
+					<td><a href='/players/8199-mohd-syafiq-kamal'>Mohd Syafiq Kamal</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6785-mens-malaysian-tour-2016'>Malaysian Tour</a></td>
+					<td>MAS</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>8-11, 14-12, 15-13, 10-12, 1-11 (76m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Oct 2016</td>
+					<td><a href='/players/3771-zeeshan-khan'>Zeeshan Khan</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6785-mens-malaysian-tour-2016'>Malaysian Tour</a></td>
+					<td>MAS</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>9-11, 11-4, 11-1, 11-4 (30m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Sep 2016</td>
+					<td><a href='/players/6248-mohammad-al-sarraj'>Mohammad Al Sarraj</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6748-mens-asian-junior-u19-championship-2016'>Asian Junior U19 Championship</a></td>
+					<td>MAS</td>
+					<td><abbr title='Semi-finals'>sf</abbr></td>
+					<td>11-7, 11-6, 10-12, 11-13, 8-11 (76m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Sep 2016</td>
+					<td><a href='/players/9837-abhay-singh'>Abhay Singh</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6748-mens-asian-junior-u19-championship-2016'>Asian Junior U19 Championship</a></td>
+					<td>MAS</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>11-9, 11-5, 11-6 (30m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Sep 2016</td>
+					<td><a href='/players/8101-aryaman-adik'>Aryaman Adik</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6748-mens-asian-junior-u19-championship-2016'>Asian Junior U19 Championship</a></td>
+					<td>MAS</td>
+					<td><abbr title='2nd round'>r2</abbr></td>
+					<td>11-5, 11-3, 11-5 (23m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Aug 2016</td>
+					<td><a href='/players/9605-christoph-zust'>Christoph Zust</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6383-mens-world-junior-team-championship-2016'>World Junior Team Championship</a></td>
+					<td>POL</td>
+					<td><abbr title='-'>-</abbr></td>
+					<td>11-4, 11-5, 11-6</td>
+					<td>N</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Aug 2016</td>
+					<td><a href='/players/8461-nilo-vidal'>Nilo Vidal</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6383-mens-world-junior-team-championship-2016'>World Junior Team Championship</a></td>
+					<td>POL</td>
+					<td><abbr title='-'>-</abbr></td>
+					<td>11-5, 11-6, 11-7</td>
+					<td>N</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Aug 2016</td>
+					<td><a href='/players/8550-junior-enriquez-franco'>Junior Enríquez Franco</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6383-mens-world-junior-team-championship-2016'>World Junior Team Championship</a></td>
+					<td>POL</td>
+					<td><abbr title='-'>-</abbr></td>
+					<td>11-0, 11-4, 11-4</td>
+					<td>N</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Aug 2016</td>
+					<td><a href='/players/12068-andrew-douglas'>Andrew Douglas</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6383-mens-world-junior-team-championship-2016'>World Junior Team Championship</a></td>
+					<td>POL</td>
+					<td><abbr title='-'>-</abbr></td>
+					<td>6-11, 11-6, 11-8, 12-14, 11-8 (49m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Aug 2016</td>
+					<td><a href='/players/6240-saadeldin-abouaish'>Saadeldin Abouaish</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6381-mens-world-junior-championship-2016'>World Junior Championship</a></td>
+					<td>POL</td>
+					<td><abbr title='Winner'>F</abbr></td>
+					<td>11-3, 9-11, 11-7, 11-5 (54m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Aug 2016</td>
+					<td><a href='/players/7186-youssef-ibrahim'>Youssef Ibrahim</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6381-mens-world-junior-championship-2016'>World Junior Championship</a></td>
+					<td>POL</td>
+					<td><abbr title='Semi-finals'>sf</abbr></td>
+					<td>13-11, 12-10, 6-11, 11-8 (63m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Aug 2016</td>
+					<td><a href='/players/8061-velavan-senthilkumar'>Velavan Senthilkumar</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6381-mens-world-junior-championship-2016'>World Junior Championship</a></td>
+					<td>POL</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>11-6, 11-4, 9-11, 11-5 (44m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Aug 2016</td>
+					<td><a href='/players/7985-tom-walsh'>Tom Walsh</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6381-mens-world-junior-championship-2016'>World Junior Championship</a></td>
+					<td>POL</td>
+					<td><abbr title='4th round'>r4</abbr></td>
+					<td>13-11, 11-5, 11-3 (31m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Aug 2016</td>
+					<td><a href='/players/9837-abhay-singh'>Abhay Singh</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6381-mens-world-junior-championship-2016'>World Junior Championship</a></td>
+					<td>POL</td>
+					<td><abbr title='3rd round'>r3</abbr></td>
+					<td>11-5, 11-6, 11-4 (27m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Aug 2016</td>
+					<td><a href='/players/12177-finn-trimble'>Finn Trimble</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6381-mens-world-junior-championship-2016'>World Junior Championship</a></td>
+					<td>POL</td>
+					<td><abbr title='2nd round'>r2</abbr></td>
+					<td>11-2, 11-4, 11-4</td>
+					<td>N</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Jul 2016</td>
+					<td><a href='/players/6076-yeung-ho-wai'>Yeung Ho Wai</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6677-mens-hk-challenge-cup-2016'>HK Challenge Cup</a></td>
+					<td>HKG</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>3-11, 8-11, 8-11</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Jun 2016</td>
+					<td><a href='/players/7128-angus-gillams'>Angus Gillams</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6664-mens-christchurch-international-open-2016'>Christchurch International Open</a></td>
+					<td>NZL</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>4-11, 3-11, 5-11 (23m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Jun 2016</td>
+					<td><a href='/players/612-oliver-johnston'>Oliver Johnston</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6664-mens-christchurch-international-open-2016'>Christchurch International Open</a></td>
+					<td>NZL</td>
+					<td><abbr title='Qualifying finals'>Q</abbr></td>
+					<td>11-4, 11-7, 11-6 (23m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Jun 2016</td>
+					<td><a href='/players/7133-chris-van-der-salm'>Chris van der Salm</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6664-mens-christchurch-international-open-2016'>Christchurch International Open</a></td>
+					<td>NZL</td>
+					<td><abbr title='1st qualifying round'>Q</abbr></td>
+					<td>11-8, 10-12, 11-3, 11-4 (34m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Jun 2016</td>
+					<td><a href='/players/2257-rex-hedrick'>Rex Hedrick</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6661-mens-new-zealand-international-classic-2016'>New Zealand International Classic</a></td>
+					<td>NZL</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>8-11, 7-11, 9-11</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Jun 2016</td>
+					<td><a href='/players/1472-joshua-larkin'>Joshua Larkin</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6661-mens-new-zealand-international-classic-2016'>New Zealand International Classic</a></td>
+					<td>NZL</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>8-11, 11-6, 11-8, 9-11, 12-10</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Jun 2016</td>
+					<td><a href='/players/8362-ben-grindrod'>Ben Grindrod</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6661-mens-new-zealand-international-classic-2016'>New Zealand International Classic</a></td>
+					<td>NZL</td>
+					<td><abbr title='Qualifying finals'>Q</abbr></td>
+					<td>11-5, 11-7, 13-11</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Jun 2016</td>
+					<td><a href='/players/8366-zac-millar'>Zac Millar</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6661-mens-new-zealand-international-classic-2016'>New Zealand International Classic</a></td>
+					<td>NZL</td>
+					<td><abbr title='1st qualifying round'>Q</abbr></td>
+					<td>11-9, 11-8, 11-8</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>May 2016</td>
+					<td><a href='/players/7406-md-shahidul-islam'>Md Shahidul Islam</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6630-mens-asian-team-championship-2016'>Asian Team Championship</a></td>
+					<td>TPE</td>
+					<td><abbr title='-'>-</abbr></td>
+					<td>11-4, 11-4, 11-3</td>
+					<td>N</td>
+				</tr>
+				<tr class='darkline'>
+					<td>May 2016</td>
+					<td><a href='/players/6688-jaejin-yoo'>JaeJin Yoo</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6630-mens-asian-team-championship-2016'>Asian Team Championship</a></td>
+					<td>TPE</td>
+					<td><abbr title='-'>-</abbr></td>
+					<td>11-8, 11-4, 11-9</td>
+					<td>N</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Apr 2016</td>
+					<td><a href='/players/2257-rex-hedrick'>Rex Hedrick</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6606-mens-malaysian-tour-2016'>Malaysian Tour</a></td>
+					<td>MAS</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>4-11, 11-8, 4-11, 11-13 (64m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Apr 2016</td>
+					<td><a href='/players/6397-sanjay-singh'>Sanjay Singh</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6606-mens-malaysian-tour-2016'>Malaysian Tour</a></td>
+					<td>MAS</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-7, 6-11, 10-12, 11-4, 11-4 (31m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Apr 2016</td>
+					<td><a href='/players/1010-elvinn-keo'>Elvinn Keo</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6595-mens-malaysian-tour-2016'>Malaysian Tour</a></td>
+					<td>MAS</td>
+					<td><abbr title='Winner'>F</abbr></td>
+					<td>6-11, 11-2, 11-7, 4-11, 11-7 (55m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Apr 2016</td>
+					<td><a href='/players/5906-addeen-idrakie'>Addeen Idrakie</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6595-mens-malaysian-tour-2016'>Malaysian Tour</a></td>
+					<td>MAS</td>
+					<td><abbr title='Semi-finals'>sf</abbr></td>
+					<td>9-11, 11-7, 11-2, 11-6 (69m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Apr 2016</td>
+					<td><a href='/players/1606-valentino-bong'>Valentino Bong</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6595-mens-malaysian-tour-2016'>Malaysian Tour</a></td>
+					<td>MAS</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>11-5, 18-16, 11-7 (36m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Apr 2016</td>
+					<td><a href='/players/4635-carlos-cornes-ribadas'>Carlos Cornes Ribadas</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6595-mens-malaysian-tour-2016'>Malaysian Tour</a></td>
+					<td>MAS</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>9-11, 12-10, 11-3, 11-1 (40m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Mar 2016</td>
+					<td><a href='/players/2655-vikram-malhotra'>Vikram Malhotra</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6574-mens-malaysian-tour-2016'>Malaysian Tour</a></td>
+					<td>MAS</td>
+					<td><abbr title='Runner-up'>F</abbr></td>
+					<td>11-13, 9-11, 5-11 (33m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Mar 2016</td>
+					<td><a href='/players/8199-mohd-syafiq-kamal'>Mohd Syafiq Kamal</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6574-mens-malaysian-tour-2016'>Malaysian Tour</a></td>
+					<td>MAS</td>
+					<td><abbr title='Semi-finals'>sf</abbr></td>
+					<td>8-11, 11-5, 9-11, 11-9, 11-6 (72m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Mar 2016</td>
+					<td><a href='/players/5148-chris-lo'>Chris Lo</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6574-mens-malaysian-tour-2016'>Malaysian Tour</a></td>
+					<td>MAS</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>11-5, 11-9, 11-5 (31m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Mar 2016</td>
+					<td><a href='/players/9366-bryan-lim-tze-kang'>Bryan Lim Tze Kang</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6574-mens-malaysian-tour-2016'>Malaysian Tour</a></td>
+					<td>MAS</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-9, 11-7, 11-4</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Jan 2016</td>
+					<td><a href='/players/841-chris-ryder'>Chris Ryder</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6334-premier-league-2016'>Premier League 6th Round</a></td>
+					<td>ENG</td>
+					<td><abbr title='-'>-</abbr></td>
+					<td>11-9, 4-11, 4-11, 11-7, 7-11</td>
+					<td>N</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Jan 2016</td>
+					<td><a href='/players/7982-kyle-finch'>Kyle Finch</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6468-mens-british-junior-u19-open-2016'>British Junior U19 Open</a></td>
+					<td>ENG</td>
+					<td><abbr title='Third place play-off'>3/4</abbr></td>
+					<td>11-7, 11-8, 11-5 (35m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Jan 2016</td>
+					<td><a href='/players/6240-saadeldin-abouaish'>Saadeldin Abouaish</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6468-mens-british-junior-u19-open-2016'>British Junior U19 Open</a></td>
+					<td>ENG</td>
+					<td><abbr title='Semi-finals'>sf</abbr></td>
+					<td>9-11, 4-11, 11-6, 3-11 (42m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Jan 2016</td>
+					<td><a href='/players/11284-karim-magdy'>Karim Magdy</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6468-mens-british-junior-u19-open-2016'>British Junior U19 Open</a></td>
+					<td>ENG</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>15-13, 5-11, 8-11, 11-7, 12-10 (55m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Jan 2016</td>
+					<td><a href='/players/8553-ryunosuke-tsukue'>Ryunosuke Tsukue</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6468-mens-british-junior-u19-open-2016'>British Junior U19 Open</a></td>
+					<td>ENG</td>
+					<td><abbr title='3rd round'>r3</abbr></td>
+					<td>5-11, 13-11, 11-8, 8-11, 11-8 (63m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Jan 2016</td>
+					<td><a href='/players/10080-cole-becker'>Cole Becker</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6468-mens-british-junior-u19-open-2016'>British Junior U19 Open</a></td>
+					<td>ENG</td>
+					<td><abbr title='2nd round'>r2</abbr></td>
+					<td>11-4, 12-10, 11-3 (21m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Jan 2016</td>
+					<td><a href='/players/8082-hamish-gillams'>Hamish Gillams</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6468-mens-british-junior-u19-open-2016'>British Junior U19 Open</a></td>
+					<td>ENG</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-8, 11-2, 11-5 (15m)</td>
+					<td>N</td>
+				</tr>
+				<tr class='subscriber_line'>
+					<td class='topborder'><strong>2011-2015</strong></td>
+					<td class='topborder'><strong>102 matches</strong></td>
+					<td class='topborder' colspan='6'>View full historical match history by <a href='/upgrade'>creating</a> a premium account!</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+
+	<div class='ad_bar_footer'>
+		<!-- Footer -->
+		<ins class='adsbygoogle'
+		     style='display:inline-block;width:728px;height:90px'
+		     data-ad-client='ca-pub-0605489790642236'
+		     data-ad-slot='1142131485'></ins>
+		<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+	</div>
+
+</div>
+
+<div id='si_footer'>
+	<ul id='footer_left'>
+		<li id='copyright' class='li_left'>
+			Squash Info &copy; 2017
+		</li>
+	</ul>
+	<ul id='footer_right'>
+		<li class='li_right'>
+			<strong><a href='mailto:info@squashinfo.com'>Contact us</a></strong>
+		</li>
+		<li class='li_right'>
+			<a href='https://twitter.com/SquashInfo' class='twitter-follow-button' data-show-count='false'>Follow @SquashInfo</a>
+		</li>
+	</ul>
+</div>
+
+<div>
+	<script type='text/javascript'>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-1186220-1']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</div>
+
+</div>
+</div>
+</body>
+</html>

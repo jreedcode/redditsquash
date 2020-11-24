@@ -1,0 +1,612 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+
+	<meta charset='utf-8' />
+	<meta name='author' content='Squash Info' />
+	<meta name='keywords' content='squash information rankings psa wsa wispa results events players' />
+
+	<link rel='shortcut icon' href='/favicon.ico' type='image/x-icon' />
+	<script src='https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js'></script>
+	<script src='https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js'></script>
+	<link rel='stylesheet' href='https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/themes/smoothness/jquery-ui.css'>
+	<script src='/js/jquery.timeago.js'></script>
+	<script src='/js/jquery.unveil.min.js'></script>
+	<script src='/js/jquery.leanModal.ch.1461605769.js'></script>
+	<script src='/js/jquery.tokeninput.js'></script>
+	<link rel='stylesheet' href='/css/token-input.css'>
+	<script src='http://platform.twitter.com/widgets.js'></script>
+	<script src='https://apis.google.com/js/platform.js'></script>
+	<script src='/js/jquery.cookiebar.js'></script>
+	<link rel='stylesheet' href='/css/jquery.cookiebar.1444581949.css'>
+	<script src='https://www.gstatic.com/charts/loader.js'></script>
+	<script async src='//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js'></script>
+	<script src='/js/main.1461605758.js'></script>
+	<link rel='stylesheet' href='/css/main.1487399333.css'>
+
+	<title>Squash Info | Maria Toorpakai Wazir | Squash</title>
+
+</head>
+<body onload="">
+
+<div id='fb-root'></div>
+<script>!function(e,n,t){var o,c=e.getElementsByTagName(n)[0];e.getElementById(t)||(o=e.createElement(n),o.id=t,o.src='//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.5',c.parentNode.insertBefore(o,c))}(document,'script','facebook-jssdk');</script>
+<script type='text/javascript'>
+	
+	$(document).ready(function() {
+		
+		$.cookieBar({});
+		
+		$('.logout').click(function(event) {
+			
+			if (!confirm('Are you sure you want to log out?')) {
+				event.preventDefault();
+			}
+			
+		});
+		
+	});
+	
+</script>
+<div id='centre_body'>
+
+<div id='header'>
+	<ul id='header_left'>
+		<li id='header_logo' class='li_left'>
+			<a href='/'><img src='/img/logos/si_logo.png' alt='Squash Info, the definitive squash resource' style='vertical-align: middle;' /></a>
+		</li>
+	</ul>
+	<ul id='header_right'>
+		<li id='header_search' class='li_right'>
+			<form id='header_search_form' method='get' action='/search'>
+				<input type='text' name='q' id='q' value='' size='20' maxlength='30' placeholder='Search...' />
+				<input type='submit' value='Go' />
+			</form>
+		</li>
+		<li id='header_signup' class='li_right'><a href='/signup'>Sign Up</a></li>
+		<li id='header_login' class='li_right'>
+			<a rel='leanModal' data-url='%2Fplayers%2F1288-maria-toorpakai-wazir' href='/login'>Log In</a>
+		</li>
+	</ul>
+</div>
+
+<div id='login_box'>
+	<iframe id='login_iframe' src='/loading.htm' scrolling='no' seamless></iframe>
+</div>
+
+<div id='main_block'>
+
+<div id='left_bar'>
+	<div id='current_date_time'>5:28 pm <br />4 Apr 2017</div>
+	<ul id='navlist'>
+		<li><a href='/' title='Home'>Home</a></li>
+		<li><a href='/news' title='Squash News'>News</a></li>
+		<li><a href='/results' title='Squash Event Results'>Results</a></li>
+		<li><a href='/rankings' title='PSA World Squash Rankings'>Rankings</a></li>
+		<li><a href='/calendar/2017' title='Squash Event Calendar'>Calendar</a></li>
+		<li><a href='/records' title='Squash Records &amp; Statistics'>Records</a></li>
+	</ul>
+</div>
+
+
+<div id='content'>
+
+	<div class='ad_bar_top'>
+		<!-- index -->
+		<ins class='adsbygoogle'
+		     style='display:inline-block;width:728px;height:90px'
+		     data-ad-client='ca-pub-0605489790642236'
+		     data-ad-slot='9600788702'></ins>
+		<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+	</div>
+
+	<h1>
+		Maria Toorpakai Wazir <span style='color:#444444;'>(Pakistan)</span>
+	</h1>
+	<ul id='social_media'>
+		<li id='sm_twitter'>
+			<a href='https://twitter.com/@MariaToorpakai' class='twitter-follow-button' data-show-count='false'>Follow @MariaToorpakai</a>
+		</li>
+	</ul>
+	<div>
+	<h3>(previously known as <span title='until 31 Aug 2013'>Maria Toor Pakay</span>)</h3>
+	<h3>
+		Statistics:&nbsp;&nbsp;
+			<a href='/rankings/1288-maria-toorpakai-wazir'>Ranking History</a>
+			<br />
+	</h3>
+		</div>
+	<div class='content_column'>
+		<div id='player_profile_pic'><img src='/img/players/Wazir_Feb15a.jpg' alt='Maria Toorpakai Wazir' width='150px' height='200px' /></div>
+	</div>
+
+	<div class='content_column'>
+		<div id='world_ranking_box'>
+			<div id='world_ranking'>89</div>
+			<strong>PSA Ranking</strong>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Born:</span>
+			<span>22 Nov 1990 (age 26)</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Gender:</span>
+			<span>Female</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Birthplace:</span>
+			<span>Bannu</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Residence:</span>
+			<span>Peshawar/Toronto</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Height:</span>
+			<span>166cm (5 ft 5 in)</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Weight:</span>
+			<span>64kg (10 st 1 lb)</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Plays:</span>
+			<span>Left-handed</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Joined PSA:</span>
+			<span>2006</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Coach:</span>
+			<span>Jonathon Power</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Highest WR:</span>
+			<span>41 (Dec 2012)</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Club:</span>
+			<span>National Squash Academy</span>
+		</div>
+		<div class='row'>
+			<span class='label_30'>Racket:</span>
+			<span>Harrow</span>
+		</div>
+	</div>
+
+	<div class='clear' style='padding-bottom:20px'></div>
+	<div class='tabletitle'>Career Highlights</div>
+	<div class='darkborder'>
+		<table style='width:100%' cellpadding='2' cellspacing='0' border='0'>
+			<tr class='darkline'>
+				<td style='width:10%' valign='top'>Jan 2012</td>
+				<td style='width:85%'>Becomes 1st Pakistan-born woman to win Tour event at <a href='/events/4832-womens-liberty-bell-open-2012'>Liberty Bell Open</a></td>
+				<td style='width:5%'>&nbsp;</td>
+			</tr>
+		</table>
+	</div>
+
+	<div class='tabletitle' id='news_mentions'>News</div>
+	<div class='darkborder'>
+		<table style='width:100%' cellpadding='2' cellspacing='0' border='0'>
+			<tr class='darkline'>
+				<td style='width:10%' valign='top'>24 Sep 2015</td>
+				<td style='width:90%'><a href='/news/6696-seeds-prevail-in-qualifying-openers-at-netsuite-open-in-san-francisco'>Seeds Prevail In Qualifying Openers At NetSuite Open In San Francisco</a></td>
+			</tr>
+			<tr class='lightline'>
+				<td style='width:10%' valign='top'>5 Apr 2015</td>
+				<td style='width:90%'><a href='/news/6545-wazir-wins-maiden-homeland-title'>Wazir Wins Maiden Homeland Title</a></td>
+			</tr>
+			<tr class='darkline'>
+				<td style='width:10%' valign='top'>30 Mar 2015</td>
+				<td style='width:90%'><a href='/news/6543-wsa-tour-returns-to-pakistan'>WSA Tour Returns To Pakistan</a></td>
+			</tr>
+			<tr class='lightline'>
+				<td style='width:10%' valign='top'>9 Feb 2015</td>
+				<td style='width:90%'><a href='/news/6501-cornett-crowned-delaware-open-champion'>Cornett Crowned Delaware Open Champion</a></td>
+			</tr>
+			<tr class='darkline'>
+				<td style='width:10%' valign='top'>12 Jan 2015</td>
+				<td style='width:90%'><a href='/news/6464-millie-tomlinson-takes-maiden-2015-title'>Millie Tomlinson Takes Maiden 2015 Title</a></td>
+			</tr>
+		</table>
+	</div>
+
+	<div id='upcoming_events' class='tabletitle'>Upcoming Events</div>
+	<div class='darkborder'>
+		<div class='one_entry'>None</div>
+	</div>
+
+	<div class='tabletitle'>Event Summary (12)</div>
+	<div class='darkborder'>
+		<table style='width:100%;' cellpadding='2' cellspacing='0' border='0'>
+			<thead>
+				<tr>
+					<th scope='col' style='width:10%'>Date</th>
+					<th scope='col' style='width:10%'>Seeding</th>
+					<th scope='col' style='width:35%'>Event</th>
+					<th scope='col' style='width:5%'>Ctry</th>
+					<th scope='col' style='width:20%'>Tour</th>
+					<th scope='col' style='width:20%'>Round Reached</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr class='darkline'>
+					<td>Mar 2017</td>
+					<td>[<abbr title='Qualifier'>Q</abbr>]</td>
+					<td><a href='/events/7018-womens-calgary-squash-week-open-2017'>Calgary Squash Week Open</a></td>
+					<td>CAN</td>
+					<td>PSA Tour</td>
+					<td>1st round</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Mar 2017</td>
+					<td>-</td>
+					<td><a href='/events/6909-womens-windy-city-open-2017'>Windy City Open</a></td>
+					<td>USA</td>
+					<td>PSA World Series</td>
+					<td>1st qualifying round</td>
+				</tr>
+				<tr class='darkline'>
+					<td class='topborder'>Nov 2016</td>
+					<td class='topborder'>-</td>
+					<td class='topborder'><a href='/events/6846-womens-monte-carlo-classic-2016'>Monte Carlo Classic</a></td>
+					<td class='topborder'>MON</td>
+					<td class='topborder'>PSA Tour</td>
+					<td class='topborder'>1st qualifying round</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Nov 2016</td>
+					<td>[1]</td>
+					<td><a href='/events/6845-womens-simon-warder-memorial-prostate-cancer-tournament-2016'>Simon Warder Memorial Prostate Cancer Tournament</a></td>
+					<td>CAN</td>
+					<td>PSA Tour</td>
+					<td>Quarter-finals</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Nov 2016</td>
+					<td>[6]</td>
+					<td><a href='/events/6816-womens-nicola-wealth-open-2016'>Nicola Wealth Open</a></td>
+					<td>CAN</td>
+					<td>PSA Tour</td>
+					<td>1st round</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Oct 2016</td>
+					<td>-</td>
+					<td><a href='/events/6807-womens-granite-open-2016'>Granite Open</a></td>
+					<td>CAN</td>
+					<td>PSA Tour</td>
+					<td>Quarter-finals</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Oct 2016</td>
+					<td>-</td>
+					<td><a href='/events/6801-womens-carol-weymuller-open-2016'>Carol Weymuller Open</a></td>
+					<td>USA</td>
+					<td>PSA Tour</td>
+					<td>1st qualifying round</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Sep 2016</td>
+					<td>[6]</td>
+					<td><a href='/events/6743-womens-nash-cup-2016'>NASH Cup</a></td>
+					<td>CAN</td>
+					<td>PSA Tour</td>
+					<td>Quarter-finals</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Feb 2016</td>
+					<td>[3]</td>
+					<td><a href='/events/6544-womens-bahria-town-international-2016'>Bahria Town International</a></td>
+					<td>PAK</td>
+					<td>PSA Tour</td>
+					<td>Semi-finals</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Feb 2016</td>
+					<td>-</td>
+					<td><a href='/events/6509-womens-south-asian-games-team-championship-2016'>South Asian Games Team Championship</a></td>
+					<td>IND</td>
+					<td>-</td>
+					<td>-</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Feb 2016</td>
+					<td>[2]</td>
+					<td><a href='/events/6507-womens-south-asian-games-2016'>South Asian Games</a></td>
+					<td>IND</td>
+					<td>-</td>
+					<td>Runner-up</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Jan 2016</td>
+					<td>-</td>
+					<td><a href='/events/6436-womens-granite-open-2016'>Granite Open</a></td>
+					<td>CAN</td>
+					<td>PSA Tour</td>
+					<td>Qualifying finals</td>
+				</tr>
+				<tr class='subscriber_line'>
+					<td class='topborder'><strong>2004-2015</strong></td>
+					<td class='topborder'><strong>86 events</strong></td>
+					<td class='topborder' colspan='4'>View full historical event history by <a href='/upgrade'>creating</a> a premium account!</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+
+	<div id='match_summary' class='tabletitle'>Match Summary (Played 20 - Won 8, Lost 12)</div>
+	<div class='darkborder'>
+		<table id='match_summary_table' style='width:100%;' cellpadding='2' cellspacing='0' border='0'>
+			<thead>
+				<tr>
+					<th scope='col' style='width:10%'>Date</th>
+					<th scope='col' style='width:17%'>Opponent</th>
+					<th scope='col' style='width:4%'>W/L</th>
+					<th scope='col' style='width:25%'>Event</th>
+					<th scope='col' style='width:5%'>Ctry</th>
+					<th scope='col' style='width:3%'>Rnd</th>
+					<th scope='col' style='width:32%'>Score</th>
+					<th scope='col' style='width:4%'>PSA</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr class='darkline'>
+					<td>Mar 2017</td>
+					<td><a href='/players/304-jenny-duncalf'>Jenny Duncalf</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/7018-womens-calgary-squash-week-open-2017'>Calgary Squash Week Open</a></td>
+					<td>CAN</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>6-11, 0-11, 4-11 (21m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Mar 2017</td>
+					<td><a href='/players/7298-alison-thomson'>Alison Thomson</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/7018-womens-calgary-squash-week-open-2017'>Calgary Squash Week Open</a></td>
+					<td>CAN</td>
+					<td><abbr title='Qualifying finals'>Q</abbr></td>
+					<td>11-6, 11-9, 16-14 (48m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Mar 2017</td>
+					<td><a href='/players/5340-erin-roberts'>Erin Roberts</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/7018-womens-calgary-squash-week-open-2017'>Calgary Squash Week Open</a></td>
+					<td>CAN</td>
+					<td><abbr title='1st qualifying round'>Q</abbr></td>
+					<td>11-4, 11-3, 11-3 (17m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Mar 2017</td>
+					<td><a href='/players/1594-fiona-moverley'>Fiona Moverley</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6909-womens-windy-city-open-2017'>Windy City Open</a></td>
+					<td>USA</td>
+					<td><abbr title='1st qualifying round'>Q</abbr></td>
+					<td>5-11, 11-13, 5-11 (23m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td class='topborder'>Nov 2016</td>
+					<td class='topborder'><a href='/players/4713-danielle-letourneau'>Danielle Letourneau</a></td>
+					<td class='topborder' title=''>L</td>
+					<td class='topborder'><a href='/events/6846-womens-monte-carlo-classic-2016'>Monte Carlo Classic</a></td>
+					<td class='topborder'>MON</td>
+					<td class='topborder'><abbr title='1st qualifying round'>Q</abbr></td>
+					<td class='topborder'>5-11, 4-11, 8-11 (19m)</td>
+					<td class='topborder'>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Nov 2016</td>
+					<td><a href='/players/3852-nessrine-ariffin'>Nessrine Ariffin</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6845-womens-simon-warder-memorial-prostate-cancer-tournament-2016'>Simon Warder Memorial Prostate Cancer Tournament</a></td>
+					<td>CAN</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>11-7, 5-11, 5-11, 7-11</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Nov 2016</td>
+					<td><a href='/players/7298-alison-thomson'>Alison Thomson</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6816-womens-nicola-wealth-open-2016'>Nicola Wealth Open</a></td>
+					<td>CAN</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>10-12, 9-11, 9-11</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Oct 2016</td>
+					<td><a href='/players/3850-samantha-cornett'>Samantha Cornett</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6807-womens-granite-open-2016'>Granite Open</a></td>
+					<td>CAN</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>5-11, 7-11, 10-12 (27m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Oct 2016</td>
+					<td><a href='/players/4763-chloe-mesic'>Chloe Mesic</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6807-womens-granite-open-2016'>Granite Open</a></td>
+					<td>CAN</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-7, 11-4, 11-8 (21m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Oct 2016</td>
+					<td><a href='/players/2739-kanzy-emad-el-defrawy'>Kanzy Emad El Defrawy</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6801-womens-carol-weymuller-open-2016'>Carol Weymuller Open</a></td>
+					<td>USA</td>
+					<td><abbr title='1st qualifying round'>Q</abbr></td>
+					<td>8-11, 5-11, 6-11</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Sep 2016</td>
+					<td><a href='/players/1545-misaki-kobayashi'>Misaki Kobayashi</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6743-womens-nash-cup-2016'>NASH Cup</a></td>
+					<td>CAN</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>8-11, 5-11, 7-11 (24m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Sep 2016</td>
+					<td><a href='/players/6170-anna-kimberley'>Anna Kimberley</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6743-womens-nash-cup-2016'>NASH Cup</a></td>
+					<td>CAN</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>4-11, 11-4, 11-5, 14-12 (54m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Feb 2016</td>
+					<td><a href='/players/7174-amina-yousry'>Amina Yousry</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6544-womens-bahria-town-international-2016'>Bahria Town International</a></td>
+					<td>PAK</td>
+					<td><abbr title='Semi-finals'>sf</abbr></td>
+					<td>11-5, 9-11, 5-11, 9-11 (45m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Feb 2016</td>
+					<td><a href='/players/5151-ka-yi-lee'>Ka Yi Lee</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6544-womens-bahria-town-international-2016'>Bahria Town International</a></td>
+					<td>PAK</td>
+					<td><abbr title='Quarter-finals'>qf</abbr></td>
+					<td>11-7, 12-10, 11-9 (35m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Feb 2016</td>
+					<td><a href='/players/6396-aika-azman'>Aika Azman</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6544-womens-bahria-town-international-2016'>Bahria Town International</a></td>
+					<td>PAK</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-5, 11-4, 11-2 (18m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Feb 2016</td>
+					<td><a href='/players/402-joshna-chinappa'>Joshna Chinappa</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6509-womens-south-asian-games-team-championship-2016'>South Asian Games Team Championship</a></td>
+					<td>IND</td>
+					<td><abbr title='-'>-</abbr></td>
+					<td>8-11, 11-4, 5-11, 9-11</td>
+					<td>N</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Feb 2016</td>
+					<td><a href='/players/402-joshna-chinappa'>Joshna Chinappa</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6507-womens-south-asian-games-2016'>South Asian Games</a></td>
+					<td>IND</td>
+					<td><abbr title='Runner-up'>F</abbr></td>
+					<td>12-10, 7-11, 9-11, 7-11</td>
+					<td>N</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Feb 2016</td>
+					<td><a href='/players/8409-mihiliya-methsarani'>Mihiliya Methsarani</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6507-womens-south-asian-games-2016'>South Asian Games</a></td>
+					<td>IND</td>
+					<td><abbr title='Semi-finals'>sf</abbr></td>
+					<td>11-8, 6-11, 11-2, 11-2</td>
+					<td>N</td>
+				</tr>
+				<tr class='darkline'>
+					<td>Feb 2016</td>
+					<td><a href='/players/3480-bhawana-sunuwar'>Bhawana Sunuwar</a></td>
+					<td title=''>W</td>
+					<td><a href='/events/6507-womens-south-asian-games-2016'>South Asian Games</a></td>
+					<td>IND</td>
+					<td><abbr title='1st round'>r1</abbr></td>
+					<td>11-4, 11-2, 11-3</td>
+					<td>N</td>
+				</tr>
+				<tr class='lightline'>
+					<td>Jan 2016</td>
+					<td><a href='/players/4985-nele-gilis'>Nele Gilis</a></td>
+					<td title=''>L</td>
+					<td><a href='/events/6436-womens-granite-open-2016'>Granite Open</a></td>
+					<td>CAN</td>
+					<td><abbr title='Qualifying finals'>Q</abbr></td>
+					<td>7-11, 8-11, 11-9, 11-6, 8-11 (55m)</td>
+					<td>Y</td>
+				</tr>
+				<tr class='subscriber_line'>
+					<td class='topborder'><strong>2004-2015</strong></td>
+					<td class='topborder'><strong>213 matches</strong></td>
+					<td class='topborder' colspan='6'>View full historical match history by <a href='/upgrade'>creating</a> a premium account!</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+
+	<div class='ad_bar_footer'>
+		<!-- Footer -->
+		<ins class='adsbygoogle'
+		     style='display:inline-block;width:728px;height:90px'
+		     data-ad-client='ca-pub-0605489790642236'
+		     data-ad-slot='1142131485'></ins>
+		<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+	</div>
+
+</div>
+
+<div id='si_footer'>
+	<ul id='footer_left'>
+		<li id='copyright' class='li_left'>
+			Squash Info &copy; 2017
+		</li>
+	</ul>
+	<ul id='footer_right'>
+		<li class='li_right'>
+			<strong><a href='mailto:info@squashinfo.com'>Contact us</a></strong>
+		</li>
+		<li class='li_right'>
+			<a href='https://twitter.com/SquashInfo' class='twitter-follow-button' data-show-count='false'>Follow @SquashInfo</a>
+		</li>
+	</ul>
+</div>
+
+<div>
+	<script type='text/javascript'>
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-1186220-1']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</div>
+
+</div>
+</div>
+</body>
+</html>
